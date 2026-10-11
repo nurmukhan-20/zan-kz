@@ -1,0 +1,57 @@
+package kz.zankz.server.config;
+
+import java.io.IOException;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.http.HttpMethod;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.http.SessionCreationPolicy;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+
+import jakarta.servlet.http.HttpServletResponse;
+import kz.zankz.server.security.TokenFilter;
+
+// Правила доступа: кто что может делать
+@Configuration
+@EnableWebSecurity
+public class SecurityConfig {
+
+    // Шифрование паролей
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return new BCryptPasswordEncoder();
+    }
+
+    @Bean
+    public SecurityFilterChain securityFilterChain(HttpSecurity http, TokenFilter tokenFilter) throws Exception {
+        http
+                .csrf(csrf -> csrf.disable())
+                .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
+                .authorizeHttpRequests(auth -> auth
+                        // регистрация и вход доступны всем
+                        .requestMatchers("/api/auth/register", "/api/auth/login", "/error").permitAll()
+                        // читать категории, законы и статьи можно без входа
+                        .requestMatchers(HttpMethod.GET, "/api/categories/**", "/api/laws/**", "/api/articles/**").permitAll()
+                        // добавлять, менять и удалять может только администратор
+                        .requestMatchers("/api/categories/**", "/api/laws/**", "/api/articles/**").hasRole("ADMIN")
+                        // всё остальное — только после входа
+                        .anyRequest().authenticated())
+                .exceptionHandling(errors -> errors
+                        .authenticationEntryPoint((request, response, ex) -> write(response, 401, "Сначала войдите в аккаунт"))
+                        .accessDeniedHandler((request, response, ex) -> write(response, 403, "Недостаточно прав")))
+                .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class);
+        return http.build();
+    }
+
+    // Понятный ответ, когда доступ запрещён
+    private static void write(HttpServletResponse response, int status, String message) throws IOException {
+        response.setStatus(status);
+        response.setContentType("application/json;charset=UTF-8");
+        response.getWriter().write("{\"status\":" + status + ",\"message\":\"" + message + "\"}");
+    }
+}
