@@ -2,8 +2,10 @@ package kz.zankz.server.service;
 
 import java.util.List;
 
+import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
 
+import kz.zankz.server.event.LawUpdatedEvent;
 import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Category;
 import kz.zankz.server.model.Law;
@@ -15,10 +17,13 @@ public class LawService {
 
     private final LawRepository lawRepository;
     private final CategoryService categoryService;
+    private final ApplicationEventPublisher eventPublisher;
 
-    public LawService(LawRepository lawRepository, CategoryService categoryService) {
+    public LawService(LawRepository lawRepository, CategoryService categoryService,
+            ApplicationEventPublisher eventPublisher) {
         this.lawRepository = lawRepository;
         this.categoryService = categoryService;
+        this.eventPublisher = eventPublisher;
     }
 
     // Все законы или только законы одной категории
@@ -48,7 +53,10 @@ public class LawService {
         law.setSourceUrl(data.getSourceUrl());
         law.setLastUpdated(data.getLastUpdated());
         law.setCategory(findCategory(data));
-        return lawRepository.save(law);
+        Law saved = lawRepository.save(law);
+        // сообщаем, что закон изменился (на это отреагирует LawUpdatedListener)
+        eventPublisher.publishEvent(new LawUpdatedEvent(saved));
+        return saved;
     }
 
     public void delete(Long id) {
@@ -58,10 +66,9 @@ public class LawService {
 
     // Проверяем, что указанная категория действительно есть в базе
     private Category findCategory(Law law) {
-        Long categoryId = law.getCategory().getId();
-        if (categoryId == null) {
+        if (law.getCategory() == null || law.getCategory().getId() == null) {
             throw new ResourceNotFoundException("Не указан номер категории");
         }
-        return categoryService.getById(categoryId);
+        return categoryService.getById(law.getCategory().getId());
     }
 }

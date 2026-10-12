@@ -21,9 +21,9 @@ import kz.zankz.server.security.TokenFilter;
 @EnableWebSecurity
 public class SecurityConfig {
 
-    // Адреса с законодательными данными: читать могут все, менять — только ADMIN
+    // Общие данные: читать могут все, менять — только ADMIN
     private static final String[] PUBLIC_DATA = {
-            "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**"
+            "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**", "/api/notifications/**"
     };
 
     // Шифрование паролей
@@ -40,7 +40,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         // регистрация и вход доступны всем
                         .requestMatchers("/api/auth/register", "/api/auth/login", "/error").permitAll()
-                        // читать законы, статьи и словарь можно без входа
+                        // читать общие данные можно без входа
                         .requestMatchers(HttpMethod.GET, PUBLIC_DATA).permitAll()
                         // добавлять, менять и удалять может только администратор
                         .requestMatchers(PUBLIC_DATA).hasRole("ADMIN")
