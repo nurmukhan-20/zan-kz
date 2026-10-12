@@ -21,6 +21,11 @@ import kz.zankz.server.security.TokenFilter;
 @EnableWebSecurity
 public class SecurityConfig {
 
+    // Адреса с законодательными данными: читать могут все, менять — только ADMIN
+    private static final String[] PUBLIC_DATA = {
+            "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**"
+    };
+
     // Шифрование паролей
     @Bean
     public PasswordEncoder passwordEncoder() {
@@ -35,11 +40,11 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         // регистрация и вход доступны всем
                         .requestMatchers("/api/auth/register", "/api/auth/login", "/error").permitAll()
-                        // читать категории, законы и статьи можно без входа
-                        .requestMatchers(HttpMethod.GET, "/api/categories/**", "/api/laws/**", "/api/articles/**").permitAll()
+                        // читать законы, статьи и словарь можно без входа
+                        .requestMatchers(HttpMethod.GET, PUBLIC_DATA).permitAll()
                         // добавлять, менять и удалять может только администратор
-                        .requestMatchers("/api/categories/**", "/api/laws/**", "/api/articles/**").hasRole("ADMIN")
-                        // всё остальное — только после входа
+                        .requestMatchers(PUBLIC_DATA).hasRole("ADMIN")
+                        // всё остальное (избранное, история) — только после входа
                         .anyRequest().authenticated())
                 .exceptionHandling(errors -> errors
                         .authenticationEntryPoint((request, response, ex) -> write(response, 401, "Сначала войдите в аккаунт"))
