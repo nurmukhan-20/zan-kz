@@ -26,6 +26,11 @@ public class SecurityConfig {
             "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**", "/api/notifications/**"
     };
 
+    // Страница документации Swagger
+    private static final String[] SWAGGER = {
+            "/swagger-ui.html", "/swagger-ui/**", "/v3/api-docs/**"
+    };
+
     // Шифрование паролей
     @Bean
     public PasswordEncoder passwordEncoder() {
@@ -38,8 +43,9 @@ public class SecurityConfig {
                 .csrf(csrf -> csrf.disable())
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .authorizeHttpRequests(auth -> auth
-                        // регистрация и вход доступны всем
+                        // регистрация, вход и документация доступны всем
                         .requestMatchers("/api/auth/register", "/api/auth/login", "/error").permitAll()
+                        .requestMatchers(SWAGGER).permitAll()
                         // читать общие данные можно без входа
                         .requestMatchers(HttpMethod.GET, PUBLIC_DATA).permitAll()
                         // добавлять, менять и удалять может только администратор
