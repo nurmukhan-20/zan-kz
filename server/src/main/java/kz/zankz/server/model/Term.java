@@ -8,7 +8,6 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 
-// Юридический термин с простым объяснением на трёх языках
 @Entity
 @Table(name = "terms")
 public class Term {

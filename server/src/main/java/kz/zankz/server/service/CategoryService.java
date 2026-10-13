@@ -8,7 +8,6 @@ import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Category;
 import kz.zankz.server.repository.CategoryRepository;
 
-// Вся логика работы с категориями
 @Service
 public class CategoryService {
 
@@ -28,7 +27,7 @@ public class CategoryService {
     }
 
     public Category create(Category category) {
-        category.setId(null); // номер назначает база данных
+        category.setId(null);
         return categoryRepository.save(category);
     }
 

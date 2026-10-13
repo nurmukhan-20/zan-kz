@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 import kz.zankz.server.model.Term;
 import kz.zankz.server.repository.TermRepository;
 
-// При первом запуске заполняет словарь терминов.
-// Это простые пояснения, а не официальные определения из закона
 @Component
 public class TermLoader implements CommandLineRunner {
 

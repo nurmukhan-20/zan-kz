@@ -11,7 +11,6 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.persistence.UniqueConstraint;
 
-// Запись истории: какую статью и когда открывал пользователь
 @Entity
 @Table(name = "history", uniqueConstraints = @UniqueConstraint(columnNames = { "user_id", "article_id" }))
 public class HistoryEntry {

@@ -11,7 +11,6 @@ import kz.zankz.server.model.Category;
 import kz.zankz.server.model.Law;
 import kz.zankz.server.repository.LawRepository;
 
-// Вся логика работы с законами
 @Service
 public class LawService {
 
@@ -26,7 +25,6 @@ public class LawService {
         this.eventPublisher = eventPublisher;
     }
 
-    // Все законы или только законы одной категории
     public List<Law> getAll(Long categoryId) {
         if (categoryId != null) {
             return lawRepository.findByCategoryId(categoryId);
@@ -40,7 +38,7 @@ public class LawService {
     }
 
     public Law create(Law law) {
-        law.setId(null); // номер назначает база данных
+        law.setId(null);
         law.setCategory(findCategory(law));
         return lawRepository.save(law);
     }
@@ -54,7 +52,6 @@ public class LawService {
         law.setLastUpdated(data.getLastUpdated());
         law.setCategory(findCategory(data));
         Law saved = lawRepository.save(law);
-        // сообщаем, что закон изменился (на это отреагирует LawUpdatedListener)
         eventPublisher.publishEvent(new LawUpdatedEvent(saved));
         return saved;
     }
@@ -64,7 +61,6 @@ public class LawService {
         lawRepository.delete(law);
     }
 
-    // Проверяем, что указанная категория действительно есть в базе
     private Category findCategory(Law law) {
         if (law.getCategory() == null || law.getCategory().getId() == null) {
             throw new ResourceNotFoundException("Не указан номер категории");

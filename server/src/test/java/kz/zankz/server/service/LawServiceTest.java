@@ -23,7 +23,6 @@ import kz.zankz.server.model.Category;
 import kz.zankz.server.model.Law;
 import kz.zankz.server.repository.LawRepository;
 
-// Тесты сервиса законов, в том числе шаблона Observer
 @ExtendWith(MockitoExtension.class)
 class LawServiceTest {
 

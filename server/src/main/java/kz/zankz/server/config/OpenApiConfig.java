@@ -8,7 +8,6 @@ import io.swagger.v3.oas.annotations.info.Info;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
 
-// Описание API для страницы Swagger
 @Configuration
 @OpenAPIDefinition(
         info = @Info(

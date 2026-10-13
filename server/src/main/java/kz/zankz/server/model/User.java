@@ -9,7 +9,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-// Пользователь приложения
 @Entity
 @Table(name = "users")
 public class User {
@@ -19,12 +18,9 @@ public class User {
     private Long id;
 
     private String name;
-
-    // Почта у каждого своя, повторяться не может
     @Column(unique = true, nullable = false)
     private String email;
 
-    // Пароль хранится только в зашифрованном виде
     @Column(nullable = false)
     private String passwordHash;
 
@@ -32,7 +28,6 @@ public class User {
     @Column(nullable = false)
     private Role role;
 
-    // Ключ, который выдаётся после входа
     @Column(unique = true)
     private String token;
 

@@ -18,7 +18,6 @@ import jakarta.validation.Valid;
 import kz.zankz.server.model.Article;
 import kz.zankz.server.service.ArticleService;
 
-// Адреса для работы со статьями
 @RestController
 @RequestMapping("/api/articles")
 public class ArticleController {
@@ -29,14 +28,12 @@ public class ArticleController {
         this.articleService = articleService;
     }
 
-    // Все статьи. ?lawId=1 — статьи закона, ?lawId=1&section=II — статьи раздела
     @GetMapping
     public List<Article> getAll(@RequestParam(required = false) Long lawId,
             @RequestParam(required = false) String section) {
         return articleService.getAll(lawId, section);
     }
 
-    // Поиск: /api/articles/search?q=язык или ?q=17
     @GetMapping("/search")
     public List<Article> search(@RequestParam(required = false) String q) {
         return articleService.search(q);

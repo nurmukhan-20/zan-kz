@@ -7,7 +7,6 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 
-// Категория права: Конституция, уголовное, трудовое и так далее
 @Entity
 @Table(name = "categories")
 public class Category {
@@ -16,7 +15,6 @@ public class Category {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // Название на трёх языках
     @NotBlank(message = "Название на казахском обязательно")
     private String nameKk;
 
@@ -25,7 +23,6 @@ public class Category {
 
     private String nameEn;
 
-    // Имя значка для приложения, например "briefcase-outline"
     private String icon;
 
     public Long getId() { return id; }

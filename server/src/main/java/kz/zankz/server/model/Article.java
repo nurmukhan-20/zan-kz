@@ -11,7 +11,6 @@ import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
-// Статья закона
 @Entity
 @Table(name = "articles")
 public class Article {
@@ -20,17 +19,14 @@ public class Article {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // Связь: много статей относятся к одному закону
     @NotNull(message = "Закон обязателен")
     @ManyToOne
     @JoinColumn(name = "law_id")
     private Law law;
 
-    // Номер статьи, например "14" или "23-1"
     @NotBlank(message = "Номер статьи обязателен")
     private String articleNumber;
 
-    // Раздел закона, например "I" или "II" (может быть пустым)
     private String section;
 
     private String titleKk;
@@ -40,7 +36,6 @@ public class Article {
 
     private String titleEn;
 
-    // Официальный текст статьи (длинный, поэтому тип TEXT)
     @Column(columnDefinition = "TEXT")
     private String textKk;
 
@@ -51,7 +46,6 @@ public class Article {
     @Column(columnDefinition = "TEXT")
     private String textEn;
 
-    // Простое объяснение своими словами. Это НЕ официальная юридическая консультация
     @Column(columnDefinition = "TEXT")
     private String explanationKk;
 

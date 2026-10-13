@@ -11,12 +11,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-// Читает статьи из текстового файла data/constitution.txt.
-// Строка "=== 12 | II" начинает статью 12 из раздела II,
-// строка "[text-ru]" начинает поле, строки с "#" — комментарии.
 public class ConstitutionParser {
 
-    // Одна статья из файла
     public record ArticleData(String number, String section, Map<String, String> fields) {
 
         public String field(String name) {

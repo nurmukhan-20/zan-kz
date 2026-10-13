@@ -8,7 +8,6 @@ import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Term;
 import kz.zankz.server.repository.TermRepository;
 
-// Логика словаря терминов
 @Service
 public class TermService {
 
@@ -18,7 +17,6 @@ public class TermService {
         this.termRepository = termRepository;
     }
 
-    // Все термины или только найденные по слову
     public List<Term> getAll(String query) {
         if (query == null || query.isBlank()) {
             return termRepository.findAllByOrderByTermRuAsc();

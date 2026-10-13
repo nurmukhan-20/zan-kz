@@ -18,7 +18,6 @@ import jakarta.validation.Valid;
 import kz.zankz.server.model.Term;
 import kz.zankz.server.service.TermService;
 
-// Адреса словаря терминов
 @RestController
 @RequestMapping("/api/terms")
 public class TermController {
@@ -29,7 +28,6 @@ public class TermController {
         this.termService = termService;
     }
 
-    // Все термины. С ?q=слово — поиск
     @GetMapping
     public List<Term> getAll(@RequestParam(required = false) String q) {
         return termService.getAll(q);

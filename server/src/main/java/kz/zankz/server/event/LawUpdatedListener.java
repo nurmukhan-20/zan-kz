@@ -7,7 +7,6 @@ import kz.zankz.server.model.Law;
 import kz.zankz.server.model.Notification;
 import kz.zankz.server.service.NotificationService;
 
-// Слушатель события: когда закон обновлён, создаёт уведомление для всех пользователей
 @Component
 public class LawUpdatedListener {
 

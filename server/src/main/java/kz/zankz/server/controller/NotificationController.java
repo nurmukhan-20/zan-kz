@@ -16,7 +16,6 @@ import jakarta.validation.Valid;
 import kz.zankz.server.model.Notification;
 import kz.zankz.server.service.NotificationService;
 
-// Адреса уведомлений
 @RestController
 @RequestMapping("/api/notifications")
 public class NotificationController {

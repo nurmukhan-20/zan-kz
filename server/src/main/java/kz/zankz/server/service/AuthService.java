@@ -13,7 +13,6 @@ import kz.zankz.server.model.Role;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.UserRepository;
 
-// Регистрация и вход
 @Service
 public class AuthService {
 
@@ -34,7 +33,7 @@ public class AuthService {
         user.setName(request.name().trim());
         user.setEmail(email);
         user.setPasswordHash(passwordEncoder.encode(request.password()));
-        user.setRole(Role.USER); // через регистрацию можно стать только обычным пользователем
+        user.setRole(Role.USER);
         user.setToken(UUID.randomUUID().toString());
         return toResponse(userRepository.save(user));
     }
@@ -46,7 +45,7 @@ public class AuthService {
         if (!passwordEncoder.matches(request.password(), user.getPasswordHash())) {
             throw new BadRequestException("Неверная почта или пароль");
         }
-        user.setToken(UUID.randomUUID().toString()); // при каждом входе выдаём новый ключ
+        user.setToken(UUID.randomUUID().toString());
         return toResponse(userRepository.save(user));
     }
 

@@ -9,7 +9,6 @@ import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Notification;
 import kz.zankz.server.repository.NotificationRepository;
 
-// Логика уведомлений
 @Service
 public class NotificationService {
 

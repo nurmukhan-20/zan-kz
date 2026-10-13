@@ -16,7 +16,6 @@ import kz.zankz.server.dto.FavoriteResponse;
 import kz.zankz.server.model.User;
 import kz.zankz.server.service.FavoriteService;
 
-// Адреса для избранного (только после входа)
 @RestController
 @RequestMapping("/api/favorites")
 public class FavoriteController {

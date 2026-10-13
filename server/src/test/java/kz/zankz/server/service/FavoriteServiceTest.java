@@ -23,7 +23,6 @@ import kz.zankz.server.model.Favorite;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.FavoriteRepository;
 
-// Тесты избранного
 @ExtendWith(MockitoExtension.class)
 class FavoriteServiceTest {
 

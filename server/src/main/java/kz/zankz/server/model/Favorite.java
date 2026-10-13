@@ -11,7 +11,6 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.persistence.UniqueConstraint;
 
-// Статья, которую пользователь добавил в избранное
 @Entity
 @Table(name = "favorites", uniqueConstraints = @UniqueConstraint(columnNames = { "user_id", "article_id" }))
 public class Favorite {

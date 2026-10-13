@@ -12,7 +12,6 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 
-// Уведомление об изменениях в законодательстве
 @Entity
 @Table(name = "notifications")
 public class Notification {
@@ -40,7 +39,6 @@ public class Notification {
     @Column(columnDefinition = "TEXT")
     private String messageEn;
 
-    // Какого закона касается уведомление (может быть пустым)
     @ManyToOne
     @JoinColumn(name = "law_id")
     private Law law;

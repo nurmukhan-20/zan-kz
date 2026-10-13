@@ -9,7 +9,6 @@ import kz.zankz.server.model.Favorite;
 
 public interface FavoriteRepository extends JpaRepository<Favorite, Long> {
 
-    // Избранное пользователя, новые сверху
     List<Favorite> findByUserIdOrderByCreatedAtDesc(Long userId);
 
     Optional<Favorite> findByUserIdAndArticleId(Long userId, Long articleId);

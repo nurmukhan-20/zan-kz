@@ -17,7 +17,6 @@ import jakarta.validation.Valid;
 import kz.zankz.server.model.Category;
 import kz.zankz.server.service.CategoryService;
 
-// Адреса для работы с категориями
 @RestController
 @RequestMapping("/api/categories")
 public class CategoryController {
@@ -28,32 +27,27 @@ public class CategoryController {
         this.categoryService = categoryService;
     }
 
-    // Список всех категорий
     @GetMapping
     public List<Category> getAll() {
         return categoryService.getAll();
     }
 
-    // Одна категория по номеру
     @GetMapping("/{id}")
     public Category getById(@PathVariable Long id) {
         return categoryService.getById(id);
     }
 
-    // Создать категорию
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Category create(@Valid @RequestBody Category category) {
         return categoryService.create(category);
     }
 
-    // Изменить категорию
     @PutMapping("/{id}")
     public Category update(@PathVariable Long id, @Valid @RequestBody Category category) {
         return categoryService.update(id, category);
     }
 
-    // Удалить категорию
     @DeleteMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable Long id) {

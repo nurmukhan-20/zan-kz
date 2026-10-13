@@ -12,7 +12,6 @@ import kz.zankz.server.model.HistoryEntry;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.HistoryRepository;
 
-// Логика истории просмотров
 @Service
 public class HistoryService {
 
@@ -29,7 +28,6 @@ public class HistoryService {
                 .stream().map(this::toResponse).toList();
     }
 
-    // Отметить, что статья просмотрена. Повторный просмотр просто обновляет время
     public HistoryResponse record(User user, Long articleId) {
         Article article = articleService.getById(articleId);
         HistoryEntry entry = historyRepository.findByUserIdAndArticleId(user.getId(), articleId)
@@ -43,7 +41,6 @@ public class HistoryService {
         return toResponse(historyRepository.save(entry));
     }
 
-    // Очистить всю историю пользователя
     @Transactional
     public void clear(User user) {
         historyRepository.deleteByUserId(user.getId());

@@ -9,7 +9,6 @@ import kz.zankz.server.model.Article;
 import kz.zankz.server.model.Law;
 import kz.zankz.server.repository.ArticleRepository;
 
-// Вся логика работы со статьями
 @Service
 public class ArticleService {
 
@@ -21,7 +20,6 @@ public class ArticleService {
         this.lawService = lawService;
     }
 
-    // Все статьи, статьи одного закона или одного раздела закона
     public List<Article> getAll(Long lawId, String section) {
         if (lawId != null && section != null && !section.isBlank()) {
             return articleRepository.findByLawIdAndSectionOrderByIdAsc(lawId, section.trim());
@@ -32,7 +30,6 @@ public class ArticleService {
         return articleRepository.findAll();
     }
 
-    // Поиск по номеру статьи или по слову. Пустой запрос — пустой результат
     public List<Article> search(String query) {
         if (query == null || query.isBlank()) {
             return List.of();
@@ -73,7 +70,6 @@ public class ArticleService {
         articleRepository.delete(article);
     }
 
-    // Проверяем, что указанный закон действительно есть в базе
     private Law findLaw(Article article) {
         if (article.getLaw() == null || article.getLaw().getId() == null) {
             throw new ResourceNotFoundException("Не указан номер закона");

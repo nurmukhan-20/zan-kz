@@ -15,7 +15,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import kz.zankz.server.model.Term;
 import kz.zankz.server.repository.TermRepository;
 
-// Тесты словаря терминов
 @ExtendWith(MockitoExtension.class)
 class TermServiceTest {
 

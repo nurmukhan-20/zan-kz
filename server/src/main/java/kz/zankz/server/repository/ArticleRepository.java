@@ -10,13 +10,10 @@ import kz.zankz.server.model.Article;
 
 public interface ArticleRepository extends JpaRepository<Article, Long> {
 
-    // Все статьи одного закона по порядку
     List<Article> findByLawIdOrderByIdAsc(Long lawId);
 
-    // Статьи одного раздела закона, например раздел II Конституции («Мои права»)
     List<Article> findByLawIdAndSectionOrderByIdAsc(Long lawId, String section);
 
-    // Поиск: точный номер статьи или слово в тексте/объяснении на любом из трёх языков
     @Query("""
             SELECT a FROM Article a
             WHERE a.articleNumber = :q

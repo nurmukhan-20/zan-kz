@@ -8,6 +8,5 @@ import kz.zankz.server.model.Law;
 
 public interface LawRepository extends JpaRepository<Law, Long> {
 
-    // Все законы одной категории
     List<Law> findByCategoryId(Long categoryId);
 }

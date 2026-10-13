@@ -18,7 +18,6 @@ import jakarta.validation.Valid;
 import kz.zankz.server.model.Law;
 import kz.zankz.server.service.LawService;
 
-// Адреса для работы с законами
 @RestController
 @RequestMapping("/api/laws")
 public class LawController {
@@ -29,7 +28,6 @@ public class LawController {
         this.lawService = lawService;
     }
 
-    // Все законы. С ?categoryId=1 — только законы этой категории
     @GetMapping
     public List<Law> getAll(@RequestParam(required = false) Long categoryId) {
         return lawService.getAll(categoryId);

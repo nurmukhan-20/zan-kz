@@ -19,7 +19,6 @@ import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Category;
 import kz.zankz.server.repository.CategoryRepository;
 
-// Тесты сервиса категорий. Вместо настоящей базы — заглушка (mock)
 @ExtendWith(MockitoExtension.class)
 class CategoryServiceTest {
 

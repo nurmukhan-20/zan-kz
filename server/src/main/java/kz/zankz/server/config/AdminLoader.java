@@ -9,8 +9,6 @@ import kz.zankz.server.model.Role;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.UserRepository;
 
-// При запуске создаёт администратора, если его ещё нет.
-// Почта и пароль берутся из файла local.properties
 @Component
 public class AdminLoader implements CommandLineRunner {
 
@@ -30,7 +28,6 @@ public class AdminLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
-        // если почта или пароль не заданы — администратора не создаём
         if (adminEmail.isBlank() || adminPassword.isBlank()) {
             return;
         }

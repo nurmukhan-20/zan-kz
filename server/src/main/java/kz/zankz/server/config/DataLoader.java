@@ -14,8 +14,6 @@ import kz.zankz.server.repository.ArticleRepository;
 import kz.zankz.server.repository.CategoryRepository;
 import kz.zankz.server.repository.LawRepository;
 
-// При первом запуске заполняет пустую базу начальными данными.
-// Тексты статей берутся из файла resources/data/constitution.txt
 @Component
 public class DataLoader implements CommandLineRunner {
 
@@ -32,7 +30,6 @@ public class DataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        // если данные уже есть — ничего не делаем
         if (categoryRepository.count() > 0) {
             return;
         }
@@ -52,7 +49,7 @@ public class DataLoader implements CommandLineRunner {
         law.setTitleEn("Constitution of the Republic of Kazakhstan");
         law.setCategory(constitution);
         law.setSourceUrl("https://adilet.zan.kz/rus/docs/K2600000000");
-        law.setLastUpdated(LocalDate.of(2026, 10, 13)); // дата, когда мы сверяли тексты с источником
+        law.setLastUpdated(LocalDate.of(2026, 10, 13));
         law = lawRepository.save(law);
 
         try (InputStream input = getClass().getResourceAsStream("/data/constitution.txt")) {

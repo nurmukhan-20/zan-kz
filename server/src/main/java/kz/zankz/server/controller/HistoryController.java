@@ -16,7 +16,6 @@ import kz.zankz.server.dto.HistoryResponse;
 import kz.zankz.server.model.User;
 import kz.zankz.server.service.HistoryService;
 
-// Адреса для истории просмотров (только после входа)
 @RestController
 @RequestMapping("/api/history")
 public class HistoryController {

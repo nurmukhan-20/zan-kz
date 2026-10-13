@@ -16,7 +16,6 @@ import kz.zankz.server.dto.RegisterRequest;
 import kz.zankz.server.model.User;
 import kz.zankz.server.service.AuthService;
 
-// Адреса для регистрации и входа
 @RestController
 @RequestMapping("/api/auth")
 public class AuthController {
@@ -38,7 +37,6 @@ public class AuthController {
         return authService.login(request);
     }
 
-    // Кто я: возвращает данные вошедшего пользователя
     @GetMapping("/me")
     public AuthResponse me(@AuthenticationPrincipal User user) {
         return authService.toResponse(user);

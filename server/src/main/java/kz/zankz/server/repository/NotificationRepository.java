@@ -8,6 +8,5 @@ import kz.zankz.server.model.Notification;
 
 public interface NotificationRepository extends JpaRepository<Notification, Long> {
 
-    // Все уведомления, новые сверху
     List<Notification> findAllByOrderByCreatedAtDesc();
 }

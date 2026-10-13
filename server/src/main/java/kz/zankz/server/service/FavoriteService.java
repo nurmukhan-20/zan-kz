@@ -12,7 +12,6 @@ import kz.zankz.server.model.Favorite;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.FavoriteRepository;
 
-// Логика избранного
 @Service
 public class FavoriteService {
 
@@ -29,7 +28,6 @@ public class FavoriteService {
                 .stream().map(this::toResponse).toList();
     }
 
-    // Добавить в избранное. Если статья уже там — просто вернуть её
     public FavoriteResponse add(User user, Long articleId) {
         Article article = articleService.getById(articleId);
         Favorite favorite = favoriteRepository.findByUserIdAndArticleId(user.getId(), articleId)

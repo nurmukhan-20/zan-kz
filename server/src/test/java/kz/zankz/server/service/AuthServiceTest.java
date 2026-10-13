@@ -27,7 +27,6 @@ import kz.zankz.server.model.Role;
 import kz.zankz.server.model.User;
 import kz.zankz.server.repository.UserRepository;
 
-// Тесты регистрации и входа
 @ExtendWith(MockitoExtension.class)
 class AuthServiceTest {
 

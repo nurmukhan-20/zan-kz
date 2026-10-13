@@ -12,7 +12,6 @@ import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
-// Закон или кодекс, например «Трудовой кодекс Республики Казахстан»
 @Entity
 @Table(name = "laws")
 public class Law {
@@ -29,17 +28,14 @@ public class Law {
 
     private String titleEn;
 
-    // Связь: много законов относятся к одной категории
     @NotNull(message = "Категория обязательна")
     @ManyToOne
     @JoinColumn(name = "category_id")
     private Category category;
 
-    // Ссылка на официальный источник (adilet.zan.kz)
     @NotBlank(message = "Официальный источник обязателен")
     private String sourceUrl;
 
-    // Дата последнего обновления информации
     @NotNull(message = "Дата обновления обязательна")
     private LocalDate lastUpdated;
 

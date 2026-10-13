@@ -15,7 +15,6 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import kz.zankz.server.repository.UserRepository;
 
-// Проверяет каждый запрос: если в нём есть ключ, узнаёт по нему пользователя и его роль
 @Component
 public class TokenFilter extends OncePerRequestFilter {
 

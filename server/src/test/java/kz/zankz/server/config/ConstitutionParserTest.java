@@ -10,7 +10,6 @@ import org.junit.jupiter.api.Test;
 
 import kz.zankz.server.config.ConstitutionParser.ArticleData;
 
-// Проверяем, что файл с текстами Конституции читается полностью и правильно
 class ConstitutionParserTest {
 
     private static final String[] FIELDS = {
