@@ -1,0 +1,841 @@
+# Конституция Республики Казахстан (принята 15.03.2026, действует с 01.07.2026)
+# Источник: https://adilet.zan.kz/rus/docs/K2600000000
+# Тексты статей скопированы с официального сайта без изменений.
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Формат: строка '=== номер | раздел' начинает статью, строка '[поле]' начинает поле.
+
+=== 1 | I
+[text-kk]
+Қазақстан Республикасы – демократиялық, зайырлы, құқықтық және әлеуметтік мемлекет. Мемлекеттің ең жоғары құндылығы – адам мен оның өмірі, құқықтары мен бостандықтары.
+[text-ru]
+Республика Казахстан – демократическое, светское, правовое и социальное государство. Высшие ценности государства – человек, его жизнь, права и свободы.
+[text-en]
+The Republic of Kazakhstan is a democratic, secular, law-bound and social State. The supreme value of the State shall be man, his life, rights and freedoms.
+[explanation-kk]
+Бұл бап мемлекеттің негізін сипаттайды: билік халықтан шығады, дін мемлекеттен бөлек, бәрі заңға бағынады, мемлекет адамдарға қамқорлық жасайды. Ең бастысы – адам және оның құқықтары.
+[explanation-ru]
+Эта статья описывает основу государства: власть исходит от народа, религия отделена от государства, все подчиняются закону, государство заботится о людях. Главное – человек и его права.
+[explanation-en]
+This article describes the foundation of the state: power comes from the people, religion is separate from the state, everyone obeys the law, and the state takes care of people. What matters most is the person and their rights.
+
+=== 2 | I
+[text-kk]
+1. Қазақстан Республикасы – унитарлы мемлекет. Басқару үлгісі – президенттік республика.
+2. Қазақстан Республикасының Егемендігі оның бүкіл аумағын қамтиды. Мемлекет өз аумағының тұтастығын, қол сұғылмауын, бөлінбеуін қамтамасыз етеді.
+3. Қазақстан Республикасының әкімшілік-аумақтық құрылысы конституциялық заңда айқындалады.
+4. Қазақстан Республикасының елордасы – Астана қаласы. Елорда мәртебесі конституциялық заңда айқындалады.
+5. Қазақстан Республикасы мен Қазақстан атауларының мәні бірдей.
+6. Қазақстан Республикасының ұлттық валютасы (ақша бірлігі) – теңге.
+Теңгені эмиссиялау айрықша құқығы Қазақстан Республикасына тиесілі.
+7. Қазақстан Республикасының Егемендігі, Тәуелсіздігі, унитарлығы, аумақтық тұтастығы мен басқару үлгісі өзгермейді.
+[text-ru]
+1. Республика Казахстан – унитарное государство. Форма правления – президентская республика.
+2. Суверенитет Республики Казахстан распространяется на всю ее территорию. Государство обеспечивает целостность, неприкосновенность, неотчуждаемость своей территории.
+3. Административно-территориальное устройство Республики Казахстан определяется конституционным законом.
+4. Столица Республики Казахстан – город Астана. Статус столицы определяется конституционным законом.
+5. Наименования Республика Казахстан и Казахстан равнозначны.
+6. Национальная валюта (денежная единица) Республики Казахстан – теңге.
+Республике Казахстан принадлежит исключительное право эмиссии теңге.
+7. Суверенитет, Независимость, унитарность, территориальная целостность, форма правления Республики Казахстан неизменны.
+[text-en]
+1. The Republic of Kazakhstan shall be a unitary State. The form of government shall be a presidential republic.
+2. The sovereignty of the Republic of Kazakhstan extends over its entire territory.
+The State shall ensure the integrity, inviolability and inalienability of its territory.
+3. The administrative-territorial structure of the Republic of Kazakhstan shall be determined by constitutional law.
+4. The capital of the Republic of Kazakhstan shall be Astana. The status of the capital shall be determined by constitutional law.
+5. The names “The Republic of Kazakhstan” and “Kazakhstan” shall be equivalent.
+6. The national currency (monetary unit) of the Republic of Kazakhstan shall be the tenge (KZT).
+The Republic of Kazakhstan holds the exclusive right to issue the tenge.
+7. The Sovereignty, Independence, unitarity, territorial integrity, the form of government of the Republic of Kazakhstan shall be immutable.
+[explanation-kk]
+Қазақстан – біртұтас мемлекет, оны Президент басқарады. Елорда – Астана, валюта – теңге. Тәуелсіздік, аумақтың тұтастығы және басқару үлгісі өзгермейді.
+[explanation-ru]
+Казахстан – единое государство, которое возглавляет Президент. Столица – Астана, валюта – теңге. Независимость, целостность территории и форма правления не могут быть изменены.
+[explanation-en]
+Kazakhstan is a single state headed by the President. The capital is Astana and the currency is the tenge. Independence, territorial integrity and the form of government cannot be changed.
+
+=== 3 | I
+[text-kk]
+1. Қазақстан Республикасы қызметінің негіз құраушы қағидаттары: Егемендік пен Тәуелсіздікті қорғау; адамның және азаматтың құқықтары мен бостандықтарын сақтау; заң мен тәртіп үстемдігін қамтамасыз ету; жалпыұлттық бірлікті бекемдеу; халықтың әл-ауқатын арттыру; жауапты әрі жасампаз отаншылдық идеясын ілгерілету; қоғамдық диалогты дамыту; еңбексүйгіштік, прогресс, білім құндылықтарын бекіту; жоғары экологиялық мәдениетті қалыптастыру; тарихи-мәдени мұраны сақтау; төл мәдениетті қолдау.
+2. Қазақстан Республикасы адам капиталын, білімді, ғылымды, инновацияны дамытуды мемлекет қызметінің стратегиялық бағыты деп таниды.
+[text-ru]
+1. Основополагающие принципы деятельности Республики Казахстан: защита Суверенитета и Независимости; соблюдение прав и свобод человека и гражданина; обеспечение верховенства закона и порядка; укрепление общенационального единства; повышение благосостояния народа; продвижение идеи ответственного, созидательного патриотизма; развитие общественного диалога; утверждение ценностей трудолюбия, прогресса, знаний; формирование высокой экологической культуры; сохранение историко-культурного наследия; поддержка национальной культуры.
+2. Республика Казахстан признает развитие человеческого капитала, образования, науки, инноваций в качестве стратегического направления деятельности государства.
+[text-en]
+1. The fundamental principles of the Republic of Kazakhstan shall be: protecting the Sovereignty and Independence; respecting human and civil rights and freedoms; ensuring the rule of law and order; strengthening the national unity; improving the well-being of the people; promoting the idea of responsible, constructive patriotism; fostering public dialogue; upholding the values of diligence, progress, knowledge; fostering a high level of environmental culture; preserving historical and cultural heritage; supporting national culture.
+2. The Republic of Kazakhstan recognizes the development of human capital, education, science, and innovation as a strategic direction of state activity.
+[explanation-kk]
+Мұнда мемлекет жұмысының басты қағидаттары аталған: тәуелсіздікті қорғау, адам құқықтарын сақтау, заң үстемдігі, халық бірлігі. Білім, ғылым және инновация стратегиялық бағыт деп танылған.
+[explanation-ru]
+Здесь перечислены главные принципы работы государства: защита независимости, соблюдение прав человека, верховенство закона, единство народа. Образование, наука и инновации названы стратегическим направлением.
+[explanation-en]
+This article lists the main principles the state works by: protecting independence, respecting human rights, the rule of law and national unity. Education, science and innovation are named a strategic direction.
+
+=== 4 | I
+[text-kk]
+1. Қазақстан халқы – мемлекеттік биліктің бірден-бір бастауы және Егемендік иесі.
+2. Халық билікті жалпыхалықтық референдум және еркін сайлау арқылы тікелей жүргізеді, сондай-ақ өз билігін мемлекеттік органдар арқылы жүзеге асырады.
+3. Қазақстан Республикасында билікті ешкім де иемденіп кете алмайды. Билікті иемденіп кету заңмен қудаланады. Халық пен мемлекет атынан әрекет ету құқығы Қазақстан Республикасының Президентіне, сондай-ақ конституциялық өкілеттігі шегінде Қазақстан Республикасының Құрылтайына тиесілі. Қазақстан Республикасының Үкіметі мен өзге де мемлекеттік органдар өздеріне берілген өкілеттік шегінде мемлекет атынан әрекет етеді.
+4. Қазақстан Республикасында мемлекеттік билік біртұтас, ол заң шығарушы, атқарушы, сот тармақтарына бөліну және өзара іс-қимыл жасау қағидатына сәйкес Конституция мен заңдар негізінде жүзеге асырылады.
+[text-ru]
+1. Народ Казахстана – единственный источник государственной власти и носитель Суверенитета.
+2. Народ осуществляет власть непосредственно через всенародный референдум и свободные выборы, а также делегирует осуществление своей власти государственным органам.
+3. Никто не может присваивать власть в Республике Казахстан. Присвоение власти преследуется по закону. Право выступать от имени народа и государства принадлежит Президенту Республики Казахстан, а также Курултаю Республики Казахстан в пределах его конституционных полномочий. Правительство Республики Казахстан и иные государственные органы выступают от имени государства в пределах делегированных им полномочий.
+4. Государственная власть в Республике Казахстан едина и осуществляется на основе Конституции и законов в соответствии с принципом ее разделения на законодательную, исполнительную, судебную ветви и их взаимодействия.
+[text-en]
+1. The people of Kazakhstan shall be the sole source of state power and the bearer of Sovereignty.
+2. The people shall exercise power directly through national referenda and free elections, and also delegate the exercise of their power to state bodies.
+3. No one may usurp power in the Republic of Kazakhstan. The usurpation of power shall be prosecuted by law. The right to act on behalf of the people and the State shall belong to the President of the Republic of Kazakhstan, and also to the Kurultai of the Republic of Kazakhstan within its constitutional authority. The Government of the Republic of Kazakhstan and other state bodies shall act on behalf of the State within the powers delegated to them.
+4. State power in the Republic of Kazakhstan shall be unified and exercised on the basis of the Constitution and laws in accordance with the principle of its division into the legislative, executive and judicial branches and their interaction.
+[explanation-kk]
+Елдегі билік халыққа тиесілі. Халық оны референдум мен сайлау арқылы жүргізеді. Билікті басып алуға болмайды – бұл заңмен қудаланады. Билік үш тармаққа бөлінеді: заң шығарушы, атқарушы және сот.
+[explanation-ru]
+Власть в стране принадлежит народу. Народ пользуется ею через референдум и выборы. Захватить власть нельзя – это преследуется по закону. Власть делится на три ветви: законодательную, исполнительную и судебную.
+[explanation-en]
+Power in the country belongs to the people, who use it through referendums and elections. Seizing power is not allowed and is prosecuted by law. Power is divided into three branches: legislative, executive and judicial.
+
+=== 5 | I
+[text-kk]
+1. Қазақстан Республикасының қолданыстағы құқығы – Конституцияның, оған сәйкес келетін заңдардың, Қазақстан Республикасы Конституциялық Соты мен Қазақстан Республикасы Жоғарғы Сотының нормативтік қаулыларының, өзге де нормативтік құқықтық актілердің, Қазақстан Республикасының халықаралық шарт міндеттемелерінің нормалары.
+2. Конституцияның ең жоғары заңды күші бар және ол Қазақстан Республикасының бүкіл аумағында тікелей қолданылады.
+3. Қазақстан Республикасының аумағында халықаралық шарттарды қолдану тәртібі заңдарда айқындалады.
+4. Барлық заңдар мен Қазақстан Республикасы ратификациялаған халықаралық шарттар жарияланады. Азаматтардың құқықтарына, бостандықтары мен міндеттеріне қатысты нормативтік құқықтық актілердің ресми жариялануы – оларды қолданудың міндетті шарты.
+5. Азаматтарға жаңа міндеттер жүктейтін немесе олардың жағдайын нашарлататын заңдардың кері күші болмайды.
+Жауаптылықты белгілейтін немесе күшейтетін заңдардың кері күші болмайды.
+Жаңа заң бұрын жасалған құқық бұзушылық үшін жауаптылықты жоятын немесе жеңілдететін болса, онда жаңа заң қолданылады.
+6. Қазақстан Республикасының жекелеген өңірлерінің экономикасын қарқынды дамыту мақсатында қаржы саласына қатысты арнаулы құқықтық режим немесе "қарқынды дамитын қала" арнаулы құқықтық режимі конституциялық заңдарға сәйкес белгіленуі мүмкін. Осы арнаулы құқықтық режимдер мемлекеттік басқару, сот жүйесінің жұмыс істеу ерекшеліктерін көздеуі мүмкін.
+[text-ru]
+1. Действующее право Республики Казахстан – нормы Конституции, соответствующих ей законов, нормативных постановлений Конституционного Суда Республики Казахстан и Верховного Суда Республики Казахстан, иных нормативных правовых актов, международных договорных обязательств Республики Казахстан.
+2. Конституция имеет высшую юридическую силу и прямое действие на всей территории Республики Казахстан.
+3. Порядок действия на территории Республики Казахстан международных договоров определяется законами.
+4. Все законы и ратифицированные Республикой Казахстан международные договоры публикуются. Официальное опубликование нормативных правовых актов, касающихся прав, свобод и обязанностей граждан, – обязательное условие их применения.
+5. Законы, возлагающие новые обязанности на граждан или ухудшающие их положение, обратной силы не имеют.
+Законы, устанавливающие или усиливающие ответственность, обратной силы не имеют.
+В случае отмены или смягчения новым законом ответственности за ранее совершенное правонарушение применяется новый закон.
+6. В целях ускоренного экономического развития отдельных регионов Республики Казахстан в соответствии с конституционными законами может быть установлен специальный правовой режим в финансовой сфере или специальный правовой режим "города ускоренного развития". Указанные специальные правовые режимы могут предусматривать особенности государственного управления, функционирования судебной системы.
+[text-en]
+1. The current law of the Republic of Kazakhstan shall consist of the provisions of the Constitution, corresponding laws, regulatory resolutions of the Constitutional Court of the Republic of Kazakhstan and the Supreme Court of the Republic of Kazakhstan, other regulatory legal acts and the international treaty obligations of the Republic of Kazakhstan.
+2. The Constitution shall have supreme legal force and direct effect throughout the territory of the Republic of Kazakhstan.
+3. The application procedure of international treaties within the territory of the Republic of Kazakhstan.
+4. All laws and international treaties ratified by the Republic of Kazakhstan shall be published. Official publication of regulatory legal acts concerning the rights, freedoms and obligations of the citizens shall be a mandatory condition for their application.
+5. Laws imposing new obligations on citizens or worsening their status shall not have retroactive effect.
+Laws establishing or increasing liability shall not have retroactive effect.
+If a new law abolishes or mitigates liability for a previously committed offense, the new law shall apply.
+6. For the purpose of accelerating the economic development of certain regions of the Republic of Kazakhstan, a special legal regime in the financial sector or a special legal regime for “a city of accelerated development” may be established in accordance with constitutional laws. The said special legal regimes may provide for specific aspects of public administration and functioning of the judicial system.
+[explanation-kk]
+Конституция – елдің басты заңы, басқа заңдардың бәрі оған сәйкес болуға тиіс. Азаматтардың құқықтары мен міндеттеріне қатысты заң ресми жарияланғаннан кейін ғана қолданылады. Адамның жағдайын нашарлататын жаңа заң өткен оқиғаларға қолданылмайды, ал жауаптылықты жеңілдететін заң қолданылады.
+[explanation-ru]
+Конституция – главный закон страны, все остальные законы должны ей соответствовать. Закон, который касается прав и обязанностей граждан, применяется только после официального опубликования. Новый закон, который ухудшает положение человека, не действует на прошлые события, а закон, который смягчает ответственность, – действует.
+[explanation-en]
+The Constitution is the country's main law, and all other laws must comply with it. A law that concerns citizens' rights and duties applies only after it is officially published. A new law that makes a person's position worse does not apply to past events, while a law that reduces liability does.
+
+=== 6 | I
+[text-kk]
+1. Қазақстан Республикасында идеологиялық және саяси әралуандық танылады.
+2. Қоғамдық бірлестіктер заң алдында тең. Мемлекеттің қоғамдық бірлестік ісіне, ал қоғамдық бірлестіктің мемлекет ісіне заңсыз араласуына және қоғамдық бірлестікке мемлекеттік орган функцияларын жүктеуге жол берілмейді. Мемлекеттік органда саяси партия ұйымын құруға жол берілмейді.
+3. Мақсаты немесе әрекеті конституциялық құрылыс негіздерін күштеп өзгертуге, Қазақстан Республикасының тұтастығын және қоғамдық тәртіпті бұзуға, ұлттық қауіпсіздікке нұқсан келтіруге, соғысты, әлеуметтік, нәсілдік, ұлттық, діни араздықты қоздыруға бағытталған қоғамдық бірлестік құруға және оның қызметіне, сондай-ақ заңнамада көзделмеген әскерилендірілген жасақ құруға тыйым салынады.
+4. Басқа мемлекеттің саяси партиясы мен кәсіптік одағының, діни негіздегі саяси партияның қызметіне жол берілмейді, сондай-ақ саяси партия мен кәсіптік одақты шетелдік заңды тұлғаның, шетел азаматы мен азаматтығы жоқ адамның, шетелдік қатысуы бар заңды тұлғаның, шет мемлекет пен халықаралық ұйымның қаржыландыруына жол берілмейді.
+5. Коммерциялық емес ұйымның шет мемлекеттен, халықаралық және шетелдік заңды тұлғадан, шетел азаматы мен азаматтығы жоқ адамнан алатын ақша қаражатының қозғалысы және активтері туралы ақпарат Қазақстан Республикасының заңдарына сәйкес ашық әрі қолжетімді болуға тиіс.
+[text-ru]
+1. В Республике Казахстан признается идеологическое и политическое многообразие.
+2. Общественные объединения равны перед законом. Не допускаются незаконное вмешательство государства в дела общественных объединений и общественных объединений в дела государства, а также возложение на общественные объединения функций государственных органов. Не допускается создание в государственных органах организаций политических партий.
+3. Создание и деятельность общественных объединений, цели или действия которых направлены на насильственное изменение основ конституционного строя, нарушение целостности Республики Казахстан, общественного порядка, подрыв национальной безопасности, разжигание войны, социальной, расовой, национальной, религиозной розни, а также создание не предусмотренных законодательством военизированных формирований запрещены.
+4. Не допускаются деятельность политических партий и профессиональных союзов других государств, политических партий на религиозной основе, а также финансирование политических партий и профессиональных союзов иностранными юридическими лицами, иностранными гражданами и лицами без гражданства, юридическими лицами с иностранным участием, иностранными государствами и международными организациями.
+5. Информация о движении денежных средств и активах некоммерческих организаций, получаемых от иностранных государств, международных и иностранных юридических лиц, иностранных граждан и лиц без гражданства, должна быть открытой и доступной в соответствии с законами Республики Казахстан.
+[text-en]
+1. Ideological and political diversity shall be recognized in the Republic of Kazakhstan.
+2. Public associations shall be equal before the law. Unlawful state interference in the affairs of public associations, public associations in state affairs, also assignment of state functions to public associations shall be prohibited. Establishing political party organizations within state bodies shall not be permitted.
+3. Creation and activities of public associations pursuing the goals or actions directed at violent change of the foundations of the constitutional order, violation of the integrity of the Republic of Kazakhstan or public order, undermining of national security, incitement of war, social, racial, national, or religious discord, or creation of paramilitary formations not provided for by law, shall be prohibited.
+4. The activities of political parties and trade unions of other states, political parties based on religion and financing of political parties and trade unions by foreign legal entities, foreign nationals and stateless persons, legal entities with foreign participation, foreign states and international organizations shall not be permitted.
+5. Information on the movement of funds and assets of non-profit organizations received from foreign states, international and foreign legal entities, foreign nationals and stateless persons must be open and accessible in accordance with the laws of the Republic of Kazakhstan.
+[explanation-kk]
+Елде әртүрлі саяси көзқарасқа жол беріледі, қоғамдық бірлестіктер заң алдында тең. Күш қолдануға, араздық қоздыруға немесе ел тұтастығын бұзуға бағытталған бірлестіктерге тыйым салынған. Партиялар мен кәсіподақтарды шетелден қаржыландыруға болмайды.
+[explanation-ru]
+В стране допускаются разные политические взгляды, а общественные объединения равны перед законом. Запрещены объединения, которые направлены на насилие, разжигание розни или нарушение целостности страны. Партии и профсоюзы нельзя финансировать из-за рубежа.
+[explanation-en]
+Different political views are allowed in the country, and public associations are equal before the law. Associations aimed at violence, inciting discord or breaking up the country are banned. Political parties and trade unions may not be financed from abroad.
+
+=== 7 | I
+[text-kk]
+1. Дін мемлекеттен бөлек.
+2. Қазақстан аумағында діни ұйымдардың қызметі заңға сәйкес жүзеге асырылады және ол конституциялық құрылыс негіздерін, адамның және азаматтың құқықтары мен бостандықтарын қорғау, ұлттық қауіпсіздікті қамтамасыз ету, қоғамдық тәртіпті, азаматтардың денсаулығы мен қоғамның адамгершілік болмысын сақтау мақсатында шектелуі мүмкін.
+[text-ru]
+1. Религия отделена от государства.
+2. Деятельность религиозных организаций на территории Казахстана осуществляется в соответствии с законом и может быть ограничена в целях защиты основ конституционного строя, прав и свобод человека и гражданина, обеспечения национальной безопасности, охраны общественного порядка, здоровья граждан и нравственности общества.
+[text-en]
+1. Religion shall be separated from the State.
+2. The activities of religious organizations in Kazakhstan shall be carried out in accordance with the law and may be restricted to protect the foundations of the constitutional order, human and civil rights and freedoms, ensure national security, safeguard public order, public health and public morality.
+[explanation-kk]
+Дін мен мемлекет бір-бірінен бөлек. Діни ұйымдар заң бойынша жұмыс істейді, олардың қызметі қауіпсіздік, тәртіп, денсаулық және адам құқықтары үшін шектелуі мүмкін.
+[explanation-ru]
+Религия и государство существуют отдельно друг от друга. Религиозные организации работают по закону, и их деятельность может быть ограничена ради безопасности, порядка, здоровья и прав людей.
+[explanation-en]
+Religion and the state are separate from each other. Religious organizations work according to the law, and their activities may be restricted for the sake of security, public order, health and people's rights.
+
+=== 8 | I
+[text-kk]
+1. Қазақстан Республикасында барлық меншік түрі танылады, оларға кепілдік беріледі және тең қорғалады.
+2. Меншікті пайдалану қоғам мен мемлекет мүддесіне сай келуге, қоршаған ортаны қорғау саласындағы белгіленген талаптар сақталып іске асырылуға тиіс, басқа тұлғалардың заңмен қорғалатын құқықтары мен мүдделеріне нұқсан келтірмеуге тиіс. Меншік субъектілері мен объектілері, меншік иелерінің құқықтарының көлемі мен шегі, оларды қорғау кепілдіктері заңда айқындалады.
+3. Жер жəне оның қойнауы, су көздері, өсімдіктер мен жануарлар дүниесі, басқа да табиғи ресурстар халыққа тиесілі. Халық атынан меншік құқығын мемлекет жүзеге асырады. Жер заңда белгіленген негіздерде, шарттар мен шектерде жеке меншікте де болуы мүмкін.
+[text-ru]
+1. В Республике Казахстан собственность всех форм признается, гарантируется и равным образом защищается.
+2. Пользование собственностью должно отвечать интересам общества и государства, осуществляться с соблюдением установленных требований в области охраны окружающей среды и не должно ущемлять защищаемые законом права и интересы других лиц. Субъекты и объекты собственности, объем и пределы осуществления собственниками своих прав, гарантии их защиты определяются законом.
+3. Земля и ее недра, воды, растительный и животный мир, другие природные ресурсы принадлежат народу. От имени народа право собственности осуществляет государство. Земля может находиться также в частной собственности на основаниях, условиях и в пределах, установленных законом.
+[text-en]
+1. Property of all forms in the Republic of Kazakhstan shall be recognized, guaranteed and equally protected.
+2. The use of property shall serve the interests of the society and the State, shall be exercised in compliance with established environmental protection requirements and shall not infringe on the legally protected rights and interests of other persons protected by law. The subjects and objects of property, the scope and limits of the exercise of rights by owners, guarantees for their protection shall be determined by law.
+3. Land and its subsoil resources, waters, flora and fauna, other natural resources shall belong to the people. The State shall exercise ownership rights on behalf of the people. Land may also be privately owned on the grounds, conditions and within the frames established by law.
+[explanation-kk]
+Кез келген меншік бірдей қорғалады. Оны табиғатқа зиян келтірмей және басқа адамдардың құқықтарын бұзбай пайдалану керек. Табиғи ресурстар халыққа тиесілі, ал жер заңда белгіленген шекте жеке меншікте де бола алады.
+[explanation-ru]
+Любая собственность защищается одинаково. Пользоваться ею нужно так, чтобы не вредить природе и не нарушать права других людей. Природные ресурсы принадлежат народу, а земля может быть и в частной собственности – в пределах, которые установил закон.
+[explanation-en]
+All property is protected equally. It must be used without harming nature or violating other people's rights. Natural resources belong to the people, and land may also be privately owned within the limits set by law.
+
+=== 9 | I
+[text-kk]
+1. Қазақстан Республикасының мемлекеттік тілі – қазақ тілі.
+2. Мемлекеттік ұйымдарда және жергілікті өзін-өзі басқару органдарында қазақ тілімен қатар орыс тілі ресми түрде қолданылады.
+3. Мемлекет біртұтас Қазақстан халқының тілдерін үйрену және дамыту үшін жағдай жасауға қамқорлық көрсетеді.
+[text-ru]
+1. Государственный язык Республики Казахстан – казахский язык.
+2. В государственных организациях и органах местного самоуправления наряду с казахским официально употребляется русский язык.
+3. Государство заботится о создании условий для изучения и развития языков единого народа Казахстана.
+[text-en]
+1. The state language of the Republic of Kazakhstan shall be Kazakh.
+2. The Russian language shall be officially used along with the Kazakh language in state organizations and local government bodies.
+3. The State is committed to creating conditions for the study and development of the languages of the united people of Kazakhstan.
+[explanation-kk]
+Мемлекеттік тіл – қазақ тілі. Мемлекеттік ұйымдарда онымен қатар орыс тілі ресми түрде қолданылады. Мемлекет Қазақстан халқының тілдерін үйренуге және дамытуға жағдай жасайды.
+[explanation-ru]
+Государственный язык – казахский. В государственных организациях наряду с ним официально употребляется русский. Государство создаёт условия для изучения и развития языков народа Казахстана.
+[explanation-en]
+The state language is Kazakh. Russian is officially used alongside it in state organizations. The state creates conditions for learning and developing the languages of the people of Kazakhstan.
+
+=== 10 | I
+[text-kk]
+Қазақстан Республикасы халықаралық құқық қағидаттары мен нормаларын құрметтейді, мүдделі мемлекеттермен бейбітшілік пен ынтымақтастықты, олардың ішкі ісіне араласпауды, халықаралық дауды бейбіт жолмен шешуді көздейтін сыртқы саясат жүргізеді.
+[text-ru]
+Республика Казахстан уважает принципы и нормы международного права, проводит внешнюю политику мира и сотрудничества с заинтересованными государствами, невмешательства в их внутренние дела, мирного разрешения международных споров.
+[text-en]
+The Republic of Kazakhstan shall respect the principles and norms of the international law and pursue the foreign policy of peace and cooperation with interested states, non-interference in their internal affairs, peaceful settlement of international disputes.
+[explanation-kk]
+Қазақстан халықаралық құқықты сақтайды, бейбіт сыртқы саясат жүргізеді, басқа елдердің ісіне араласпайды және дауларды бейбіт жолмен шешеді.
+[explanation-ru]
+Казахстан соблюдает международное право, ведёт мирную внешнюю политику, не вмешивается в дела других стран и решает споры мирным путём.
+[explanation-en]
+Kazakhstan follows international law, pursues a peaceful foreign policy, does not interfere in other countries' affairs and settles disputes peacefully.
+
+=== 11 | I
+[text-kk]
+Қазақстан Республикасының мемлекеттік рәміздері – Мемлекеттік Ту, Мемлекеттік Елтаңба, Мемлекеттік Әнұран. Олардың сипаттамасы және пайдалану тәртібі конституциялық заңда белгіленеді.
+[text-ru]
+Республика Казахстан имеет государственные символы – Государственный Флаг, Государственный Герб, Государственный Гимн. Их описание и порядок использования устанавливаются конституционным законом.
+[text-en]
+The Republic of Kazakhstan shall have state symbols: the State Flag, the State Emblem and the State Anthem. Their description and the procedure for their use shall be established by constitutional law.
+[explanation-kk]
+Қазақстанның үш мемлекеттік рәмізі бар: Ту, Елтаңба және Әнұран. Олардың сипаттамасы мен пайдалану тәртібі жеке конституциялық заңда жазылған.
+[explanation-ru]
+У Казахстана три государственных символа: Флаг, Герб и Гимн. Как они выглядят и как их использовать, описано в отдельном конституционном законе.
+[explanation-en]
+Kazakhstan has three state symbols: the Flag, the Emblem and the Anthem. What they look like and how they are used is set out in a separate constitutional law.
+
+=== 12 | II
+[text-kk]
+1. Әр адамның құқық субъектiсi ретiнде танылуға құқығы бар.
+Әр адам құқықтары мен бостандықтарын заңға қайшы келмейтiн барлық тәсiлмен, оның ішінде қажетті қорғаныс арқылы қорғауға құқылы.
+2. Әр адамның өз құқықтары мен бостандықтарын сот арқылы қорғауға құқығы бар.
+3. Қазақстан Республикасында заңға сәйкес біліктi заң көмегін алу құқығы танылады.
+[text-ru]
+1. Каждый человек имеет право на признание его правосубъектности.
+Каждый человек вправе защищать свои права и свободы всеми не противоречащими закону способами, включая необходимую оборону.
+2. Каждый человек имеет право на судебную защиту своих прав и свобод.
+3. В Республике Казахстан признается право на получение квалифицированной юридической помощи в соответствии с законом.
+[text-en]
+1. Every person has the right to recognition of his legal personality.
+Every person has the right to protect his rights and freedoms by all methods not contrary to law, including necessary defense.
+2. Every person has the right to judicial protection of his rights and freedoms.
+3. In the Republic of Kazakhstan the right to receive qualified legal assistance in accordance with law is recognized.
+[explanation-kk]
+Сіз өз құқықтарыңызды кез келген заңды тәсілмен, оның ішінде сот арқылы қорғай аласыз. Сондай-ақ білікті заң көмегін алуға құқығыңыз бар.
+[explanation-ru]
+Вы можете защищать свои права любыми законными способами, в том числе через суд. Также у вас есть право на квалифицированную юридическую помощь.
+[explanation-en]
+You may protect your rights by any lawful means, including through the courts. You also have the right to qualified legal help.
+
+=== 13 | II
+[text-kk]
+1. Қазақстан Республикасының азаматтығы заңға сәйкес беріледі және тоқтатылады, ол берілген негізіне қарамастан бiрыңғай және тең.
+2. Қазақстан Республикасының азаматын өз азаматтығынан айыруға, азаматтығын өзгерту құқығынан айыруға, сондай-ақ Қазақстаннан тыс жерге аластатуға болмайды. Азаматтықтан айыруға террористік қылмыс жасағаны, сондай-ақ Қазақстан Республикасының ұлттық мүдделеріне өзге де ауыр зиян келтіргені үшін сот шешімімен ғана жол беріледі.
+3. Қазақстан Республикасының азаматында қос немесе көп азаматтығы болуына жол берілмейді. Өзге ел азаматтығының болуы Қазақстан Республикасының азаматтығын тоқтатуға негіз болады. Шет мемлекетте туғанына байланысты сол мемлекеттің азаматтығын алған кәмелетке толмаған балаға қатысты заңда көзделген ережелер қолданылады.
+[text-ru]
+1. Гражданство Республики Казахстан приобретается и прекращается в соответствии с законом, является единым и равным независимо от оснований его приобретения.
+2. Гражданин Республики Казахстан не может быть лишен гражданства, права изменить свое гражданство, а также не может быть изгнан за пределы Казахстана. Лишение гражданства допускается только по решению суда за совершение террористических преступлений, а также за причинение иного тяжкого вреда национальным интересам Республики Казахстан.
+3. Гражданин Республики Казахстан не может иметь двойного или множественного гражданства. Наличие иного гражданства – основание для прекращения гражданства Республики Казахстан. В отношении несовершеннолетних детей, приобретших гражданство иностранного государства в силу своего рождения, применяются положения, предусмотренные законом.
+[text-en]
+1. Citizenship of the Republic of Kazakhstan is acquired and terminated in accordance with law, is single and equal regardless of the grounds for its acquisition.
+2. A citizen of the Republic of Kazakhstan cannot be deprived of citizenship, of the right to change his citizenship, and also cannot be expelled beyond Kazakhstan. Deprivation of citizenship is allowed only by a court decision for the commission of terrorist crimes, as well as for causing other grave harm to the national interests of the Republic of Kazakhstan.
+3. A citizen of the Republic of Kazakhstan cannot have dual or multiple citizenship. The presence of other citizenship is a ground for termination of citizenship of the Republic of Kazakhstan. In respect of minor children who have acquired citizenship of a foreign state by virtue of their birth, the provisions provided by law apply.
+[explanation-kk]
+Азаматтық бәріне бірдей. Азаматтықтан тек сот шешімімен, терроризм немесе елге ауыр зиян келтіргені үшін айыруға болады. Қос азаматтыққа жол берілмейді.
+[explanation-ru]
+Гражданство одинаково для всех. Лишить гражданства можно только по решению суда за терроризм или тяжкий вред стране. Двойное гражданство не допускается.
+[explanation-en]
+Citizenship is the same for everyone. It can be taken away only by a court for terrorism or grave harm to the country. Dual citizenship is not allowed.
+
+=== 14 | II
+[text-kk]
+1. Қазақстан Республикасының халықаралық шарттарында өзгеше белгiленбесе, Қазақстан Республикасының азаматы шет мемлекетке берілмейді.
+2. Қазақстан Республикасы өз азаматтарын ел аумағынан тыс жерде заңға сәйкес қорғауға кепiлдiк бередi.
+[text-ru]
+1. Гражданин Республики Казахстан не может быть выдан иностранному государству, если иное не установлено международными договорами Республики Казахстан.
+2. Республика Казахстан гарантирует своим гражданам защиту за ее пределами в соответствии с законом.
+[text-en]
+1. A citizen of the Republic of Kazakhstan cannot be extradited to a foreign state, unless otherwise established by international treaties of the Republic of Kazakhstan.
+2. The Republic of Kazakhstan guarantees its citizens protection outside it in accordance with law.
+[explanation-kk]
+Қазақстан азаматы, әдетте, басқа елге берілмейді, ал шетелде мемлекет өз азаматтарын қорғайды.
+[explanation-ru]
+Гражданина Казахстана, как правило, не выдают другой стране, а за границей государство защищает своих граждан.
+[explanation-en]
+As a rule, a citizen of Kazakhstan is not handed over to another country, and the state protects its citizens abroad.
+
+=== 15 | II
+[text-kk]
+1. Қазақстан Республикасында Конституцияға сәйкес адам құқықтары мен бостандықтары танылады және оларға кепiлдiк берiледi.
+2. Адам құқықтары мен бостандықтары әркiмге тумысынан тиесілі, олар ажыратуға және айыруға болмайтын деп танылады, Қазақстан Республикасының қолданыстағы құқығының мазмұны мен қолданылуы осыған қарай айқындалады.
+3. Қазақстан Республикасы азаматының өз азаматтығына орай құқықтары мен мiндеттері бар.
+4. Конституцияда, заңдарда және халықаралық шарттарда көзделген жағдайда шетел азаматы мен азаматтығы жоқ адам Қазақстан Республикасының азаматы үшін белгіленген құқықтар мен бостандықтарды пайдаланады, сондай-ақ мiндеттерді атқарады.
+5. Адамның және азаматтың құқықтары мен бостандықтарын іске асыру басқа тұлғаның құқықтарын бұзбауға және бостандықтарын шектемеуге тиiс, конституциялық құрылыс негіздеріне, қоғамдық тәртіпке, азаматтардың денсаулығы мен қоғамның адамгершілік болмысына нұқсан келтiрмеуге тиiс.
+6. Әр адамның мемлекеттік органның немесе оның лауазымды адамының заңсыз әрекетімен келтірілген зиянды мемлекеттен өтетіп алуға құқығы бар.
+[text-ru]
+1. В Республике Казахстан признаются и гарантируются права и свободы человека в соответствии с Конституцией.
+2. Права и свободы человека принадлежат каждому от рождения, признаются неотъемлемыми и неотчуждаемыми, определяют содержание и применение действующего права Республики Казахстан.
+3. Гражданин Республики Казахстан имеет права и несет обязанности в силу своего гражданства.
+4. Иностранные граждане и лица без гражданства пользуются правами и свободами, а также несут обязанности, установленные для граждан Республики Казахстан, в случаях, предусмотренных Конституцией, законами и международными договорами.
+5. Реализация прав и свобод человека и гражданина не должна нарушать права и ограничивать свободы других лиц, посягать на основы конституционного строя, общественный порядок, здоровье граждан и нравственность общества.
+6. Каждый человек имеет право на возмещение государством вреда, причиненного незаконными действиями государственных органов или их должностных лиц.
+[text-en]
+1. In the Republic of Kazakhstan the rights and freedoms of man are recognized and guaranteed in accordance with the Constitution.
+2. The rights and freedoms of man belong to everyone from birth, are recognized as inalienable and non-transferable, determine the content and application of the current law of the Republic of Kazakhstan.
+3. A citizen of the Republic of Kazakhstan has rights and bears duties by virtue of his citizenship.
+4. Foreign citizens and stateless persons enjoy rights and freedoms, and also bear duties established for citizens of the Republic of Kazakhstan, in cases provided by the Constitution, laws and international treaties.
+5. The exercise of the rights and freedoms of man and citizen must not violate the rights and restrict the freedoms of other persons, encroach on the foundations of the constitutional order, public order, health of citizens and morality of society.
+6. Every person has the right to compensation by the state for harm caused by unlawful actions of state bodies or their officials.
+[explanation-kk]
+Адам құқықтары әркімге туғаннан тиесілі, оларды тартып алуға болмайды. Өз құқығын пайдаланғанда басқалардың құқығын бұзуға болмайды. Мемлекеттік орган заңсыз зиян келтірсе, мемлекет оны өтеуге міндетті.
+[explanation-ru]
+Права человека принадлежат каждому с рождения, их нельзя отнять. Пользуясь своими правами, нельзя нарушать права других. Если государственный орган незаконно причинил вред, государство обязано его возместить.
+[explanation-en]
+Human rights belong to everyone from birth and cannot be taken away. Using your rights must not violate the rights of others. If a state body unlawfully causes harm, the state must compensate it.
+
+=== 16 | II
+[text-kk]
+1. Заң мен сот алдында бәрi тең.
+2. Қазақстан Республикасының азаматын, Қазақстан Республикасының аумағында тұратын немесе уақытша жүрген шетел азаматы мен азаматтығы жоқ адамды тегiне, әлеуметтiк, лауазымдық және мүлiктiк жағдайына, жынысына, нәсiлiне, ұлтына, тіліне, дiни көзқарасына, нанымына, тұрғылықты жерiне немесе кез келген өзге де себептерге байланысты кемсiтуге болмайды.
+[text-ru]
+1. Все равны перед законом и судом.
+2. Граждане Республики Казахстан, иностранные граждане и лица без гражданства, проживающие или временно находящиеся на территории Республики Казахстан, не могут подвергаться дискриминации по мотивам происхождения, социального, должностного и имущественного положения, пола, расы, национальности, языка, отношения к религии, убеждений, места жительства или по любым иным обстоятельствам.
+[text-en]
+1. All are equal before law and court.
+2. Citizens of the Republic of Kazakhstan, foreign citizens and stateless persons residing or temporarily staying on the territory of the Republic of Kazakhstan cannot be subjected to discrimination on grounds of origin, social, official and property status, sex, race, nationality, language, attitude to religion, beliefs, place of residence or any other circumstances.
+[explanation-kk]
+Заң мен сот алдында бәрі тең. Адамды тегіне, жынысына, ұлтына, тіліне, дініне, тұрғылықты жеріне және басқа себептерге байланысты кемсітуге болмайды.
+[explanation-ru]
+Все равны перед законом и судом. Нельзя дискриминировать человека из-за происхождения, пола, национальности, языка, религии, места жительства и других причин.
+[explanation-en]
+Everyone is equal before the law and the courts. No one may be discriminated against because of origin, sex, nationality, language, religion, place of residence or other reasons.
+
+=== 17 | II
+[text-kk]
+1. Өмір сүру құқығы – әр адамның ажыратуға және айыруға болмайтын құқығы.
+2. Ешкімнің өз бетімен адам өмірін қиюға құқығы жоқ.
+3. Өлім жазасына тыйым салынған.
+[text-ru]
+1. Право на жизнь – неотъемлемое и неотчуждаемое право каждого человека.
+2. Никто не вправе произвольно лишать человека жизни.
+3. Смертная казнь запрещена.
+[text-en]
+1. The right to life is an inalienable and non-transferable right of every person.
+2. No one has the right to arbitrarily deprive a person of life.
+3. The death penalty is prohibited.
+[explanation-kk]
+Әр адамның өмір сүруге құқығы бар, оны ешкім тартып ала алмайды. Қазақстанда өлім жазасы жоқ.
+[explanation-ru]
+У каждого человека есть право на жизнь, и его нельзя отнять. Смертной казни в Казахстане нет.
+[explanation-en]
+Everyone has the right to life, and it cannot be taken away. There is no death penalty in Kazakhstan.
+
+=== 18 | II
+[text-kk]
+1. Әр адамға жеке бас бостандығы мен жеке басына қол сұғылмау құқығына кепілдік беріледі.
+2. Сот шешімінсіз адамды заңда көзделген мерзімнен артық ұстауға болмайды.
+Күзетпен ұстауға сот шешімімен ғана рұқсат етіледі және оған шағым жасау құқығы беріледі.
+3. Әр адамға ұсталған сәтте бостандығын шектеу негіздері және оның құқықтары түсіндіріледі.
+4. Ұсталған адамның, күдіктінің, айыпталушының тиісінше ұсталған, күдікті ретінде танылған немесе айып тағылған сәттен бастап адвокат (қорғаушы) көмегiн пайдалануға құқығы бар.
+[text-ru]
+1. Каждому человеку гарантируется право на личную свободу и неприкосновенность.
+2. Без судебного решения человек не может быть подвергнут задержанию свыше сроков, предусмотренных законом.
+Содержание под стражей допускается только по судебному решению с предоставлением права на обжалование.
+3. Каждому человеку в момент задержания разъясняются основания ограничения свободы и его права.
+4. Задержанный, подозреваемый, обвиняемый имеет право пользоваться помощью адвоката (защитника) с момента задержания, признания в качестве подозреваемого или предъявления обвинения соответственно.
+[text-en]
+1. Every person is guaranteed the right to personal freedom and inviolability.
+2. Without a court decision a person cannot be subjected to detention beyond the periods provided by law.
+Detention in custody is allowed only by a court decision with the granting of the right to appeal.
+3. At the moment of detention every person is explained the grounds for restriction of freedom and his rights.
+4. The detained person, suspect, accused has the right to use the assistance of an advocate (defender) from the moment of detention, recognition as a suspect or presentation of a charge, respectively.
+[explanation-kk]
+Сот шешімінсіз адамды заңда рұқсат етілгеннен ұзақ ұстауға болмайды. Ұстаған кезде себебі мен құқықтарыңыз түсіндірілуге тиіс, сондай-ақ сізде бірден адвокат көмегіне құқық бар.
+[explanation-ru]
+Без решения суда нельзя держать человека под стражей дольше, чем разрешает закон. При задержании вам обязаны объяснить причину и ваши права, и вы сразу имеете право на адвоката.
+[explanation-en]
+Without a court decision, a person cannot be held longer than the law allows. When detained, you must be told the reason and your rights, and you have the right to a lawyer straight away.
+
+=== 19 | II
+[text-kk]
+1. Заңды күшіне енген сот үкімімен адам кінәлі деп танылмайынша, ол жасалған қылмыстық құқық бұзушылыққа кінәлі емес деп саналады.
+2. Ешкім өз-өзіне, жұбайына (зайыбына) және заңда айқындалған жақын туыстарына қарсы айғақ беруге міндетті емес.
+Діни қызметшілер өздеріне сеніп, сырын ашқан адамдарға қарсы куәлік етуге міндетті емес.
+3. Адамды дәл сол құқық бұзушылық үшін қылмыстық немесе әкімшілік жауаптылыққа қайта тартуға тыйым салынады.
+[text-ru]
+1. Человек считается невиновным в совершении уголовного правонарушения, пока его виновность не будет признана вступившим в законную силу приговором суда.
+2. Никто не обязан давать показания против самого себя, супруга (супруги) и близких родственников, круг которых определяется законом.
+Священнослужители не обязаны свидетельствовать против доверившихся им на исповеди.
+3. Повторное привлечение человека к уголовной или административной ответственности за одно и то же правонарушение запрещено.
+[text-en]
+1. A person is considered innocent of committing a criminal offense until his guilt is recognized by a court verdict that has entered into legal force.
+2. No one is obliged to give testimony against himself, his spouse and close relatives, the circle of which is determined by law.
+Clergy are not obliged to testify against those who trusted them at confession.
+3. Repeated bringing of a person to criminal or administrative liability for the same offense is prohibited.
+[explanation-kk]
+Сот кінәсін дәлелдегенге дейін адам кінәсіз саналады. Сіз өзіңізге, жұбайыңызға және жақын туыстарыңызға қарсы айғақ беруге міндетті емессіз. Бір құқық бұзушылық үшін екі рет жауапқа тартуға болмайды.
+[explanation-ru]
+Человек считается невиновным, пока суд не докажет обратное. Вы не обязаны давать показания против себя, супруга и близких родственников. Дважды привлекать к ответственности за одно и то же нельзя.
+[explanation-en]
+A person is considered innocent until a court proves otherwise. You do not have to testify against yourself, your spouse or close relatives. No one can be held liable twice for the same offence.
+
+=== 20 | II
+[text-kk]
+1. Адамның ар-намысы мен қадiр-қасиетiне қол сұғуға болмайды және олар заңмен қорғалады.
+2. Ешкiмдi азаптауға, оған зорлық-зомбылық жасауға, басқа да қатыгездiк көрсетіп немесе адамның қадiр-қасиетiн қорлап жәбiрлеуге не жазалауға болмайды.
+[text-ru]
+1. Честь и достоинство человека неприкосновенны и охраняются законом.
+2. Никто не должен подвергаться пыткам, насилию, другому жестокому или унижающему человеческое достоинство обращению или наказанию.
+[text-en]
+1. The honor and dignity of a person are inviolable and protected by law.
+2. No one should be subjected to torture, violence, other cruel or degrading human dignity treatment or punishment.
+[explanation-kk]
+Адамның ар-намысы мен қадір-қасиеті заңмен қорғалады. Азаптауға, зорлық-зомбылыққа және қорлауға тыйым салынған.
+[explanation-ru]
+Честь и достоинство человека защищены законом. Пытки, насилие и унижающее обращение запрещены.
+[explanation-en]
+A person's honour and dignity are protected by law. Torture, violence and degrading treatment are prohibited.
+
+=== 21 | II
+[text-kk]
+1. Жеке өмірге қол сұғылмау құқығына, жеке және отбасы құпиясының болу құқығына, цифрлық технологияларды қолдануды қоса алғанда, дербес деректерді заңсыз жинаудан, өңдеуден, сақтаудан және пайдаланудан қорғау құқығына заңмен кепілдік беріледі.
+2. Банк операцияларының, жеке салымдар мен жинақтардың, жазысқан хаттардың, телефон арқылы сөйлескен сөздердің, пошта хабарламаларының және байланыс құралдары, оның ішінде цифрлық технологияларды қолдану арқылы берілетін өзге де хабарламалардың құпиясы заңмен қорғалады. Бұл құқықты шектеуге заңда белгіленген жағдайда және көзделген тәртіппен ғана жол беріледі.
+3. Мемлекеттік органдар, қоғамдық бiрлестiктер, лауазымды адамдар және бұқаралық ақпарат құралдары әр адамға өз құқықтары мен мүдделерiне қатысты құжатпен, шешiммен және ақпарат көзiмен танысу мүмкiндiгiн қамтамасыз етуге мiндеттi.
+[text-ru]
+1. Право на неприкосновенность частной жизни, личную и семейную тайну, защиту персональных данных от их незаконного сбора, обработки, хранения и использования, в том числе с применением цифровых технологий, гарантируется законом.
+2. Тайна банковских операций, личных вкладов и сбережений, переписки, телефонных переговоров, почтовых и иных сообщений, передаваемых средствами связи, в том числе с применением цифровых технологий, охраняется законом. Ограничение этого права допускается только в случаях и в порядке, установленных законом.
+3. Государственные органы, общественные объединения, должностные лица и средства массовой информации обязаны обеспечить каждому человеку возможность ознакомиться с затрагивающими его права и интересы документами, решениями и источниками информации.
+[text-en]
+1. The right to inviolability of private life, personal and family secrets, protection of personal data from their unlawful collection, processing, storage and use, including with the use of digital technologies, is guaranteed by law.
+2. The secrecy of banking operations, personal deposits and savings, correspondence, telephone conversations, postal and other messages transmitted by means of communication, including with the use of digital technologies, is protected by law. Restriction of this right is allowed only in cases and in the manner established by law.
+3. State bodies, public associations, officials and mass media are obliged to ensure every person the possibility to familiarize himself with documents, decisions and sources of information affecting his rights and interests.
+[explanation-kk]
+Жеке өміріңіз, хаттарыңыз, телефон сөйлесулеріңіз, банк және дербес деректеріңіз заңмен қорғалады. Өз құқықтарыңызға қатысты құжаттармен танысуға құқығыңыз бар.
+[explanation-ru]
+Ваша личная жизнь, переписка, звонки, банковские и персональные данные защищены законом. Вы имеете право знакомиться с документами, которые касаются ваших прав.
+[explanation-en]
+Your private life, correspondence, calls, bank details and personal data are protected by law. You have the right to see documents that affect your rights.
+
+=== 22 | II
+[text-kk]
+1. Әр адам өзiнiң қай ұлтқа жататынын айқындауға, оны көрсетуге не көрсетпеуге құқылы.
+2. Әр адамның ана тілі мен төл мәдениетiн қолдануға, қарым-қатынас жасау, тәрбие беру, оқу мен шығармашылық тілін еркiн таңдауға құқығы бар.
+[text-ru]
+1. Каждый человек вправе определять, указывать или не указывать свою национальную принадлежность.
+2. Каждый человек имеет право пользоваться родным языком и культурой, свободно выбирать язык общения, воспитания, обучения, творчества.
+[text-en]
+1. Every person has the right to determine, indicate or not indicate his nationality.
+2. Every person has the right to use his native language and culture, freely choose the language of communication, upbringing, education, creativity.
+[explanation-kk]
+Ұлтыңызды көрсету-көрсетпеуді өзіңіз шешесіз. Ана тіліңізді еркін қолданып, қарым-қатынас пен оқу тілін таңдай аласыз.
+[explanation-ru]
+Вы сами решаете, указывать ли свою национальность. Вы можете свободно пользоваться родным языком и выбирать язык общения и обучения.
+[explanation-en]
+You decide whether to state your nationality. You may freely use your native language and choose the language of communication and education.
+
+=== 23 | II
+[text-kk]
+1. Сөз еркіндігіне, ғылыми, техникалық, көркем шығармашылық еркіндігіне кепiлдiк берiледi.
+2. Зияткерлік меншік заңмен қорғалады.
+3. Мемлекеттік құпияларды қоспағанда, еркін ақпарат алу және тарату құқығы заңмен тыйым салынбаған кез келген тәсілмен іске асырылады. Қазақстан Республикасының мемлекеттік құпияларын құрайтын мәліметтер тізбесі заңда айқындалады.
+4. Сөз еркіндігі және ақпарат тарату еркіндігі басқа адамдардың ар-намысы мен қадір-қасиетіне, азаматтардың денсаулығы мен қоғамның адамгершілік болмысына нұқсан келтірмеуге, қоғамдық тәртіпті бұзбауға тиіс.
+5. Цензураға тыйым салынады.
+6. Қазақстан Республикасының конституциялық құрылыс негіздерін күштеп өзгертуді, аумағының тұтастығына, Егемендігі мен Тәуелсіздігіне қол сұғуды, қоғамдық тәртіпті бұзуды, ұлттық қауіпсіздікке нұқсан келтіруді, соғысты, қарулы қақтығысты, әлеуметтік, нәсілдік, ұлттық, этностық, діни басымдықты немесе алауыздықты, қатыгездік пен зорлық-зомбылыққа бас ұруды насихаттауға, сондай-ақ осындай әрекеттерге шақыруға жол берілмейді.
+[text-ru]
+1. Свобода слова, научного, технического, художественного творчества гарантируется.
+2. Интеллектуальная собственность охраняется законом.
+3. Право свободно получать и распространять информацию, за исключением государственных секретов, реализуется любыми не запрещенными законом способами. Перечень сведений, составляющих государственные секреты Республики Казахстан, определяется законом.
+4. Свобода слова и свобода распространения информации не должны посягать на честь и достоинство других лиц, здоровье граждан и нравственность общества, нарушать общественный порядок.
+5. Цензура запрещена.
+6. Не допускаются пропаганда насильственного изменения основ конституционного строя, посягательства на территориальную целостность, Суверенитет и Независимость Республики Казахстан, нарушения общественного порядка, подрыва национальной безопасности, войны, вооруженных конфликтов, социального, расового, национального, этнического, религиозного превосходства или розни, культа жестокости и насилия, а также призывы к совершению таких действий.
+[text-en]
+1. Freedom of speech, scientific, technical, artistic creativity is guaranteed.
+2. Intellectual property is protected by law.
+3. The right to freely receive and disseminate information, except state secrets, is exercised by any methods not prohibited by law. The list of information constituting state secrets of the Republic of Kazakhstan is determined by law.
+4. Freedom of speech and freedom of dissemination of information must not encroach on the honor and dignity of other persons, health of citizens and morality of society, violate public order.
+5. Censorship is prohibited.
+6. Propaganda of violent change of the foundations of the constitutional order, encroachment on the territorial integrity, Sovereignty and Independence of the Republic of Kazakhstan, violation of public order, undermining national security, war, armed conflicts, social, racial, national, ethnic, religious superiority or discord, cult of cruelty and violence, as well as calls to commit such actions, are not allowed.
+[explanation-kk]
+Сөз бен шығармашылық еркіндігіне кепілдік беріледі, цензураға тыйым салынған. Бірақ басқалардың ар-намысына тиюге және зорлық-зомбылыққа, араздыққа немесе соғысқа шақыруға болмайды.
+[explanation-ru]
+Свобода слова и творчества гарантирована, цензура запрещена. Но нельзя посягать на честь других людей и призывать к насилию, вражде или войне.
+[explanation-en]
+Freedom of speech and creativity is guaranteed and censorship is banned. But you may not attack other people's honour or call for violence, hatred or war.
+
+=== 24 | II
+[text-kk]
+1. Заңда белгіленген жағдайларды қоспағанда, Қазақстан Республикасының аумағында заңды түрде жүрген әр адамның ел аумағында еркiн жүрiп-тұруға және тұрғылықты жерін еркін таңдауға құқығы бар.
+2. Әр адамның Қазақстан Республикасынан тыс жерге шығуға құқығы бар. Бұл құқықты шектеуге заңда белгіленген жағдайда және көзделген тәртіппен жол беріледі. Қазақстан Республикасы азаматтарының Қазақстан Республикасына кедергiсiз оралуға құқығы бар.
+[text-ru]
+1. Каждому человеку, кто законно находится на территории Республики Казахстан, принадлежит право свободного передвижения по ее территории и свободного выбора места жительства, кроме случаев, установленных законом.
+2. Каждый человек имеет право выезжать за пределы Республики Казахстан. Ограничение этого права допускается в случаях и в порядке, установленных законом. Граждане Республики Казахстан имеют право беспрепятственного возвращения в Республику Казахстан.
+[text-en]
+1. Every person who is lawfully on the territory of the Republic of Kazakhstan has the right to free movement on its territory and free choice of place of residence, except cases established by law.
+2. Every person has the right to leave the Republic of Kazakhstan. Restriction of this right is allowed in cases and in the manner established by law. Citizens of the Republic of Kazakhstan have the right to unimpeded return to the Republic of Kazakhstan.
+[explanation-kk]
+Ел ішінде еркін жүріп-тұруға, тұрғылықты жерді таңдауға және шетелге шығуға құқығыңыз бар. Қазақстан азаматы елге әрқашан орала алады. Шектеу тек заң бойынша болуы мүмкін.
+[explanation-ru]
+Вы можете свободно передвигаться по стране, выбирать место жительства и выезжать за границу. Гражданин Казахстана всегда может вернуться домой. Ограничения возможны только по закону.
+[explanation-en]
+You may move freely around the country, choose where to live and travel abroad. A citizen of Kazakhstan can always return home. Restrictions are possible only under the law.
+
+=== 25 | II
+[text-kk]
+1. Әр адамның ар-ождан бостандығына құқығы бар.
+2. Ар-ождан бостандығы құқығын пайдалану жалпыадамзат пен азамат құқықтарын, мемлекет алдындағы мiндеттерді шектемеуге тиіс.
+[text-ru]
+1. Каждый человек имеет право на свободу совести.
+2. Осуществление права на свободу совести не должно ограничивать общечеловеческие и гражданские права, обязанности перед государством.
+[text-en]
+1. Every person has the right to freedom of conscience.
+2. The exercise of the right to freedom of conscience must not restrict universal human and civil rights, duties before the state.
+[explanation-kk]
+Әркім өз сенімі мен нанымында еркін. Бірақ бұл мемлекет алдындағы міндеттерден босатпайды.
+[explanation-ru]
+Каждый свободен в своих убеждениях и вере. Но это не освобождает от обязанностей перед государством.
+[explanation-en]
+Everyone is free in their beliefs and faith. But this does not release anyone from their duties to the state.
+
+=== 26 | II
+[text-kk]
+1. Қазақстан Республикасы азаматтарының бiрлестік құру бостандығына құқығы бар. Қоғамдық бiрлестiк қызметi заңмен реттеледi.
+2. Қазақстан Республикасының Конституциялық Соты, Жоғарғы Соты және өзге де соттары төрағалары мен судьяларының, Орталық сайлау комиссиясы, Жоғары аудиторлық палатасы төрағалары мен мүшелерінің, құқық қорғау органы және арнаулы мемлекеттік орган қызметкерлері мен жұмыскерлерінің, әскери қызметшілердің саяси партия мен кәсіптік одақта болуға, қандай да бір саяси партияға немесе қоғамдық-саяси қозғалысқа қолдау көрсетуге не сыни пікір білдіруге құқығы жоқ.
+[text-ru]
+1. Граждане Республики Казахстан имеют право на свободу объединений. Деятельность общественных объединений регулируется законом.
+2. Председатели и судьи Конституционного Суда, Верховного Суда и иных судов, председатели и члены Центральной избирательной комиссии, Высшей аудиторской палаты Республики Казахстан, сотрудники и работники правоохранительных и специальных государственных органов, военнослужащие не вправе состоять в политической партии, профессиональном союзе, выступать в поддержку или с осуждением какой-либо политической партии или общественно-политического движения.
+[text-en]
+1. Citizens of the Republic of Kazakhstan have the right to freedom of associations. The activity of public associations is regulated by law.
+2. Chairpersons and judges of the Constitutional Court, Supreme Court and other courts, chairpersons and members of the Central Election Commission, Supreme Audit Chamber of the Republic of Kazakhstan, employees and workers of law enforcement and special state bodies, military servicemen are not entitled to be members of a political party, professional union, speak in support or with condemnation of any political party or socio-political movement.
+[explanation-kk]
+Азаматтар бірлестік құрып, оларға кіре алады. Судьяларға, әскерилерге және құқық қорғау органдарының қызметкерлеріне партия мен кәсіподақта болуға тыйым салынған.
+[explanation-ru]
+Граждане могут создавать объединения и вступать в них. Судьям, военнослужащим и сотрудникам правоохранительных органов запрещено состоять в партиях и профсоюзах.
+[explanation-en]
+Citizens may form and join associations. Judges, military personnel and law enforcement officers may not be members of political parties or trade unions.
+
+=== 27 | II
+[text-kk]
+1. Әр адамның еңбек етуге, қызмет пен кәсіп түрін еркін таңдауға құқығы бар. Еңбекке мәжбүрлеп тартуға қылмыстық немесе әкімшілік құқық бұзушылық жасағаны үшін адамды кінәлі деп тану туралы сот актісінің негізінде, не төтенше жағдайда, не соғыс жағдайында жол беріледі.
+2. Қазақстан Республикасы қауiпсiздiк пен гигиена талаптарына сай еңбек жағдайлары құқығына, еңбегi үшiн қандай да бiр кемсiтусiз сыйақы алу, сондай-ақ әлеуметтiк қорғалу құқығына заңға сәйкес кепілдік береді.
+3. Заңда белгіленген тәсiлдерді қолдана отырып, жеке және ұжымдық еңбек дауларын шешу құқығы танылады.
+4. Тынығу, жұмыс уақытының ұзақтығы, демалыс және мереке күндерi, ақы төленетін демалыс құқығына заңмен кепiлдiк беріледi.
+[text-ru]
+1. Каждый человек имеет право на труд, свободный выбор рода деятельности и профессии. Принудительный труд допускается на основании судебного акта о признании человека виновным в совершении уголовного или административного правонарушения либо в условиях чрезвычайного или военного положения.
+2. Республика Казахстан гарантирует право на условия труда, отвечающие требованиям безопасности и гигиены, на вознаграждение за труд без какой-либо дискриминации, а также на социальную защиту в соответствии с законом.
+3. Признается право на индивидуальные и коллективные трудовые споры с использованием установленных законом способов их разрешения.
+4. Право на отдых, продолжительность рабочего времени, выходные и праздничные дни, оплачиваемый отпуск гарантируется законом.
+[text-en]
+1. Every person has the right to work, free choice of type of activity and profession. Forced labor is allowed on the basis of a court act recognizing a person guilty of committing a criminal or administrative offense or under a state of emergency or martial law.
+2. The Republic of Kazakhstan guarantees the right to working conditions meeting safety and hygiene requirements, to remuneration for work without any discrimination, as well as to social protection in accordance with law.
+3. The right to individual and collective labor disputes with the use of methods established by law for their resolution is recognized.
+4. The right to rest, duration of working time, days off and holidays, paid leave is guaranteed by law.
+[explanation-kk]
+Әр адам жұмысы мен мамандығын өзі таңдайды. Жұмыс қауіпсіз болуы керек, еңбекақы кемсітусіз төленуі тиіс. Демалыс күндері мен ақылы демалысқа құқық заңмен қорғалады.
+[explanation-ru]
+Каждый сам выбирает работу и профессию. Работа должна быть безопасной, а зарплата – без дискриминации. Право на выходные и оплачиваемый отпуск защищено законом.
+[explanation-en]
+Everyone chooses their own job and profession. Work must be safe and pay must be free of discrimination. The right to days off and paid leave is protected by law.
+
+=== 28 | II
+[text-kk]
+1. Тұрғын үйге қол сұғуға болмайды. Сот шешiмiнсiз тұрғын үйден айыруға және шығарып жіберуге жол берiлмейдi. Тұрғын үйге басып кiруге, оны қарап-тексеруге, тiнтуге заңда белгіленген жағдайда және көзделген тәртiппен жол берiледi.
+2. Қазақстан Республикасында өз азаматтарын тұрғын үймен қамтамасыз етуге жағдай жасалады. Тұрғын үй соған мұқтаж азаматтардың заңда көрсетiлген санаттарына заңда белгіленген нормаларға сәйкес берiледi.
+[text-ru]
+1. Жилище неприкосновенно. Лишение жилища и выселение из него не допускаются, иначе как по решению суда. Проникновение в жилище, осуществление его осмотра и обыска допускаются в случаях и в порядке, установленных законом.
+2. В Республике Казахстан создаются условия для обеспечения ее граждан жильем. Указанным в законе категориям граждан, нуждающихся в жилье, оно предоставляется в соответствии с установленными законом нормами.
+[text-en]
+1. Housing is inviolable. Deprivation of housing and eviction from it are not allowed, except by a court decision. Entry into housing, its inspection and search are allowed in cases and in the manner established by law.
+2. In the Republic of Kazakhstan conditions are created to provide its citizens with housing. The categories of citizens specified in law who need housing are provided with it in accordance with the norms established by law.
+[explanation-kk]
+Тұрғын үйге қол сұғылмайды: адамды тек сот шешімімен шығаруға болады, ал үйге кіру мен тінту тек заңда көрсетілген жағдайда мүмкін.
+[explanation-ru]
+Жилище неприкосновенно: выселить человека можно только по решению суда, а войти и провести обыск – только в случаях, указанных в законе.
+[explanation-en]
+Your home is protected: you can be evicted only by a court decision, and entry or searches are allowed only in cases set by law.
+
+=== 29 | II
+[text-kk]
+1. Қазақстан Республикасы азаматтарының заңды түрде алған кез келген мүлкіне жеке меншiк құқығы бар.
+2. Меншiкке және мұрагерлiк құқыққа заңмен кепiлдік беріледі.
+3. Сот шешiмiнсiз ешкiмдi өз мүлкiнен айыруға болмайды. Заңмен көзделген айрықша жағдайда мемлекет мұқтажы үшiн мүлiкті мәжбүрлеп иеліктен шығаруға оның тең құны өтелген кезде жол беріледі.
+4. Қазақстан Республикасы кәсiпкерлiк қызмет бостандығы құқығына, өз мүлкiн кез келген заңды кәсiпкерлiк қызмет үшiн еркiн пайдалану құқығына кепілдік береді. Монополистiк қызмет заңмен реттеледi немесе шектеледi. Жосықсыз бәсекеге тыйым салынады.
+[text-ru]
+1. Граждане Республики Казахстан имеют право частной собственности на любое законно приобретенное имущество.
+2. Собственность и право наследования гарантируются законом.
+3. Никто не может быть лишен своего имущества, иначе как по решению суда. Принудительное отчуждение имущества для государственных нужд допускается в исключительных случаях, предусмотренных законом, при условии равноценного его возмещения.
+4. Республика Казахстан гарантирует право на свободу предпринимательской деятельности, свободное использование своего имущества для любой законной предпринимательской деятельности. Монополистическая деятельность регулируется или ограничивается законом. Недобросовестная конкуренция запрещена.
+[text-en]
+1. Citizens of the Republic of Kazakhstan have the right of private ownership of any lawfully acquired property.
+2. Property and the right of inheritance are guaranteed by law.
+3. No one can be deprived of his property, except by a court decision. Forced alienation of property for state needs is allowed in exceptional cases provided by law, subject to equivalent compensation.
+4. The Republic of Kazakhstan guarantees the right to freedom of entrepreneurial activity, free use of one's property for any lawful entrepreneurial activity. Monopolistic activity is regulated or restricted by law. Unfair competition is prohibited.
+[explanation-kk]
+Заңды түрде алынған мүлкіңіз қорғалады және оны мұраға қалдыруға болады. Оны тек сот шешімімен алуға болады. Кәсіпкерлік еркіндігіне кепілдік беріледі.
+[explanation-ru]
+Ваше законно полученное имущество защищено, его можно передать по наследству. Отнять его можно только по решению суда. Свобода предпринимательства гарантирована.
+[explanation-en]
+Lawfully acquired property is protected and can be inherited. It can be taken away only by a court decision. Freedom of enterprise is guaranteed.
+
+=== 30 | II
+[text-kk]
+1. Неке және отбасы, ана, әке мен бала мемлекет қорғауында болады.
+2. Неке – ер мен әйелдің мемлекет заңға сәйкес тіркеген ерікті және тең құқықты одағы.
+3. Балаға қамқорлық жасау және тәрбие беру – ата-ананың етене құқығы әрi мiндетi.
+4. Кәмелетке толған еңбекке қабiлеттi балалар еңбекке жарамсыз ата-анасына қамқорлық жасауға мiндеттi.
+[text-ru]
+1. Брак и семья, материнство, отцовство и детство находятся под защитой государства.
+2. Брак – добровольный и равноправный союз мужчины и женщины, зарегистрированный государством в соответствии с законом.
+3. Забота о детях и их воспитание – естественное право и обязанность родителей.
+4. Совершеннолетние трудоспособные дети обязаны заботиться о нетрудоспособных родителях.
+[text-en]
+1. Marriage and family, motherhood, fatherhood and childhood are under the protection of the state.
+2. Marriage is a voluntary and equal union of a man and a woman, registered by the state in accordance with law.
+3. Care for children and their upbringing is the natural right and duty of parents.
+4. Adult able-bodied children are obliged to care for disabled parents.
+[explanation-kk]
+Мемлекет отбасын, ана мен әкені және баланы қорғайды. Ата-ана балаларына қамқорлық жасайды, ал ересек балалар еңбекке жарамсыз ата-анасына қамқор болады.
+[explanation-ru]
+Государство защищает семью, материнство, отцовство и детство. Родители заботятся о детях, а взрослые дети – о нетрудоспособных родителях.
+[explanation-en]
+The state protects the family, motherhood, fatherhood and childhood. Parents care for their children, and adult children care for parents who cannot work.
+
+=== 31 | II
+[text-kk]
+1. Қазақстан Республикасының азаматына жалақы мен зейнетақының ең төмен мөлшеріне кепiлдiк берiледi, сондай-ақ жасына, науқастануына, мүгедектігіне, асыраушысынан айырылуына байланысты және өзге де заңды негiздер бойынша әлеуметтiк қамсыздандыруға кепiлдiк берiледi.
+2. Қазақстан Республикасында ерікті әлеуметтік сақтандыру, өзге де әлеуметтік қамсыздандыру нысандары, волонтерлік қызмет пен қайырымдылық қолдау табады.
+[text-ru]
+1. Гражданину Республики Казахстан гарантируются минимальный размер заработной платы и пенсии, социальное обеспечение по возрасту, болезни, инвалидности, потере кормильца и по иным законным основаниям.
+2. В Республике Казахстан поощряются добровольное социальное страхование, создание иных форм социального обеспечения, волонтерская деятельность и благотворительность.
+[text-en]
+1. A citizen of the Republic of Kazakhstan is guaranteed the minimum wage and pension, social security by age, illness, disability, loss of breadwinner and on other lawful grounds.
+2. In the Republic of Kazakhstan voluntary social insurance, the creation of other forms of social security, volunteer activity and charity are encouraged.
+[explanation-kk]
+Мемлекет ең төменгі жалақы мен зейнетақыға, сондай-ақ жасына, науқасына, мүгедектігіне және асыраушысынан айырылуына байланысты көмекке кепілдік береді.
+[explanation-ru]
+Государство гарантирует минимальную зарплату и пенсию, а также помощь по возрасту, болезни, инвалидности и потере кормильца.
+[explanation-en]
+The state guarantees a minimum wage and pension, as well as support in old age, illness, disability and loss of a breadwinner.
+
+=== 32 | II
+[text-kk]
+1. Қазақстан Республикасы азаматтарының денсаулығын сақтауға құқығы бар.
+2. Қазақстан Республикасының азаматтары заңда белгiленген медициналық көмекті ақы төлемей алуға құқылы.
+3. Мемлекеттік және жекеменшiк емдеу мекемелерiнде, сондай-ақ жеке медициналық практикамен айналысатын тұлғалардан ақылы медициналық көмек алу заңда белгiленген негiздерде және көзделген тәртiппен жүзеге асырылады.
+[text-ru]
+1. Граждане Республики Казахстан имеют право на охрану здоровья.
+2. Граждане Республики Казахстан вправе получать не оплачиваемую ими медицинскую помощь, установленную законом.
+3. Получение платной медицинской помощи в государственных и частных лечебных учреждениях, а также у лиц, занимающихся частной медицинской практикой, осуществляется на основаниях и в порядке, установленных законом.
+[text-en]
+1. Citizens of the Republic of Kazakhstan have the right to health protection.
+2. Citizens of the Republic of Kazakhstan have the right to receive medical assistance not paid by them, established by law.
+3. Receipt of paid medical assistance in state and private medical institutions, as well as from persons engaged in private medical practice, is carried out on the grounds and in the manner established by law.
+[explanation-kk]
+Азаматтардың денсаулығын сақтауға және заңда белгіленген көлемде тегін медициналық көмек алуға құқығы бар.
+[explanation-ru]
+Граждане имеют право на охрану здоровья и на бесплатную медицинскую помощь в объёме, установленном законом.
+[explanation-en]
+Citizens have the right to health protection and to free medical care to the extent set by law.
+
+=== 33 | II
+[text-kk]
+1. Қазақстан Республикасы азаматтарының мемлекеттік оқу орындарында ақы төлемей орта білім алуына кепiлдiк берiледi. Бастауыш және негізгі орта білім мiндеттi.
+2. Қазақстан Республикасы азаматының заңға сәйкес жоғары оқу орындарында жоғары білім алуға құқығы бар.
+3. Жекеменшік оқу орындарында ақылы білім алу заңда белгiленген негiздерде және көзделген тәртiппен жүзеге асырылады.
+4. Мемлекет жалпыға мiндеттi білім беру стандарттарын белгiлейдi. Барлық оқу орнының қызметi осы стандарттарға сәйкес келуге тиіс.
+5. Рухани (діни) білім беру ұйымдарын қоспағанда, Қазақстан Республикасының аумағындағы білім беру ұйымдарында білім мен тәрбие беру жүйесі зайырлы сипатқа ие.
+[text-ru]
+1. Гражданам Республики Казахстан гарантируется получение не оплачиваемого ими среднего образования в государственных учебных заведениях. Начальное и основное среднее образование обязательно.
+2. Гражданин Республики Казахстан имеет право на получение высшего образования в высших учебных заведениях в соответствии с законом.
+3. Получение платного образования в частных учебных заведениях осуществляется на основаниях и в порядке, установленных законом.
+4. Государство устанавливает общеобязательные стандарты образования. Деятельность всех учебных заведений должна соответствовать этим стандартам.
+5. Система образования и воспитания в организациях образования на территории Республики Казахстан носит светский характер, за исключением духовных (религиозных) организаций образования.
+[text-en]
+1. Citizens of the Republic of Kazakhstan are guaranteed the receipt of secondary education not paid by them in state educational institutions. Primary and basic secondary education is compulsory.
+2. A citizen of the Republic of Kazakhstan has the right to receive higher education in higher educational institutions in accordance with law.
+3. Receipt of paid education in private educational institutions is carried out on the grounds and in the manner established by law.
+4. The state establishes mandatory standards of education. The activity of all educational institutions must comply with these standards.
+5. The system of education and upbringing in educational organizations on the territory of the Republic of Kazakhstan is secular, except spiritual (religious) educational organizations.
+[explanation-kk]
+Мемлекеттік мектептерде орта білім тегін, ал бастауыш және негізгі орта білім міндетті. Жоғары білім алуға да құқық бар. Елдегі білім беру зайырлы.
+[explanation-ru]
+Среднее образование в государственных школах бесплатное, а начальное и основное среднее – обязательное. Есть право и на высшее образование. Образование в стране светское.
+[explanation-en]
+Secondary education in state schools is free, and primary and basic secondary education is compulsory. There is also a right to higher education. Education in the country is secular.
+
+=== 34 | II
+[text-kk]
+Қазақстан Республикасы азаматтарының бейбiт жиналысқа құқығы бар. Бұл құқықты пайдалану конституциялық құрылыс негіздерін, адамның және азаматтың құқықтары мен бостандықтарын қорғау, ұлттық қауіпсіздікті қамтамасыз ету, қоғамдық тәртіпті, азаматтардың денсаулығы мен қоғамның адамгершілік болмысын сақтау мақсатында заңмен шектелуі мүмкін.
+[text-ru]
+Граждане Республики Казахстан имеют право на мирные собрания. Пользование этим правом может ограничиваться законом в целях защиты основ конституционного строя, прав и свобод человека и гражданина, обеспечения национальной безопасности, охраны общественного порядка, здоровья граждан и нравственности общества.
+[text-en]
+Citizens of the Republic of Kazakhstan have the right to peaceful assemblies. The use of this right may be restricted by law for the purposes of protecting the foundations of the constitutional order, rights and freedoms of man and citizen, ensuring national security, protection of public order, health of citizens and morality of society.
+[explanation-kk]
+Азаматтар бейбіт жиналыс өткізуге құқылы. Заң бұл құқықты қауіпсіздік пен қоғамдық тәртіп үшін шектеуі мүмкін.
+[explanation-ru]
+Граждане вправе проводить мирные собрания. Закон может ограничить это право ради безопасности и общественного порядка.
+[explanation-en]
+Citizens have the right to hold peaceful assemblies. The law may limit this right for security and public order.
+
+=== 35 | II
+[text-kk]
+1. Қазақстан Республикасы азаматтарының тiкелей және өз өкiлдерi арқылы мемлекет iсiн басқаруға қатысуға, мемлекеттік органдар мен жергiлiктi өзiн-өзi басқару органдарына өзі жүгiнуге, сондай-ақ жеке және ұжымдық өтiнiш жолдауға құқығы бар.
+2. Қазақстан Республикасы азаматтарының мемлекеттік органдар мен жергiлiктi өзiн-өзi басқару органдарын сайлауға және оларға сайлануға, сондай-ақ жалпыхалықтық референдумға қатысуға құқығы бар. Жалпыхалықтық референдум өткізу тәртібі конституциялық заңда айқындалады.
+3. Сот әрекетке қабілетсіз деп таныған Қазақстан Республикасы азаматтарының, сондай-ақ сот үкімімен бас бостандығынан айыру орындарында жазасын өтеп жүрген Қазақстан Республикасы азаматтарының сайлауға, жалпыхалықтық референдумға қатысуға құқығы жоқ.
+Сот әрекетке қабілетсіз деп таныған Қазақстан Республикасы азаматтарының, сотталғандығы заңда белгіленген тәртіппен жойылмаған немесе алынбаған Қазақстан Республикасы азаматтарының, сондай-ақ сыбайлас жемқорлық қылмыс немесе сыбайлас жемқорлық құқық бұзушылық жасауға қатысты кінәсін сот заңда белгіленген тәртіппен таныған Қазақстан Республикасы азаматтарының сайлануға құқығы жоқ.
+4. Қазақстан Республикасы азаматтарының мемлекеттік қызметке кiруге тең құқығы бар. Мемлекеттік қызметшi лауазымына кандидатқа қойылатын талаптар заңға сәйкес лауазымдық мiндетінің сипатына ғана қатысты болады.
+[text-ru]
+1. Граждане Республики Казахстан имеют право участвовать в управлении делами государства непосредственно и через своих представителей, обращаться лично, а также направлять индивидуальные и коллективные обращения в государственные органы и органы местного самоуправления.
+2. Граждане Республики Казахстан имеют право избирать и быть избранными в государственные органы и органы местного самоуправления, а также участвовать во всенародных референдумах. Порядок проведения всенародного референдума определяется конституционным законом.
+3. Граждане Республики Казахстан, недееспособность которых признана судом, а также граждане Республики Казахстан, содержащиеся в местах лишения свободы по приговору суда, не вправе избирать, участвовать во всенародных референдумах.
+Граждане Республики Казахстан, недееспособность которых признана судом, граждане Республики Казахстан, имеющие судимость, которая не погашена или не снята в установленном законом порядке, а также граждане Республики Казахстан, вина которых в совершении коррупционного преступления или коррупционного правонарушения признана судом в установленном законом порядке, не вправе быть избранными.
+4. Граждане Республики Казахстан имеют равное право на доступ к государственной службе. Требования к кандидату на должность государственного служащего носят характер только должностных обязанностей в соответствии с законом.
+[text-en]
+1. Citizens of the Republic of Kazakhstan have the right to participate in the management of state affairs directly and through their representatives, to apply personally, as well as to send individual and collective appeals to state bodies and local self-government bodies.
+2. Citizens of the Republic of Kazakhstan have the right to elect and be elected to state bodies and local self-government bodies, as well as to participate in nationwide referendums. The procedure for holding a nationwide referendum is determined by constitutional law.
+3. Citizens of the Republic of Kazakhstan whose incapacity is recognized by court, as well as citizens of the Republic of Kazakhstan held in places of deprivation of liberty by a court sentence, are not entitled to elect, participate in nationwide referendums.
+Citizens of the Republic of Kazakhstan whose incapacity is recognized by court, citizens of the Republic of Kazakhstan having a conviction that has not been expunged or removed in the manner established by law, as well as citizens of the Republic of Kazakhstan whose guilt in committing a corruption crime or corruption offense is recognized by court in the manner established by law, are not entitled to be elected.
+4. Citizens of the Republic of Kazakhstan have an equal right to access to state service. Requirements to a candidate for the position of a state servant are only of the nature of official duties in accordance with law.
+[explanation-kk]
+Азаматтар елді басқаруға қатыса алады: дауыс береді, сайланады, референдумға қатысады және мемлекеттік органдарға жүгінеді. Ерекшеліктер бар, мысалы әрекетке қабілетсіз деп танылғандар мен жазасын өтеп жүргендер үшін.
+[explanation-ru]
+Граждане могут участвовать в управлении страной: голосовать, избираться, участвовать в референдумах и обращаться в госорганы. Есть исключения, например для признанных недееспособными и отбывающих наказание.
+[explanation-en]
+Citizens can take part in running the country: vote, stand for election, take part in referendums and appeal to state bodies. There are exceptions, for example for people declared legally incapable and those serving a sentence.
+
+=== 36 | II
+[text-kk]
+1. Әр адам Қазақстан Республикасының Конституциясы мен заңнамасын сақтауға, басқа адамдардың құқықтарын, бостандықтарын, ар-намысы мен қадiр-қасиетiн құрметтеуге мiндеттi.
+2. Әр адам Қазақстан Республикасының мемлекеттік рәміздерін құрметтеуге мiндеттi.
+[text-ru]
+1. Каждый человек обязан соблюдать Конституцию и законодательство Республики Казахстан, уважать права, свободы, честь и достоинство других лиц.
+2. Каждый человек обязан уважать государственные символы Республики Казахстан.
+[text-en]
+1. Every person is obliged to observe the Constitution and legislation of the Republic of Kazakhstan, respect the rights, freedoms, honor and dignity of other persons.
+2. Every person is obliged to respect the state symbols of the Republic of Kazakhstan.
+[explanation-kk]
+Әр адам Конституция мен заңдарды сақтауға, басқалардың құқықтары мен қадір-қасиетін және мемлекеттік рәміздерді құрметтеуге міндетті.
+[explanation-ru]
+Каждый обязан соблюдать Конституцию и законы, уважать права и достоинство других людей и государственные символы.
+[explanation-en]
+Everyone must follow the Constitution and laws and respect the rights and dignity of others and the state symbols.
+
+=== 37 | II
+[text-kk]
+1. Қазақстан Республикасының азаматтары табиғатты сақтауға және табиғи байлыққа ұқыпты қарауға міндетті.
+2. Мемлекет адамның өмiр сүруiне және денсаулығына қолайлы болатын қоршаған ортаны қорғауды мақсат етеді.
+3. Адам өмiрi мен денсаулығына, қоршаған ортаға қатер төндiретiн фактілерді, мән-жайларды лауазымды адамдардың жасыруы заңға сәйкес жауаптылыққа алып келеді.
+[text-ru]
+1. Граждане Республики Казахстан обязаны сохранять природу, бережно относиться к природным богатствам.
+2. Государство ставит целью охрану окружающей среды, благоприятной для жизни и здоровья человека.
+3. Сокрытие должностными лицами фактов и обстоятельств, угрожающих жизни и здоровью людей, окружающей среде, влечет ответственность в соответствии с законом.
+[text-en]
+1. Citizens of the Republic of Kazakhstan are obliged to preserve nature, carefully treat natural resources.
+2. The state sets as its goal the protection of the environment favorable for human life and health.
+3. Concealment by officials of facts and circumstances threatening the life and health of people, the environment entails liability in accordance with law.
+[explanation-kk]
+Азаматтар табиғатты сақтауға міндетті. Лауазымды адам өмірге, денсаулыққа немесе қоршаған ортаға қауіпті жасырса, жауапқа тартылады.
+[explanation-ru]
+Граждане обязаны беречь природу. Если должностное лицо скрывает опасность для жизни, здоровья или окружающей среды, оно несёт ответственность.
+[explanation-en]
+Citizens must protect nature. An official who hides a danger to life, health or the environment is held responsible.
+
+=== 38 | II
+[text-kk]
+Заңды түрде белгiленген салықтарды, алымдарды және өзге де мiндеттi төлемдердi төлеу – әр адамның борышы мен мiндетi.
+[text-ru]
+Уплата законно установленных налогов, сборов и иных обязательных платежей – долг и обязанность каждого человека.
+[text-en]
+Payment of legally established taxes, fees and other obligatory payments is the duty and obligation of every person.
+[explanation-kk]
+Заңда белгіленген салықтар мен алымдарды төлеу – әркімнің міндеті.
+[explanation-ru]
+Платить законно установленные налоги и сборы – обязанность каждого.
+[explanation-en]
+Paying lawfully established taxes and fees is everyone's duty.
+
+=== 39 | II
+[text-kk]
+1. Қазақстан Республикасын қорғау – оның әр азаматының қасиеттi парызы мен мiндетi.
+2. Қазақстан Республикасының азаматтары әскери қызметті заңда белгiленген түрде және көзделген тәртiппен өткереді.
+[text-ru]
+1. Защита Республики Казахстан – священный долг и обязанность каждого ее гражданина.
+2. Граждане Республики Казахстан несут воинскую службу в порядке и видах, установленных законом.
+[text-en]
+1. Defense of the Republic of Kazakhstan is the sacred duty and obligation of every its citizen.
+2. Citizens of the Republic of Kazakhstan perform military service in the procedure and types established by law.
+[explanation-kk]
+Қазақстанды қорғау – әр азаматтың парызы. Әскери қызмет заңда белгіленген тәртіппен өтеледі.
+[explanation-ru]
+Защищать Казахстан – долг каждого гражданина. Воинская служба проходит в порядке, установленном законом.
+[explanation-en]
+Defending Kazakhstan is the duty of every citizen. Military service is performed as set by law.
+
+=== 40 | II
+[text-kk]
+Қазақстан Республикасының азаматтары тарихи және мәдени мұраның сақталуына қамқор болуға, тарих пен мәдениет ескерткiштерiне ұқыпты қарауға мiндеттi.
+[text-ru]
+Граждане Республики Казахстан обязаны заботиться о сохранении исторического и культурного наследия, бережно относиться к памятникам истории и культуры.
+[text-en]
+Citizens of the Republic of Kazakhstan are obliged to care for the preservation of historical and cultural heritage, carefully treat monuments of history and culture.
+[explanation-kk]
+Азаматтар тарих пен мәдениет ескерткіштеріне ұқыпты қарауға міндетті.
+[explanation-ru]
+Граждане обязаны бережно относиться к памятникам истории и культуры.
+[explanation-en]
+Citizens must take care of historical and cultural monuments.
+
+=== 41 | II
+[text-kk]
+1. Адамның және азаматтың құқықтары мен бостандықтары конституциялық құрылыс негіздерін, адамның және азаматтың құқықтары мен бостандықтарын қорғау, ұлттық қауіпсіздікті қамтамасыз ету, қоғамдық тәртiптi, азаматтардың денсаулығы мен қоғамның адамгершілік болмысын сақтау мақсатында тек заңмен және қажетті шамада ғана шектелуi мүмкiн.
+2. Этносаралық және конфессияаралық татулықты бұзуға алып келетін әрекет конституциялық емес деп танылады.
+3. Азаматтардың құқықтары мен бостандықтарын саяси себептермен шектеуге жол берілмейді. Қазақстан Республикасы Конституциясының 12, 14, 16, 17, 20, 22, 25-баптарында көзделген құқықтар мен бостандықтар ешбір жағдайда шектелмеуге тиіс.
+[text-ru]
+1. Права и свободы человека и гражданина могут быть ограничены только законами и лишь в той мере, в какой это необходимо в целях защиты основ конституционного строя, прав и свобод человека и гражданина, обеспечения национальной безопасности, охраны общественного порядка, здоровья граждан и нравственности общества.
+2. Признаются неконституционными действия, способные нарушить межэтническое и межконфессиональное согласие.
+3. Не допускается ограничение прав и свобод граждан по политическим мотивам. Ни в каких случаях не подлежат ограничению права и свободы, предусмотренные статьями 12, 14, 16, 17, 20, 22, 25 Конституции Республики Казахстан.
+[text-en]
+1. Rights and freedoms of man and citizen may be restricted only by laws and only to the extent necessary for the purposes of protecting the foundations of the constitutional order, rights and freedoms of man and citizen, ensuring national security, protection of public order, health of citizens and morality of society.
+2. Actions capable of violating interethnic and interconfessional accord are recognized as unconstitutional.
+3. Restriction of the rights and freedoms of citizens on political grounds is not allowed. In no cases shall the rights and freedoms provided by articles 12, 14, 16, 17, 20, 22, 25 of the Constitution of the Republic of Kazakhstan be subject to restriction.
+[explanation-kk]
+Құқықтарды тек заңмен және қажет болғанда ғана шектеуге болады. Саяси себеппен шектеуге болмайды, ал 12, 14, 16, 17, 20, 22 және 25-баптардағы құқықтар ешқашан шектелмейді.
+[explanation-ru]
+Права можно ограничить только законом и только когда это необходимо. Ограничивать права по политическим мотивам нельзя, а права из статей 12, 14, 16, 17, 20, 22 и 25 не ограничиваются никогда.
+[explanation-en]
+Rights may be limited only by law and only when necessary. They may not be limited for political reasons, and the rights in Articles 12, 14, 16, 17, 20, 22 and 25 can never be limited.

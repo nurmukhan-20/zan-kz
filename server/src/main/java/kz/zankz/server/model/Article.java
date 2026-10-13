@@ -30,6 +30,9 @@ public class Article {
     @NotBlank(message = "Номер статьи обязателен")
     private String articleNumber;
 
+    // Раздел закона, например "I" или "II" (может быть пустым)
+    private String section;
+
     private String titleKk;
 
     @NotBlank(message = "Название на русском обязательно")
@@ -66,6 +69,9 @@ public class Article {
 
     public String getArticleNumber() { return articleNumber; }
     public void setArticleNumber(String articleNumber) { this.articleNumber = articleNumber; }
+
+    public String getSection() { return section; }
+    public void setSection(String section) { this.section = section; }
 
     public String getTitleKk() { return titleKk; }
     public void setTitleKk(String titleKk) { this.titleKk = titleKk; }

@@ -21,12 +21,23 @@ public class ArticleService {
         this.lawService = lawService;
     }
 
-    // Все статьи или только статьи одного закона
-    public List<Article> getAll(Long lawId) {
+    // Все статьи, статьи одного закона или одного раздела закона
+    public List<Article> getAll(Long lawId, String section) {
+        if (lawId != null && section != null && !section.isBlank()) {
+            return articleRepository.findByLawIdAndSectionOrderByIdAsc(lawId, section.trim());
+        }
         if (lawId != null) {
             return articleRepository.findByLawIdOrderByIdAsc(lawId);
         }
         return articleRepository.findAll();
+    }
+
+    // Поиск по номеру статьи или по слову. Пустой запрос — пустой результат
+    public List<Article> search(String query) {
+        if (query == null || query.isBlank()) {
+            return List.of();
+        }
+        return articleRepository.search(query.trim());
     }
 
     public Article getById(Long id) {
@@ -43,6 +54,7 @@ public class ArticleService {
     public Article update(Long id, Article data) {
         Article article = getById(id);
         article.setArticleNumber(data.getArticleNumber());
+        article.setSection(data.getSection());
         article.setTitleKk(data.getTitleKk());
         article.setTitleRu(data.getTitleRu());
         article.setTitleEn(data.getTitleEn());
@@ -63,10 +75,9 @@ public class ArticleService {
 
     // Проверяем, что указанный закон действительно есть в базе
     private Law findLaw(Article article) {
-        Long lawId = article.getLaw().getId();
-        if (lawId == null) {
+        if (article.getLaw() == null || article.getLaw().getId() == null) {
             throw new ResourceNotFoundException("Не указан номер закона");
         }
-        return lawService.getById(lawId);
+        return lawService.getById(article.getLaw().getId());
     }
 }

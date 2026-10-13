@@ -29,10 +29,17 @@ public class ArticleController {
         this.articleService = articleService;
     }
 
-    // Все статьи. С ?lawId=1 — только статьи этого закона
+    // Все статьи. ?lawId=1 — статьи закона, ?lawId=1&section=II — статьи раздела
     @GetMapping
-    public List<Article> getAll(@RequestParam(required = false) Long lawId) {
-        return articleService.getAll(lawId);
+    public List<Article> getAll(@RequestParam(required = false) Long lawId,
+            @RequestParam(required = false) String section) {
+        return articleService.getAll(lawId, section);
+    }
+
+    // Поиск: /api/articles/search?q=язык или ?q=17
+    @GetMapping("/search")
+    public List<Article> search(@RequestParam(required = false) String q) {
+        return articleService.search(q);
     }
 
     @GetMapping("/{id}")
