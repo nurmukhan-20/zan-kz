@@ -3,7 +3,7 @@ import { Linking, Pressable, ScrollView, StyleSheet, Text, View } from 'react-na
 import { Ionicons } from '@expo/vector-icons';
 import { api } from '../api';
 import { formatDate } from '../i18n';
-import { useT, useTheme, useTr } from '../store';
+import { useApp, useT, useTheme, useTr } from '../store';
 import Header from '../components/Header';
 import StatusView from '../components/StatusView';
 
@@ -13,9 +13,11 @@ export default function ArticleScreen({ navigation, route }) {
   const t = useT();
   const tr = useTr();
   const { id } = route.params;
+  const { user } = useApp();
 
   const [article, setArticle] = useState(null);
   const [status, setStatus] = useState('loading');
+  const [favorite, setFavorite] = useState(false);
 
   const load = useCallback(async () => {
     setStatus('loading');
@@ -31,6 +33,33 @@ export default function ArticleScreen({ navigation, route }) {
     load();
   }, [load]);
 
+  useEffect(() => {
+    if (!user) {
+      setFavorite(false);
+      return;
+    }
+    api.addHistory(user.token, id).catch(() => {});
+    api
+      .favorites(user.token)
+      .then((list) => setFavorite(list.some((item) => (item.article || item).id === id)))
+      .catch(() => {});
+  }, [user, id]);
+
+  const toggleFavorite = async () => {
+    if (!user) {
+      navigation.navigate('Login');
+      return;
+    }
+    const next = !favorite;
+    setFavorite(next);
+    try {
+      if (next) await api.addFavorite(user.token, id);
+      else await api.removeFavorite(user.token, id);
+    } catch (e) {
+      setFavorite(!next);
+    }
+  };
+
   const law = article ? article.law : null;
   const paragraphs = article ? tr(article, 'text').split('\n').filter(Boolean) : [];
   const explanation = article ? tr(article, 'explanation') : '';
@@ -41,6 +70,13 @@ export default function ArticleScreen({ navigation, route }) {
         title={article ? tr(article, 'title') : ''}
         subtitle={law ? tr(law, 'title') : ''}
         onBack={() => navigation.goBack()}
+        right={
+          article ? (
+            <Pressable style={s.star} onPress={toggleFavorite} hitSlop={8}>
+              <Ionicons name={favorite ? 'star' : 'star-outline'} size={22} color={c.primary} />
+            </Pressable>
+          ) : null
+        }
       />
 
       <StatusView status={status} onRetry={load} />
@@ -94,6 +130,10 @@ export default function ArticleScreen({ navigation, route }) {
 
 const makeStyles = (c) =>
   StyleSheet.create({
+    star: {
+      width: 42, height: 42, borderRadius: 21, backgroundColor: c.surface,
+      alignItems: 'center', justifyContent: 'center', marginLeft: 8,
+    },
     block: {
       padding: 16, borderRadius: 18, marginBottom: 12,
       backgroundColor: c.card, borderWidth: 1, borderColor: c.border,

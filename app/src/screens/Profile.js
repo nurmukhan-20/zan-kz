@@ -5,12 +5,19 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LANGUAGES } from '../i18n';
 import { useApp, useT, useTheme } from '../store';
 
-export default function ProfileScreen() {
+const ACCOUNT = {
+  kk: { title: 'Аккаунт', guest: 'Таңдаулылар мен тарихты сақтау үшін кіріңіз', login: 'Кіру / Тіркелу', history: 'Қаралған баптар', logout: 'Шығу', admin: 'Әкімші' },
+  ru: { title: 'Аккаунт', guest: 'Войдите, чтобы сохранять избранное и историю', login: 'Войти / Регистрация', history: 'История просмотров', logout: 'Выйти', admin: 'Администратор' },
+  en: { title: 'Account', guest: 'Sign in to save favorites and history', login: 'Sign in / Sign up', history: 'Viewing history', logout: 'Sign out', admin: 'Administrator' },
+};
+
+export default function ProfileScreen({ navigation }) {
   const c = useTheme();
   const s = makeStyles(c);
   const t = useT();
   const insets = useSafeAreaInsets();
-  const { lang, setLang, themeMode, setThemeMode } = useApp();
+  const { lang, setLang, themeMode, setThemeMode, user, setUser } = useApp();
+  const A = ACCOUNT[lang] || ACCOUNT.ru;
 
   return (
     <ScrollView
@@ -18,6 +25,40 @@ export default function ProfileScreen() {
       contentContainerStyle={{ padding: 16, paddingTop: insets.top + 12, paddingBottom: 32 }}
     >
       <Text style={s.title}>{t('tabProfile')}</Text>
+
+      {/* аккаунт */}
+      <Text style={s.section}>{A.title}</Text>
+      {user ? (
+        <View style={s.card}>
+          <View style={s.userRow}>
+            <View style={s.avatar}>
+              <Text style={s.avatarText}>{(user.name || user.email || '?').charAt(0).toUpperCase()}</Text>
+            </View>
+            <View style={{ flex: 1 }}>
+              <Text style={s.cardTitle}>{user.name || user.email}</Text>
+              <Text style={s.cardText}>{user.email}</Text>
+              {user.role === 'ADMIN' ? <Text style={s.role}>{A.admin}</Text> : null}
+            </View>
+          </View>
+          <Pressable style={s.menuRow} onPress={() => navigation.navigate('History')}>
+            <Ionicons name="time-outline" size={20} color={c.primary} />
+            <Text style={s.menuText}>{A.history}</Text>
+            <Ionicons name="chevron-forward" size={18} color={c.sub} />
+          </Pressable>
+          <Pressable style={s.menuRow} onPress={() => setUser(null)}>
+            <Ionicons name="log-out-outline" size={20} color={c.danger} />
+            <Text style={[s.menuText, { color: c.danger }]}>{A.logout}</Text>
+          </Pressable>
+        </View>
+      ) : (
+        <View style={s.card}>
+          <Text style={s.cardText}>{A.guest}</Text>
+          <Pressable style={s.loginButton} onPress={() => navigation.navigate('Login')}>
+            <Ionicons name="log-in-outline" size={20} color={c.onPrimary} />
+            <Text style={s.loginText}>{A.login}</Text>
+          </Pressable>
+        </View>
+      )}
 
       {/* язык */}
       <Text style={s.section}>{t('language')}</Text>
@@ -91,4 +132,21 @@ const makeStyles = (c) =>
     cardText: { color: c.sub, lineHeight: 20 },
     link: { flexDirection: 'row', alignItems: 'center', gap: 6, marginTop: 12 },
     linkText: { color: c.primary, fontWeight: '700' },
+    userRow: { flexDirection: 'row', alignItems: 'center', gap: 12, marginBottom: 6 },
+    avatar: {
+      width: 52, height: 52, borderRadius: 26, backgroundColor: c.primary,
+      alignItems: 'center', justifyContent: 'center',
+    },
+    avatarText: { color: c.onPrimary, fontSize: 22, fontWeight: '800' },
+    role: { color: c.primary, fontWeight: '700', fontSize: 12, marginTop: 2 },
+    menuRow: {
+      flexDirection: 'row', alignItems: 'center', gap: 10, paddingTop: 14, marginTop: 10,
+      borderTopWidth: 1, borderTopColor: c.border,
+    },
+    menuText: { flex: 1, color: c.text, fontWeight: '700', fontSize: 15 },
+    loginButton: {
+      flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, height: 48,
+      borderRadius: 16, backgroundColor: c.primary, marginTop: 12,
+    },
+    loginText: { color: c.onPrimary, fontWeight: '800', fontSize: 15 },
   });
