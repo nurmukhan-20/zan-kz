@@ -16,6 +16,8 @@ import CategoryScreen from './src/screens/Category';
 import LawScreen from './src/screens/Law';
 import ArticleScreen from './src/screens/Article';
 import RightsScreen from './src/screens/Rights';
+import GlossaryScreen from './src/screens/Glossary';
+import NotificationsScreen from './src/screens/Notifications';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -50,12 +52,7 @@ function Tabs() {
         initialParams={{ titleKey: 'tabFavorites', hideBack: true }}
         options={{ title: t('tabFavorites') }}
       />
-      <Tab.Screen
-        name="Glossary"
-        component={PlaceholderScreen}
-        initialParams={{ titleKey: 'tabGlossary', hideBack: true }}
-        options={{ title: t('tabGlossary') }}
-      />
+      <Tab.Screen name="Glossary" component={GlossaryScreen} options={{ title: t('tabGlossary') }} />
       <Tab.Screen name="Profile" component={ProfileScreen} options={{ title: t('tabProfile') }} />
     </Tab.Navigator>
   );
@@ -93,6 +90,7 @@ function Root() {
         <Stack.Screen name="Law" component={LawScreen} />
         <Stack.Screen name="Article" component={ArticleScreen} />
         <Stack.Screen name="Rights" component={RightsScreen} />
+        <Stack.Screen name="Notifications" component={NotificationsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

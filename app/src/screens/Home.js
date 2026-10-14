@@ -29,8 +29,6 @@ export default function HomeScreen({ navigation }) {
     load();
   }, [load]);
 
-  const soon = (titleKey) => navigation.navigate('Placeholder', { titleKey });
-
   return (
     <ScrollView
       style={{ flex: 1, backgroundColor: c.bg }}
@@ -45,7 +43,7 @@ export default function HomeScreen({ navigation }) {
           <Text style={s.appName}>{t('appName')}</Text>
           <Text style={s.subtitle}>{t('appSubtitle')}</Text>
         </View>
-        <Pressable style={s.iconButton} onPress={() => soon('notifications')}>
+        <Pressable style={s.iconButton} onPress={() => navigation.navigate('Notifications')}>
           <Ionicons name="notifications-outline" size={22} color={c.text} />
         </Pressable>
       </View>
