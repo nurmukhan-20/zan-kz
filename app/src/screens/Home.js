@@ -51,13 +51,13 @@ export default function HomeScreen({ navigation }) {
       </View>
 
       {/* большая строка поиска */}
-      <Pressable style={s.search} onPress={() => soon('search')}>
+      <Pressable style={s.search} onPress={() => navigation.navigate('Search')}>
         <Ionicons name="search" size={22} color={c.sub} />
         <Text style={s.searchText}>{t('searchPlaceholder')}</Text>
       </Pressable>
 
       {/* «Мои права» */}
-      <Pressable style={s.rights} onPress={() => soon('myRights')}>
+      <Pressable style={s.rights} onPress={() => navigation.navigate('Rights')}>
         <View style={s.rightsIcon}>
           <Ionicons name="shield-checkmark-outline" size={26} color={c.primary} />
         </View>
@@ -92,7 +92,7 @@ export default function HomeScreen({ navigation }) {
       {status === 'ok' ? (
         <View style={s.grid}>
           {categories.map((category) => (
-            <Pressable key={category.id} style={s.category} onPress={() => soon('categories')}>
+            <Pressable key={category.id} style={s.category} onPress={() => navigation.navigate('Category', { category })}>
               <View style={s.categoryIcon}>
                 <Ionicons name={category.icon || 'book-outline'} size={22} color={c.primary} />
               </View>

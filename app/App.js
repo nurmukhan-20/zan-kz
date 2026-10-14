@@ -11,6 +11,11 @@ import { AppProvider, useApp, useT, useTheme } from './src/store';
 import HomeScreen from './src/screens/Home';
 import ProfileScreen from './src/screens/Profile';
 import PlaceholderScreen from './src/screens/Placeholder';
+import SearchScreen from './src/screens/Search';
+import CategoryScreen from './src/screens/Category';
+import LawScreen from './src/screens/Law';
+import ArticleScreen from './src/screens/Article';
+import RightsScreen from './src/screens/Rights';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -83,6 +88,11 @@ function Root() {
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         <Stack.Screen name="Tabs" component={Tabs} />
         <Stack.Screen name="Placeholder" component={PlaceholderScreen} />
+        <Stack.Screen name="Search" component={SearchScreen} />
+        <Stack.Screen name="Category" component={CategoryScreen} />
+        <Stack.Screen name="Law" component={LawScreen} />
+        <Stack.Screen name="Article" component={ArticleScreen} />
+        <Stack.Screen name="Rights" component={RightsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
