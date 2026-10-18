@@ -1,0 +1,524 @@
+# Уголовный кодекс Республики Казахстан от 3 июля 2014 года № 226-V (выборочные статьи)
+# Источник: https://adilet.zan.kz/rus/docs/K1400000226
+# Тексты статей скопированы с официального сайта без изменений (сноски об изменениях убраны).
+# Статья 3 (словарь понятий) не включена — слишком длинная.
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Раздел (после |) — номер раздела Кодекса. Поля [title-..] — названия статей.
+
+=== 1 | 1
+[title-kk]
+Қазақстан Республикасының қылмыстық заңнамасы
+[title-ru]
+Уголовное законодательство Республики Казахстан
+[title-en]
+Criminal legislation of the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының қылмыстық заңнамасы Қазақстан Республикасының осы Қылмыстық кодексiнен тұрады. Қылмыстық жауаптылықты көздейтiн өзге заңдар осы Кодекске енгiзілгеннен кейiн ғана қолданылуға жатады.
+2. Осы Кодекс Қазақстан Республикасының Конституциясына және халықаралық құқықтың жалпыға бірдей танылған қағидаттары мен нормаларына негiзделедi. Қазақстан Республикасы Конституциясының жоғары заңдық күші бар және Қазақстан Республикасының барлық аумағында тікелей қолданылады. Осы Кодекс пен Қазақстан Республикасы Конституциясының нормалары арасында қайшылықтар болған жағдайда Конституцияның ережелері қолданылады. Осы Кодекстің Конституцияға сәйкес келмейді деп танылған, оның ішінде адамның және азаматтың Қазақстан Республикасының Конституциясында бекітілген құқықтары мен бостандықтарына нұқсан келтіретін нормалары қолданысын тоқтатады және қолданылмауға тиіс. Қазақстан Республикасы Конституциялық Соты мен Жоғарғы Сотының нормативтік қаулылары Қазақстан Республикасы қылмыстық заңнамасының құрамдас бөлігі болып табылады.
+3. Қазақстан Республикасы ратификациялаған халықаралық шарттар осы Кодекс алдында басымдыққа ие болады. Қазақстан Республикасы қатысушысы болып табылатын халықаралық шарттардың Қазақстан Республикасының аумағында қолданылу тәртібі мен талаптары Қазақстан Республиканың заңнамасында айқындалады.
+4. Осы Кодекске өзгерістер және (немесе) толықтырулар енгізу мынадай:
+1) Қазақстан Республикасының Қылмыстық-процестік кодексіне, Қазақстан Республикасының Қылмыстық-атқару кодексіне және Қазақстан Республикасының Әкімшілік құқық бұзушылық туралы кодексіне енгізілетін өзгерістерге және (немесе) толықтыруларға байланысты;
+2) қылмыстық жауаптылықты болғызбайтын;
+3) Қазақстан Республикасы Президентінің заң шығару бастамасы тәртібімен әзірленетін заң жобаларын қоспағанда, Қазақстан Республикасының басқа да заңдарына өзгерістер және (немесе) толықтырулар енгізу көзделмейтін заңмен жүзеге асырылады.
+[text-ru]
+1. Уголовное законодательство Республики Казахстан состоит из настоящего Уголовного кодекса Республики Казахстан. Иные законы, предусматривающие уголовную ответственность, подлежат применению только после их включения в настоящий Кодекс.
+2. Настоящий Кодекс основывается на Конституции Республики Казахстан и общепризнанных принципах и нормах международного права. Конституция Республики Казахстан имеет высшую юридическую силу и прямое действие на всей территории Республики Казахстан. В случае противоречий между нормами настоящего Кодекса и Конституции Республики Казахстан действуют положения Конституции. Нормы настоящего Кодекса, признанные не соответствующими Конституции, в том числе ущемляющими закрепленные Конституцией Республики Казахстан права и свободы человека и гражданина, прекращают свое действие и не подлежат применению. Нормативные постановления Конституционного Суда и Верховного Суда Республики Казахстан являются составной частью уголовного законодательства Республики Казахстан.
+3. Международные договоры, ратифицированные Республикой Казахстан, имеют приоритет перед настоящим Кодексом. Порядок и условия действия на территории Республики Казахстан международных договоров, участником которых является Республика Казахстан, определяются законодательством Республики Казахстан.
+4. Внесение изменений и (или) дополнений в настоящий Кодекс осуществляется законом, не предусматривающим внесение изменений и (или) дополнений в другие законы Республики Казахстан, за исключением проектов законов:
+1) связанных с изменениями и (или) дополнениями в Уголовно-процессуальный кодекс Республики Казахстан, Уголовно-исполнительный кодекс Республики Казахстан и Кодекс Республики Казахстан об административных правонарушениях;
+2) исключающих уголовную ответственность;
+3) разрабатываемых в порядке законодательной инициативы Президента Республики Казахстан.
+[text-en]
+1. Criminal legislation of the Republic of Kazakhstan consists of this Penal Code of the Republic of Kazakhstan. Other Laws, providing criminal responsibility shall subject to application only after their inclusion in this Code.
+2. This Code is based on the Constitution of the Republic of Kazakhstan and the universally recognized principles and norms of international law. The Constitution of the Republic of Kazakhstan has the highest legal force and direct effect throughout the territory of the Republic of Kazakhstan. In the event of contradictions between the provisions of this Code and the Constitution of the Republic of Kazakhstan, the provisions of the Constitution shall prevail. The provisions of this Code recognized as inconsistent with the Constitution, including those infringing human and civil rights and freedoms enshrined in the Constitution of the Republic of Kazakhstan, shall cease to have effect and shall not be applied. The normative resolutions of the Constitutional Court and the Supreme Court of the Republic of Kazakhstan are an integral part of the criminal legislation of the Republic of Kazakhstan.
+3. International treaties ratified by the Republic of Kazakhstan shall have the priority before this Code. The procedure and conditions of action on the territory of the Republic of Kazakhstan of international treaties, of which the Republic of Kazakhstan is a party, shall be determined by the legislation of the Republic of Kazakhstan.
+4. Amendments and/or additions to this Code shall be made by a law that does not provide for amendments and/or additions to other laws of the Republic of Kazakhstan, except for draft laws:
+1) related to amendments and/or additions to the Criminal Procedure Code of the Republic of Kazakhstan, the Penal Enforcement Code of the Republic of Kazakhstan, and the Code of the Republic of Kazakhstan on Administrative Offenses;
+2) excluding criminal liability;
+3) developed in the order of legislative initiative of the President of the Republic of Kazakhstan.
+[explanation-kk]
+Қылмыстық жауаптылық тек осы Кодексте ғана белгіленеді: басқа заң қылмыстық жаза енгізсе, ол алдымен осы Кодекске қосылуы керек. Кодекс Конституцияға негізделеді және оған қайшы келетін нормалары қолданылмайды.
+[explanation-ru]
+Уголовная ответственность устанавливается только этим Кодексом: если другой закон вводит уголовное наказание, его сначала нужно внести в Кодекс. Кодекс основан на Конституции, а нормы, которые ей противоречат, не применяются.
+[explanation-en]
+Criminal liability is set only by this Code: if another law introduces a criminal penalty, it must first be added to the Code. The Code is based on the Constitution, and provisions that contradict it are not applied.
+
+=== 2 | 1
+[title-kk]
+Қылмыстық кодекстiң мiндеттерi
+[title-ru]
+Задачи Уголовного кодекса
+[title-en]
+Objectives of the Penal Code
+[text-kk]
+1. Осы Кодекстiң мiндеттерi: адамның және азаматтың құқықтарын, бостандықтары мен заңды мүдделерiн, меншiктi, ұйымдардың құқықтары мен заңды мүдделерiн, қоғамдық тәртiп пен қауiпсiздiктi, қоршаған ортаны, Қазақстан Республикасының конституциялық құрылыс негіздері мен аумақтық тұтастығын, қоғам мен мемлекеттің заңмен қорғалатын мүдделерін қоғамға қауіпті қолсұғушылықтан қорғау, бейбiтшiлiк пен адамзат қауiпсiздiгiн сақтау, сондай-ақ қылмыстық құқық бұзушылықтардың алдын алу болып табылады.
+2. Бұл мiндеттердi жүзеге асыру үшiн осы Кодексте қылмыстық жауаптылық негізі белгiленеді, жеке адам, қоғам немесе мемлекет үшiн қандай қауiптi іс-әрекеттердің қылмыстық құқық бұзушылықтар, яғни қылмыстар немесе қылмыстық теріс қылықтар болып табылатыны айқындалады, оларды жасағаны үшiн жазалар мен өзге де қылмыстық-құқықтық ықпал ету шаралары белгiленедi.
+[text-ru]
+1. Задачами настоящего Кодекса являются: защита прав, свобод и законных интересов человека и гражданина, собственности, прав и законных интересов организаций, общественного порядка и безопасности, окружающей среды, основ конституционного строя и территориальной целостности Республики Казахстан, охраняемых законом интересов общества и государства от общественно опасных посягательств, охрана мира и безопасности человечества, а также предупреждение уголовных правонарушений.
+2. Для осуществления этих задач настоящий Кодекс устанавливает основание уголовной ответственности, определяет, какие опасные для личности, общества или государства деяния являются уголовными правонарушениями, то есть преступлениями или уголовными проступками, устанавливает наказания и иные меры уголовно-правового воздействия за их совершение.
+[text-en]
+1.The tasks of this Code are: the protection of the rights, freedoms, and lawful interests of a person and citizen, property, the rights and lawful interests of organizations, public order and security, the environment, the foundations of the constitutional order and the territorial integrity of the Republic of Kazakhstan, and the legally protected interests of society and the state from socially dangerous encroachments; the protection of peace and security of humankind; as well as the prevention of criminal offenses.
+2. To attain these objectives this Code shall establish the basis of criminal responsibility, determine which of the actions, dangerous for the individual, society and the state shall be criminal infractions, in other words crimes or criminal offences, provide for punishment and other measures of criminal and legal effect for their commission.
+[explanation-kk]
+Кодекстің мақсаты – адамдарды, меншікті, қоғамдық тәртіпті және мемлекетті қылмыстан қорғау және қылмыстың алдын алу. Ол үшін Кодекс қандай әрекет қылмыс екенін және оған қандай жаза берілетінін белгілейді.
+[explanation-ru]
+Задача Кодекса – защищать людей, собственность, общественный порядок и государство от преступлений и предупреждать их. Для этого Кодекс определяет, какие действия являются уголовными правонарушениями и какое за них наказание.
+[explanation-en]
+The Code's purpose is to protect people, property, public order and the state from crime and to prevent crime. To do this, it defines which acts are criminal offences and what punishment they carry.
+
+=== 4 | 1
+[title-kk]
+Қылмыстық жауаптылықтың негiзi
+[title-ru]
+Основание уголовной ответственности
+[title-en]
+Grounds of criminal responsibility
+[text-kk]
+Қылмыстық құқық бұзушылықтар жасау, яғни осы Кодексте көзделген қылмыс не қылмыстық теріс қылық құрамының барлық белгiлерi бар іс-әрекеттер қылмыстық жауаптылықтың бiрден-бiр негiзi болып табылады. Дәл сол бiр қылмыстық құқық бұзушылық үшiн ешкiмді де қылмыстық жауаптылыққа қайталап тартуға болмайды. Қылмыстық заңды ұқсастығы бойынша қолдануға жол берiлмейдi.
+[text-ru]
+Единственным основанием уголовной ответственности является совершение уголовного правонарушения, то есть деяния, содержащего все признаки состава преступления либо уголовного проступка, предусмотренного настоящим Кодексом. Никто не может быть подвергнут повторно уголовной ответственности за одно и то же уголовное правонарушение. Применение уголовного закона по аналогии не допускается.
+[text-en]
+The only ground of criminal responsibility is commission of criminal infraction, in other words the action that contains all the signs of component element of the crimes or criminal offence, provided by this Code. No one may be subject twice to criminal responsibility for the same criminal infraction. The application of criminal Law is not permitted by analogy.
+[explanation-kk]
+Адамды тек Кодексте көрсетілген құқық бұзушылық жасағаны үшін ғана жауапқа тартуға болады. Бір әрекет үшін екі рет жазалауға болмайды, ал заңды «ұқсастығы бойынша» қолдануға тыйым салынады.
+[explanation-ru]
+Привлечь к уголовной ответственности можно только за деяние, которое прямо указано в Кодексе. Дважды наказывать за одно и то же нельзя, а применять закон «по аналогии» запрещено.
+[explanation-en]
+A person can be held criminally liable only for an act expressly listed in the Code. No one can be punished twice for the same act, and applying the law 'by analogy' is forbidden.
+
+=== 5 | 1
+[title-kk]
+Қылмыстық заңның уақыт бойынша қолданылуы
+[title-ru]
+Действие уголовного закона во времени
+[title-en]
+An effect of criminal Law in time
+[text-kk]
+Іс-әрекеттiң қылмыстылығы мен жазаланушылығы сол іс-әрекет жасалған уақытта қолданыста болған заңмен айқындалады. Қоғамға қауiптi әрекет (әрекетсiздiк) жүзеге асырылған уақыт, зардаптардың туындаған уақытына қарамастан, қылмыстық құқық бұзушылық жасалған уақыт деп танылады.
+[text-ru]
+Преступность и наказуемость деяния определяются законом, действовавшим во время совершения этого деяния. Временем совершения уголовного правонарушения признается время осуществления общественно опасного действия (бездействия) независимо от времени наступления последствий.
+[text-en]
+Criminality and penalty of action shall be determined by the Law, effected during commission of this action. Time of commission of a criminal infraction shall be the time of implementation of socially dangerous action (omission) independent from the time of the consequences.
+[explanation-kk]
+Әрекеттің қылмыс екені және оның жазасы сол әрекет жасалған кезде қолданыста болған заң бойынша анықталады.
+[explanation-ru]
+Является ли поступок преступлением и какое за него наказание – определяется по закону, который действовал в момент его совершения.
+[explanation-en]
+Whether an act is a crime and what punishment it carries is decided by the law in force when the act was committed.
+
+=== 6 | 1
+[title-kk]
+Қылмыстық заңның керi күшi
+[title-ru]
+Обратная сила уголовного закона
+[title-en]
+Retroactive effect of the criminal Law
+[text-kk]
+1. Іс-әрекеттің қылмыстылығын немесе жазаланушылығын жоятын, қылмыстық құқық бұзушылық жасаған адамның жауаптылығын немесе жазасын жеңiлдететiн немесе жағдайын өзге де түрде жақсартатын заңның керi күшi болады, яғни осындай заң қолданысқа енгізілгенге дейiн тиiстi іс-әрекетті жасаған адамдарға, оның iшiнде жазасын өтеп жүрген немесе жазасын өтеген, бiрақ сотталғандығы бар адамдарға қолданылады.
+2. Егер жаңа қылмыстық заң адамның жазасын өтеп жүрген іс-әрекеті үшін жазаланушылықты жеңiлдетсе, онда тағайындалған жаза жаңадан шығарылған қылмыстық заң санкциясының шегiнде қысқартылуға жатады.
+3. Іс-әрекеттің қылмыстылығын немесе жазаланушылығын белгiлейтiн, осы іс-әрекеттi жасаған адамның жауаптылығын немесе жазасын күшейтетiн немесе жағдайын өзге де түрде нашарлататын заңның керi күшi болмайды.
+[text-ru]
+1. Закон, устраняющий преступность или наказуемость деяния, смягчающий ответственность или наказание, или иным образом улучшающий положение лица, совершившего уголовное правонарушение, имеет обратную силу, то есть распространяется на лиц, совершивших соответствующее деяние до введения такого закона в действие, в том числе на лиц, отбывающих наказание или отбывших наказание, но имеющих судимость.
+2. Если новый уголовный закон смягчает наказуемость деяния, за которое лицо отбывает наказание, то назначенное наказание подлежит сокращению в пределах санкции вновь изданного уголовного закона.
+3. Закон, устанавливающий преступность или наказуемость деяния, усиливающий ответственность или наказание, или иным образом ухудшающий положение лица, совершившего это деяние, обратной силы не имеет.
+[text-en]
+1. The Law, eliminating the crime or penalty of action, mitigating responsibility or punishment or otherwise improving the situation of person, committed a criminal infraction shall have a retroactive effect, in other words shall be applied to the persons, committed an appropriate action before introduction this Law into effect, as well as to the persons, serving the sentence or served sentence, but have a conviction.
+2. If a new criminal law mitigates the penalty of action, for which the person is serving a sentence, the imposed sentence shall be subject to reduction within the sanctions of newly issued criminal law.
+3. The Law, establishing the crime or penalty of action, strengthening the responsibility or punishment, or otherwise aggravating the situation of person, committed this action, shall not have a retroactive effect.
+[explanation-kk]
+Жазаны жеңілдететін жаңа заң бұрын жасалған әрекеттерге де қолданылады, тіпті жазасын өтеп жүрген адамдарға да. Ал жазаны күшейтетін заң кері күшке ие емес, яғни бұрынғы әрекеттерге қолданылмайды.
+[explanation-ru]
+Новый закон, который смягчает наказание, применяется и к тем, кто совершил деяние раньше, даже если человек уже отбывает наказание. А закон, который ужесточает наказание, назад не действует.
+[explanation-en]
+A new law that softens punishment also applies to acts committed earlier, even to people already serving a sentence. A law that makes punishment harsher does not apply retroactively.
+
+=== 7 | 1
+[title-kk]
+Қылмыстық заңның Қазақстан Республикасының аумағында қылмыстық құқық бұзушылық жасаған адамдарға қатысты қолданылуы
+[title-ru]
+Действие уголовного закона в отношении лиц, совершивших уголовное правонарушение на территории Республики Казахстан
+[title-en]
+Effect of criminal Law in relation of persons, committed a criminal infraction in the territory of the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының аумағында қылмыстық құқық бұзушылық жасаған адам осы Кодекс бойынша жауаптылыққа жатады.
+2. Қазақстан Республикасының аумағында басталған немесе жалғастырылған не аяқталған іс-әрекет Қазақстан Республикасының аумағында жасалған қылмыстық құқық бұзушылық деп танылады. Осы Кодекстiң күшi Қазақстан Республикасының континенттік қайраңында және айрықша экономикалық аймағында жасалған қылмыстық құқық бұзушылықтарға да қолданылады.
+3. Қазақстан Республикасының портына тiркелген және Қазақстан Республикасының шегiнен тыс ашық су немесе әуе кеңiстiгiнде жүрген кемеде қылмыстық құқық бұзушылық жасаған адам, егер Қазақстан Республикасының халықаралық шартында өзгеше көзделмесе, осы Кодекс бойынша қылмыстық жауаптылыққа жатады. Қазақстан Республикасының әскери кораблiнде немесе әскери әуе кемесiнде қылмыстық құқық бұзушылық жасаған адам да, өзінің қай жерде болғанына қарамастан, осы Кодекс бойынша қылмыстық жауаптылықта болады.
+4. Шет мемлекеттердiң дипломатиялық өкiлдерiнiң және иммунитеттi пайдаланатын өзге де азаматтардың қылмыстық жауаптылығы туралы мәселе осы адамдар Қазақстан Республикасының аумағында қылмыстық құқық бұзушылық жасаған жағдайда, халықаралық құқық нормаларына сәйкес шешiледi.
+[text-ru]
+1. Лицо, совершившее уголовное правонарушение на территории Республики Казахстан, подлежит ответственности по настоящему Кодексу.
+2. Уголовным правонарушением, совершенным на территории Республики Казахстан, признается деяние, которое начато или продолжилось либо было окончено на территории Республики Казахстан. Действие настоящего Кодекса распространяется также на уголовные правонарушения, совершенные на континентальном шельфе и в исключительной экономической зоне Республики Казахстан.
+3. Лицо, совершившее уголовное правонарушение на судне, приписанном к порту Республики Казахстан и находящемся в открытом водном или воздушном пространстве вне пределов Республики Казахстан, подлежит уголовной ответственности по настоящему Кодексу, если иное не предусмотрено международным договором Республики Казахстан. По настоящему Кодексу уголовную ответственность несет также лицо, совершившее уголовное правонарушение на военном корабле или военном воздушном судне Республики Казахстан, независимо от места его нахождения.
+4. Вопрос об уголовной ответственности дипломатических представителей иностранных государств и иных граждан, которые пользуются иммунитетом, в случае совершения этими лицами уголовного правонарушения на территории Республики Казахстан разрешается в соответствии с нормами международного права.
+[text-en]
+1. A person, committed a criminal infraction in the territory of the Republic of Kazakhstan shall subject to responsibility under this Code.
+2. A criminal infraction, committed in the territory of the Republic of Kazakhstan shall be recognized an action which was initiated or continued or was completed in the territory of the Republic of Kazakhstan. An effect of this Code shall be also applied to criminal infractions, committed on the continental shelf and in the exclusive economic zone of the Republic of Kazakhstan.
+3. A person, committed a criminal infraction on vessel, assigned to the port of the Republic of Kazakhstan and located in open water or air space outside of the Republic of Kazakhstan shall be subject to the criminal responsibility under this Code, unless otherwise provided by international treaty of the Republic of Kazakhstan. Under this Code, a person committed a criminal infraction on warship or military aircraft of the Republic of Kazakhstan, independent from its location shall also bear a criminal responsibility.
+4. The issue of criminal responsibility of diplomatic representatives of foreign states and other citizens who enjoy immunity, in the case of commission of criminal infraction by these persons in the territory of the Republic of Kazakhstan shall be resolved in accordance with regulations of international law.
+[explanation-kk]
+Қазақстан аумағында құқық бұзушылық жасаған кез келген адам осы Кодекс бойынша жауап береді. Бұл Қазақстанның тіркелген кемелері мен әуе кемелеріне де қатысты, ал дипломаттардың мәселесі халықаралық құқық бойынша шешіледі.
+[explanation-ru]
+Любой, кто совершил уголовное правонарушение на территории Казахстана, отвечает по этому Кодексу. Это касается и казахстанских судов и самолётов, а вопрос о дипломатах решается по международному праву.
+[explanation-en]
+Anyone who commits a criminal offence in Kazakhstan is liable under this Code. This also covers Kazakh ships and aircraft, while cases involving diplomats are decided under international law.
+
+=== 8 | 1
+[title-kk]
+Қылмыстық заңның Қазақстан Республикасының шегiнен тысқары жерде қылмыстық құқық бұзушылық жасаған адамдарға қатысты қолданылуы
+[title-ru]
+Действие уголовного закона в отношении лиц, совершивших уголовное правонарушение за пределами Республики Казахстан
+[title-en]
+An effect of criminal Law in relation of persons, committed a criminal infraction outside the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының шегiнен тысқары жерде қылмыстық құқық бұзушылық жасаған Қазақстан Республикасының азаматтары, егер олар жасаған іс-әрекет аумағында сол іс-әрекет жасалған мемлекетте қылмыстық жазаланады деп танылса және егер осы адамдар басқа мемлекетте сотталмаған болса, осы Кодекс бойынша қылмыстық жауаптылыққа жатады. Аталған адамдарды соттаған кезде жазаны аумағында қылмыстық құқық бұзушылық жасалған мемлекеттiң заңында көзделген санкцияның жоғары шегiнен асыруға болмайды. Қазақстан Республикасының аумағында жүрген шетел азаматтары мен азаматтығы жоқ адамдарды Қазақстан Республикасының халықаралық шартына сәйкес қылмыстық жауаптылыққа тарту немесе жазасын өтеу үшін шет мемлекетке беруге болмайтын жағдайларда, олар да осы негіздерде жауаптылықта болады.
+Осы Кодекстің ережелері, егер Қазақстан Республикасының халықаралық шартында өзгеше белгіленбесе, террористік немесе экстремистік қылмыс не бейбітшілік пен адамзат қауіпсіздігіне қарсы қылмыс жасалған жағдайларда, не Қазақстан Республикасының өмірлік маңызы бар мүдделеріне өзге де ауыр зиян келтіргені үшін қылмыстың жасалған жеріне қарамастан, Қазақстан Республикасының азаматтарына, Қазақстан Республикасының аумағында тұрақты тұратын азаматтығы жоқ адамдарға қатысты қолданылады.
+2. Адамның басқа мемлекеттiң аумағында сотталғандығының және қылмыстық жазаланатын іс-әрекет жасауының өзге де қылмыстық-құқықтық салдарының, егер Қазақстан Республикасының халықаралық шартында өзгеше көзделмесе немесе егер басқа мемлекеттiң аумағында жасалған қылмыстық жазаланатын іс-әрекет Қазақстан Республикасының ұлттық мүдделерiн қозғамаса, осы адамның Қазақстан Республикасының аумағында жасаған қылмыстық құқық бұзушылығы үшiн қылмыстық жауаптылығы туралы мәселенi шешу үшiн қылмыстық-құқықтық мәнi болмайды.
+3. Қазақстан Республикасының шегінен тысқары жерде орналасқан оның әскери бөлiмдерiнiң әскери қызметшiлерi шет мемлекеттiң аумағында жасаған қылмыстық құқық бұзушылықтар үшiн, егер Қазақстан Республикасының халықаралық шартында өзгеше көзделмесе, осы Кодекс бойынша қылмыстық жауаптылықта болады.
+4. Қазақстан Республикасының шегiнен тысқары жерде қылмыс жасаған, Қазақстан Республикасының аумағында тұрақты тұрмайтын шетел азаматтары, сондай-ақ азаматтығы жоқ адамдар, егер осы іс-әрекет Қазақстан Республикасының мүдделерiне қарсы бағытталған, сыбайлас жемқорлық қылмыс немесе экономикалық қызмет саласында қылмыс жасалған жағдайларда және Қазақстан Республикасының халықаралық шартында көзделген жағдайларда, егер олар басқа мемлекетте сотталмаған болса және Қазақстан Республикасының аумағында қылмыстық жауаптылыққа тартылатын болса, осы Кодекс бойынша қылмыстық жауаптылыққа жатады.
+[text-ru]
+1. Граждане Республики Казахстан, совершившие уголовное правонарушение за пределами Республики Казахстан, подлежат уголовной ответственности по настоящему Кодексу, если совершенное ими деяние признано уголовно наказуемым в государстве, на территории которого оно было совершено, и если эти лица не были осуждены в другом государстве. При осуждении указанных лиц наказание не может превышать верхнего предела санкции, предусмотренной законом того государства, на территории которого было совершено уголовное правонарушение. На тех же основаниях несут ответственность иностранные граждане и лица без гражданства, находящиеся на территории Республики Казахстан, в случаях, когда они не могут быть выданы иностранному государству для привлечения к уголовной ответственности или отбывания наказания в соответствии с международным договором Республики Казахстан.
+Положения настоящего Кодекса применяются независимо от места совершения преступления в отношении граждан Республики Казахстан, лиц без гражданства, постоянно проживающих на территории Республики Казахстан, в случаях совершения террористического или экстремистского преступления либо преступления против мира и безопасности человечества либо за причинение иного тяжкого вреда жизненно важным интересам Республики Казахстан, если иное не установлено международным договором Республики Казахстан.
+2. Судимость и иные уголовно-правовые последствия совершения лицом уголовно наказуемого деяния на территории другого государства не имеют уголовно-правового значения для решения вопроса об уголовной ответственности этого лица за уголовное правонарушение, совершенное на территории Республики Казахстан, если иное не предусмотрено международным договором Республики Казахстан или если совершенное на территории другого государства уголовно наказуемое деяние не затрагивало национальных интересов Республики Казахстан.
+3. Военнослужащие воинских частей Республики Казахстан, дислоцирующихся за ее пределами, за уголовные правонарушения, совершенные на территории иностранного государства, несут уголовную ответственность по настоящему Кодексу, если иное не предусмотрено международным договором Республики Казахстан.
+4. Иностранные граждане, а также лица без гражданства, постоянно не проживающие на территории Республики Казахстан, совершившие преступление за пределами Республики Казахстан, подлежат уголовной ответственности по настоящему Кодексу в случаях, если это деяние направлено против интересов Республики Казахстан, совершения коррупционного преступления или преступления в сфере экономической деятельности и в случаях, предусмотренных международным договором Республики Казахстан, если они не были осуждены в другом государстве и привлекаются к уголовной ответственности на территории Республики Казахстан.
+[text-en]
+1. Citizens of the Republic of Kazakhstan who have committed a criminal offense outside the Republic of Kazakhstan shall be subject to criminal liability under this Code if the act they committed is recognized as criminally punishable in the state on whose territory it was committed, and if these persons have not been convicted in another state. Upon conviction of the said persons, the punishment may not exceed the maximum limit of the sanction provided for by the law of the state on whose territory the criminal offense was committed. On the same grounds, foreign citizens and stateless persons staying in the territory of the Republic of Kazakhstan shall be liable in cases where they cannot be extradited to a foreign state for criminal prosecution or serving a sentence in accordance with an international treaty of the Republic of Kazakhstan.
+The provisions of this Code shall be applied regardless of the place of commission of the crime in respect of citizens of the Republic of Kazakhstan, stateless persons, permanently residing on the territory of the Republic of Kazakhstan, in cases of commission of a terroristic or extremist crime or crimes against the peace and security of mankind or for causing other grave harm to the vital interests of the Republic of Kazakhstan, unless otherwise established by an international treaty of the Republic of Kazakhstan.
+2. Conviction and other penal consequence of commission of criminally punishable action by person, in the territory of other state shall not have a criminal legal meaning for resolution of the issue on criminal responsibility of this person for criminal infraction, committed in the territory of the Republic of Kazakhstan, unless otherwise provided by international treaty of the Republic of Kazakhstan or if criminally punishable action, committed in the territory of other state is not affected the national interests of the Republic of Kazakhstan.
+3. Military servants of military units of the Republic of Kazakhstan, deployed outside shall bear a criminal responsibility under this Code for criminal infractions, committed in the territory of foreign state, unless otherwise provided by international treaty of the Republic of Kazakhstan.
+4. Foreign citizens, as well as stateless persons permanently not residing in the territory of the Republic of Kazakhstan, who have committed a crime outside the Republic of Kazakhstan, shall be subject to criminal liability under this Code in cases where the act is directed against the interests of the Republic of Kazakhstan, involves the commission of a corruption offense or an offense in the sphere of economic activity, and in cases provided for by an international treaty of the Republic of Kazakhstan, if they have not been convicted in another state and are prosecuted in the territory of the Republic of Kazakhstan.
+[explanation-kk]
+Шетелде құқық бұзушылық жасаған Қазақстан азаматы, егер бұл әрекет сол елде де қылмыс болса және ол жақта сотталмаса, осы Кодекс бойынша жауап береді. Терроризм мен экстремизм үшін жауаптылық қай жерде жасалғанына қарамастан туындайды.
+[explanation-ru]
+Гражданин Казахстана, совершивший правонарушение за границей, отвечает по этому Кодексу, если это деяние является преступлением и в той стране и он не был там осуждён. За терроризм и экстремизм отвечают независимо от места совершения.
+[explanation-en]
+A Kazakh citizen who commits an offence abroad is liable under this Code if the act is also a crime in that country and they were not convicted there. Liability for terrorism and extremism applies wherever the act was committed.
+
+=== 9 | 1
+[title-kk]
+Қылмыстық құқық бұзушылық жасаған адамдарды ұстап беру
+[title-ru]
+Выдача лиц, совершивших уголовное правонарушение
+[title-en]
+Extradition of persons, committed a criminal infraction
+[text-kk]
+1. Басқа мемлекеттiң аумағында қылмыстық құқық бұзушылық жасаған Қазақстан Республикасының азаматтары, егер Қазақстан Республикасының халықаралық шартында өзгеше белгiленбесе, ұстап беруге жатпайды.
+2. Қазақстан Республикасының шегiнен тысқары жерде қылмыс жасаған және Қазақстан Республикасының аумағында жүрген шетел азаматтары мен азаматтығы жоқ адамдар Қазақстан Республикасының халықаралық шартына сәйкес не өзара түсіністік қағидатында қылмыстық жауаптылыққа тарту немесе жазасын өтеу үшiн шет мемлекетке ұстап берiлуi мүмкiн.
+3. Ешкімді де шет мемлекетке, егер сол мемлекетте оған азаптау, зорлық-зомбылық, басқа да қатыгездік немесе адамдық қадір-қасиетін қорлайтындай жәбір көрсету немесе жазалау қатері бар деп пайымдауға айтарлықтай негіздер болса, сондай-ақ өлім жазасын қолдану қаупі жағдайында, егер Қазақстан Республикасының шарттарында өзгеше көзделмесе, ұстап беруге болмайды.
+[text-ru]
+1. Граждане Республики Казахстан, совершившие уголовное правонарушение на территории другого государства, не подлежат выдаче, если иное не установлено международным договором Республики Казахстан.
+2. Иностранные граждане и лица без гражданства, совершившие преступление за пределами Республики Казахстан и находящиеся на территории Республики Казахстан, могут быть выданы иностранному государству для привлечения к уголовной ответственности или отбывания наказания в соответствии с международным договором Республики Казахстан либо на принципе взаимности.
+3. Никто не может быть выдан иностранному государству, если существуют серьезные основания полагать, что ему в этом государстве может угрожать применение пыток, насилие, другое жестокое или унижающее человеческое достоинство обращение или наказание, а также в случае угрозы применения смертной казни, если иное не предусмотрено международными договорами Республики Казахстан.
+[text-en]
+1. Citizens of the Republic of Kazakhstan, committed a criminal infraction in the territory of other state shall not subject to extradition, unless otherwise established by international treaty of the Republic of Kazakhstan.
+2. Foreign citizens and stateless persons who have committed a crime outside the Republic of Kazakhstan and are present in the territory of the Republic of Kazakhstan may be extradited to a foreign state for criminal prosecution or serving a sentence in accordance with an international treaty of the Republic of Kazakhstan or on the basis of reciprocity.
+3. No one shall be extradited to a foreign State where there are serious grounds for believing that in this state he would be in danger of torture, violence or other cruel or degrading treatment or punishment, as well as in the case of a threat of the death penalty, unless otherwise provided by international treaties of the Republic Kazakhstan.
+[explanation-kk]
+Қазақстан өз азаматтарын шет мемлекетке бермейді (халықаралық шартта өзгеше болмаса). Егер адамды азаптау немесе өлім жазасы күтіп тұрса, ешкімді шетелге беруге болмайды.
+[explanation-ru]
+Казахстан не выдаёт своих граждан другим государствам, если иное не предусмотрено международным договором. Никого нельзя выдать в страну, где ему грозят пытки или смертная казнь.
+[explanation-en]
+Kazakhstan does not extradite its own citizens unless an international treaty provides otherwise. No one may be extradited to a country where they face torture or the death penalty.
+
+=== 10 | 2
+[title-kk]
+Қылмыс және қылмыстық теріс қылық ұғымдары
+[title-ru]
+Понятия преступления и уголовного проступка
+[title-en]
+The concept of crime and criminal offence
+[text-kk]
+1. Қылмыстық құқық бұзушылықтар қоғамға қауіптілік және жазаланушылық дәрежесіне қарай қылмыстар және қылмыстық теріс қылықтар болып бөлінеді.
+2. Осы Кодексте айыппұл салу, түзеу жұмыстары, қоғамдық жұмыстарға тарту, бас бостандығын шектеу немесе бас бостандығынан айыру түріндегі жазалау қатерімен тыйым салынған айыпты жасалған, қоғамға қауіпті іс-әрекет (әрекет немесе әрекетсіздік) қылмыс деп танылады.
+3. Қылмыстық теріс қылық деп қоғамға зор қауіп төндірмейтін, жеке адамға, ұйымға, қоғамға немесе мемлекетке болмашы зиян келтірген не зиян келтіру қатерін туғызған, оны жасағаны үшін айыппұл салу, түзеу жұмыстары, қоғамдық жұмыстарға тарту, қамаққа алу, шетел азаматын немесе азаматтығы жоқ адамды Қазақстан Республикасының шегінен тысқары жерге шығарып жіберу түріндегі жаза көзделген, айыпты жасалған іс-әрекет (әрекет не әрекетсіздік) танылады.
+4. Осы Кодекстiң Ерекше бөлiгiнде көзделген, формальды түрде, қандай да бiр іс-әрекеттiң белгiлерi бар, бірақ маңызы жағынан болмашы болғандықтан, қоғамға қауiп төндірмейтін әрекет немесе әрекетсiздiк қылмыстық құқық бұзушылық болып табылмайды.
+[text-ru]
+1. Уголовные правонарушения в зависимости от степени общественной опасности и наказуемости подразделяются на преступления и уголовные проступки.
+2. Преступлением признается совершенное виновно общественно опасное деяние (действие или бездействие), запрещенное настоящим Кодексом под угрозой наказания в виде штрафа, исправительных работ, привлечения к общественным работам, ограничения свободы или лишения свободы.
+3. Уголовным проступком признается совершенное виновно деяние (действие либо бездействие), не представляющее большой общественной опасности, причинившее незначительный вред либо создавшее угрозу причинения вреда личности, организации, обществу или государству, за совершение которого предусмотрено наказание в виде штрафа, исправительных работ, привлечения к общественным работам, ареста, выдворения за пределы Республики Казахстан иностранного гражданина или лица без гражданства.
+4. Не является уголовным правонарушением действие или бездействие, хотя формально и содержащее признаки какого-либо деяния, предусмотренного Особенной частью настоящего Кодекса, но в силу малозначительности не представляющее общественной опасности.
+[text-en]
+1. A criminal infractions shall be divided into crimes and criminal offences depending on the level of social danger and penalty.
+2. A culpably committed socially dangerous act (action or omission to act), prohibited by this Code under threat of punishment in the form of a fine, correctional labor, community service, restriction of liberty or imprisonment, shall be recognized as a crime.
+3. A criminal offense shall mean a culpable act (action or omission) that does not pose a high degree of public danger, has caused insignificant harm or created a threat of causing harm to an individual, an organization, society, or the state, for which the penalty provided is a fine, corrective labor, community service, arrest, or expulsion of a foreign citizen or stateless person from the territory of the Republic of Kazakhstan.
+4. Action or omission shall not be a criminal infraction, although formally containing the signs of any action, provided by the Special Part of this Code, but by virtue of insignificance not representing social danger.
+[explanation-kk]
+Қылмыстық құқық бұзушылықтар екі түрге бөлінеді: қылмыстар (ауырырақ) және қылмыстық теріс қылықтар (қауіптілігі аз, жазасы жеңілірек). Маңызы өте аз, ешкімге зиян келтірмеген әрекет құқық бұзушылық болып саналмайды.
+[explanation-ru]
+Уголовные правонарушения делятся на два вида: преступления (более серьёзные) и уголовные проступки (менее опасные, с более мягким наказанием). Малозначительное действие, не причинившее вреда, правонарушением не считается.
+[explanation-en]
+Criminal offences are of two kinds: crimes (more serious) and criminal misdemeanours (less dangerous, with milder penalties). A trivial act that caused no harm is not considered an offence.
+
+=== 11 | 2
+[title-kk]
+Қылмыс санаттары
+[title-ru]
+Категории преступлений
+[title-en]
+Categories of crimes
+[text-kk]
+1. Қылмыстар сипаты мен қоғамға қауiптiлiк дәрежесiне қарай онша ауыр емес қылмыстар, ауырлығы орташа қылмыстар, ауыр қылмыстар және аса ауыр қылмыстар деп бөлiнедi.
+2. Жасалғаны үшiн осы Кодексте көзделген ең ауыр жаза бас бостандығынан айыру екi жылдан аспайтын қасақана жасалған іс-әрекеттер, сондай-ақ жасалғаны үшiн осы Кодексте көзделген ең ауыр жаза бас бостандығынан айыру бес жылдан аспайтын абайсызда жасалған іс-әрекеттер онша ауыр емес қылмыстар деп танылады.
+3. Жасалғаны үшiн осы Кодексте көзделген ең ауыр жаза бас бостандығынан айыру бес жылдан аспайтын қасақана жасалған іс-әрекеттер, сондай-ақ жасалғаны үшiн бес жылдан астам мерзiмге бас бостандығынан айыру түрiндегi жаза көзделген абайсызда жасалған іс-әрекеттер ауырлығы орташа қылмыстар деп танылады.
+4. Жасалғаны үшiн осы Кодексте көзделген ең ауыр жаза бас бостандығынан айыру он екi жылдан аспайтын қасақана жасалған іс-әрекеттер ауыр қылмыстар деп танылады.
+5. Жасалғаны үшiн осы Кодексте он екi жылдан астам мерзiмге бас бостандығынан айыру немесе өмір бойына бас бостандығынан айыру түрiндегi жаза көзделген қасақана жасалған іс-әрекеттер аса ауыр қылмыстар деп танылады.
+[text-ru]
+1. Преступления в зависимости от характера и степени общественной опасности подразделяются на преступления небольшой тяжести, преступления средней тяжести, тяжкие преступления и особо тяжкие преступления.
+2. Преступлениями небольшой тяжести признаются умышленные деяния, за совершение которых максимальное наказание, предусмотренное настоящим Кодексом, не превышает двух лет лишения свободы, а также неосторожные деяния, за совершение которых максимальное наказание, предусмотренное настоящим Кодексом, не превышает пяти лет лишения свободы.
+3. Преступлениями средней тяжести признаются умышленные деяния, за совершение которых максимальное наказание, предусмотренное настоящим Кодексом, не превышает пяти лет лишения свободы, а также неосторожные деяния, за совершение которых предусмотрено наказание в виде лишения свободы на срок свыше пяти лет.
+4. Тяжкими преступлениями признаются умышленные деяния, за совершение которых максимальное наказание, предусмотренное настоящим Кодексом, не превышает двенадцати лет лишения свободы.
+5. Особо тяжкими преступлениями признаются умышленные деяния, за совершение которых настоящим Кодексом предусмотрено наказание в виде лишения свободы на срок свыше двенадцати лет или пожизненного лишения свободы.
+[text-en]
+1. The crimes shall be divided into crimes of little gravity, crimes of average gravity, grievous crime and especially grave crimes depending on the nature and level of social danger.
+2. Crimes of little gravity shall be recognized as intentional actions, for commission of which the maximum punishment, provided by this Code, not exceeds two years of imprisonment, as well as reckless actions, for commission of which this Code provides the maximum punishment, not exceeding five years of imprisonment.
+3. Crimes of average gravity shall be recognized as intentional actions, for commission of which the maximum punishment, provided by this Code, not exceeds two years of imprisonment, as well as reckless actions, for commission of which is provided a punishment in the form of imprisonment for the term of over five years.
+4. Grievous crimes shall be recognized as intentional actions, for commission of which this Code provides the maximum punishment, not exceeding twelve years of imprisonment.
+5. Intentional acts, for the commission of which this Code provides for punishment in the form of imprisonment for a term of more than twelve years or life imprisonment, shall be recognized as especially grave crimes.
+[explanation-kk]
+Қылмыстар ауырлығына қарай төрт санатқа бөлінеді: онша ауыр емес (2 жылға дейін), орташа (5 жылға дейін), ауыр (12 жылға дейін) және аса ауыр (12 жылдан астам немесе өмір бойы бас бостандығынан айыру).
+[explanation-ru]
+Преступления делятся на четыре категории по тяжести: небольшой тяжести (до 2 лет лишения свободы), средней тяжести (до 5 лет), тяжкие (до 12 лет) и особо тяжкие (свыше 12 лет или пожизненное лишение свободы).
+[explanation-en]
+Crimes fall into four categories by gravity: minor (up to 2 years in prison), medium (up to 5 years), grave (up to 12 years) and especially grave (over 12 years or life imprisonment).
+
+=== 12 | 2
+[title-kk]
+Қылмыстық құқық бұзушылықтардың бiрнеше рет жасалуы
+[title-ru]
+Неоднократность уголовных правонарушений
+[title-en]
+Repeated criminal infractions
+[text-kk]
+1. Осы Кодекстiң Ерекше бөлiгiнiң дәл сол бiр бабында немесе бабының бөлiгiнде көзделген екi немесе одан да көп іс-әрекеттi жасау қылмыстық құқық бұзушылықтардың бiрнеше рет жасалуы деп танылады. Қылмыс және қылмыстық теріс қылық өзара бірнеше рет жасалуды құрамайды.
+2. Егер адам бұрын жасаған қылмыстық құқық бұзушылығы үшін сотталған не заңда белгіленген негіздер бойынша қылмыстық жауаптылықтан босатылған болса, қылмыстық құқық бұзушылық бірнеше рет жасалған деп танылмайды.
+3. Жалғасатын қылмыстық құқық бұзушылық, яғни бiр пиғылмен және бiр мақсатпен ұштасып, тұтас алғанда бiр қылмыстық құқық бұзушылықты құрайтын, құқыққа қарсы бiрқатар бiрдей іс-әрекеттерден тұратын қылмыстық құқық бұзушылық бiрнеше рет жасалған қылмыстық құқық бұзушылық деп танылмайды.
+4. Қылмыстардың бірнеше рет жасалуы осы Кодексте неғұрлым қатаң жазаға әкеп соғатын мән-жай ретiнде көзделген жағдайларда, адамның жасаған қылмыстары осы Кодекстiң Ерекше бөлiгiнiң қылмыстарды бiрнеше рет жасағаны үшiн жаза көзделетiн бабының тиiстi бөлiгi бойынша сараланады.
+5. Қылмыстық теріс қылықтардың бірнеше рет жасалуы осы Кодексте неғұрлым қатаң жазаға әкеп соғатын мән-жай ретiнде көзделген жағдайларда, адамның жасаған қылмыстық теріс қылықтары осы Кодекстiң Ерекше бөлiгiнiң қылмыстық теріс қылықтарды бiрнеше рет жасағаны үшiн жаза көзделетiн бабының тиiстi бөлiгi бойынша сараланады.
+[text-ru]
+1. Неоднократностью уголовных правонарушений признается совершение двух или более деяний, предусмотренных одной и той же статьей или частью статьи Особенной части настоящего Кодекса. Преступление и уголовный проступок не образуют между собой неоднократность.
+2. Уголовное правонарушение не признается совершенным неоднократно, если за ранее совершенное уголовное правонарушение лицо было осуждено либо освобождено от уголовной ответственности по основаниям, установленным законом.
+3. Не признается неоднократным продолжаемое уголовное правонарушение, то есть уголовное правонарушение, состоящее из ряда одинаковых противоправных деяний, которые охватываются едиными умыслом и целью и образуют в целом одно уголовное правонарушение.
+4. В случаях, когда неоднократность преступлений предусмотрена настоящим Кодексом в качестве обстоятельства, влекущего за собой более строгое наказание, совершенные лицом преступления квалифицируются по соответствующей части статьи Особенной части настоящего Кодекса, предусматривающей наказание за неоднократность преступлений.
+5. В случаях, когда неоднократность уголовных проступков предусмотрена настоящим Кодексом в качестве обстоятельства, влекущего за собой более строгое наказание, совершенные лицом уголовные проступки квалифицируются по соответствующей части статьи Особенной части настоящего Кодекса, предусматривающей наказание за неоднократность уголовных проступков.
+[text-en]
+1. Repeated criminal infractions shall be recognized as commission of two or more actions, provided by the same Article or part of Article of Special part of this Code. A crime and criminal offence shall not form between them repeatedly.
+2. Criminal infraction shall not be recognized as committed repeatedly, if for previously committed criminal infraction a person has been convicted or released from criminal responsibility on the grounds established by the Law.
+3. Continued criminal offense shall not be recognized as repeated, in other words a criminal infraction, consisting of the number of similar unlawful actions that are covered by common intent and purpose and form a whole one criminal infraction.
+4. In the cases, when repeatedly of crimes is provided by this Code as circumstance, entailing extended sentence, the crimes committed by person shall be qualified on the relevant part of Article of Special part of this Code, providing a punishment for repeated crimes.
+5. In the cases, when repeatedly of criminal offences is provided by this Code as circumstance, entailing extended punishment, the criminal offences committed by person shall be qualified on the relevant part of Article of Special part of this Code, providing a punishment for repeated criminal offences.
+[explanation-kk]
+Бір баптағы құқық бұзушылықты екі немесе одан көп рет жасау – бірнеше рет жасау деп аталады. Егер адам бұрынғысы үшін сотталған болса немесе бұл бір ниетпен жасалған бір әрекеттің бөліктері болса, ол бірнеше рет деп саналмайды.
+[explanation-ru]
+Неоднократность – это когда человек совершает два или более одинаковых правонарушения по одной статье. Если за прежнее он уже осуждён или это части одного продолжаемого деяния, неоднократности нет.
+[explanation-en]
+Repetition means committing two or more offences under the same article. It does not count if the person was already convicted for the earlier one or if the acts are parts of one continuing offence.
+
+=== 13 | 2
+[title-kk]
+Қылмыстық құқық бұзушылықтар жиынтығы
+[title-ru]
+Совокупность уголовных правонарушений
+[title-en]
+A set of criminal infractions
+[text-kk]
+1. Осы Кодекстiң түрлi баптарында немесе баптарының бөлiктерiнде көзделген, адам солардың бiрде-бiреуi үшiн сотталмаған немесе заңмен белгiленген негiздер бойынша қылмыстық жауаптылықтан босатылмаған екi немесе одан да көп іс-әрекеттi жасау, қылмыстық құқық бұзушылықтардың жиынтығы деп танылады. Қылмыстық құқық бұзушылықтардың жиынтығы кезінде адам, егер осы іс-әрекеттердiң белгiлерi осы Кодекстiң бiр бабының немесе бабының бiр бөлiгiнiң неғұрлым қатаң жазаны көздейтiн нормасында қамтылмаған болса, әрбiр жасалған іс-әрекет үшiн осы Кодекстiң тиiстi бабы немесе бабының бөлiгi бойынша қылмыстық жауаптылықта болады.
+2. Осы Кодекстiң екi немесе одан да көп бабында көзделген қылмыстық құқық бұзушылықтардың белгiлерi бар бiр әрекет (әрекетсiздiк) те қылмыстық құқық бұзушылықтардың жиынтығы деп танылады. Қылмыстардың мұндай жиынтығы кезінде адам, егер бiр іс-әрекеттiң белгiлерi осы Кодекс бабының басқа іс-әрекет үшiн неғұрлым қатаң жазаны көздейтiн нормасында қамтылмаған болса, әрбiр жасалған іс-әрекет үшiн осы Кодекстің тиiстi баптары бойынша қылмыстық жауаптылықта болады.
+3. Егер дәл сол бір іс-әрекет осы Кодекстiң тиiстi баптарының жалпы және арнайы нормаларының белгiлерiне сәйкес келсе, қылмыстық құқық бұзушылықтардың жиынтығы болмайды және қылмыстық жауаптылық осы Кодекстiң Ерекше бөлiгiнiң арнайы норманы қамтитын бабы бойынша туындайды.
+[text-ru]
+1. Совокупностью уголовных правонарушений признается совершение двух или более деяний, предусмотренных различными статьями или частями статьи настоящего Кодекса, ни за одно из которых лицо не было осуждено или не было освобождено от уголовной ответственности по основаниям, установленным законом. При совокупности уголовных правонарушений лицо несет уголовную ответственность за каждое совершенное деяние по соответствующей статье или части статьи настоящего Кодекса, если признаки этих деяний не охватываются нормой одной статьи или части статьи настоящего Кодекса, предусматривающей более строгое наказание.
+2. Совокупностью уголовных правонарушений признается и одно действие (бездействие), содержащее признаки уголовных правонарушений, предусмотренных двумя или более статьями настоящего Кодекса. При такой совокупности лицо несет уголовную ответственность за каждое совершенное деяние по соответствующим статьям настоящего Кодекса, если признаки одного деяния не охватываются нормой статьи настоящего Кодекса, предусматривающей более строгое наказание за другое деяние.
+3. Если одно и то же деяние подпадает под признаки общей и специальной норм соответствующих статей настоящего Кодекса, совокупность уголовных правонарушений отсутствует и уголовная ответственность наступает по статье Особенной части настоящего Кодекса, содержащей специальную норму.
+[text-en]
+1. A set of criminal infractions shall be recognized as commission of two or more actions, provided by various Articles or parts of Article of this Code, for neither of which a person was not convicted or released from criminal responsibility on the grounds, established by the Law. Upon combination of criminal infractions a person shall bear a criminal responsibility for each committed action on the relevant Article or part of Article of this Code, if the signs of these actions are not covered by regulation of one Article of part of Article of this Code, providing an extended sentence.
+2. A set of criminal infractions shall be recognized as one action (omission), containing the signs of criminal infractions, provided by two or more Articles of this Code. Upon such combination a person shall bear a criminal responsibility for each committed action on the relevant Articles of this Code, if the signs of one action are not covered by the regulation of Article of this Code, providing an extended sentence for another action.
+3. If the same action falls within the signs of general and special regulations of relevant Articles of this Code, a set of criminal infractions is absent and criminal responsibility arises under the Article of Special Part of this Code containing the special regulation.
+[explanation-kk]
+Жиынтық – адамның бірнеше түрлі құқық бұзушылық жасауы, оның ешқайсысы үшін әлі сотталмаған. Мұндай жағдайда ол әр құқық бұзушылық үшін бөлек жауап береді.
+[explanation-ru]
+Совокупность – это когда человек совершил несколько разных правонарушений и ни за одно ещё не осуждён. В этом случае он отвечает за каждое из них по своей статье.
+[explanation-en]
+Accumulation is when a person commits several different offences and has not yet been convicted for any of them. In that case they are liable for each offence under its own article.
+
+=== 14 | 2
+[title-kk]
+Қылмыстардың қайталануы, қылмыстардың қауіпті қайталануы
+[title-ru]
+Рецидив преступлений, опасный рецидив преступлений
+[title-en]
+Repetition of crimes, dangerous repetition of crimes
+[text-kk]
+1. Егер адам бұрын ауыр қылмыс жасағаны үшiн бас бостандығынан айыруға сотталған болса, осы адамның ауыр қылмыс жасауы қылмыстардың қайталануы деп танылады.
+2. Қылмыстардың қауіпті қайталануы деп адамның:
+1) егер осы адам бұрын ауыр қылмыс жасағаны үшін екі рет бас бостандығынан айыруға сотталса немесе аса ауыр қылмысы үшін сотталған болса, ауыр қылмыс жасағаны;
+2) егер ол бұрын ауыр немесе аса ауыр қылмысы үшін бас бостандығынан айыруға сотталған болса, аса ауыр қылмыс жасағаны танылады.
+3. Он сегiз жасқа дейінгі адамның жасаған қылмыстары үшін сотталғандық, сондай-ақ осы Кодексте белгіленген тәртіппен алып тасталған немесе жойылған сотталғандық қылмыстардың қайталануын және қылмыстардың қауіпті қайталануын тану кезінде есепке алынбайды.
+4. Қылмыстардың қайталануы және қылмыстардың қауіпті қайталануы осы Кодексте көзделген негiздер мен шектерде неғұрлым қатаң жазаға әкеп соғады.
+[text-ru]
+1. Рецидивом преступлений признается совершение лицом тяжкого преступления, если ранее это лицо осуждалось к лишению свободы за совершение тяжкого преступления.
+2. Опасным рецидивом преступлений признается совершение лицом:
+1) тяжкого преступления, если ранее это лицо дважды осуждалось к лишению свободы за совершение тяжкого преступления или было осуждено за особо тяжкое преступление;
+2) особо тяжкого преступления, если ранее оно было осуждено к лишению свободы за тяжкое или особо тяжкое преступление.
+3. Судимости за преступления, совершенные лицом в возрасте до восемнадцати лет, а также судимости, снятые или погашенные в порядке, установленном настоящим Кодексом, не учитываются при признании рецидива преступлений и опасного рецидива преступлений.
+4. Рецидив преступлений и опасный рецидив преступлений влекут более строгое наказание на основании и в пределах, предусмотренных настоящим Кодексом.
+[text-en]
+1. Repetition of crimes shall be recognized as commission of grievous crime by person, if previously this person is convicted to imprisonment for commission of grievous crime.
+2. Dangerous repetition of crimes shall be recognized as commission by person:
+1) grievous crime, if previously this person is convicted twice to imprisonment for commission of grievous crime or was convicted for especially grave crime;
+2) especially grave crime, if previously he (she) was convicted to imprisonment for grievous or especially grave crime.
+3. Convictions for the crimes, committed by person aged up to eighteen years, as well as the convictions, released or canceled in the manner, established by this Code shall not be considered upon recognition a repetition of crimes and dangerous repetition of crimes.
+4. Repetition of crimes and dangerous repetition of crimes shall involve an extended sentence on the grounds and within provided by this Code.
+[explanation-kk]
+Қайталану – бұрын ауыр қылмыс үшін сотталған адамның жаңа ауыр қылмыс жасауы, ал қауіпті қайталану одан да қатаң жағдай. Мұндай жағдайда жаза қатаңырақ болады, бірақ 18 жасқа дейінгі соттылық есептелмейді.
+[explanation-ru]
+Рецидив – это когда человек, ранее осуждённый за тяжкое преступление, снова совершает тяжкое преступление, а опасный рецидив – ещё более серьёзный случай. За рецидив наказание строже, но судимости до 18 лет не учитываются.
+[explanation-en]
+Recidivism is when a person previously convicted of a grave crime commits another grave crime; dangerous recidivism is an even more serious case. It leads to harsher punishment, but convictions before age 18 are not counted.
+
+=== 15 | 2
+[title-kk]
+Қылмыстық жауаптылыққа жататын адамдар
+[title-ru]
+Лица, подлежащие уголовной ответственности
+[title-en]
+Persons subject to criminal responsibility
+[text-kk]
+1. Қылмыстық құқық бұзушылық жасаған уақытта он алты жасқа толған есi дұрыс жеке тұлға қылмыстық жауаптылыққа жатады.
+2. Қылмыс жасаған уақытта он төрт жасқа толған адамдардың адам өлтiргенi (99-бап), денсаулыққа қасақана ауыр зиян келтiргенi (106-бап), ауырлататын мән-жайлар кезiнде денсаулыққа қасақана ауырлығы орташа зиян келтiргенi (107-баптың екiншi бөлiгі), зорлағаны (120-бап), сексуалдық сипаттағы зорлық-зомбылық әрекеттерi (121-бап), адам ұрлағаны (125-бап), халықаралық қорғауды пайдаланатын адамдарға немесе ұйымдарға шабуыл жасағаны (173-бап), әлеуметтiк, ұлттық, этностық, нәсiлдiк немесе дiни алауыздықты қоздырғаны (174-бап), Қазақстан Республикасы экс-Президентінің өміріне қолсұғушылық (177-бап), Қазақстан Республикасы Президентінің өміріне қолсұғушылық (178-бап), диверсия (184-бап), ұрлық (188-баптың екінші, үшінші және төртінші бөліктері), мал ұрлау (188-1-баптың екінші, үшінші және төртінші бөліктері), тонау (191-баптың екінші, үшінші және төртінші бөліктері), қарақшылық (192-бап), қорқытып алушылық (194-баптың екінші, үшінші және төртінші бөліктері), ауырлататын мән-жайлар кезiнде автомобильдi немесе өзге де көлiк құралын жымқыру мақсатынсыз құқыққа сыйымсыз иеленіп алғаны (200-баптың екiншi, үшiншi және төртiншi бөлiктерi), ауырлататын мән-жайлар кезiнде бөтеннің мүлкін қасақана жойғаны немесе бүлдiргенi (202-баптың екiншi және үшiншi бөлiктерi), ауырлататын мән-жайлар кезiнде ерекше құндылығы бар заттарды қасақана жойғаны, әкеткені немесе бүлдіргені (203-баптың екiншi және үшiншi бөлiктерi), терроризм актісі (255-бап), терроризмді насихаттағаны немесе терроризм актісін жасауға жария түрде шақырғаны (256-бап), террористік топ құрғаны, оған басшылық еткені және оның әрекетіне қатысқаны (257-баптың бірінші және екінші бөліктері), террористік немесе экстремистік әрекетті қаржыландырғаны және терроризмге не экстремизмге өзге де дем берушілік (258-бап), адамды кепiлге алғаны (261-бап), ғимараттарға, құрылыстарға, қатынас және байланыс құралдарына шабуыл жасағаны немесе оларды басып алғаны (269-бап), терроризм актiсi туралы көрiнеу жалған хабарлағаны (273-бап), қаруды, оқ-дәрiлердi, жарылғыш заттар мен жарылыс құрылғыларын жымқырғаны не қорқытып алғаны (291-бап), ауырлататын мән-жайлар кезінде бұзақылық жасағаны (293-баптың екінші және үшiншi бөлiктері), есiрткi, психотроптық заттарды, сол тектестерді жымқырғаны не қорқытып алғаны (298-бап), ауырлататын мән-жайлар кезiнде өлген адамдардың мәйiттерiн және олар жерленген жерлердi қорлағаны (314-баптың екiншi бөлiгi) және көлiк құралдарын немесе қатынас жолдарын қасақана жарамсыз еткені (350-бап) үшiн қылмыстық жауаптылыққа жатады.
+3. Егер кәмелетке толмаған адам осы баптың бiрiншi немесе екiншi бөлiктерiнде көзделген жасқа толған болса, бiрақ психикасының бұзылуына байланысты емес психикалық дамуы жағынан артта қалуы салдарынан қылмыстық құқық бұзушылық жасаған уақытта өзiнiң әрекеттерiнiң (әрекетсiздiгiнiң) iс жүзiндегi сипаты мен қоғамға қауiптiлiгiн толық көлемде ұғына алмаса не оларға ие бола алмаса, ол қылмыстық жауаптылыққа жатпайды.
+4. Қылмыстық құқық бұзушылықтар жасаған адамдар шығу тегiне, әлеуметтiк, лауазымдық және мүлiктiк жағдайына, жынысына, нәсiлiне, ұлтына, тiлiне, дiнге көзқарасына, сенiміне, қоғамдық бiрлестiктерге қатыстылығына, тұрғылықты жерiне немесе өзге де кез келген мән-жайларға қарамастан заң алдында тең.
+[text-ru]
+1. Уголовной ответственности подлежит вменяемое физическое лицо, достигшее ко времени совершения уголовного правонарушения шестнадцатилетнего возраста.
+2. Лица, достигшие ко времени совершения преступления четырнадцатилетнего возраста, подлежат уголовной ответственности за убийство (статья 99), умышленное причинение тяжкого вреда здоровью (статья 106), умышленное причинение средней тяжести вреда здоровью при отягчающих обстоятельствах (часть вторая статьи 107), изнасилование (статья 120), насильственные действия сексуального характера (статья 121), похищение человека (статья 125), нападение на лиц или организации, пользующихся международной защитой (статья 173), разжигание социальной, национальной, этнической, расовой или религиозной розни (статья 174), посягательство на жизнь экс-Президента Республики Казахстан (статья 177), посягательство на жизнь Президента Республики Казахстан (статья 178), диверсию (статья 184), кражу (части вторая, третья и четвертая статьи 188), скотокрадство (части вторая, третья и четвертая статьи 188-1), грабеж (части вторая, третья и четвертая статьи 191), разбой (статья 192), вымогательство (части вторая, третья и четвертая статьи 194), неправомерное завладение автомобилем или иным транспортным средством без цели хищения при отягчающих обстоятельствах (части вторая, третья и четвертая статьи 200), умышленное уничтожение или повреждение чужого имущества при отягчающих обстоятельствах (части вторая и третья статьи 202), умышленные уничтожение, вывоз или повреждение предметов, имеющих особую ценность, при отягчающих обстоятельствах (части вторая и третья статьи 203), акт терроризма (статья 255), пропаганду терроризма или публичные призывы к совершению акта терроризма (статья 256), создание, руководство террористической группой и участие в ее деятельности (части первая и вторая статьи 257), финансирование террористической или экстремистской деятельности и иное пособничество терроризму либо экстремизму (статья 258), захват заложника (статья 261), нападение на здания, сооружения, средства сообщения и связи или их захват (статья 269), заведомо ложное сообщение об акте терроризма (статья 273), хищение либо вымогательство оружия, боеприпасов, взрывчатых веществ и взрывных устройств (статья 291), хулиганство при отягчающих обстоятельствах (части вторая и третья статьи 293), хищение либо вымогательство наркотических средств, психотропных веществ, их аналогов (статья 298), надругательство над телами умерших и местами их захоронения при отягчающих обстоятельствах (часть вторая статьи 314) и умышленное приведение в негодность транспортных средств или путей сообщения (статья 350).
+3. Если несовершеннолетний достиг возраста, предусмотренного частями первой или второй настоящей статьи, но вследствие отставания в психическом развитии, не связанном с психическим расстройством, во время совершения уголовного правонарушения не мог в полной мере осознавать фактический характер и общественную опасность своих действий (бездействия) либо руководить ими, он не подлежит уголовной ответственности.
+4. Лица, совершившие уголовные правонарушения, равны перед законом независимо от происхождения, социального, должностного и имущественного положения, пола, расы, национальности, языка, отношения к религии, убеждений, принадлежности к общественным объединениям, места жительства или любых иных обстоятельств.
+[text-en]
+1. Sane individual, reached the age of sixteen at the time of the commission of a criminal infraction shall subject to the criminal responsibility.
+2. Persons who have reached the age of fourteen at the time of the commission of a criminal offense shall be subject to criminal liability for murder (Article 99), intentional infliction of grievous bodily harm (Article 106), intentional infliction of bodily harm of medium gravity under aggravating circumstances (Part Two of Article 107), rape (Article 120), violent acts of a sexual nature (Article 121), kidnapping (Article 125), attack on persons or organizations enjoying international protection (Article 173), incitement of social, national, ethnic, racial, or religious discord (Article 174), encroachment on the life of the former President of the Republic of Kazakhstan (Article 177), encroachment on the life of the President of the Republic of Kazakhstan (Article 178), sabotage (Article 184), theft (Parts Two, Three, and Four of Article 188), livestock theft (Parts Two, Three, and Four of Article 188-1), robbery (Parts Two, Three, and Four of Article 191), robbery with violence (Article 192), extortion (Parts Two, Three, and Four of Article 194), unlawful taking of a vehicle or other means of transport without the purpose of theft under aggravating circumstances (Parts Two, Three, and Four of Article 200), intentional destruction or damage of another’s property under aggravating circumstances (Parts Two and Three of Article 202), intentional destruction, removal, or damage of objects of special value under aggravating circumstances (Parts Two and Three of Article 203), act of terrorism (Article 255), propaganda of terrorism or public calls for the commission of an act of terrorism (Article 256), creation, leadership of a terrorist group and participation in its activities (Parts One and Two of Article 257), financing of terrorist or extremist activity and other assistance to terrorism or extremism (Article 258), hostage taking (Article 261), attack on buildings, structures, means of communication and transport, or their seizure (Article 269), knowingly false report of an act of terrorism (Article 273), theft or extortion of weapons, ammunition, explosives, and explosive devices (Article 291), aggravated hooliganism (Parts Two and Three of Article 293), theft or extortion of narcotic drugs, psychotropic substances, or their analogues (Article 298), desecration of the bodies of the deceased and places of burial under aggravating circumstances (Part Two of Article 314), and intentional disabling of vehicles or communication routes (Article 350).
+3. If the minor has attained the age provided by first or second part of this Article, but in consequence of gap of mental development, not related with mental disease, during commission of criminal infraction could not be fully aware of the actual nature and social danger of his (her) actions (omission) or control them, he (she) shall subject to criminally responsibility.
+4. Persons committed the criminal infractions are equal before the Law independent from origin, social, official and property position, sex, race, nationality, language, religion, beliefs, membership of public associations, place of residence or any other circumstances.
+[explanation-kk]
+Қылмыстық жауаптылық 16 жастан басталады. Бірақ ауыр қылмыстар үшін (адам өлтіру, денсаулыққа ауыр зиян, зорлау, ұрлықтың ауыр түрлері, тонау, қарақшылық, ауыр бұзақылық т.б.) 14 жастан жауап береді. Заң алдында бәрі тең.
+[explanation-ru]
+Уголовная ответственность наступает с 16 лет. Но за тяжёлые преступления (убийство, тяжкий вред здоровью, изнасилование, кража и грабёж при отягчающих обстоятельствах, разбой, злостное хулиганство и другие) отвечают уже с 14 лет. Перед законом все равны.
+[explanation-en]
+Criminal liability starts at 16. But for serious crimes (murder, grievous bodily harm, rape, aggravated theft and robbery, armed robbery, aggravated hooliganism and others) liability starts at 14. Everyone is equal before the law.
+
+=== 16 | 2
+[title-kk]
+Есi дұрыс еместiк
+[title-ru]
+Невменяемость
+[title-en]
+Insanity
+[text-kk]
+1. Осы Кодексте көзделген қоғамға қауiптi іс-әрекеттi жасаған уақытта есi дұрыс емес күйде болған, яғни созылмалы психикалық ауруы, психикасының уақытша бұзылуы, ақыл-есінің кемдігі немесе психикасының өзге де дертке ұшырауы салдарынан өзінің әрекеттерiнiң (әрекетсiздiгiнiң) iс жүзiндегi сипаты мен қоғамға қауiптiлiгiн ұғына алмаған немесе оларға ие бола алмаған адам қылмыстық жауаптылыққа жатпайды.
+2. Есi дұрыс емес деп танылған адамға сот осы Кодексте көзделген медициналық сипаттағы мәжбүрлеу шараларын қолдануы мүмкiн.
+[text-ru]
+1. Не подлежит уголовной ответственности лицо, которое во время совершения общественно опасного деяния, предусмотренного настоящим Кодексом, находилось в состоянии невменяемости, то есть не могло осознавать фактический характер и общественную опасность своих действий (бездействия) или руководить ими вследствие хронического психического заболевания, временного психического расстройства, слабоумия или иного болезненного состояния психики.
+2. К лицу, признанному невменяемым, судом могут быть применены принудительные меры медицинского характера, предусмотренные настоящим Кодексом.
+[text-en]
+1. A person who at the time of commission a socially dangerous action provided by this Code has been in a state of insanity, in other words could not be aware of the actual nature and social danger of his actions (omission) or control them due to chronic mental disorder, temporary mental disease, dementia or other mental condition shall subject to a criminal responsibility.
+2. Compulsory measures of a medical nature, provided by this Code may be applied to the person, recognized by court as insane.
+[explanation-kk]
+Есі дұрыс емес адам, яғни ауыр психикалық ауруға байланысты өз әрекетін түсінбеген немесе басқара алмаған адам, қылмыстық жауапқа тартылмайды. Оған сот медициналық мәжбүрлеу шараларын қолдана алады.
+[explanation-ru]
+Невменяемый человек, то есть тот, кто из-за психического заболевания не понимал своих действий или не мог ими руководить, уголовной ответственности не несёт. Суд может назначить ему принудительное лечение.
+[explanation-en]
+A legally insane person – someone who, due to mental illness, did not understand their actions or could not control them – is not criminally liable. The court may order compulsory medical treatment.
+
+=== 17 | 2
+[title-kk]
+Есiнiң дұрыстығы жоққа шығарылмайтын психикасы бұзылған адамдардың қылмыстық жауаптылығы
+[title-ru]
+Уголовная ответственность лиц с психическим расстройством, не исключающим вменяемости
+[title-en]
+Criminal responsibility of persons with mental disease not excluding sanity
+[text-kk]
+1. Қылмыстық құқық бұзушылық жасаған уақытта психикасының бұзылуы салдарынан өзiнiң әрекеттерiнiң (әрекетсiздiгiнiң) iс жүзiндегi сипаты мен қоғамға қауiптiлiгiн толық көлемде ұғына алмаған не оларға ие бола алмаған есi дұрыс адам қылмыстық жауаптылыққа жатады.
+2. Есiнiң дұрыстығы жоққа шығарылмайтын психиканың бұзылуын сот жаза тағайындау кезiнде жеңiлдететін мән-жай ретiнде есепке алады және ол осы Кодексте көзделген медициналық сипаттағы мәжбүрлеу шараларын тағайындау үшiн негiз бола алады.
+[text-ru]
+1. Вменяемое лицо, которое во время совершения уголовного правонарушения в силу психического расстройства не могло в полной мере осознавать фактический характер и общественную опасность своих действий (бездействия) либо руководить ими, подлежит уголовной ответственности.
+2. Психическое расстройство, не исключающее вменяемости, учитывается судом при назначении наказания как смягчающее обстоятельство и может служить основанием для назначения принудительных мер медицинского характера, предусмотренных настоящим Кодексом.
+[text-en]
+1. Sane person who during commission of a criminal infraction by virtue of mental disease could not be fully aware of the actual nature and social danger of his (her) actions (omission) or control them shall subject to a criminal responsibility.
+2. Mental disease, not excluding sanity shall be considered by court upon assignment of punishment as mitigating circumstance and may serve as a basis for the appointment of enforcement measures of medical nature, provided by this Code.
+[explanation-kk]
+Егер адамның психикалық бұзылуы болса, бірақ ол есі дұрыс деп танылса, ол жауапқа тартылады. Сот мұны жазаны жеңілдететін мән-жай ретінде ескереді.
+[explanation-ru]
+Если у человека есть психическое расстройство, но он признан вменяемым, он несёт ответственность. Суд учитывает расстройство как смягчающее обстоятельство.
+[explanation-en]
+If a person has a mental disorder but is found legally sane, they are liable. The court takes the disorder into account as a mitigating circumstance.
+
+=== 18 | 2
+[title-kk]
+Масаң күйде қылмыстық құқық бұзушылық жасаған адамдардың қылмыстық жауаптылығы
+[title-ru]
+Уголовная ответственность лиц, совершивших уголовное правонарушение в состоянии опьянения
+[title-en]
+Criminal responsibility of persons, committed a criminal infraction in a state of intoxication
+[text-kk]
+Алкогольдi, есiрткi, психотроптық заттарды немесе басқа да есеңгiрететiн заттарды пайдалану салдарынан мас күйiнде қылмыстық құқық бұзушылық жасаған адам қылмыстық жауаптылықтан босатылмайды.
+[text-ru]
+Лицо, совершившее уголовное правонарушение в состоянии опьянения, вызванном употреблением алкоголя, наркотических средств, психотропных или других одурманивающих веществ, не освобождается от уголовной ответственности.
+[text-en]
+A person, committed a criminal infraction in a state of intoxication, caused by the use of alcohol, narcotic drugs, psychotropic or other intoxicated substances shall not be released from criminal responsibility.
+[explanation-kk]
+Мас күйде (алкоголь, есірткі т.б.) құқық бұзушылық жасау жауаптылықтан босатпайды.
+[explanation-ru]
+Состояние опьянения (алкоголь, наркотики и т.п.) не освобождает от уголовной ответственности.
+[explanation-en]
+Being intoxicated (alcohol, drugs, etc.) does not free a person from criminal liability.
+
+=== 19 | 2
+[title-kk]
+Кiнә
+[title-ru]
+Вина
+[title-en]
+Fault
+[text-kk]
+1. Адам өзінің кiнәсi анықталған қоғамға қауіпті іс-әрекеттері (әрекеттері немесе әрекетсіздігі) және оның қоғамға қауіпті зардаптарының туындауы үшiн ғана қылмыстық жауаптылыққа жатады.
+2. Объективтi айып тағуға, яғни кiнәсiз зиян келтiргенi үшiн қылмыстық жауаптылыққа жол берiлмейдi.
+3. Іс-әрекетті қасақана немесе абайсызда жасаған адам ғана қылмыстық құқық бұзушылық үшін кiнәлi деп танылады.
+4. Абайсызда жасалған іс-әрекет осы Кодекстiң Ерекше бөлiгiнiң тиiстi бабында арнайы көзделген жағдайда ғана қылмыстық құқық бұзушылық деп танылады.
+[text-ru]
+1. Лицо подлежит уголовной ответственности только за те общественно опасные деяния (действия или бездействие) и наступившие общественно опасные последствия, в отношении которых установлена его вина.
+2. Объективное вменение, то есть уголовная ответственность за невиновное причинение вреда, не допускается.
+3. Виновным в уголовном правонарушении признается лишь лицо, совершившее деяние умышленно или по неосторожности.
+4. Деяние, совершенное по неосторожности, признается уголовным правонарушением только в том случае, когда это специально предусмотрено соответствующей статьей Особенной части настоящего Кодекса.
+[text-en]
+1. A person shall subject to a criminal responsibility only for those socially dangerous actions (actions or omission) and socially dangerous consequences in relation of which his fault is established.
+2. Objective imputation, in other words a criminal responsibility for innocent infliction of harm shall not be allowed.
+3. A guilty person in a criminal infraction shall be recognized a person, committed an action intentionally or by negligence.
+4. An action, committed by negligence shall be recognized as a criminal infraction only when it is specially provided by the relevant Article of Special part of this Code.
+[explanation-kk]
+Адам тек кінәсі дәлелденген әрекеті үшін ғана жауап береді. Кінәсіз келтірілген зиян үшін жауаптылыққа жол берілмейді. Абайсызда жасалған әрекет тек Кодексте арнайы көрсетілген жағдайда ғана қылмыс болады.
+[explanation-ru]
+Человек отвечает только за те действия, в которых установлена его вина. За невиновное причинение вреда наказывать нельзя. Деяние по неосторожности является правонарушением, только если это прямо указано в Кодексе.
+[explanation-en]
+A person is liable only for acts in which their guilt is established. Punishing someone for harm caused without fault is not allowed. A careless act is an offence only if the Code expressly says so.
+
+=== 20 | 2
+[title-kk]
+Қасақана жасалған қылмыстық құқық бұзушылық
+[title-ru]
+Уголовное правонарушение, совершенное умышленно
+[title-en]
+A criminal infraction, committed intentionally
+[text-kk]
+1. Тiкелей немесе жанама пиғылмен жасалған іс-әрекет қасақана жасалған қылмыстық құқық бұзушылық деп танылады.
+2. Егер адам өз әрекеттерiнiң (әрекетсiздiгiнiң) қоғамға қауiптi екенiн ұғынған болса, оның қоғамға қауiптi зардаптарының болу мүмкiндігiн немесе болмай қоймайтынын алдын ала болжап білген болса және осы зардаптардың туындауын қалаған болса, қылмыстық құқық бұзушылық тiкелей пиғылмен жасалған деп танылады.
+3. Егер адам өз әрекеттерiнiң (әрекетсiздiгiнiң) қоғамға қауiптi екенiн ұғынған болса, оның қоғамға қауiптi зардаптарының болу мүмкiндігiн алдын ала болжап білген болса, осы зардаптардың орын алуын қаламаса да, оларға саналы түрде жол берсе не оларға немқұрайлы қараса, қылмыстық құқық бұзушылық жанама пиғылмен жасалған деп танылады.
+[text-ru]
+1. Уголовным правонарушением, совершенным умышленно, признается деяние, совершенное с прямым или косвенным умыслом.
+2. Уголовное правонарушение признается совершенным с прямым умыслом, если лицо осознавало общественную опасность своих действий (бездействия), предвидело возможность или неизбежность общественно опасных последствий и желало их наступления.
+3. Уголовное правонарушение признается совершенным с косвенным умыслом, если лицо осознавало общественную опасность своих действий (бездействия), предвидело возможность наступления общественно опасных последствий, не желало, но сознательно допускало наступление этих последствий либо относилось к ним безразлично.
+[text-en]
+1. A criminal infraction, committed intentionally shall be recognized as an action, committed with direct or indirect intent.
+2. A criminal infraction shall be recognized as committed with direct intent, if a person realized the social danger of his (her) actions (omission), foresaw the possibility or the inevitability of socially dangerous consequences and wished their ensuing.
+3. A criminal infraction shall be recognized as committed with indirect intent, if a person realized the social danger of his (her) actions (omission), foresaw the possibility of ensuing of socially dangerous consequences, did not wish, but consciously allowed ensuing of these consequences or treated them indifferently.
+[explanation-kk]
+Қасақана құқық бұзушылық тікелей немесе жанама ниетпен жасалады. Тікелей ниет – адам зардапты біледі және соны қалайды; жанама ниет – қаламайды, бірақ саналы түрде жол береді немесе немқұрайды қарайды.
+[explanation-ru]
+Умышленное правонарушение совершается с прямым или косвенным умыслом. Прямой умысел – человек понимает последствия и хочет их; косвенный – не хочет, но сознательно допускает или относится к ним безразлично.
+[explanation-en]
+An intentional offence is committed with direct or indirect intent. Direct intent means the person foresees the consequences and wants them; indirect intent means they do not want them but consciously allow them or are indifferent.

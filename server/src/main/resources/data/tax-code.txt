@@ -1,0 +1,771 @@
+# Налоговый кодекс Республики Казахстан от 18 июля 2025 года № 214-VIII (выборочные статьи)
+# Источник: https://adilet.zan.kz/rus/docs/K2500000214
+# Тексты kk и ru скопированы с официального сайта без изменений (сноски об изменениях убраны).
+# Английский текст — НЕОФИЦИАЛЬНЫЙ перевод (официального на сайте нет).
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Строка «=== статья | раздел | глава | параграф».
+
+=== 1 | 1 | 1
+[title-kk]
+Осы Кодекспен реттелетін сала
+[title-ru]
+Сфера, регулируемая настоящим Кодексом
+[title-en]
+Scope regulated by this Code
+[text-kk]
+Осы Кодекс салық салудың негіз құраушы қағидаттарын белгілейді, салықтар мен бюджетке төленетін басқа да міндетті төлемдерді белгілеу, енгізу, өзгерту, олардың күшін жою, есептеу мен төлеу тәртібі жөніндегі билік қатынастарын, сондай-ақ салықтық міндеттемені орындауға байланысты қоғамдық қатынастарды реттейді.
+[text-ru]
+Настоящий Кодекс устанавливает основополагающие принципы налогообложения, регулирует властные отношения по установлению, введению, изменению, отмене, порядку исчисления и уплаты налогов и других обязательных платежей в бюджет, а также общественные отношения, связанные с исполнением налогового обязательства.
+[text-en]
+This Code establishes the fundamental principles of taxation, regulates power relations concerning the establishment, introduction, amendment and abolition of taxes and other obligatory payments to the budget and the procedure for their calculation and payment, as well as public relations connected with the fulfilment of a tax obligation.
+[explanation-kk]
+Салық кодексі не туралы: салықтар мен бюджетке төленетін төлемдерді кім, қалай белгілейді, есептейді және төлейді. Қазақстандағы барлық салықтың негізгі ережелері осы кодексте.
+[explanation-ru]
+О чём Налоговый кодекс: кто и как устанавливает, считает и платит налоги и другие обязательные платежи в бюджет. Все основные правила о налогах в Казахстане собраны здесь.
+[explanation-en]
+What the Tax Code covers: who sets, calculates and pays taxes and other obligatory payments to the budget, and how. All the main tax rules of Kazakhstan are collected here.
+
+=== 2 | 1 | 1 | 1
+[title-kk]
+Салық салу мақсаттары үшін пайдаланылатын негізгі ұғымдар жөніндегі жалпы ережелер
+[title-ru]
+Общие положения по основным понятиям, используемым для целей налогообложения
+[title-en]
+General provisions on the basic concepts used for taxation purposes
+[text-kk]
+1. Осы Кодексте салық салу мақсаттары үшін негізгі ұғымдар осы параграфта айқындалатын мағыналарында пайдаланылады.
+Қазақстан Республикасы салық заңнамасының басқа да арнаулы ұғымдары мен терминдері осы Кодекстің тиісті баптарында айқындалатын мағыналарында пайдаланылады.
+2. Осы Кодекстің мақсаттарында екінші деңгейдегі банктер, сақтандыру (қайта сақтандыру) ұйымдары, сақтандыру брокерлері үшін көзделген ережелер Қазақстан Республикасының аумағында ашылған және қызметін қаржы нарығы мен қаржы ұйымдарын реттеу, бақылау және қадағалау жөніндегі уәкілетті органның лицензиясы негізінде жүзеге асыратын Қазақстан Республикасының бейрезидент-банктерінің филиалдарына, Қазақстан Республикасының бейрезидент-сақтандыру (қайта сақтандыру) ұйымдарының филиалдарына, Қазақстан Республикасының бейрезидент-сақтандыру брокерлерінің филиалдарына қолданылады.
+3. Осы Кодекстің мақсаттары үшін бюджетті атқару жөніндегі орталық уәкілетті органда немесе оның аумақтық бөлімшелерінде ашылған шот банктік шотқа теңестіріледі, ал бюджетті атқару жөніндегі орталық уәкілетті орган мен оның аумақтық бөлімшелері банк операцияларының жекелеген түрлерін жүзеге асыратын ұйымдарға теңестіріледі.
+4. Осы Кодексте пайдаланылатын Қазақстан Республикасының азаматтық және басқа да заңнамасы салаларындағы ұғымдар, егер осы Кодексте өзгеше көзделмесе, Қазақстан Республикасы заңнамасының сол салаларында пайдаланылатын мағыналарында қолданылады.
+5. Нормативтік құқықтық актілерде қолданылатын "Салық және бюджетке төленетін басқа да міндетті төлемдер туралы" Қазақстан Республикасының Кодексі (Салық кодексі)" деген атау "Қазақстан Республикасының Салық кодексі" деген атаумен бірдей болады.
+[text-ru]
+1. В настоящем Кодексе для целей налогообложения используются основные понятия в значениях, определяемых в настоящем параграфе.
+Другие специальные понятия и термины налогового законодательства Республики Казахстан используются в значениях, определяемых в соответствующих статьях настоящего Кодекса.
+2. В целях настоящего Кодекса положения, предусмотренные для банков второго уровня, страховых (перестраховочных) организаций, страховых брокеров, распространяются на филиалы банков – нерезидентов Республики Казахстан, филиалы страховых (перестраховочных) организаций – нерезидентов Республики Казахстан, филиалы страховых брокеров – нерезидентов Республики Казахстан, открытые на территории Республики Казахстан и осуществляющие деятельность на основании лицензии уполномоченного органа по регулированию, контролю и надзору финансового рынка и финансовых организаций.
+3. Для целей настоящего Кодекса счет, открытый в центральном уполномоченном органе по исполнению бюджета или его территориальных подразделениях, приравнивается к банковскому счету, а центральный уполномоченный орган по исполнению бюджета и его территориальные подразделения приравниваются к организациям, осуществляющим отдельные виды банковских операций.
+4. Понятия гражданского и других отраслей законодательства Республики Казахстан, используемые в настоящем Кодексе, применяются в том значении, в каком они используются в этих отраслях законодательства Республики Казахстан, если иное не предусмотрено настоящим Кодексом.
+5. Наименование "Кодекс Республики Казахстан "О налогах и других обязательных платежах в бюджет" (Налоговый кодекс)", применяемое в нормативных правовых актах, идентично наименованию "Налоговый кодекс Республики Казахстан".
+[text-en]
+1. For taxation purposes, this Code uses the basic concepts in the meanings defined in this paragraph.
+Other special concepts and terms of the tax legislation of the Republic of Kazakhstan are used in the meanings defined in the relevant articles of this Code.
+2. For the purposes of this Code, the provisions established for second-tier banks, insurance (reinsurance) organisations and insurance brokers apply to branches of non-resident banks of the Republic of Kazakhstan, branches of non-resident insurance (reinsurance) organisations of the Republic of Kazakhstan and branches of non-resident insurance brokers of the Republic of Kazakhstan that are opened in the territory of the Republic of Kazakhstan and operate on the basis of a licence of the authorised body for regulation, control and supervision of the financial market and financial organisations.
+3. For the purposes of this Code, an account opened with the central authorised body for budget execution or its territorial subdivisions is equated to a bank account, and the central authorised body for budget execution and its territorial subdivisions are equated to organisations performing certain types of banking operations.
+4. Concepts of civil and other branches of the legislation of the Republic of Kazakhstan used in this Code are applied in the meaning in which they are used in those branches of legislation, unless otherwise provided by this Code.
+5. The name "Code of the Republic of Kazakhstan "On Taxes and Other Obligatory Payments to the Budget" (Tax Code)" used in regulatory legal acts is identical to the name "Tax Code of the Republic of Kazakhstan".
+[explanation-kk]
+Кодекстегі сөздер осы параграфта берілген мағынада түсініледі. Егер сөз мұнда түсіндірілмесе, ол азаматтық және басқа заңдардағы мағынасында қолданылады.
+[explanation-ru]
+Слова в Кодексе понимаются так, как они объяснены в этом параграфе. Если слово здесь не объяснено, оно берётся в том значении, что и в гражданском и других законах.
+[explanation-en]
+Words in the Code mean what this paragraph says they mean. If a word is not explained here, it has the same meaning as in civil and other laws.
+
+=== 3 | 1 | 1 | 1
+[title-kk]
+Салықтық құқықтық қатынастар субъектілеріне байланысты ұғымдар
+[title-ru]
+Понятия, связанные с субъектами налоговых правоотношений
+[title-en]
+Concepts related to the subjects of tax legal relations
+[text-kk]
+Салықтық құқықтық қатынастар субъектілеріне байланысты ұғымдар:
+1) "Астана" халықаралық қаржы орталығы органының ұйымы – "Астана" халықаралық қаржы орталығының (бұдан әрі – АХҚО) қолданыстағы құқығына сәйкес тіркелген, қатысу үлестерінің (дауыс беретін акцияларының) 50 және одан көп пайызы АХҚО органына тікелей немесе жанама түрде тиесілі болатын заңды тұлға.
+Жанама иелену АХҚО органына тікелей тиесілі басқа заңды тұлға арқылы АХҚО органының иеленуін білдіреді;
+2) банк ұйымы – Қазақстан Республикасында құрылған екінші деңгейдегі банк, Қазақстанның Даму Банкі және банк операцияларының жекелеген түрлерін жүзеге асыратын ұйым;
+3) бейрезидент-заңды тұлға – тиімді басқару орны (нақты басқару органы тұрған жер) Қазақстан Республикасында орналасқан ұйымды қоспағанда, шет мемлекеттің заңнамасына сәйкес құрылған ұйым.
+Бейрезидент-заңды тұлға деп шет мемлекеттің заңнамасына сәйкес құрылған компания, әріптестік, ұйым немесе басқа корпоративтік құрылым да түсініледі, олар өздері құрылған шет мемлекеттің заңды тұлғасы мәртебесіне ие не ие емес екендігіне қарамастан, дербес заңды тұлғалар ретінде қаралады;
+4) билік ету шектелген (кепілге салынған) мүлікті өткізу жөніндегі функциялары бар ұйым – уәкілетті орган айқындаған, салық төлеушінің (салық агентінің) және (немесе) үшінші тұлғаның осы Кодекске сәйкес билік етуі шектелген және (немесе) кепілге салынған мүлкін өткізу саласындағы заңды тұлға;
+5) бұрын банк болған заңды тұлға – сот актісі бойынша өзіне қатысты қайта құрылымдау жүргізілген, 2013 жылғы 31 желтоқсанда дауыс беретін акцияларының 90 пайыздан астамы ұлттық басқарушы холдингке тиесілі болған, бұрын банк болып табылған заңды тұлға;
+6) жеке практикамен айналысатын адам – жекеше нотариус, жеке сот орындаушысы, адвокат, кәсіпқой медиатор;
+7) жеке тұлға – Қазақстан Республикасының азаматы, шетел азаматы, қандас немесе азаматтығы жоқ адам;
+8) жұмыскер:
+жұмыс берушімен еңбек қатынастарында тұратын және еңбек шарты (келісімшарт) бойынша жұмысты тікелей орындайтын жеке тұлға;
+мемлекеттік қызметші;
+мемлекеттік қызметшілерді қоспағанда, директорлар кеңесінің немесе салық төлеушінің жоғары басқару органы болып табылмайтын өзге де басқару органының мүшесі;
+қызметі тұрақты мекеме құрмайтын бейрезиденттің резидентке немесе қызметін Қазақстан Республикасында тұрақты мекеме арқылы жүзеге асыратын өзге бейрезидентке персоналды беруіне арналған келісімшарт бойынша жұмыс істеу үшін ұсынылған шетел азаматы немесе азаматтығы жоқ адам;
+9) заңды тұлға – резидент-заңды тұлға, бейрезидент-заңды тұлға;
+10) заңды тұлғаның құрылымдық бөлімшесі – филиал, өкілдік;
+11) қызметін Қазақстан Республикасының аумағында интернет-алаң арқылы жүзеге асыратын шетелдік компания – Қазақстан Республикасының аумағында интернет-алаң арқылы тауарларды өткізуді жүзеге асыратын және (немесе) қызметтерді көрсететін бейрезидент-заңды тұлға;
+12) резидент-заңды тұлға – мыналардың:
+Қазақстан Республикасының;
+тиімді басқару орны (нақты басқару органы орналасқан жер) Қазақстан Республикасында орналасқан шет мемлекеттің заңнамасына сәйкес құрылған ұйым;
+13) салық агенті – осы Кодексте белгіленген жағдайларда және тәртіппен салық агенті деп танылатын жеке тұлға, дара кәсіпкер, жеке практикамен айналысатын адам, заңды тұлға, заңды тұлғаның құрылымдық бөлімшесі, интернет-платформа операторы;
+14) салық төлеуші – салықтар мен бюджетке төленетін басқа да міндетті төлемдерді төлеуші болып табылатын тұлға, заңды тұлғаның құрылымдық бөлімшесі;
+15) салықтық мониторингте тұрған салық төлеуші – деңгейлес мониторингке қатысушы, ірі салық төлеушілер мониторингіне қатысушы;
+16) тұлға – жеке тұлға, заңды тұлға;
+17) тіркеуші орган – заңды тұлғаларды мемлекеттік тіркеуді (қайта тіркеуді) және олардың филиалдары мен өкілдіктерін және (немесе) салық салу объектілерін және салық салуға байланысты объектілерді, оның ішінде:
+жылжымайтын мүлікке құқықтарды;
+жылжымалы мүлік кепілі мен кеме ипотекасын;
+радиоэлектрондық құралдар мен жоғары жиілікті құрылғыларды;
+ғарыш объектілері мен оларға құқықтарды;
+көлік құралдарын;
+дәрілік заттар мен медициналық бұйымдарды;
+туындылар мен сабақтас құқықтар объектілеріне құқықтарды, туындылар мен сабақтас құқықтар объектілерін пайдалануға арналған лицензиялық шарттарды;
+сондай-ақ бұқаралық ақпарат құралдарын есепке қоюды есептік тіркеуді (қайта тіркеуді) жүзеге асыратын уәкілетті мемлекеттік органдар және "Азаматтарға арналған үкімет" мемлекеттік корпорациясы (бұдан әрі – Мемлекеттік корпорация);
+18) уәкілетті мемлекеттік органдар – салық органдары мен жергілікті атқарушы органдарды қоспағанда, жекелеген салада немесе мемлекеттік басқару саласында басшылықты, оның ішінде бюджетке төленетін басқа да міндетті төлемдерді есептеуді және (немесе) жинауды жүзеге асыратын Қазақстан Республикасының мемлекеттік органдары;
+19) уәкілетті орган – салықтар мен бюджетке төленетін басқа да төлемдердің түсуін қамтамасыз ету саласында басшылықты жүзеге асыратын мемлекеттік орган;
+20) ірі салық төлеушілер мониторингіне қатысушы – уәкілетті орган бекіткен ірі салық төлеушілер мониторингіне қатысушылар тізбесіне енгізілген салық төлеуші.
+[text-ru]
+Понятия, связанные с субъектами налоговых правоотношений:
+1) организация органа Международного финансового центра "Астана" – юридическое лицо, зарегистрированное в соответствии с действующим правом Международного финансового центра "Астана" (далее – МФЦА), 50 и более процентов долей участия (голосующих акций) которого прямо или косвенно принадлежат органу МФЦА.
+Косвенное владение означает владение органом МФЦА через другое юридическое лицо, которое прямо принадлежит органу МФЦА;
+2) банковская организация – созданные в Республике Казахстан банк второго уровня, Банк Развития Казахстана и организация, осуществляющая отдельные виды банковских операций;
+3) юридическое лицо – нерезидент – организация, созданная в соответствии с законодательством иностранного государства, за исключением организации, место эффективного управления (место нахождения фактического органа управления) которой находится в Республике Казахстан.
+Под юридическим лицом – нерезидентом также понимаются компания, партнерство, организация или другое корпоративное образование, созданные в соответствии с законодательством иностранного государства, которые рассматриваются в качестве самостоятельных юридических лиц независимо от того, обладают ли они статусом юридического лица иностранного государства, где они созданы;
+4) организация, наделенная функциями по реализации ограниченного в распоряжении (заложенного) имущества, – юридическое лицо, определенное уполномоченным органом, в сфере реализации ограниченного в распоряжении и (или) заложенного в соответствии с настоящим Кодексом имущества налогоплательщика (налогового агента) и (или) третьего лица;
+5) юридическое лицо, ранее являвшееся банком, – юридическое лицо, ранее являвшееся банком, в отношении которого по судебному акту проведена реструктуризация, более 90 процентов голосующих акций которого на 31 декабря 2013 года принадлежали национальному управляющему холдингу;
+6) лицо, занимающееся частной практикой, – частный нотариус, частный судебный исполнитель, адвокат, профессиональный медиатор;
+7) физическое лицо – гражданин Республики Казахстан, иностранный гражданин, кандас или лицо без гражданства;
+8) работник:
+физическое лицо, состоящее в трудовых отношениях с работодателем и непосредственно выполняющее работу по трудовому договору (контракту);
+государственный служащий;
+член совета директоров или иного органа управления налогоплательщика, не являющегося высшим органом управления, за исключением государственных служащих;
+иностранный гражданин или лицо без гражданства, предоставленные для работы по контракту на предоставление персонала нерезидентом, деятельность которого не образует постоянного учреждения, резиденту или иному нерезиденту, осуществляющему деятельность в Республике Казахстан через постоянное учреждение;
+9) юридическое лицо – юридическое лицо – резидент, юридическое лицо – нерезидент;
+10) структурное подразделение юридического лица – филиал, представительство;
+11) иностранная компания, осуществляющая деятельность посредством интернет-площадки на территории Республики Казахстан, – юридическое лицо – нерезидент, осуществляющее реализацию товаров и (или) оказывающее услуги посредством интернет-площадки на территории Республики Казахстан;
+12) юридическое лицо – резидент – организация, созданная в соответствии с законодательством:
+Республики Казахстан;
+иностранного государства, место эффективного управления (место нахождения фактического органа управления) которого находится в Республике Казахстан;
+13) налоговый агент – физическое лицо, индивидуальный предприниматель, лицо, занимающееся частной практикой, юридическое лицо, структурное подразделение юридического лица, оператор интернет-платформы, которые в случаях и порядке, которые установлены настоящим Кодексом, признаются налоговым агентом;
+14) налогоплательщик – лицо, структурное подразделение юридического лица, являющиеся плательщиками налогов и других обязательных платежей в бюджет;
+15) налогоплательщик, состоящий на налоговом мониторинге, – участник горизонтального мониторинга, участник мониторинга крупных налогоплательщиков;
+16) лицо – физическое лицо, юридическое лицо;
+17) регистрирующий орган – уполномоченные государственные органы и Государственная корпорация "Правительство для граждан" (далее – Государственная корпорация), осуществляющие государственную регистрацию (перерегистрацию) юридических лиц и учетную регистрацию (перерегистрацию) их филиалов и представительств и (или) объектов налогообложения и объектов, связанных с налогообложением, в том числе:
+прав на недвижимое имущество;
+залога движимого имущества и ипотеки судна;
+радиоэлектронных средств и высокочастотных устройств;
+космических объектов и прав на них;
+транспортных средств;
+лекарственных средств и медицинских изделий;
+прав на произведения и объекты смежных прав, лицензионных договоров на использование произведений и объектов смежных прав;
+а также постановку на учет средств массовой информации;
+18) уполномоченные государственные органы – государственные органы Республики Казахстан, за исключением налоговых органов и местных исполнительных органов, осуществляющие руководство в отдельной отрасли или сфере государственного управления, в том числе исчисление и (или) сбор других обязательных платежей в бюджет;
+19) уполномоченный орган – государственный орган, осуществляющий руководство в сфере обеспечения поступлений налогов и других обязательных платежей в бюджет;
+20) участник мониторинга крупных налогоплательщиков – налогоплательщик, включенный в перечень участников мониторинга крупных налогоплательщиков, утвержденный уполномоченным органом.
+[text-en]
+Concepts related to the subjects of tax legal relations:
+1) organisation of a body of the Astana International Financial Centre – a legal entity registered in accordance with the acting law of the Astana International Financial Centre (hereinafter – AIFC), 50 or more per cent of whose participation shares (voting shares) directly or indirectly belong to an AIFC body.
+Indirect ownership means ownership by an AIFC body through another legal entity that directly belongs to the AIFC body;
+2) banking organisation – a second-tier bank created in the Republic of Kazakhstan, the Development Bank of Kazakhstan and an organisation performing certain types of banking operations;
+3) non-resident legal entity – an organisation created in accordance with the legislation of a foreign state, except for an organisation whose place of effective management (location of the actual management body) is in the Republic of Kazakhstan.
+A non-resident legal entity also means a company, partnership, organisation or other corporate formation created in accordance with the legislation of a foreign state that is treated as an independent legal entity, regardless of whether it has the status of a legal entity of the foreign state where it was created;
+4) organisation vested with the functions of selling property restricted in disposal (pledged) – a legal entity designated by the authorised body in the sphere of selling property of a taxpayer (tax agent) and (or) a third party that is restricted in disposal and (or) pledged in accordance with this Code;
+5) legal entity that was formerly a bank – a legal entity that was formerly a bank, restructured under a court act, more than 90 per cent of whose voting shares belonged to a national managing holding as of 31 December 2013;
+6) person engaged in private practice – a private notary, private bailiff, advocate or professional mediator;
+7) individual – a citizen of the Republic of Kazakhstan, a foreign citizen, a kandas or a stateless person;
+8) employee:
+an individual who is in labour relations with an employer and directly performs work under an employment contract (contract);
+a civil servant;
+a member of the board of directors or other management body of a taxpayer that is not the supreme management body, except for civil servants;
+a foreign citizen or stateless person provided for work under a contract for the provision of personnel by a non-resident whose activity does not form a permanent establishment to a resident or to another non-resident operating in the Republic of Kazakhstan through a permanent establishment;
+9) legal entity – a resident legal entity or a non-resident legal entity;
+10) structural subdivision of a legal entity – a branch or a representative office;
+11) foreign company operating through an internet platform in the territory of the Republic of Kazakhstan – a non-resident legal entity that sells goods and (or) provides services through an internet platform in the territory of the Republic of Kazakhstan;
+12) resident legal entity – an organisation created in accordance with the legislation of:
+the Republic of Kazakhstan;
+a foreign state, whose place of effective management (location of the actual management body) is in the Republic of Kazakhstan;
+13) tax agent – an individual, individual entrepreneur, person engaged in private practice, legal entity, structural subdivision of a legal entity or internet platform operator recognised as a tax agent in the cases and in the procedure established by this Code;
+14) taxpayer – a person or a structural subdivision of a legal entity that pays taxes and other obligatory payments to the budget;
+15) taxpayer under tax monitoring – a participant of horizontal monitoring or a participant of large taxpayer monitoring;
+16) person – an individual or a legal entity;
+17) registering body – the authorised state bodies and the State Corporation "Government for Citizens" (hereinafter – the State Corporation) that carry out state registration (re-registration) of legal entities and record registration (re-registration) of their branches and representative offices and (or) objects of taxation and objects related to taxation, including:
+rights to immovable property;
+pledges of movable property and ship mortgages;
+radio-electronic means and high-frequency devices;
+space objects and rights to them;
+vehicles;
+medicines and medical devices;
+rights to works and objects of related rights, licence agreements for the use of works and objects of related rights;
+as well as the registration of mass media;
+18) authorised state bodies – state bodies of the Republic of Kazakhstan, except for tax authorities and local executive bodies, that exercise leadership in a particular branch or sphere of public administration, including the calculation and (or) collection of other obligatory payments to the budget;
+19) authorised body – the state body exercising leadership in the sphere of ensuring the receipt of taxes and other obligatory payments to the budget;
+20) participant of large taxpayer monitoring – a taxpayer included in the list of participants of large taxpayer monitoring approved by the authorised body.
+[explanation-kk]
+Кім кім екенін түсіндіреді: жеке тұлға — ҚР азаматы, шетелдік, қандас немесе азаматтығы жоқ адам; салық төлеуші — салық төлейтін адам немесе ұйым; салық агенті — басқа адамның салығын ұстап, бюджетке аударатын адам (мысалы, жалақыдан салықты ұстайтын жұмыс беруші); жұмыскер, резидент, бейрезидент және т.б.
+[explanation-ru]
+Объясняет, кто есть кто: физическое лицо — гражданин РК, иностранец, кандас или лицо без гражданства; налогоплательщик — тот, кто платит налоги; налоговый агент — тот, кто удерживает налог за другого и перечисляет в бюджет (например, работодатель удерживает налог с зарплаты); а также работник, резидент, нерезидент и др.
+[explanation-en]
+Explains who is who: an individual is a Kazakh citizen, foreigner, kandas or stateless person; a taxpayer is whoever pays taxes; a tax agent withholds tax for someone else and pays it to the budget (e.g. an employer withholding tax from salary); plus employee, resident, non-resident and more.
+
+=== 22 | 1 | 1 | 2
+[title-kk]
+Қазақстан Республикасының салық заңнамасы
+[title-ru]
+Налоговое законодательство Республики Казахстан
+[title-en]
+Tax legislation of the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының салық заңнамасы Қазақстан Республикасының Конституциясына негізделеді, осы Кодекстен, сондай-ақ қабылдануы осы Кодексте көзделген нормативтік құқықтық актілерден тұрады.
+2. Осы Кодексте көзделмеген салықтар мен бюджетке төленетін төлемдерді төлеу жөніндегі міндет ешкімге жүктелмеуге тиіс.
+3. Осы Кодекс пен Қазақстан Республикасының басқа да заңдарының арасында қайшылықтар болған кезде салық салу мақсаттары үшін осы Кодекстің нормалары қолданылады.
+4. Осы Кодексте көзделген жағдайлардан басқа, салықтық қатынастарды реттейтін нормаларды Қазақстан Республикасының салықтық емес заңнамасына қосуға тыйым салынады.
+5. Қазақстан Республикасы ратификациялаған халықаралық шарттардың осы Кодекс алдында басымдығы болады. Қазақстан Республикасы қатысушысы болып табылатын халықаралық шарттардың Қазақстан Республикасының аумағында қолданылу тәртібі мен талаптары Қазақстан Республикасының заңнамасында айқындалады.
+[text-ru]
+1. Налоговое законодательство Республики Казахстан основывается на Конституции Республики Казахстан, состоит из настоящего Кодекса, а также нормативных правовых актов, принятие которых предусмотрено настоящим Кодексом.
+2. Ни на кого не может быть возложена обязанность по уплате налогов и платежей в бюджет, не предусмотренных настоящим Кодексом.
+3. При наличии противоречия между настоящим Кодексом и другими законами Республики Казахстан в целях налогообложения действуют нормы настоящего Кодекса.
+4. Запрещается включение в неналоговое законодательство Республики Казахстан норм, регулирующих налоговые отношения, кроме случаев, предусмотренных настоящим Кодексом.
+5. Международные договоры, ратифицированные Республикой Казахстан, имеют приоритет перед настоящим Кодексом. Порядок и условия действия на территории Республики Казахстан международных договоров, участницей которых является Республика Казахстан, определяются законодательством Республики Казахстан.
+[text-en]
+1. The tax legislation of the Republic of Kazakhstan is based on the Constitution of the Republic of Kazakhstan and consists of this Code and the regulatory legal acts whose adoption is provided for by this Code.
+2. No one may be obliged to pay taxes and payments to the budget that are not provided for by this Code.
+3. In the event of a contradiction between this Code and other laws of the Republic of Kazakhstan, the norms of this Code apply for taxation purposes.
+4. It is prohibited to include norms regulating tax relations in the non-tax legislation of the Republic of Kazakhstan, except in the cases provided for by this Code.
+5. International treaties ratified by the Republic of Kazakhstan take precedence over this Code. The procedure and conditions for the application in the territory of the Republic of Kazakhstan of international treaties to which the Republic of Kazakhstan is a party are determined by the legislation of the Republic of Kazakhstan.
+[explanation-kk]
+Салық заңнамасы Конституцияға негізделеді. Ең маңыздысы: Салық кодексінде жоқ салықты ешкім төлеуге міндетті емес. Басқа заң Салық кодексіне қайшы келсе, салық мәселесінде Салық кодексі қолданылады.
+[explanation-ru]
+Налоговое законодательство основано на Конституции. Главное: никто не обязан платить налог, которого нет в Налоговом кодексе. Если другой закон противоречит Кодексу — в налоговых вопросах действует Налоговый кодекс.
+[explanation-en]
+Tax law is based on the Constitution. Key point: no one has to pay a tax that is not in the Tax Code. If another law contradicts the Code, the Tax Code wins on tax matters.
+
+=== 23 | 1 | 1 | 2
+[title-kk]
+Қазақстан Республикасы салық заңнамасының қолданылуы
+[title-ru]
+Действие налогового законодательства Республики Казахстан
+[title-en]
+Effect of the tax legislation of the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының салық заңнамасы Қазақстан Республикасының бүкіл аумағында қолданылады және осы Кодексте салықтар мен бюджетке төленетін төлемдерді төлеушілер ретінде, сондай-ақ салықтар мен бюджетке төленетін төлемдерді алу және әкімшілендіру жөніндегі тиісті салықтық және өзге де рәсімдерге қатысушылар ретінде айқындалған барлық жеке тұлғаларға, заңды тұлғаларға және олардың құрылымдық бөлімшелеріне қолданылады.
+2. Жаңа салықты және (немесе) бюджетке төленетін төлемді белгілеу, мөлшерлемені арттыру, салық салу объектісін және (немесе) салықтық базаны өзгерту, салық төлеушілердің (салық агенттерінің) санаттарын ұлғайту, салықтар мен бюджетке төлемдер төлеу бойынша шегерімнің немесе жеңілдіктің күшін жою немесе оны азайту бөлігінде осы Кодекске өзгерістер мен толықтырулар енгізетін заңдар ағымдағы жылғы 1 шілдеден кешіктірілмей қабылдануы және олар қабылданған жылдан кейінгі жылғы 1 қаңтардан кейін қолданысқа енгізілуі мүмкін.
+3. Осы Кодекске өзгерістер және (немесе) толықтырулар енгізу Қазақстан Республикасының басқа да заңдарына өзгерістер мен толықтырулар енгізуді көздемейтін заңмен жүзеге асырылады.
+Бұл ретте Қазақстан Республикасы Үкіметінің заң шығару бастамасы тәртібімен осы Кодекске өзгерістер және (немесе) толықтырулар енгізілген кезде мұндай заң жобасын салық саясаты саласындағы уәкілетті орган және (немесе) бюджетті атқару жөніндегі орталық уәкілетті орган әзірлейді.
+4. Заңдардың салықтардың және (немесе) бюджетке төленетін төлемдердің жаңа түрлерін белгілейтін, мөлшерлемелерді арттыратын, жаңа міндеттер белгілейтін, сондай-ақ салық төлеушінің (салық агентінің) жағдайын нашарлататын ережелерінің кері күші болмайды.
+[text-ru]
+1. Налоговое законодательство Республики Казахстан действует на всей территории Республики Казахстан и распространяется на всех физических лиц, юридических лиц и их структурные подразделения, которые определены настоящим Кодексом в качестве плательщиков налогов и платежей в бюджет, а также в качестве участников соответствующих налоговых и иных процедур по взиманию и администрированию налогов и платежей в бюджет.
+2. Законы, вносящие изменения и дополнения в настоящий Кодекс в части установления нового налога и (или) платежа в бюджет, повышения ставки, изменения объекта налогообложения и (или) налоговой базы, увеличения категорий налогоплательщиков (налоговых агентов), отмены или уменьшения вычета или льготы по уплате налогов и платежей в бюджет, могут быть приняты не позднее 1 июля текущего года и введены в действие не ранее 1 января года, следующего за годом их принятия.
+3. Внесение изменений и (или) дополнений в настоящий Кодекс осуществляется законом, не предусматривающим внесение изменений и дополнений в другие законы Республики Казахстан.
+При этом при внесении изменений и (или) дополнений в настоящий Кодекс в порядке законодательной инициативы Правительства Республики Казахстан проект такого закона разрабатывается уполномоченным органом в области налоговой политики и (или) центральным уполномоченным органом по исполнению бюджета.
+4. Положения законов, устанавливающие новые виды налогов и (или) платежей в бюджет, повышающие ставки, устанавливающие новые обязанности, а также ухудшающие положение налогоплательщика (налогового агента), обратной силы не имеют.
+[text-en]
+1. The tax legislation of the Republic of Kazakhstan applies throughout the territory of the Republic of Kazakhstan and extends to all individuals, legal entities and their structural subdivisions that are defined by this Code as payers of taxes and payments to the budget, as well as participants in the relevant tax and other procedures for the collection and administration of taxes and payments to the budget.
+2. Laws amending and supplementing this Code with respect to establishing a new tax and (or) payment to the budget, raising a rate, changing the object of taxation and (or) the tax base, expanding the categories of taxpayers (tax agents), or abolishing or reducing a deduction or benefit for the payment of taxes and payments to the budget may be adopted no later than 1 July of the current year and put into effect no earlier than 1 January of the year following the year of their adoption.
+3. Amendments and (or) additions to this Code are made by a law that does not provide for amendments and additions to other laws of the Republic of Kazakhstan.
+When amendments and (or) additions to this Code are made through the legislative initiative of the Government of the Republic of Kazakhstan, the draft of such a law is developed by the authorised body in the field of tax policy and (or) the central authorised body for budget execution.
+4. Provisions of laws that establish new types of taxes and (or) payments to the budget, raise rates, establish new obligations or worsen the position of a taxpayer (tax agent) have no retroactive effect.
+[explanation-kk]
+Салық заңы бүкіл Қазақстанда қолданылады. Жаңа салық енгізу немесе салықты көтеру туралы заң 1 шілдеге дейін қабылдануы және тек келесі жылдың 1 қаңтарынан бастап күшіне енуі тиіс — адамдар алдын ала дайындалуы үшін. Жағдайды нашарлататын заңның кері күші жоқ.
+[explanation-ru]
+Налоговый закон действует по всему Казахстану. Закон о новом налоге или повышении налога должен быть принят до 1 июля и вступает в силу не раньше 1 января следующего года — чтобы люди успели подготовиться. Закон, ухудшающий положение, назад не действует.
+[explanation-en]
+Tax law applies throughout Kazakhstan. A law introducing a new tax or raising one must be adopted by 1 July and takes effect no earlier than 1 January of the next year, so people can prepare. A law that worsens your position does not apply retroactively.
+
+=== 24 | 1 | 1 | 2
+[title-kk]
+Қазақстан Республикасы салық заңнамасының негізгі мақсаты мен міндеті
+[title-ru]
+Основные цель и задача налогового законодательства Республики Казахстан
+[title-en]
+Main goal and task of the tax legislation of the Republic of Kazakhstan
+[text-kk]
+1. Қазақстан Республикасының аумағында қолданылатын салықтар мен бюджетке төленетін төлемдерді, сондай-ақ салық салу қағидаттары негізінде салықтық міндеттемелердің орындалуын қамтамасыз ету үшін салықтық құқықтық қатынастар тараптарының құқықтары мен міндеттерін белгілеу Қазақстан Республикасы салық заңнамасының негізгі мақсаты болып табылады.
+2. Салықтар мен бюджетке төленетін төлемдерді есептеу және төлеу, салықтық міндеттемелерді орындау үшін құқықтық негіздер құру Қазақстан Республикасы салық заңнамасының негізгі міндеті болып табылады.
+[text-ru]
+1. Основной целью налогового законодательства Республики Казахстан является установление налогов и платежей в бюджет, действующих на территории Республики Казахстан, а также прав и обязанностей сторон налоговых правоотношений для обеспечения исполнения налоговых обязательств на основе принципов налогообложения.
+2. Основной задачей налогового законодательства Республики Казахстан является создание правовых основ для исчисления и уплаты налогов и платежей в бюджет, исполнения налоговых обязательств.
+[text-en]
+1. The main goal of the tax legislation of the Republic of Kazakhstan is to establish the taxes and payments to the budget in force in the territory of the Republic of Kazakhstan, as well as the rights and obligations of the parties to tax legal relations, to ensure the fulfilment of tax obligations on the basis of the principles of taxation.
+2. The main task of the tax legislation of the Republic of Kazakhstan is to create the legal basis for the calculation and payment of taxes and payments to the budget and the fulfilment of tax obligations.
+[explanation-kk]
+Салық заңының мақсаты — қандай салықтар бар екенін және салық төлеуші мен мемлекеттің құқықтары мен міндеттерін белгілеу. Міндеті — салықтарды есептеу мен төлеудің құқықтық негізін жасау.
+[explanation-ru]
+Цель налогового законодательства — установить, какие налоги существуют, и определить права и обязанности налогоплательщика и государства. Задача — создать правовую основу для расчёта и уплаты налогов.
+[explanation-en]
+The goal of tax law is to set which taxes exist and the rights and duties of taxpayers and the state. Its task is to create the legal basis for calculating and paying taxes.
+
+=== 33 | 1 | 1 | 3
+[title-kk]
+Салық саясаты
+[title-ru]
+Налоговая политика
+[title-en]
+Tax policy
+[text-kk]
+Мемлекеттің қаржылық қажеттіліктерін мемлекет пен салық төлеушілердің экономикалық мүдделерінің теңгерімін сақтау негізінде қамтамасыз ету мақсатында жаңа салықтар мен бюджетке төленетін төлемдерді белгілеу және қолданыстағыларының күшін жою, мөлшерлемелерді, салық салу объектілері мен салық салуға байланысты объектілерді, салықтар мен бюджетке төленетін төлемдер бойынша салықтық базаны өзгерту жөніндегі шаралардың жиынтығы салық саясаты болып табылады.
+[text-ru]
+Налоговой политикой является совокупность мер по установлению новых и отмене действующих налогов и платежей в бюджет, изменению ставок, объектов налогообложения и объектов, связанных с налогообложением, налоговой базы по налогам и платежам в бюджет в целях обеспечения финансовых потребностей государства на основе соблюдения баланса экономических интересов государства и налогоплательщиков.
+[text-en]
+Tax policy is a set of measures for establishing new and abolishing existing taxes and payments to the budget and for changing rates, objects of taxation, objects related to taxation and the tax base for taxes and payments to the budget, in order to meet the financial needs of the state while maintaining a balance between the economic interests of the state and taxpayers.
+[explanation-kk]
+Салық саясаты — мемлекеттің салықтарды енгізу, жою немесе мөлшерлемелерін өзгерту жөніндегі шаралары. Мақсат — мемлекетке ақша жеткілікті болуы және салық төлеушілерге әділ болуы.
+[explanation-ru]
+Налоговая политика — это меры государства по введению, отмене налогов и изменению их ставок. Цель — чтобы государству хватало денег и при этом было справедливо для налогоплательщиков.
+[explanation-en]
+Tax policy is the set of state measures for introducing or abolishing taxes and changing rates. The aim is enough money for the state while staying fair to taxpayers.
+
+=== 34 | 1 | 1 | 3
+[title-kk]
+Салықтық жеңілдіктер
+[title-ru]
+Налоговые льготы
+[title-en]
+Tax benefits
+[text-kk]
+1. Салықтық жеңілдік – салық төлеушілерге Қазақстан Республикасы салық заңнамасының нормаларына сәйкес мөлшерлемені төмендету, салық салынатын базадан бір немесе бірнеше салықтарды төлеуден толық босату, шегерімдер, түзетулер түрінде берілген артықшылық.
+2. Салық саясаты саласындағы уәкілетті орган Қазақстан Республикасының Бюджет кодексіне сәйкес жыл сайын салықтық жеңілдіктердің тиімділігін және оларды одан әрі қолданудың орындылығын бағалауды қамтитын салықтық шығыстар туралы талдамалық есеп жасайды.
+3. Салық саясаты саласындағы уәкілетті органның салықтық жеңілдік беру туралы мәселені қарауына уәкілетті мемлекеттік органдардың жолданымдары негіз болып табылады
+4. Уәкілетті мемлекеттік органдар жетекшілік ететін салалар бойынша салықтық жеңілдік беру (ұзарту) қажеттілігі туындаған жағдайда Қазақстан Республикасының Үкіметі айқындаған тәртіппен көрсетілген жеңілдіктің қажеттілігіне негіздемелерді салық саясаты саласындағы уәкілетті органға жібереді.
+Уәкілетті мемлекеттік органдар салық саясаты саласындағы уәкілетті органға жүгінгенге дейін ұсынылатын (ұзартылатын) салықтық жеңілдікті монополияға қарсы органмен және бюджетті атқару жөніндегі орталық уәкілетті органмен келіседі.
+Уәкілетті мемлекеттік органдар салық саясаты саласындағы уәкілетті органға жүгінген кезде монополияға қарсы орган берген Қазақстан Республикасының бәсекелестікті қорғау саласындағы заңнамасына сәйкестігі тұрғысындағы қорытындыны және бюджетті атқару жөніндегі орталық уәкілетті орган берген қорытындыны ұсынады.
+5. Салық саясаты саласындағы уәкілетті орган бюджетті атқару жөніндегі орталық уәкілетті органмен бірлесіп, салықтық жеңілдікті беру немесе одан бас тарту, салықтық жеңілдікті ұзарту немесе оның күшін жою, салықтық жеңілдікті беру мерзімі жөніндегі ұсыныстарға бастамашылық жасайды.
+6. Уәкілетті мемлекеттік органдар жетекшілік ететін салалар бойынша салықтық жеңілдіктерге мониторинг пен бақылауды жүзеге асыруға міндетті.
+7. Салықтық жеңілдікті енгізу кезінде мәлімделген әлеуметтік-экономикалық мақсаттарға қол жеткізілмеген жағдайда, сондай-ақ оның бюджетке әсерін ескере отырып, салық саясаты саласындағы уәкілетті орган бюджетті атқару жөніндегі орталық уәкілетті органмен бірлесіп, салықтық жеңілдікті нақтылауға немесе оның күшін жоюға бастамашылық жасайды.
+Бұл ретте салықтық жеңілдіктерді қолданудың әлеуметтік-экономикалық мақсаттарына қол жеткізу өлшемшарттары мен оларды белгілеу тәртібін Қазақстан Республикасының Үкіметі айқындайды.
+8. Егер қолданылатын салықтық жеңілдіктердің сомасы бойынша ағымдағы жылдың алдындағы күнтізбелік жылдағы жалпы ішкі өнімнің он пайыздық шегіне жеткізілсе, салықтық жеңілдіктер берілмейді.
+[text-ru]
+1. Налоговая льгота – преимущество, предоставленное в соответствии с нормами налогового законодательства Республики Казахстан налогоплательщикам в виде понижения ставки, полного освобождения от уплаты одного или нескольких налогов, вычетов, корректировок из налогооблагаемой базы.
+2. Уполномоченным органом в области налоговой политики в соответствии с Бюджетным кодексом Республики Казахстан ежегодно составляется аналитический отчет о налоговых расходах, содержащий оценку эффективности налоговых льгот и целесообразности их дальнейшего применения.
+3. Основанием для рассмотрения вопроса о предоставлении налоговой льготы уполномоченным органом в области налоговой политики являются обращения уполномоченных государственных органов.
+4. Уполномоченные государственные органы в случае возникновения необходимости в предоставлении (продлении) налоговой льготы по курируемым отраслям направляют в уполномоченный орган в области налоговой политики обоснования необходимости в указанной льготе в порядке, определенном Правительством Республики Казахстан.
+Уполномоченные государственные органы до обращения в уполномоченный орган в области налоговой политики согласовывают предлагаемую (продлеваемую) налоговую льготу с антимонопольным органом и центральным уполномоченным органом по исполнению бюджета.
+Уполномоченные государственные органы при обращении в уполномоченный орган в области налоговой политики представляют заключение на предмет соответствия законодательству Республики Казахстан в области защиты конкуренции, выданное антимонопольным органом, и заключение, выданное центральным уполномоченным органом по исполнению бюджета.
+5. Уполномоченный орган в области налоговой политики совместно с центральным уполномоченным органом по исполнению бюджета инициирует предложения по предоставлению или отказу в налоговой льготе, продлению или отмене налоговой льготы, сроку предоставления налоговой льготы.
+6. Уполномоченные государственные органы обязаны осуществлять мониторинг и контроль по налоговым льготам по курируемым отраслям.
+7. В случае недостижения социально-экономических целей, заявленных при введении налоговой льготы, а также с учетом ее влияния на бюджет уполномоченный орган в области налоговой политики совместно с центральным уполномоченным органом по исполнению бюджета инициирует уточнение или отмену налоговой льготы.
+При этом критерии достижения социально-экономических целей применения налоговых льгот и порядок их установления определяются Правительством Республики Казахстан.
+8. Налоговые льготы не могут быть предоставлены в случае, если по сумме имеющихся налоговых льгот достигнут порог в десять процентов от валового внутреннего продукта за календарный год, предшествующий текущему году.
+[text-en]
+1. A tax benefit is an advantage granted to taxpayers in accordance with the norms of the tax legislation of the Republic of Kazakhstan in the form of a reduced rate, full exemption from payment of one or several taxes, or deductions and adjustments from the taxable base.
+2. Each year, in accordance with the Budget Code of the Republic of Kazakhstan, the authorised body in the field of tax policy prepares an analytical report on tax expenditures containing an assessment of the effectiveness of tax benefits and the advisability of their further application.
+3. Appeals from authorised state bodies are the basis for the authorised body in the field of tax policy to consider granting a tax benefit.
+4. When it becomes necessary to grant (extend) a tax benefit in the industries they supervise, authorised state bodies send justification of the need for that benefit to the authorised body in the field of tax policy in the procedure determined by the Government of the Republic of Kazakhstan.
+Before applying to the authorised body in the field of tax policy, authorised state bodies agree the proposed (extended) tax benefit with the antimonopoly body and the central authorised body for budget execution.
+When applying to the authorised body in the field of tax policy, authorised state bodies submit an opinion of the antimonopoly body on compliance with the legislation of the Republic of Kazakhstan in the field of competition protection and an opinion issued by the central authorised body for budget execution.
+5. The authorised body in the field of tax policy, together with the central authorised body for budget execution, initiates proposals on granting or refusing a tax benefit, extending or abolishing a tax benefit, and the period for which a tax benefit is granted.
+6. Authorised state bodies must monitor and control tax benefits in the industries they supervise.
+7. If the socio-economic goals declared when a tax benefit was introduced are not achieved, and taking into account its impact on the budget, the authorised body in the field of tax policy, together with the central authorised body for budget execution, initiates clarification or abolition of the tax benefit.
+The criteria for achieving the socio-economic goals of applying tax benefits and the procedure for establishing them are determined by the Government of the Republic of Kazakhstan.
+8. Tax benefits may not be granted if the total amount of existing tax benefits has reached the threshold of ten per cent of the gross domestic product for the calendar year preceding the current year.
+[explanation-kk]
+Салықтық жеңілдік — салықты азайту немесе толық босату (төмен мөлшерлеме, шегерім). Мемлекет жеңілдіктердің пайдасын жыл сайын тексереді: мақсатқа жетпесе, жеңілдік жойылуы мүмкін. Жеңілдіктердің жалпы сомасы ІЖӨ-нің 10%-ынан аспауы тиіс.
+[explanation-ru]
+Налоговая льгота — это уменьшение налога или полное освобождение от него (пониженная ставка, вычет). Государство каждый год проверяет пользу льгот: если цель не достигнута, льготу могут отменить. Все льготы вместе не могут превышать 10% ВВП.
+[explanation-en]
+A tax benefit lowers a tax or fully exempts you (reduced rate, deduction). The state reviews benefits every year and may cancel one that misses its goal. All benefits together cannot exceed 10% of GDP.
+
+=== 35 | 1 | 1 | 3
+[title-kk]
+Салық салу мәселелері жөніндегі әдіснамалық кеңес
+[title-ru]
+Методологический совет по вопросам налогообложения
+[title-en]
+Methodological Council on Taxation Issues
+[text-kk]
+1. Салықтық міндеттемелерді орындау барысында туындауы мүмкін түсініксіздіктерді, дәлсіздіктер мен қайшылықтарды жою бойынша ұсыныстар әзірлеу мақсатында Салық салу мәселелері жөніндегі әдіснамалық кеңес құрылады.
+2. Салық салу мәселелері жөніндегі әдіснамалық кеңес туралы ережені және оның құрамын Қазақстан Республикасының Премьер-Министрі бекітеді.
+[text-ru]
+1. В целях выработки предложений по устранению неясностей, неточностей и противоречий, которые могут возникнуть в ходе исполнения налоговых обязательств, создается Методологический совет по вопросам налогообложения.
+2. Положение о Методологическом совете по вопросам налогообложения и его состав утверждаются Премьер-Министром Республики Казахстан.
+[text-en]
+1. A Methodological Council on Taxation Issues is created to develop proposals for eliminating ambiguities, inaccuracies and contradictions that may arise in the course of fulfilling tax obligations.
+2. The regulations on the Methodological Council on Taxation Issues and its composition are approved by the Prime Minister of the Republic of Kazakhstan.
+[explanation-kk]
+Салық заңындағы түсініксіз немесе бір-біріне қайшы нормаларды түзету үшін арнайы кеңес құрылады. Оның құрамын Премьер-Министр бекітеді.
+[explanation-ru]
+Для исправления неясных или противоречивых норм налогового закона создаётся специальный совет. Его состав утверждает Премьер-Министр.
+[explanation-en]
+A special council is set up to fix unclear or contradictory tax rules. Its members are approved by the Prime Minister.
+
+=== 36 | 1 | 2 | 1
+[title-kk]
+Салық төлеушінің (салық агентінің) құқықтары мен міндеттері
+[title-ru]
+Права и обязанности налогоплательщика (налогового агента)
+[title-en]
+Rights and obligations of the taxpayer (tax agent)
+[text-kk]
+1. Салық төлеуші (салық агенті):
+1) салық органынан қолданылып жүрген салықтар мен бюджетке төленетін төлемдер, Қазақстан Республикасының салық заңнамасындағы өзгерістер туралы ақпарат алуға;
+2) салық органынан өзі ұсынған мәліметтер мен құжаттар шегінде салықтық міндеттемесінің туындауы, орындалуы және тоқтатылуы бойынша түсіндірме және комментарий алуға құқылы.
+Деңгейлес мониторингке қатысушы үшін осы тармақшаның бірінші бөлігінде көзделген түсіндірмелерді жүзеге асыру мен комментарийлер беруді, сондай-ақ жоспарланған мәмілелерге (операцияларға) қатысты алдын ала түсіндірме беруді уәкілетті орган жүргізеді;
+3) Қазақстан Республикасының салық заңнамасымен реттелетін қатынастарда жеке өзі немесе өкілі арқылы өзінің мүдделерін білдіруге;
+4) Қазақстан Республикасының заңнамасына сәйкес салықтар бойынша аудит жүргізуге шарт жасасуға;
+5) осы Кодексте белгіленген жағдайларда салықтық бақылау нәтижелерін алуға;
+6) осы Кодексте айқындалған тәртіппен салықтарды және (немесе) төлемақыларды төлеу бойынша салықтық міндеттемені орындау мерзімін өзгерту үшін салық органына жүгінуге;
+7) салықтық тексеру нәтижелері туралы хабарламаға, салық төлеушінің (салық агентінің) салықтық тексеру нәтижелері туралы хабарламаға шағымын қарау қорытындылары туралы хабарламаға, сондай-ақ салық органы лауазымды адамының әрекеттеріне (әрекетсіздігіне) шағым жасауға;
+8) салық салу объектілеріне және (немесе) салық салуға байланысты объектілерге қатысы жоқ ақпарат пен құжаттарды бермеуге құқылы.
+2. Салық төлеуші (салық агенті):
+1) салықтық міндеттемелерді уақтылы және толық көлемде орындауға;
+2) салық органының талап етуімен салықтар бойынша аудит жүргізуге арналған шартты және осындай шарт жасалған жағдайда, салықтар бойынша аудиттің қорытындысын ұсынуға;
+3) осы Кодексте және сақталуын бақылау салық органдарына жүктелген Қазақстан Республикасының өзге де заңнамасында көзделген жағдайларда салық органы сұрататын ақпарат пен құжаттарды беруге;
+4) қалыпты сақтау жағдайлары кезінде табиғи тозу және (немесе) табиғи кему салдарынан билік ету шектелген мүліктің өзгерулерін қоспағанда, мұндай мүліктің шектеу алынғанға дейін өзгеріссіз күйде сақталуын қамтамасыз етуге міндетті.
+3. Салық төлеуші:
+1) бақылау-касса машиналарын қолданған кезде қойылатын талаптарды сақтауға;
+2) бақылау-касса машинасының тауар чектерінің кітаптарын осындай кітаптар толығымен толтырылған күннен бастап талап қоюдың ескіру мерзімі ішінде сақтауға;
+3) деректерді беру функциясы жоқ бақылау-касса машинасы қолданылған кезде ауыспалы есептерді, қолма-қол ақшаны есепке алу кітаптарын, сондай-ақ жою, қайтару чектерін және жою мен қайтару операциялары жүргізілген чектерді талап қоюдың ескіру мерзімі ішінде сақтауға;
+4) осы Кодексте белгіленген жағдайларда биометриялық сәйкестендіруден өтуге міндетті.
+4. Қоғамдық тамақтандыру және сауда салаларында қызметін жүзеге асыратын салық төлеуші халықты хабардар ету үшін салық төлеушінің паспортын тікелей бақылау-касса машиналары тұрған және жалпыға бірдей қолжетімді жерлерге орналастыруға міндетті.
+Осы баптың мақсатында салық органы қалыптастыратын, салықтық құпия болып табылмайтын және штрих-кодта қамтылған кәсіпкерлік субъектісінің ақпараттық картасы салық төлеушінің паспорты болып табылады.
+Салық төлеушінің паспорты уәкілетті органның интернет-ресурсында орналастырылады.
+Салық төлеушінің паспортындағы мәліметтердің тізбесін, оны қалыптастыру және интернет-ресурста орналастыру тәртібі мен мерзімдерін уәкілетті орган белгілейді.
+5. Салық төлеушінің (салық агентінің) осы Кодексте және Қазақстан Республикасының өзге де заңдарында белгіленген өзге де құқықтары болады және ол өзге де міндеттерді орындайды.
+[text-ru]
+1. Налогоплательщик (налоговый агент) вправе:
+1) получать от налогового органа информацию о действующих налогах и платежах в бюджет, изменениях в налоговом законодательстве Республики Казахстан;
+2) получать от налогового органа разъяснение и комментарии по возникновению, исполнению и прекращению своего налогового обязательства в пределах представленных им сведений и документов.
+Для участника горизонтального мониторинга осуществление разъяснений и предоставление комментариев, предусмотренных частью первой настоящего подпункта, а также предварительное разъяснение в отношении планируемых сделок (операций) производятся уполномоченным органом;
+3) представлять свои интересы в отношениях, регулируемых налоговым законодательством Республики Казахстан, лично или через представителя;
+4) заключать договор на проведение аудита по налогам в соответствии с законодательством Республики Казахстан;
+5) получать результаты налогового контроля в случаях, установленных настоящим Кодексом;
+6) обратиться в налоговый орган для изменения срока исполнения налогового обязательства по уплате налогов и (или) плат в порядке, определенном настоящим Кодексом;
+7) обжаловать уведомление о результатах налоговой проверки, уведомление об итогах рассмотрения жалобы налогоплательщика (налогового агента) на уведомление о результатах налоговой проверки, а также действия (бездействие) должностного лица налогового органа;
+8) не предоставлять информацию и документы, не относящиеся к объектам налогообложения и (или) объектам, связанным с налогообложением.
+2. Налогоплательщик (налоговый агент) обязан:
+1) своевременно и в полном объеме исполнять налоговые обязательства;
+2) представлять по требованию налогового органа договор на проведение аудита по налогам и заключение аудита по налогам в случае заключения такого договора;
+3) предоставлять информацию и документы, запрашиваемые налоговым органом, в случаях, предусмотренных настоящим Кодексом и иным законодательством Республики Казахстан, контроль за соблюдением которого возложен на налоговые органы;
+4) обеспечить сохранность имущества, ограниченного в распоряжении, в неизменном состоянии до снятия ограничения, за исключением изменений такого имущества вследствие естественного износа и (или) естественной убыли при нормальных условиях хранения.
+3. Налогоплательщик обязан:
+1) соблюдать требования, предъявляемые при применении контрольно-кассовых машин;
+2) хранить книги товарных чеков контрольно-кассовой машины в течение срока исковой давности с даты полного заполнения таких книг;
+3) при применении контрольно-кассовой машины без функции передачи данных хранить сменные отчеты, книги учета наличных денег, а также чеки аннулирования, возврата и чеки, по которым проведены операции аннулирования и возврата, в течение срока исковой давности;
+4) проходить биометрическую идентификацию в случаях, установленных настоящим Кодексом.
+4. Налогоплательщик, осуществляющий деятельность в сферах общественного питания и торговли, обязан разместить паспорт налогоплательщика в местах непосредственного нахождения контрольно-кассовых машин и общедоступных местах для информирования населения.
+Паспортом налогоплательщика в целях настоящей статьи является формируемая налоговым органом информационная карта субъекта предпринимательства, не являющаяся налоговой тайной и содержащаяся в штрих-коде.
+Паспорт налогоплательщика размещается на интернет-ресурсе уполномоченного органа.
+Перечень сведений, содержащихся в паспорте налогоплательщика, порядок и сроки его формирования и размещения на интернет-ресурсе устанавливаются уполномоченным органом.
+5. Налогоплательщик (налоговый агент) имеет иные права и выполняет иные обязанности, установленные настоящим Кодексом и иными законами Республики Казахстан.
+[text-en]
+1. A taxpayer (tax agent) has the right to:
+1) receive from the tax authority information on the taxes and payments to the budget in force and on changes in the tax legislation of the Republic of Kazakhstan;
+2) receive from the tax authority explanations and comments on the arising, fulfilment and termination of its tax obligation within the information and documents it has submitted.
+For a participant of horizontal monitoring, the explanations and comments provided for by part one of this subparagraph, as well as preliminary explanations on planned transactions (operations), are given by the authorised body;
+3) represent its interests in relations regulated by the tax legislation of the Republic of Kazakhstan in person or through a representative;
+4) conclude an agreement for a tax audit in accordance with the legislation of the Republic of Kazakhstan;
+5) receive the results of tax control in the cases established by this Code;
+6) apply to the tax authority to change the deadline for fulfilling a tax obligation to pay taxes and (or) fees in the procedure determined by this Code;
+7) appeal a notice of the results of a tax audit, a notice of the outcome of consideration of a complaint of the taxpayer (tax agent) against a notice of the results of a tax audit, as well as actions (inaction) of an official of the tax authority;
+8) not provide information and documents unrelated to objects of taxation and (or) objects related to taxation.
+2. A taxpayer (tax agent) must:
+1) fulfil tax obligations on time and in full;
+2) submit, at the request of the tax authority, the tax audit agreement and the tax audit report if such an agreement has been concluded;
+3) provide information and documents requested by the tax authority in the cases provided for by this Code and other legislation of the Republic of Kazakhstan whose observance is controlled by the tax authorities;
+4) keep property restricted in disposal unchanged until the restriction is lifted, except for changes due to natural wear and tear and (or) natural loss under normal storage conditions.
+3. A taxpayer must:
+1) comply with the requirements for the use of cash registers;
+2) keep the cash register sales receipt books for the limitation period from the date such books are completely filled in;
+3) when using a cash register without a data transfer function, keep shift reports, cash books, as well as cancellation and refund receipts and receipts on which cancellation and refund operations were carried out, for the limitation period;
+4) undergo biometric identification in the cases established by this Code.
+4. A taxpayer operating in catering and trade must place the taxpayer passport where the cash registers are located and in publicly accessible places to inform the public.
+For the purposes of this article, the taxpayer passport is an information card of a business entity formed by the tax authority, which is not a tax secret and is contained in a barcode.
+The taxpayer passport is posted on the internet resource of the authorised body.
+The list of information contained in the taxpayer passport and the procedure and deadlines for its formation and posting on the internet resource are established by the authorised body.
+5. A taxpayer (tax agent) has other rights and performs other obligations established by this Code and other laws of the Republic of Kazakhstan.
+[explanation-kk]
+Сіздің құқықтарыңыз: салық органынан ақпарат пен түсіндірме алу; өкіл арқылы әрекет ету; тексеру нәтижесіне және салық қызметкерінің әрекетіне шағымдану; салыққа қатысы жоқ құжаттарды бермеу. Міндеттеріңіз: салықты уақытында және толық төлеу, сұралған құжаттарды беру. Сауда мен тамақтандыру орындары касса жанында «салық төлеуші паспортын» (штрих-код) ілуге міндетті.
+[explanation-ru]
+Ваши права: получать от налоговой информацию и разъяснения; действовать через представителя; обжаловать результаты проверки и действия налоговиков; не давать документы, не связанные с налогами. Обязанности: платить налоги вовремя и полностью, предоставлять запрошенные документы. Магазины и кафе обязаны размещать у кассы «паспорт налогоплательщика» (штрих-код).
+[explanation-en]
+Your rights: get information and explanations from the tax office; act through a representative; appeal audit results and officials’ actions; refuse documents unrelated to taxes. Your duties: pay taxes on time and in full and provide requested documents. Shops and cafés must display the “taxpayer passport” (a barcode) near the cash register.
+
+=== 37 | 1 | 2 | 1
+[title-kk]
+Салық төлеушінің (салық агентінің) құқықтарын қамтамасыз ету және қорғау
+[title-ru]
+Обеспечение и защита прав налогоплательщика (налогового агента)
+[title-en]
+Ensuring and protecting the rights of the taxpayer (tax agent)
+[text-kk]
+1. Салық төлеушіге (салық агентіне) оның құқықтары мен заңды мүдделерінің қорғалуына кепілдік беріледі.
+2. Салық төлеушінің (салық агентінің) құқықтары мен заңды мүдделерін қорғау осы Кодексте және Қазақстан Республикасының өзге де заңдарында айқындалған тәртіппен жүзеге асырылады.
+3. Салық органы мен салық органының лауазымды адамының салық төлеушіден (салық агентінен) осы Кодексте және Қазақстан Республикасының өзге де заңдарында көзделмеген міндеттерді орындауын талап етуіне тыйым салынады.
+[text-ru]
+1. Налогоплательщику (налоговому агенту) гарантируется защита его прав и законных интересов.
+2. Защита прав и законных интересов налогоплательщика (налогового агента) осуществляется в порядке, определенном настоящим Кодексом и иными законами Республики Казахстан.
+3. Налоговому органу и должностному лицу налогового органа запрещается требовать от налогоплательщика (налогового агента) выполнения обязанностей, не предусмотренных настоящим Кодексом и иными законами Республики Казахстан.
+[text-en]
+1. A taxpayer (tax agent) is guaranteed protection of its rights and legitimate interests.
+2. The rights and legitimate interests of a taxpayer (tax agent) are protected in the procedure determined by this Code and other laws of the Republic of Kazakhstan.
+3. The tax authority and its officials are prohibited from requiring a taxpayer (tax agent) to perform obligations not provided for by this Code and other laws of the Republic of Kazakhstan.
+[explanation-kk]
+Салық төлеушінің құқықтары заңмен қорғалады. Салық органы заңда жоқ нәрсені талап етуге құқылы емес.
+[explanation-ru]
+Права налогоплательщика защищены законом. Налоговая не вправе требовать то, чего нет в законе.
+[explanation-en]
+Taxpayers’ rights are protected by law. The tax office may not demand anything the law does not require.
+
+=== 38 | 1 | 2 | 2
+[title-kk]
+Салықтық қатынастарда өкілдік ету
+[title-ru]
+Представительство в налоговых отношениях
+[title-en]
+Representation in tax relations
+[text-kk]
+1. Салық төлеуші (салық агенті) Қазақстан Республикасының салық заңнамасымен реттелетін қатынастарға:
+1) жеке тұлғаның заңды өкілі;
+2) уәкілетті өкіл, оның ішінде оператор арқылы қатысуға құқылы.
+2. Қазақстан Республикасының салық заңнамасымен реттелетін қатынастарға салық төлеушінің (салық агентінің) жеке өзінің қатысуы оны өкілінің болуы құқығынан айырмайды, сол сияқты өкілдің қатысуы салық төлеушіні (салық агентін) көрсетілген қатынастарға жеке өзінің қатысу құқығынан айырмайды.
+[text-ru]
+1. Налогоплательщик (налоговый агент) вправе участвовать в отношениях, регулируемых налоговым законодательством Республики Казахстан, через:
+1) законного представителя физического лица;
+2) уполномоченного представителя, в том числе оператора.
+2. Личное участие налогоплательщика (налогового агента) в отношениях, регулируемых налоговым законодательством Республики Казахстан, не лишает его права иметь представителя, равно как участие представителя не лишает налогоплательщика (налогового агента) права на личное участие в указанных отношениях.
+[text-en]
+1. A taxpayer (tax agent) has the right to participate in relations regulated by the tax legislation of the Republic of Kazakhstan through:
+1) the legal representative of an individual;
+2) an authorised representative, including an operator.
+2. Personal participation of a taxpayer (tax agent) in relations regulated by the tax legislation of the Republic of Kazakhstan does not deprive it of the right to have a representative, just as participation of a representative does not deprive the taxpayer (tax agent) of the right to participate in those relations in person.
+[explanation-kk]
+Салық мәселелерін өзіңіз немесе өкіліңіз арқылы шеше аласыз. Өкілдің болуы өзіңіздің қатысуыңызға кедергі емес және керісінше.
+[explanation-ru]
+Налоговые вопросы можно решать лично или через представителя. Наличие представителя не мешает участвовать самому, и наоборот.
+[explanation-en]
+You can handle tax matters yourself or through a representative. Having a representative does not stop you from taking part yourself, and vice versa.
+
+=== 39 | 1 | 2 | 2
+[title-kk]
+Жеке тұлғаның заңды өкілі
+[title-ru]
+Законный представитель физического лица
+[title-en]
+Legal representative of an individual
+[text-kk]
+Жеке тұлғаның заңды өкілі – Қазақстан Республикасының заңдарына сәйкес жеке тұлғаның атынан өкілдік етуге уәкілеттік берілген адам.
+Жеке тұлғаның заңды өкілінің осы жеке тұлғаның атынан жасаған әрекеттері (әрекетсіздігі) жеке тұлғаның заңды өкілінің әрекеттері (әрекетсіздігі) деп танылады.
+[text-ru]
+Законный представитель физического лица – лицо, уполномоченное представлять физическое лицо в соответствии с законами Республики Казахстан.
+Действия (бездействие) законного представителя физического лица, совершенные от имени этого физического лица, признаются действиями (бездействием) законного представителя физического лица.
+[text-en]
+A legal representative of an individual is a person authorised to represent the individual in accordance with the laws of the Republic of Kazakhstan.
+Actions (inaction) of the legal representative of an individual performed on behalf of that individual are recognised as actions (inaction) of the legal representative of the individual.
+[explanation-kk]
+Заңды өкіл — заң бойынша адамның атынан әрекет ететін адам (мысалы, бала үшін ата-анасы немесе қорғаншысы).
+[explanation-ru]
+Законный представитель — тот, кто по закону действует от имени человека (например, родители или опекун за ребёнка).
+[explanation-en]
+A legal representative is someone who acts on a person’s behalf by law (for example, parents or a guardian for a child).
+
+=== 42 | 1 | 3 | 1
+[title-kk]
+Салық органдары, олардың міндеттері мен жүйесі
+[title-ru]
+Налоговые органы, их задачи и система
+[title-en]
+Tax authorities, their tasks and system
+[text-kk]
+1. Салық органдары мынадай міндеттерді орындайды:
+1) Қазақстан Республикасы салық заңнамасының және сақталуын бақылау салық органдарына жүктелген Қазақстан Республикасының өзге де заңнамасының сақталуын қамтамасыз ету;
+2) Қазақстан Республикасының салық саясатын іске асыруға қатысу;
+3) өз құзыреті шегінде Қазақстан Республикасының экономикалық қауіпсіздігін қамтамасыз ету;
+4) салық органының ақпараттандыру объектілерін қалыптастыру, олардың дамуын және салық төлеушілер үшін электрондық көрсетілетін қызметтердің қолжетімділігін қамтамасыз ету;
+5) Қазақстан Республикасының заңнамасында көзделген өзге де міндеттерді орындау.
+Мемлекеттік кіріс органы – өз құзыреті шегінде салықтар мен бюджетке төленетін төлемдердің түсуін қамтамасыз етуді, Қазақстан Республикасында кедендік реттеуді, Қазақстан Республикасының заңнамасында осы органның қарауына жатқызылған әкімшілік құқық бұзушылықтардың алдын алу, анықтау, жолын кесу және ашу жөніндегі өкілеттіктерді жүзеге асыратын, сондай-ақ Қазақстан Республикасының заңнамасында көзделген өзге де өкілеттіктерді орындайтын мемлекеттік орган салық органы болып табылады.
+2. Салық органдарының жүйесі:
+1) уәкілетті органнан;
+2) астана, облыстар, республикалық маңызы бар қалалар, аудандар, қалалар мен қалалардағы аудандар бойынша аумақтық бөлімшелерден;
+3) ауданаралық аумақтық бөлімшелерден;
+4) арнайы экономикалық аймақтар аумақтарындағы аумақтық бөлімшелерден;
+5) мамандандырылған мемлекеттік мекемеден тұрады.
+Мамандандырылған мемлекеттік мекеме – Қазақстан Республикасы Үкіметінің шешімі бойынша құрылған, салық органының лауазымды адамдарын даярлауды, қайта даярлауды және олардың кәсіби біліктілігін арттыруды, сондай-ақ халықтың салық мәдениетін арттыруға байланысты функцияларды жүзеге асыратын оқу-әдістемелік орталық.
+Уәкілетті орган салық органдарына басшылықты жүзеге асырады.
+3. Салық органдарының уәкілетті орган бекіткен кодтары болады.
+4. Салық органының нышаны болады, оның сипаттамасы мен пайдаланылу тәртібін уәкілетті орган айқындайды.
+[text-ru]
+1. Налоговые органы выполняют следующие задачи:
+1) обеспечение соблюдения налогового законодательства Республики Казахстан и иного законодательства Республики Казахстан, контроль за соблюдением которого возложен на налоговые органы;
+2) участие в реализации налоговой политики Республики Казахстан;
+3) обеспечение в пределах своей компетенции экономической безопасности Республики Казахстан;
+4) формирование, обеспечение развития объектов информатизации налогового органа и доступности электронных услуг для налогоплательщиков;
+5) выполнение иных задач, предусмотренных законодательством Республики Казахстан.
+Налоговым органом является орган государственных доходов – государственный орган, в пределах своей компетенции осуществляющий обеспечение поступлений налогов и платежей в бюджет, таможенное регулирование в Республике Казахстан, полномочия по предупреждению, выявлению, пресечению и раскрытию административных правонарушений, отнесенных законодательством Республики Казахстан к ведению этого органа, а также выполняющий иные полномочия, предусмотренные законодательством Республики Казахстан.
+2. Система налоговых органов состоит из:
+1) уполномоченного органа;
+2) территориальных подразделений по столице, областям, городам республиканского значения, районам, городам и районам в городах;
+3) межрайонных территориальных подразделений;
+4) территориальных подразделений на территориях специальных экономических зон;
+5) специализированного государственного учреждения.
+Специализированное государственное учреждение – учебно-методический центр, созданный по решению Правительства Республики Казахстан, осуществляющий подготовку, переподготовку и повышение профессиональной квалификации должностных лиц налогового органа, а также функции, связанные с повышением налоговой культуры населения.
+Уполномоченный орган осуществляет руководство налоговыми органами.
+3. Налоговые органы имеют коды, утвержденные уполномоченным органом.
+4. Налоговый орган имеет символ, описание и порядок использования которого определяются уполномоченным органом.
+[text-en]
+1. Tax authorities perform the following tasks:
+1) ensuring compliance with the tax legislation of the Republic of Kazakhstan and other legislation of the Republic of Kazakhstan whose observance is controlled by the tax authorities;
+2) participating in the implementation of the tax policy of the Republic of Kazakhstan;
+3) ensuring the economic security of the Republic of Kazakhstan within their competence;
+4) creating and developing the informatisation objects of the tax authority and ensuring the accessibility of electronic services for taxpayers;
+5) performing other tasks provided for by the legislation of the Republic of Kazakhstan.
+The tax authority is the state revenue body – a state body that, within its competence, ensures the receipt of taxes and payments to the budget, carries out customs regulation in the Republic of Kazakhstan, exercises powers to prevent, detect, suppress and solve administrative offences assigned by the legislation of the Republic of Kazakhstan to its jurisdiction, and performs other powers provided for by the legislation of the Republic of Kazakhstan.
+2. The system of tax authorities consists of:
+1) the authorised body;
+2) territorial subdivisions for the capital, regions, cities of republican significance, districts, cities and districts in cities;
+3) inter-district territorial subdivisions;
+4) territorial subdivisions in the territories of special economic zones;
+5) a specialised state institution.
+The specialised state institution is a training and methodological centre created by decision of the Government of the Republic of Kazakhstan that trains, retrains and improves the professional qualifications of tax authority officials and performs functions related to raising the tax culture of the population.
+The authorised body exercises leadership over the tax authorities.
+3. Tax authorities have codes approved by the authorised body.
+4. The tax authority has a symbol, whose description and procedure of use are determined by the authorised body.
+[explanation-kk]
+Салық органы — Мемлекеттік кірістер органы (МКО). Оның міндеті — салық заңын сақтату, салық жинау, электрондық қызметтерді дамыту. Жүйесі: уәкілетті орган (Мемлекеттік кірістер комитеті), облыстық, қалалық, аудандық бөлімшелер және оқу орталығы.
+[explanation-ru]
+Налоговый орган — это орган государственных доходов (ОГД). Он следит за соблюдением налогового закона, собирает налоги, развивает электронные услуги. Система: уполномоченный орган (Комитет госдоходов), подразделения по областям, городам и районам, учебный центр.
+[explanation-en]
+The tax authority is the State Revenue body. It enforces tax law, collects taxes and develops e-services. The system: the authorised body (State Revenue Committee), regional, city and district offices, and a training centre.
+
+=== 43 | 1 | 3 | 1
+[title-kk]
+Салық органының құқықтары мен міндеттері
+[title-ru]
+Права и обязанности налогового органа
+[title-en]
+Rights and obligations of the tax authority
+[text-kk]
+1. Салық органы:
+1) салық салу мәселелері бойынша халықаралық ынтымақтастықты жүзеге асыруға, оның ішінде шет мемлекеттердің уәкілетті органдарымен ақпарат алмасуға;
+2) осы Кодексте көзделген жағдайларда салық төлеушіден (салық агентінен):
+салықтар мен бюджетке төленетін төлемдерді төлеу бойынша салықтық міндеттемелерді, сондай-ақ әлеуметтік міндеттемені есептеудің дұрыстығын және төлеудің (ұстап қалудың және аударудың) уақтылылығын растайтын құжаттарды ұсынуды;
+салық төлеуші (салық агенті) жасаған салықтық нысандар бойынша жазбаша түсініктерді, сондай-ақ оның қаржылық есептілігін, оның ішінде Қазақстан Республикасының шегінен тысқары жерлерде орналасқан оның еншілес ұйымдарының қаржылық есептілігін қоса алғанда, егер осындай тұлға үшін Қазақстан Республикасының заңдарында міндетті түрде аудит жүргізу белгіленсе, аудиторлық есепті қоса бере отырып, шоғырландырылған қаржылық есептілікті талап етуге;
+3) уәкілетті мемлекеттік және жергілікті атқарушы органдардан, Мемлекеттік корпорациядан, қаржы және төлем ұйымдарынан, коллекторлық агенттіктерден, банк ұйымдарынан, сондай-ақ өзге де тұлғалардан осы Кодексте айқындалған тәртіппен және мақсаттарда мәліметтерді сұратуға және (немесе) алуға;
+4) жеке тұлғаның салықтық есептілігінде көрсетілген кірістер мен мүлік туралы мәліметтерінің анықтығы бөлігінде жеке тұлғаны салықтық міндеттемелерді орындауының толықтығы фактісіне тексеруді жүзеге асыруға;
+5) салықтық тексерулерге және өзге де бақылау нысандарына мамандарды тартуға;
+6) осы Кодексте белгіленген жағдайларда фото және бейнетүсірілімді, үшінші тұлғаларға сауалнама жүргізуді жүзеге асыруға;
+7) Қазақстан Республикасы Азаматтық кодексінің 49-бабы 2-тармағының 1), 2), 3) және 4) тармақшаларында көзделген негіздер бойынша соттарға мәмілелерді жарамсыз деп тану, заңды тұлғаны тарату туралы талап қоюлар, сондай-ақ Қазақстан Республикасының заңнамасында белгіленген құзыреті мен міндеттеріне сәйкес өзге де талап қоюлар беруге;
+8) Қазақстан Республикасының оңалту және банкроттық туралы заңнамасына сәйкес салық төлеушіні банкрот деп тану туралы өтінішпен сотқа жүгінуге;
+9) салық органдарының лауазымды адамдарын даярлауды, қайта даярлауды және олардың кәсіби біліктілігін арттыруды жүргізуге;
+10) Қазақстан Республикасының заңнамасында белгіленген тәртіппен Қазақстан Республикасы салық төлеушілерінің салық мәдениетін арттыру үшін оқу және баспа қызметін жүзеге асыруға;
+11) осы Кодекске сәйкес қабылданатын шешімдерді салық органының ақпараттық жүйесінің электрондық цифрлық қолтаңбасы арқылы куәландыруға;
+12) салықтық әкімшілендіру кезінде салық органдарының ақпараттық жүйелерінде биометриялық сәйкестендіру құралын қолдануға;
+13) салық мәдениетін арттыруға және салық тәртібін күшейтуге бағытталған іс-шараларды жүргізуге құқылы.
+2. Салық органы:
+1) салық төлеушінің (салық агентінің) құқықтарын сақтауға;
+2) мемлекеттің мүдделерін қорғауға;
+3) салық төлеушіге (салық агентіне) қолданыстағы салықтар мен бюджетке төленетін төлемдер туралы, Қазақстан Республикасының салық заңнамасындағы өзгерістер туралы ақпарат беруге;
+4) өз құзыреті шегінде салық төлеуші (салық агенті) ұсынған мәліметтер мен құжаттар шегінде оның салықтық міндеттемесінің туындауы, орындалуы және тоқтатылуы бойынша түсіндірмені жүзеге асыруға және комментарийлер беруге міндетті.
+Деңгейлес мониторингке қатысушы үшін осы тармақшаның бірінші бөлігінде көзделген түсіндірмелерді жүзеге асыру мен комментарийлер беруді, сондай-ақ жоспарланатын мәмілелерге (операцияларға) қатысты алдын ала түсіндірме беруді уәкілетті орган жүргізеді.
+5) талап қоюдың ескіру мерзімі ішінде салықтар мен бюджетке төленетін төлемдерді төлеу фактісін растайтын мәліметтердің сақталуын қамтамасыз етуге;
+6) салық төлеушінің (салық агентінің) салық органдары лауазымды адамдарының әрекеттеріне (әрекетсіздігіне), сондай-ақ салықтық тексеру нәтижелері туралы хабарламаға шағымын қарауға;
+7) салықтық бақылау барысында анықталған әкімшілік құқық бұзушылықтар жасау фактісі бойынша Қазақстан Республикасының Әкімшілік құқық бұзушылық туралы кодексінде көзделген шараларды қабылдауға немесе осындай факт бойынша материалдарды ведомстволық бағыныстылығы бойынша тиісті органға беруге;
+8) салықтық бақылау барысында анықталған қылмыстық құқық бұзушылық белгілеріне нұсқайтын салықтар мен бюджетке төленетін төлемдерді төлеуден жалтару және (немесе) әдейі банкроттық фактілері бойынша Қазақстан Республикасының заңдарына сәйкес процестік шешім қабылдау үшін материалдарды тергелуі бойынша құқық қорғау органына жіберуге;
+9) Қазақстан Республикасының заңдарына сәйкес қаржылық мониторингті жүзеге асыратын және кірістерді заңдастыруға (жылыстатуға) қарсы іс-қимыл жасау бойынша өзге де шараларды қабылдайтын уәкілетті мемлекеттік органға, активтерді қайтару жөніндегі уәкілетті органға және Қазақстан Республикасының ұлттық қауіпсіздік органдарына салық органының ақпараттық жүйесіне қолжетімділік беруге;
+10) салықтық міндеттеменің орындалуын қамтамасыз ету тәсілдерін қолдануға және салық төлеушінің (салық агентінің) салықтық берешегін мәжбүрлеу тәртібімен өндіріп алуға міндетті.
+3. Салық органы:
+1) салықтық берешегі бар;
+2) салық органы мүлік салығы, жер салығы бойынша салықтық міндеттемелерінің сомаларын есептеген жеке тұлға;
+3) әрекет етпейтін салық төлеушілер тізіліміне енгізілген;
+4) электрондық шот-фактураларды жазып беру тоқтатыла тұрған;
+5) тіркелуі заңды күшіне енген сот актісі негізінде жарамсыз деп танылған;
+6) қызметін Қазақстан Республикасының аумағында интернет-алаңдар арқылы жүзеге асыратын, қосылған құн салығын төлеуші-шетелдік компаниялардың тізіліміне енгізілген;
+7) тұрған жерінде оның жоқ екені салықтық зерттеп-қарау актісімен анықталған;
+8) дара кәсіпкердің немесе жеке практикамен айналысатын және осындай есептен шығарудан бас тартылған адамның тіркеу есебінен шығарылған;
+9) таратылуына немесе қызметін тоқтатуына байланысты таратудың салықтық есептілігін ұсынған;
+10) кірістер мен мүлік туралы және активтер мен міндеттемелер туралы салықтық есептілікті ұсынған;
+11) салық төлеушінің паспортында қамтылған;
+12) шет мемлекеттерден, халықаралық және шетелдік ұйымдардан, шетел азаматтарынан, азаматтығы жоқ адамдардан алынған ақшаны және (немесе) өзге де мүлікті алған және жұмсаған тұлғалар мен заңды тұлғалардың құрылымдық бөлімшелері туралы дерекқорға енгізілген;
+13) оңайлатылған декларация негізінде арнаулы салық режимін қолданудың басталу және (немесе) тоқтатылу күндері көрсетіле отырып, осындай режимді қолданатын (қолданған) салық төлеуші (салық агенті) туралы мәліметтерді осы Кодексте айқындалған тәртіппен және жағдайларда уәкілетті органның интернет-ресурсында орналастыруға міндетті.
+4. Салық органы тоқсан сайын масс-медиада:
+1) салықтық берешектің шекті мөлшерінен асқан сомада салықтық берешегі бар дара кәсіпкерлер, жеке практикамен айналысатын адамдар, заңды тұлғалар және заңды тұлғаның құрылымдық бөлімшелері;
+2) қызметін Қазақстан Республикасының аумағында интернет-алаңдар арқылы жүзеге асыратын және салық органында тіркеу есебіне қою туралы хабарламаны орындамаған шетелдік компаниялар туралы мәліметтерді жариялауға міндетті.
+Масс-медиада жариялануға жататын мәліметтердің тізбесі, сондай-ақ оларды жариялау тәртібі мен мерзімдері тиісінше:
+1) салық органының осы Кодекстің 183-бабында көзделген салық төлеушіден (салық агентінен) салықтық берешекті мәжбүрлеп өндіріп алу тәртібінде;
+2) осы Кодекстің 102-бабында көзделген қосылған құн салығын төлеушіні тіркеу есебіне шартты түрде қоюды жүзеге асыру тәртібінде белгіленеді.
+5. Салық органының Қазақстан Республикасының заңдарында белгіленген өзге де құқықтары болады және ол өзге де міндеттерді орындайды.
+[text-ru]
+1. Налоговый орган вправе:
+1) осуществлять международное сотрудничество по вопросам налогообложения, в том числе обмениваться информацией с уполномоченными органами иностранных государств;
+2) требовать от налогоплательщика (налогового агента) в случаях, предусмотренных настоящим Кодексом:
+представления документов, подтверждающих правильность исчисления и своевременность уплаты (удержания и перечисления) налоговых обязательств по уплате налогов и платежей в бюджет, а также социального обязательства;
+письменных пояснений по составленным им налоговым формам, а также его финансовой отчетности, в том числе консолидированной финансовой отчетности, включая финансовую отчетность его дочерних организаций, расположенных за пределами Республики Казахстан, с приложением аудиторского отчета в случае, если для такого лица законами Республики Казахстан установлено обязательное проведение аудита;
+3) запрашивать и (или) получать от уполномоченных государственных и местных исполнительных органов, Государственной корпорации, финансовых и платежных организаций, коллекторских агентств, банковских организаций, а также иных лиц сведения в порядке и целях, которые определены настоящим Кодексом;
+4) осуществлять проверку физического лица в части достоверности сведений о доходах и имуществе, отраженных в налоговой отчетности физического лица, на факт полноты исполнения налоговых обязательств;
+5) привлекать к налоговым проверкам и иным формам контроля специалистов;
+6) осуществлять фото- и видеосъемку, опрос третьих лиц в случаях, установленных настоящим Кодексом;
+7) подавать в суды иски о признании сделок недействительными, ликвидации юридического лица по основаниям, предусмотренным подпунктами 1), 2), 3) и 4) пункта 2 статьи 49 Гражданского кодекса Республики Казахстан, а также иные иски в соответствии с компетенцией и задачами, установленными законодательством Республики Казахстан;
+8) обратиться в суд с заявлением о признании налогоплательщика банкротом в соответствии с законодательством Республики Казахстан о реабилитации и банкротстве;
+9) проводить подготовку, переподготовку и повышение профессиональной квалификации должностных лиц налоговых органов;
+10) осуществлять в порядке, установленном законодательством Республики Казахстан, учебную и издательскую деятельность для повышения налоговой культуры налогоплательщиков Республики Казахстан;
+11) удостоверять посредством электронной цифровой подписи информационной системы налогового органа решения, принимаемые в соответствии с настоящим Кодексом;
+12) применять средство биометрической идентификации в информационных системах налоговых органов при налоговом администрировании;
+13) проводить мероприятия, направленные на повышение налоговой культуры и усиление налоговой дисциплины.
+2. Налоговый орган обязан:
+1) соблюдать права налогоплательщика (налогового агента);
+2) защищать интересы государства;
+3) предоставлять налогоплательщику (налоговому агенту) информацию о действующих налогах и платежах в бюджет, об изменениях в налоговом законодательстве Республики Казахстан;
+4) в пределах своей компетенции осуществлять разъяснение и давать комментарии налогоплательщику (налоговому агенту) по возникновению, исполнению и прекращению его налогового обязательства в пределах представленных им сведений и документов.
+Для участника горизонтального мониторинга осуществление разъяснений и предоставление комментариев, предусмотренных частью первой настоящего подпункта, а также предварительное разъяснение в отношении планируемых сделок (операций) производятся уполномоченным органом;
+5) обеспечивать в течение срока исковой давности сохранность сведений, подтверждающих факт уплаты налогов и платежей в бюджет;
+6) рассматривать жалобу налогоплательщика (налогового агента) на действия (бездействие) должностных лиц налоговых органов, а также на уведомление о результатах налоговой проверки;
+7) по факту совершения административных правонарушений, установленному в ходе налогового контроля, принимать меры, предусмотренные Кодексом Республики Казахстан об административных правонарушениях, или передавать материалы по такому факту в соответствующий орган по подведомственности;
+8) направлять в правоохранительный орган по подследственности материалы по выявленным в ходе налогового контроля фактам уклонения от уплаты налогов и платежей в бюджет и (или) преднамеренного банкротства, указывающим на признаки уголовного правонарушения, для принятия процессуального решения в соответствии с законами Республики Казахстан;
+9) предоставлять в соответствии с законами Республики Казахстан доступ к информационной системе налогового органа уполномоченному государственному органу, осуществляющему финансовый мониторинг и принимающему иные меры по противодействию легализации (отмыванию) доходов, уполномоченному органу по возврату активов и органам национальной безопасности Республики Казахстан;
+10) применять способы обеспечения исполнения налогового обязательства и взыскивать налоговую задолженность налогоплательщика (налогового агента) в принудительном порядке.
+3. Налоговый орган обязан размещать на интернет-ресурсе уполномоченного органа в порядке и случаях, которые определены настоящим Кодексом, сведения о налогоплательщике (налоговом агенте):
+1) имеющем налоговую задолженность;
+2) физическом лице, которому налоговым органом исчислены суммы налоговых обязательств по налогу на имущество, земельному налогу;
+3) включенном в реестр бездействующих налогоплательщиков;
+4) которому приостановлена выписка электронных счетов-фактур;
+5) регистрация которого признана недействительной на основании вступившего в законную силу судебного акта;
+6) включенном в реестр иностранных компаний – плательщиков налога на добавленную стоимость, осуществляющих деятельность посредством интернет-площадки на территории Республики Казахстан;
+7) отсутствие которого по месту нахождения установлено актом налогового обследования;
+8) снятом с регистрационного учета индивидуального предпринимателя или лица, занимающегося частной практикой, и которому отказано в снятии с такого учета;
+9) представившем ликвидационную налоговую отчетность в связи с ликвидацией или прекращением деятельности;
+10) представившем налоговую отчетность о доходах и имуществе и об активах и обязательствах;
+11) содержащиеся в паспорте налогоплательщика;
+12) включенном в базу данных о лицах и структурных подразделениях юридических лиц, получивших и расходовавших деньги и (или) иное имущество, полученные от иностранных государств, международных и иностранных организаций, иностранных граждан, лиц без гражданства;
+13) применяющем (применявшем) специальный налоговый режим на основе упрощенной декларации, с указанием дат начала и (или) прекращения применения такого режима.
+4. Налоговый орган ежеквартально обязан публиковать в масс-медиа сведения об:
+1) индивидуальных предпринимателях, лицах, занимающихся частной практикой, юридических лицах и структурных подразделениях юридического лица, имеющих налоговую задолженность в сумме, превысившей предельный размер налоговой задолженности;
+2) иностранных компаниях, осуществляющих деятельность посредством интернет-площадки на территории Республики Казахстан и не исполнивших уведомление о постановке на регистрационный учет в налоговом органе.
+Перечень сведений, подлежащих опубликованию в масс-медиа, а также порядок и сроки их опубликования устанавливаются соответственно в:
+1) порядке принудительного взыскания налоговым органом налоговой задолженности налогоплательщика (налогового агента), предусмотренном статьей 183 настоящего Кодекса;
+2) порядке осуществления условной постановки на регистрационный учет плательщика налога на добавленную стоимость, предусмотренном статьей 102 настоящего Кодекса.
+5. Налоговый орган имеет иные права и выполняет иные обязанности, установленные законами Республики Казахстан.
+[text-en]
+1. The tax authority has the right to:
+1) carry out international cooperation on taxation issues, including exchanging information with the authorised bodies of foreign states;
+2) require from a taxpayer (tax agent), in the cases provided for by this Code:
+documents confirming the correctness of calculation and timeliness of payment (withholding and transfer) of tax obligations to pay taxes and payments to the budget, as well as of the social obligation;
+written explanations of the tax forms it has prepared, as well as of its financial statements, including consolidated financial statements and the financial statements of its subsidiaries located outside the Republic of Kazakhstan, with an audit report attached if the laws of the Republic of Kazakhstan require a mandatory audit for such a person;
+3) request and (or) receive information from authorised state and local executive bodies, the State Corporation, financial and payment organisations, collection agencies, banking organisations and other persons in the procedure and for the purposes determined by this Code;
+4) check an individual with respect to the reliability of information on income and property reflected in the individual's tax reporting, for the completeness of fulfilment of tax obligations;
+5) involve specialists in tax audits and other forms of control;
+6) take photos and videos and question third parties in the cases established by this Code;
+7) file lawsuits in court to declare transactions invalid and to liquidate a legal entity on the grounds provided for by subparagraphs 1), 2), 3) and 4) of paragraph 2 of Article 49 of the Civil Code of the Republic of Kazakhstan, as well as other lawsuits in accordance with the competence and tasks established by the legislation of the Republic of Kazakhstan;
+8) apply to court to declare a taxpayer bankrupt in accordance with the legislation of the Republic of Kazakhstan on rehabilitation and bankruptcy;
+9) train, retrain and improve the professional qualifications of tax authority officials;
+10) carry out educational and publishing activities to raise the tax culture of taxpayers of the Republic of Kazakhstan in the procedure established by the legislation of the Republic of Kazakhstan;
+11) certify decisions made in accordance with this Code with the electronic digital signature of the tax authority's information system;
+12) use biometric identification tools in the information systems of tax authorities in tax administration;
+13) carry out measures aimed at raising tax culture and strengthening tax discipline.
+2. The tax authority must:
+1) respect the rights of the taxpayer (tax agent);
+2) protect the interests of the state;
+3) provide the taxpayer (tax agent) with information on the taxes and payments to the budget in force and on changes in the tax legislation of the Republic of Kazakhstan;
+4) within its competence, give the taxpayer (tax agent) explanations and comments on the arising, fulfilment and termination of its tax obligation within the information and documents it has submitted.
+For a participant of horizontal monitoring, the explanations and comments provided for by part one of this subparagraph, as well as preliminary explanations on planned transactions (operations), are given by the authorised body;
+5) keep information confirming the payment of taxes and payments to the budget safe for the limitation period;
+6) consider complaints of the taxpayer (tax agent) against actions (inaction) of tax authority officials and against a notice of the results of a tax audit;
+7) upon a fact of an administrative offence established in the course of tax control, take the measures provided for by the Code of the Republic of Kazakhstan on Administrative Offences or transfer the materials on such a fact to the competent body;
+8) send to the law enforcement body with investigative jurisdiction materials on facts of evasion of taxes and payments to the budget and (or) deliberate bankruptcy revealed in the course of tax control that indicate signs of a criminal offence, for a procedural decision in accordance with the laws of the Republic of Kazakhstan;
+9) in accordance with the laws of the Republic of Kazakhstan, provide access to the tax authority's information system to the authorised state body carrying out financial monitoring and taking other measures to counter the legalisation (laundering) of proceeds, to the authorised body for asset recovery and to the national security bodies of the Republic of Kazakhstan;
+10) apply methods of securing the fulfilment of a tax obligation and collect the tax debt of a taxpayer (tax agent) by compulsory procedure.
+3. The tax authority must post on the internet resource of the authorised body, in the procedure and cases determined by this Code, information about a taxpayer (tax agent):
+1) that has a tax debt;
+2) that is an individual for whom the tax authority has calculated tax obligations for property tax and land tax;
+3) that is included in the register of inactive taxpayers;
+4) whose issuance of electronic invoices has been suspended;
+5) whose registration has been declared invalid on the basis of a court act that has entered into legal force;
+6) that is included in the register of foreign companies paying value added tax and operating through an internet platform in the territory of the Republic of Kazakhstan;
+7) whose absence at its location has been established by a tax inspection act;
+8) that has been removed from registration as an individual entrepreneur or person engaged in private practice, or that has been refused such removal;
+9) that has submitted liquidation tax reporting in connection with liquidation or termination of activity;
+10) that has submitted tax reporting on income and property and on assets and liabilities;
+11) contained in the taxpayer passport;
+12) that is included in the database of persons and structural subdivisions of legal entities that have received and spent money and (or) other property received from foreign states, international and foreign organisations, foreign citizens or stateless persons;
+13) that applies (applied) the special tax regime based on a simplified declaration, indicating the dates of the start and (or) end of applying that regime.
+4. Every quarter, the tax authority must publish in the mass media information about:
+1) individual entrepreneurs, persons engaged in private practice, legal entities and structural subdivisions of legal entities whose tax debt exceeds the maximum amount of tax debt;
+2) foreign companies operating through an internet platform in the territory of the Republic of Kazakhstan that have not complied with the notice of registration with the tax authority.
+The list of information to be published in the mass media and the procedure and deadlines for its publication are established, respectively, in:
+1) the procedure for compulsory collection by the tax authority of the tax debt of a taxpayer (tax agent) provided for by Article 183 of this Code;
+2) the procedure for conditional registration of a value added tax payer provided for by Article 102 of this Code.
+5. The tax authority has other rights and performs other obligations established by the laws of the Republic of Kazakhstan.
+[explanation-kk]
+Салық органы құжаттар мен түсініктеме сұрай алады, банктерден мәлімет ала алады, жеке тұлғаның кірістері мен мүлкін тексере алады. Бірақ ол сіздің құқықтарыңызды сақтауға, ақысыз ақпарат пен түсіндірме беруге, шағымыңызды қарауға міндетті. Салықтық берешегі бар адамдар туралы мәлімет сайтта жарияланады.
+[explanation-ru]
+Налоговая может запрашивать документы и пояснения, получать сведения от банков, проверять доходы и имущество физлица. Но она обязана соблюдать ваши права, давать информацию и разъяснения, рассматривать жалобы. Сведения о должниках по налогам публикуются на сайте.
+[explanation-en]
+The tax office may request documents and explanations, obtain data from banks and check an individual’s income and property. But it must respect your rights, give information and explanations, and consider complaints. Information about tax debtors is published online.

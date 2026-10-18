@@ -1,0 +1,344 @@
+# Гражданский кодекс Республики Казахстан (Особенная часть) от 1 июля 1999 года № 409-I (выборочные статьи)
+# Источник: https://adilet.zan.kz/rus/docs/K990000409_
+# Тексты статей скопированы с официального сайта без изменений (сноски и пометки об изменениях убраны).
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Строка «=== статья | раздел[:подраздел] | глава | параграф».
+# Английский текст Особенной части на сайте старый: в ст. 715, 951, 1072-2, 1072-3 он не совпадает с действующей редакцией (верна русская/казахская).
+
+=== 406 | 4 | 25 | 1
+[title-kk]
+Сатып алу-сату шарты
+[title-ru]
+Договор купли-продажи
+[title-en]
+Contract of Sale
+[text-kk]
+1. Сатып алу-сату шарты бойынша бiр тарап (сатушы) мүлiктi (тауарды) екiншi тараптың (сатып алушының) меншiгiне, шаруашылық жүргiзуiне немесе жедел басқаруына беруге мiндеттенедi, ал сатып алушы бұл мүлiктi (тауарды) қабылдауға және ол үшiн белгiлi бiр ақша сомасын (бағасын) төлеуге мiндеттенедi.
+2. Бағалы қағаздар мен валюталық құндылықтарды жəне цифрлық қаржы активтерін сатып алу-сатуға, егер заң актілерінде оларды сатып алу-сатудың арнаулы ережелерi белгiленбесе, осы параграфта көзделген ережелер қолданылады.
+2-1. Исламдық банк операцияларын жүзеге асыру кезінде оның тауарларды сатып алу-сату ерекшеліктері Қазақстан Республикасының банк қызметін реттейтін заңнамалық актілерінде белгіленеді.
+3. Осы Кодексте немесе өзге де заң актілерінде көзделген жағдайларда тауарлардың жекелеген түрлерiн сатып алу-сату ерекшелiктерi заң актілерінде және өзге де нормативтiк құқықтық актiлерде белгiленедi.
+4. Осы параграфта көзделген ережелер, егер бұл құқықтардың мазмұнынан немесе сипатынан өзгеше туындамаса, мүлiктiк құқықтарды сатуға қолданылады.
+5. Сатып алу-сату шарттарының жекелеген түрлерiне (бөлшек саудамен сатып алу-сату, тауарлар жеткiзiлiмi, энергиямен жабдықтау, контрактация, кәсiпорынды сату), егер осы Кодекстiң ережелерiнде бұл түрлердiң шарттары туралы өзгеше көзделмесе, осы параграфта көзделген ережелер қолданылады.
+6. Сот шешімдерін орындау үшін белгіленген тәртіппен мүлікті сату кезінде сот орындаушысы сатушы ретінде шығады.
+[text-ru]
+1. По договору купли-продажи одна сторона (продавец) обязуется передать имущество (товар) в собственность, хозяйственное ведение или оперативное управление другой стороне (покупателю), а покупатель обязуется принять это имущество (товар) и уплатить за него определенную денежную сумму (цену).
+2. К купле-продаже ценных бумаг и валютных ценностей и цифровых финансовых активов применяются положения, предусмотренные настоящим параграфом, если законодательными актами не установлены специальные правила их купли-продажи.
+2-1. Особенности купли-продажи товаров при осуществлении исламских банковских операций устанавливаются законодательными актами Республики Казахстан, регулирующими банковскую деятельность.
+3. В случаях, предусмотренных настоящим Кодексом или иными законодательными актами, особенности купли-продажи отдельных видов товаров определяются законодательными и иными нормативными правовыми актами.
+4. Положения, предусмотренные настоящим параграфом, применяются к продаже имущественных прав, если иное не вытекает из содержания или характера этих прав.
+5. К отдельным видам договоров купли-продажи (розничной купле-продаже, поставке товаров, энергоснабжению, контрактации, продаже предприятия) положения, предусмотренные настоящим параграфом, применяются, если иное не предусмотрено правилами настоящего Кодекса о договорах этих видов.
+6. При продаже имущества в порядке, установленном для исполнения судебных решений, в качестве продавца выступает судебный исполнитель.
+[text-en]
+1. According to the sales contract, one party (the seller) agrees to transfer the property (goods) in the property, economic management or operative control of the other party (the buyer), the buyer agrees to take the property (goods) and pay a certain amount of money for it (the price).
+2. By purchasing and selling of securities and currency values the provisions provided for in this item shall be applied, if the legislation does not have special rules for their sale.
+2-1. Features of the sale of goods by the Islamic Bank in carrying out of banking operations shall be established by legislative acts of the Republic of Kazakhstan, regulating the banking sector.
+3. In the cases provided by the this Code or other laws, peculiarities of the sale of certain categories of goods shall be determined by legislative and other normative legal acts.
+4. The provisions of this paragraph shall apply to the sale of property rights, unless it otherwise follows from the content or the nature of those rights.
+5. Regulations under this section shall be applied for certains of contracts of sale (retail sales, supply of goods, energy supply, contracting, sale of business), unless otherwise provided by the rules of the this Code on contracts for these transactions.
+6. When selling property in accordance with the procedure established for the execution of judicial decisions, an officer of the court shall act as the vendor.
+[explanation-kk]
+Сатып алу-сату шарты: сатушы тауарды сатып алушының меншігіне береді, ал сатып алушы оны қабылдап, бағасын төлейді. Бұл ережелер бағалы қағаздарға, бөлшек саудаға, жеткізілімге және басқа сату түрлеріне де қолданылады.
+[explanation-ru]
+Договор купли-продажи: продавец передаёт товар в собственность покупателя, а покупатель принимает его и платит цену. Эти правила применяются и к ценным бумагам, розничной торговле, поставке и другим видам продажи.
+[explanation-en]
+A contract of sale: the seller transfers goods into the buyer’s ownership, and the buyer accepts them and pays the price. These rules also apply to securities, retail, supply and other types of sale.
+
+=== 428 | 4 | 25 | 1
+[title-kk]
+Тиiстi сапасы жоқ тауар берудiң зардаптары
+[title-ru]
+Последствия передачи товара ненадлежащего качества
+[title-en]
+The Consequences of Transfer of Goods that are of Defective Quality
+[text-kk]
+1. Егер сатушы тауардың кемшiлiктерi туралы айтпаған болса, тиiстi сапасы жоқ тауар берiлген сатып алушы өз қалауы бойынша сатушыдан:
+1) сатып алу бағасын сол мөлшерде кемiтудi;
+2) қисынды мерзiмде тауардың кемшiлiктерiн тегiн жоюды;
+3) тауардың кемшiлiктерiн жоюға жұмсаған өз шығындарын өтеуді;
+4) тиiстi сапасы жоқ тауарды шартқа сәйкес келетiн тауармен алмастыруды;
+5) шартты орындаудан бас тартуға және тауар үшiн төленген ақша сомасын қайтаруды талап етуге құқылы.
+Шарттың осы тармақтың бірінші бөлігінде көзделген құқықтардан сатып алушының бас тартуы туралы талаптары маңызсыз болады.
+2. Жиынтыққа кiретiн тауарлардың (осы Кодекстiң 432-бабы) бір бөлiгiнiң сапасы тиісті деңгейде болмаған жағдайда сатып алушы тауарлардың осы бөлiгiне қатысты, осы баптың 1-тармағында көзделген құқықты жүзеге асыруға құқылы.
+3. Тиiстi сапасы жоқ тауарды сатушы оның дайындаушысы болмайтын жағдайда тауарды алмастыру немесе оның кемшiлiктерiн тегiн жою туралы талаптар сатып алушының таңдауы бойынша сатушыға не дайындаушыға қойылуы мүмкiн.
+4. Егер осы Кодексте немесе басқа да заң актілерінде өзгеше белгіленбесе, осы бапта көзделген ережелер қолданылады.
+[text-ru]
+1. Если недостатки товара не были оговорены продавцом, покупатель, которому передан товар ненадлежащего качества, вправе по своему выбору потребовать от продавца:
+1) соразмерного уменьшения покупной цены;
+2) безвозмездного устранения недостатков товара в разумный срок;
+3) возмещения своих расходов на устранение недостатков товара;
+4) замены товара ненадлежащего качества на товар, соответствующий договору;
+5) отказа от исполнения договора и возврата уплаченной за товар денежной суммы.
+Условия договора об отказе покупателя от прав, предусмотренных частью первой настоящего пункта, ничтожны.
+2. В случае ненадлежащего качества части товаров, входящей в комплект (статья 432 настоящего Кодекса), покупатель вправе в отношении этой части товаров осуществить права, предусмотренные в пункте 1 настоящей статьи.
+3. В случае, когда продавец товара ненадлежащего качества не является его изготовителем, требования о замене или о безвозмездном устранении недостатков товара могут быть предъявлены по выбору покупателя к продавцу либо к изготовителю.
+4. Правила, предусмотренные настоящей статьей, применяются, если настоящим Кодексом или другими законодательными актами не установлено иное.
+[text-en]
+1. If defects in the goods had not been stipulated by the seller, the buyer, who handed over the goods of inadequate quality may choose to require from the seller:
+1) proportionate reduction of the purchase price;
+2) free elimination of the goods defect within a reasonable time;
+3) compensation of their expenses for elimination of defects in the goods;
+4) replacement of inadequate quality of goods to the goods, which are appropriate to the contract;
+5) failure to execute the contract and return the paid amount of money for the goods.
+Terms and conditions of the buyer’s refusal from the rights provided in this paragraph shall be invalid.
+2. In the case of inadequate quality of the parts of goods, which are included in series (article 432 of the this Code), the buyer has the right in respect of this part of the goods to exercise the rights provided in paragraph 1 of this Article.
+3. In the case where the seller of the goods of improper quality was not its manufacturer, the requirements for replacement or free removal of defects may be brought on the buyer's choice to the seller or the manufacturer.
+4. The rules of this Article shall apply, unless otherwise established by the this Code or other legislation.
+[explanation-kk]
+Сапасыз тауар сатылса (сатушы кемшілігін алдын ала айтпаса), сатып алушы таңдай алады: бағаны төмендету, кемшілікті тегін жөндеу, жөндеуге кеткен шығынды өтеу, жаңасына ауыстыру немесе ақшаны қайтару. Шартта бұл құқықтардан бас тарту жазылса да, ол жарамсыз.
+[explanation-ru]
+Если продали некачественный товар (а продавец заранее не предупредил о недостатках), покупатель может выбрать: снизить цену, бесплатно устранить недостаток, возместить свои расходы на ремонт, заменить товар или вернуть деньги. Пункт договора, где покупатель отказывается от этих прав, недействителен.
+[explanation-en]
+If you were sold faulty goods (and the seller did not warn you of the defects), you may choose: a price reduction, free repair, reimbursement of your repair costs, a replacement, or a refund. A contract clause waiving these rights is void.
+
+=== 715 | 4 | 36
+[title-kk]
+Заем шарты
+[title-ru]
+Договор займа
+[title-en]
+LOAN AGREEMENT
+[text-kk]
+1. Заем шарты бойынша бiр тарап (заем берушi) басқа тараптың (заемшының) меншiгiне (шаруашылық жүргiзуiне, оралымды басқаруына) ақша немесе тектiк белгiлерiмен айқындалған заттарды бередi, ал осы Кодексте немесе шартта көзделген жағдайларда оларды беруге мiндеттенедi, ал заемшы заем берушіге дәл осындай ақша сомасын немесе осы тектегi және сападағы заттардың тең мөлшерiн уақытында қайтаруға мiндеттенедi.
+2. Орындалуы ақша немесе тектiк белгiсiмен айқындалған заттарды беруге байланысты шарттарда заем, егер заң актілерінде өзгеше белгiленбесе және тиiстi мiндеттемелердiң мәнiне қайшы келмейтiн болса, аванс, алдын ала ақы төлеу, тауарларға (жұмысқа және қызмет көрсетулерге) мерзiмiн ұзартып және бөлiп-бөлiп төлеу түрiнде беру көзделуi мүмкiн.
+2-1. Дара кәсіпкерлер мен заңды тұлғалардың азаматтарға қарыз түрінде ақша беруіне тыйым салынады және мұндай шарттар маңызсыз болып табылады.
+Бұл тыйым салу осы баптың 2-тармағында көзделген жағдайларға, сондай-ақ Қазақстан Республикасының заңдарына сәйкес банктік қарыздар мен микрокредиттер, жұмыс берушінің өз жұмыскеріне, бұрын осы жұмыс берушімен еңбек қатынастарында тұрған зейнеткерге қарыз, сондай-ақ заңды тұлғаның өз құрылтайшысына (акционеріне, қатысушысына) қарыз түрінде ақша беру жағдайларына қолданылмайды.
+3. Азаматтар мен заңды тұлғаларға кәсiпкерлiк қызмет ретiнде азаматтардан қарыз түрінде ақша тартуға тыйым салынады және мұндай шарттар маңызсыз болып табылады.
+Бұл тыйым салу заемшылар депозиттер қабылдауға уәкiлеттi мемлекеттік органның лицензиясы бар банктер болған жағдайларда, сондай-ақ шығарылуы заңдарда белгiленген тәртiппен тіркелген бағалы қағаздарға ақшаны айырбасқа қабылдау жағдайларында қолданылмайды.
+[text-ru]
+1. По договору займа одна сторона (заимодатель) передает, а в случаях, предусмотренных настоящим Кодексом или договором, обязуется передать в собственность (хозяйственное ведение, оперативное управление) другой стороне (заемщику) деньги или вещи, определенные родовыми признаками, а заемщик обязуется своевременно возвратить заимодателю такую же сумму денег или равное количество вещей того же рода и качества.
+2. Договорами, исполнение которых связано с передачей денег или вещей, определенных родовыми признаками, может предусматриваться предоставление займа, в том числе в виде аванса, предварительной оплаты, отсрочки и рассрочки оплаты товаров (работ и услуг), если иное не установлено законодательными актами и не противоречит существу соответствующих обязательств.
+2-1. Индивидуальным предпринимателям и юридическим лицам запрещается предоставление денег в виде займа гражданам и такие договоры являются ничтожными.
+Данный запрет не распространяется на случаи, предусмотренные пунктом 2 настоящей статьи, а также на случаи предоставления денег в виде банковских займов и микрокредитов в соответствии с законами Республики Казахстан, займа работодателем своему работнику, пенсионеру, ранее состоявшему в трудовых отношениях с данным работодателем, а также займа юридическим лицом своему учредителю (акционеру, участнику).
+3. Гражданам и юридическим лицам запрещается привлечение денег в виде займа от граждан в качестве предпринимательской деятельности и такие договоры являются ничтожными.
+Данный запрет не распространяется на случаи, когда заемщиками являются банки, имеющие лицензию уполномоченного государственного органа на прием депозитов, а также на случаи приема денег в обмен на ценные бумаги, выпуск которых зарегистрирован в установленном законодательством порядке.
+[text-en]
+1. Under the loan agreement, one party (the lender) transfers, and in the cases provided by this Code or the contract, shall transfer to the ownership of (economic management, operational management) another party (the borrower) money or things, with certain generic characteristics, and the borrower agrees to return the lender the same amount of money or an equal number of things of the same kind and quality.
+2. Agreements, the performance of which involves transferring of money or things, with certain generic features may provide for the granting of the loan, including the advance payment, pre-payment, deferment and installment payment for goods (works and services), unless another is provided by legislative acts and not conflict with the relevant obligations.
+3. Legal entities and citizens are prohibited from raising money in the form of a loan from the citizens as a business activity and such contracts are considered to be invalid from the moment of their conclusion.
+This prohibition does not apply to cases, where the borrowers are banks, which are licensed by the authorized State agency to accept deposits, as well as on a pattern of money in exchange for securities, the issue of which are registered in the manner prescribed by the legislation.
+[explanation-kk]
+Заем шарты: бір тарап ақшаны (немесе заттарды) береді, екіншісі дәл сондай соманы уақытында қайтаруға міндеттенеді. Дара кәсіпкерлер мен компаниялардың азаматтарға қарыз беруіне тыйым салынған (банктер, микроқаржы ұйымдары және жұмыс берушінің өз қызметкеріне берген қарызынан басқа).
+[explanation-ru]
+Договор займа: одна сторона даёт деньги (или вещи), другая обязуется вовремя вернуть такую же сумму. ИП и компаниям запрещено давать деньги в долг гражданам (кроме банков, микрофинансовых организаций и займа работодателя своему работнику).
+[explanation-en]
+A loan agreement: one party gives money (or things), the other promises to return the same amount on time. Sole traders and companies may not lend money to citizens (except banks, microfinance organisations and an employer lending to its own employee).
+
+=== 951 | 4 | 47 | 4
+[title-kk]
+Моральдық зиянды өтеу
+[title-ru]
+Возмещение морального вреда
+[title-en]
+Compensation Of Moral Damage
+[text-kk]
+1. Моральдық зиян - жеке тұлғалардың өзiндiк мүлiктiк емес игiлiктерi мен құқықтарының бұзылуы, кемсiтiлуi немесе олардан айырылуы, оның iшiнде өзiне қарсы құқық бұзушылықтың жасалуы салдарынан жәбiрленушiнiң, ал осындай құқық бұзушылық салдарынан ол қайтыс болған жағдайда - жақын туыстарының, жұбайының (зайыбының) басынан кешірген (төзімін тауысқан, уайымға салған) жан азабы немесе тән азабы (қорлау, ызаландыру, қысым жасау, ашуландыру, ұялту, түңілту, тән қиналуы, залал шегу, қолайсыз жағдайда қалу және т.б.).
+2. Моральдық зиянды осы баптың 3-тармағында көзделген жағдайлардан басқа реттерде, зиян келтiрушiнiң кiнәсi болған кезде зиян келтiрушi өтейдi.
+3. Зиян келтірушінің кінәсіне қарамастан моральдық зиян мына жағдайларда, егер:
+1) зиян азаматтың өмiрi мен денсаулығына жоғары қауiптілiк көзi арқылы келтiрiлсе;
+2) зиян азаматқа оның заңсыз сотталуының, заңсыз қылмыстық жауапқа тартылуының, бұлтартпау шарасы ретiнде заңсыз қамауға алуды, үйде қамауда ұстауды немесе ешқайда кетпеуi туралы қолхат алуды қолданудың, қамауда ұстау, психиатриялық емдеу мекемесiне немесе басқа емдеу мекемесiне орналастыру түрiнде әкiмшiлiк жазаны заңсыз қолданудың салдарынан келтiрiлсе;
+3) зиян ар-ожданына, қадiр-қасиетi мен iскерлiк беделiне нұқсан келтiретiн мәлiметтер тарату арқылы келтiрiлсе;
+4) заң актілерінде көзделген өзге де жағдайларда өтеледi.
+4. Заң актілерінде көзделген жағдайларды қоспағанда, азаматтың мүлiктiк құқықтарын бұзатын әрекеттер (әрекетсiздiк) арқылы келтiрiлген моральдық зиян өтелуге жатпайды.
+[text-ru]
+1. Моральный вред - это нарушение, умаление или лишение личных неимущественных благ и прав физических лиц, в том числе нравственные или физические страдания (унижение, раздражение, подавленность, гнев, стыд, отчаяние, физическая боль, ущербность, дискомфортное состояние и т.п.), испытываемые (претерпеваемые, переживаемые) потерпевшим в результате совершенного против него правонарушения, а в случае его смерти в результате такого правонарушения - его близкими родственниками, супругом (супругой).
+2. Моральный вред возмещается причинителем при наличии вины причинителя, за исключением случаев, предусмотренных пунктом 3 настоящей статьи.
+3. Моральный вред возмещается, независимо от вины причинителя, в случаях, если:
+1) вред причинен жизни и здоровью гражданина источником повышенной опасности;
+2) вред причинен гражданину в результате его незаконного осуждения, незаконного привлечения к уголовной ответственности, незаконного применения в качестве меры пресечения заключения под стражу, домашнего ареста или подписки о невыезде, незаконного наложения административного взыскания в виде ареста, незаконного помещения в психиатрическое лечебное учреждение или другое лечебное учреждение;
+3) вред причинен распространением сведений, порочащих честь, достоинство и деловую репутацию;
+4) иных случаях, предусмотренных законодательными актами.
+4. Моральный вред, причиненный действиями (бездействием), нарушающими имущественные права гражданина, возмещению не подлежит, кроме случаев, предусмотренных законодательными актами.
+[text-en]
+1. Moral damage refers to the violation, impairment or deprivation of personal non-property welfare and rights of individuals, including mental or physical suffering (humiliation, anger, melancholy, displeasure, shame, despair, physical pain, lameness, discomfort, etc.) experienced (suffered, experienced) by the victims on the offense, committed against him (her).
+2. Moral damage shall be refundable by the instigator when the instigator was clearly guilty, except in cases, provided by paragraph 3 of this Article.
+3. Moral damage shall be refundable, regardless of the fault of the causer, in the following cases:
+1) damage, caused to the life and health of citizens by a source of danger;
+2) damage, caused to a citizen as a result of his (her) unlawful conviction, unlawful criminal prosecution, unlawful use as a measure a preventive detention, house arrest or recognizance not to live, unlawful imposition of an administrative penalty in the form of arrest, illegal placement in a psychiatric hospital or other facility;
+3) the harm, caused by the spread of information discrediting the honor, dignity and business reputation;
+4) other cases stipulated by legislative acts.
+4. Moral damage, caused by the actions (inaction) that violate the property rights of citizens are non-refundable, except in cases provided by legislative acts.
+[explanation-kk]
+Моральдық зиян — құқық бұзушылықтан болған жан азабы немесе тән азабы (қорлау, ұят, уайым, ауырсыну және т.б.). Әдетте кінәлі адам өтейді. Бірақ кінәсіне қарамастан өтеледі: көлік сияқты жоғары қауіп көзінен зиян келсе, заңсыз сотталса немесе қамалса, абыройға нұқсан келтірілсе.
+[explanation-ru]
+Моральный вред — это нравственные или физические страдания от правонарушения (унижение, стыд, переживания, боль и т.п.). Обычно его возмещает виновный. Но независимо от вины возмещается, если вред причинён источником повышенной опасности (например, автомобилем), при незаконном осуждении или аресте, при распространении порочащих сведений.
+[explanation-en]
+Moral harm is mental or physical suffering caused by an offence (humiliation, shame, distress, pain, etc.). Usually the person at fault compensates it. But it is compensated regardless of fault if the harm came from a source of increased danger (such as a car), from unlawful conviction or arrest, or from defamatory information.
+
+=== 1061 | 6 | 59
+[title-kk]
+Заң бойынша мұрагерлердiң бiрiншi кезегi
+[title-ru]
+Первая очередь наследников по закону
+[title-en]
+The First Queue Of Heirs By Law
+[text-kk]
+1. Заң бойынша мұрагер болу құқығын бірінші кезекте мұра қалдырушының балалары, оның ішінде ол қайтыс болғаннан кейін тірі туған балалары, сондай-ақ мұра қалдырушының жұбайы (зайыбы) мен ата-анасы тең үлеспен алады.
+2. Мұра қалдырушының немерелері мен олардың ұрпақтары ұсыну құқығы бойынша мұра алады.
+[text-ru]
+1. В первую очередь право на наследование по закону получают в равных долях дети наследодателя, в том числе родившиеся живыми после его смерти, а также супруг (супруга) и родители наследодателя.
+2. Внуки наследодателя и их потомки наследуют по праву представления.
+[text-en]
+The right of the first queue to inherit by law shall be granted in equal shares to the children of an estate-leaver, including those born alive after his (her) death as well as the spouse and parents of the estate-leaver.
+The testator's grandchildren and their issue shall inherit by right of representation.
+[explanation-kk]
+Заң бойынша бірінші кезекте мұрагерлер: марқұмның балалары (ол қайтыс болғаннан кейін туған балаларын қоса), жұбайы және ата-анасы. Олар тең үлес алады. Немерелер өз ата-анасының орнына мұра алады.
+[explanation-ru]
+Наследники первой очереди по закону: дети умершего (в том числе родившиеся после его смерти), супруг(а) и родители. Они получают равные доли. Внуки наследуют вместо своего умершего родителя (по праву представления).
+[explanation-en]
+First-line heirs by law: the deceased’s children (including those born after their death), spouse and parents. They receive equal shares. Grandchildren inherit in place of their deceased parent (by right of representation).
+
+=== 1072 | 6 | 60
+[title-kk]
+Мұраны қабылдау
+[title-ru]
+Принятие наследства
+[title-en]
+Acceptance Of Inheritance
+[text-kk]
+1. Мұрагер мұраны алу үшiн оны қабылдауға тиiс.
+2. Мұрагердің мұраның бір бөлігін қабылдағаны өзіне тиесілі барлық мұраны қабылдағанын білдіреді.
+Мұрагерді бір мезгілде бірнеше негіздер бойынша мұра алуға шақырған кезде мұрагер осы негіздердің бірі бойынша, оның бірнешеуі бойынша немесе барлық негіздер бойынша өзіне тиесілі мұраны қабылдай алады.
+Мұраны шартпен немесе ескертпелермен қабылдауға жол берілмейді.
+3. Мұраны бір немесе бірнеше мұрагердің қабылдағаны мұраны қалған мұрагерлердің қабылдағанын білдірмейді.
+4. Қабылданған мұра, оны іс жүзінде қабылдаған уақытқа қарамастан, сондай-ақ мұрагердің мұраға қалдырған мүлікке құқығы мемлекеттік тіркелуге тиісті болғанда, мұндай құқықтың мемлекеттік тіркелген кезіне қарамастан, мұраның ашылған күнінен бастап мұрагерге тиесілі деп танылады.
+[text-ru]
+1. Для приобретения наследства наследник должен его принять.
+2. Принятие наследником части наследства означает принятие всего причитающегося ему наследства.
+При призвании наследника к наследованию одновременно по нескольким основаниям наследник может принять наследство, причитающееся ему по одному из этих оснований, по нескольким из них или по всем основаниям.
+Не допускается принятие наследства под условием или с оговорками.
+3. Принятие наследства одним или несколькими наследниками не означает принятия наследства остальными наследниками.
+4. Принятое наследство признается принадлежащим наследнику со дня открытия наследства независимо от времени его фактического принятия, а также независимо от момента государственной регистрации права наследника на наследственное имущество, когда такое право подлежит государственной регистрации.
+[text-en]
+1.A heir shall accept an inheritance in order to acquire it.
+2. The acceptance of a portion of inheritance by an heir means acceptance of the whole inheritance due to him (her), whatever the nature and the whereabouts thereof.
+When an heir is called upon to inherit simultaneously on several grounds the heir may accept an inheritance he is entitled to on one of these grounds, on several of them or on all of them.
+No acceptance of inheritance shall be stipulated by conditions or special clauses.
+3. The acceptance of an inheritance by one or several heirs shall not mean an acceptance of inheritance by other heirs.
+4. An accepted inheritance shall be recognized as owned by the heir from the date of opening of the inheritance, irrespective of the time of the actual acceptance and also irrespective of the time of state registration of the heir's rights to assets of estate where such a right is subject to state registration.
+[explanation-kk]
+Мұраны алу үшін оны қабылдау керек. Бір бөлігін қабылдасаңыз — өзіңізге тиесілі бүкіл мұраны қабылдадыңыз. Мұраны шартпен қабылдауға болмайды. Қабылданған мұра мұра ашылған күннен (адам қайтыс болған күннен) бастап сіздікі болып саналады.
+[explanation-ru]
+Чтобы получить наследство, его нужно принять. Приняли часть — значит, приняли всё, что вам причитается. Принять наследство «с условием» нельзя. Принятое наследство считается вашим со дня открытия наследства (дня смерти).
+[explanation-en]
+To receive an inheritance you must accept it. Accepting part means accepting everything due to you. You cannot accept it with conditions. Once accepted, the inheritance counts as yours from the day it opened (the day of death).
+
+=== 1072-1 | 6 | 60
+[title-kk]
+Мұра қабылдау тәсілдерi
+[title-ru]
+Способы принятия наследства
+[title-en]
+The Methods Of Accepting An Inheritance
+[text-kk]
+1. Мұраны қабылдау мұра ашылған жердегі нотариусқа немесе заңға сәйкес мұра алу құқығы туралы куәлікті беруге уәкілетті лауазымды адамға мұрагердің мұраны қабылдау туралы өтінішін не мұрагердің мұраға құқық туралы куәлік беру туралы өтінішін беру арқылы жүзеге асырылады.
+Егер мұрагердің өтінішін нотариусқа басқа адам берсе немесе ол почта арқылы жіберілсе, өтініштегі мұрагердің қолын нотариус, нотариат әрекеттерін жасауға уәкілетті лауазымды адам (ocы Кодекстің 1051-бабының 5-тармағы) немесе осы Кодекстің 167-бабының 3-тармағына сәйкес сенімхатты куәландыруға уәкілетті адам куәландыруға тиіс.
+Егер сенімхатта мұраны алуға өкілеттік арнайы көзделсе, мұраны өкіл арқылы қабылдау мүмкін болады. Заңды өкілдің мұраны қабылдауы үшін сенімхат талап етілмейді.
+2. Егер мұрагер мұрагерлікті іс жүзінде қабылдағанын куәландыратын іс-әрекеттер жасаған болса, атап айтқанда, мұрагер:
+мұраға алынған мүлікті иеленуге немесе басқаруға кіріссе;
+мұраға алынған мүлікті сақтау, оны қол сұғудан немесе үшінші тұлғалардың талаптарынан қорғау жөнінде шаралар қабылдаса;
+мұраға алынған мүлікті ұстау шығыстарын өз есебінен жүргізсе;
+өз есебінен мұра қалдырушының қарыздарын төлеген немесе мұра қалдырушыға тиесілі ақшаны үшінші тұлғалардан алған болса, өзгеше дәлелденгенге дейін мұрагер мұраны қабылдады деп танылады.
+[text-ru]
+1. Принятие наследства осуществляется подачей по месту открытия наследства нотариусу или уполномоченному в соответствии с законом на выдачу свидетельства о праве на наследство должностному лицу заявления наследника о принятии наследства либо заявления наследника о выдаче свидетельства о праве на наследство.
+Если заявление наследника передается нотариусу другим лицом или пересылается по почте, подпись наследника на заявлении должна быть засвидетельствована нотариусом, должностным лицом, уполномоченным совершать нотариальные действия (пункт 5 статьи 1051 настоящего Кодекса), или лицом, уполномоченным удостоверять доверенности в соответствии с пунктом 3 статьи 167 настоящего Кодекса.
+Принятие наследства через представителя возможно, если в доверенности специально предусмотрено полномочие на принятие наследства. Для принятия наследства законным представителем доверенность не требуется.
+2. Признается, пока не доказано иное, что наследник принял наследство, если он совершил действия, свидетельствующие о фактическом принятии наследства, в частности, если наследник:
+вступил во владение или в управление наследственным имуществом;
+принял меры по сохранению наследственного имущества, защите его от посягательств или притязаний третьих лиц;
+произвел за свой счет расходы на содержание наследственного имущества;
+оплатил за свой счет долги наследодателя или получил от третьих лиц причитавшиеся наследодателю деньги.
+[text-en]
+1. An inheritance is accepted by the heir filing an inheritance acceptance application or an application for a certificate of the right to the inheritance with the notary or personal representative under law at the place of opening of the inheritance.
+If an heir's application is passed to the notary by another person or the signature of the heir is mailed on the application shall be attested by a notary, an official empowered to accomplish notarial actions (paragraph 5 of Article 1051) or a person empowered to attest powers of attorney in compliance with paragraph 3 of Article 167 of this Code).
+An inheritance can be accepted through a representative if the power of accepting an inheritance is specifically established in powers of attorney. No powers of attorney are required for a personal representative to accept an estate.
+2. Until and unless the contrary is proven, an heir shall be deemed to have accepted an inheritance if he (she) has committed actions evidencing an actual acceptance of the inheritance, in particular, if the heir:
+has commenced possession or administration of assets of the estate;
+has taken measures for preserving assets of the estate, protecting it against third persons' encroachments or claims;
+has incurred expenses on his account towards maintenance of assets of the estate;
+has paid the testator's debts or received from third persons amounts of money payable to the testator.
+[explanation-kk]
+Мұраны қабылдаудың екі жолы бар: 1) нотариусқа өтініш беру; 2) іс жүзінде қабылдау — мысалы, марқұмның үйінде тұрып, оны күтіп ұстау, коммуналдық төлемдерді немесе оның қарыздарын төлеу.
+[explanation-ru]
+Принять наследство можно двумя способами: 1) подать заявление нотариусу; 2) принять фактически — например, жить в доме умершего, следить за ним, платить коммунальные услуги или долги умершего.
+[explanation-en]
+There are two ways to accept an inheritance: 1) apply to a notary; 2) accept it in practice — for example, live in the deceased’s home, look after it, pay utilities or the deceased’s debts.
+
+=== 1072-2 | 6 | 60
+[title-kk]
+Мұраны қабылдау мерзімi
+[title-ru]
+Срок принятия наследства
+[title-en]
+The Term For Acceptance Of An Inheritance
+[text-kk]
+1. Мұраның ашылу күнінен бастап алты ай ішінде мұра қабылдануы мүмкін.
+Мұра азаматтың болжамды қайтыс болған немесе ол қайтыс болды деп жарияланған күні ашылған жағдайда (осы Кодекстің 1042-бабының 2-тармағы) - мұра қалдырушы қайтыс болған күннен бастап алты айдың ішінде, ал ол қайтыс болды деп жарияланған кезде, егер соттың шешімінде өзге күн көрсетілмесе, азаматты қайтыс болды деп жариялау туралы сот шешімі заңды күшіне енген күннен бастап мұра қабылдануы мүмкін.
+2. Егер мұрагерлік құқығы басқа адамдар үшін мұрагердің мұрадан бас тартуы, басқа мұрагердің мұраны қабылдамауы немесе мұрагерді осы Кодекстің 1045-бабында белгіленген негіздер бойынша мұрадан шеттету салдарынан туындаса, мұндай адамдар оларда мұраға құқық туындаған күннен бастап алты айдың ішінде мұраны қабылдай алады.
+[text-ru]
+1. Наследство может быть принято в течение шести месяцев со дня открытия наследства.
+В случае открытия наследства в день предполагаемой смерти гражданина или объявления его умершим (пункт 2 статьи 1042 настоящего Кодекса) наследство может быть принято в течение шести месяцев со дня смерти наследодателя, а при объявлении его умершим - со дня вступления в законную силу решения суда об объявлении гражданина умершим, если в решении суда не указан иной день.
+2. Если право наследования возникает для других лиц вследствие отказа наследника от наследства, непринятия наследства другим наследником или устранения от наследования наследника по основаниям, установленным статьей 1045 настоящего Кодекса, такие лица могут принять наследство в течение шести месяцев со дня возникновения у них права наследования.
+[text-en]
+1. An inheritance can be accepted within six months after the date of opening of the inheritance. If the inheritance is opened on the date of the alleged death of a citizen (paragraph 2 of Article 1042 of this Code) the inheritance can be accepted within six months after the date when the court decision whereby the citizen is announced dead becomes final.
+2. If a right of inheritance emerges for other persons as the result of an heir's disclaimer of an inheritance or an heir's disqualification on the grounds established by Article 1045 of this Code such person can accept the inheritance within six months after the date of occurrence of their right of inheritance.
+[explanation-kk]
+Мұраны қабылдау мерзімі — мұра ашылған күннен бастап 6 ай. Басқа мұрагер бас тартса немесе қабылдамаса, сізге құқық пайда болған күннен бастап 6 ай беріледі.
+[explanation-ru]
+Срок принятия наследства — 6 месяцев со дня открытия наследства. Если право появилось у вас позже (другой наследник отказался или не принял), — 6 месяцев с этого момента.
+[explanation-en]
+The deadline to accept an inheritance is 6 months from the day it opened. If your right arose later (another heir refused or did not accept), you get 6 months from that moment.
+
+=== 1072-3 | 6 | 60
+[title-kk]
+Белгіленген мерзімнің аяқталуына қарай мұраны қабылдау
+[title-ru]
+Принятие наследства по истечении установленного срока
+[title-en]
+Acceptance Of An Inheritance Upon The Expiry Of The Established Term
+[text-kk]
+Егер мұрагер мұраны қабылдау үшін белгіленген мерзімді (осы Кодекстің 1072-2-бабы) дәлелді себептер бойынша өткізіп алған болса және мұраны қабылдау үшін белгіленген мерзімді өткізіп алған мұрагер бұл мерзімді өткізу себептері жойылғаннан кейін алты айдың ішінде сотқа жүгінген жағдайда осы мерзімді өткізіп алған мұрагердің өтініші бойынша сот бұл мерзімді қалпына келтіре алады және мұрагер мұраны қабылдады деп тани алады.
+Мұрагер мұраны қабылдады деп танылған кезде сот барлық мұрагерлердің мұрагерлік мүліктегі үлестерін анықтайды және қажет болған жағдайда жаңа мұрагердің мұрадан өзіне тиесілі үлесін алу құқығын қорғау жөнінде шаралар белгілейді. Бұған дейін берілген мұраға құқық туралы куәліктерді сот жарамсыз деп таниды.
+[text-ru]
+По заявлению наследника, пропустившего срок, установленный для принятия наследства (статья 1072-2 настоящего Кодекса), суд может восстановить этот срок и признать наследника принявшим наследство, если наследник пропустил этот срок по уважительным причинам и при условии, что наследник, пропустивший срок, установленный для принятия наследства, обратился в суд в течение шести месяцев после того, как причины пропуска этого срока отпали.
+При признании наследника принявшим наследство суд определяет доли всех наследников в наследственном имуществе и при необходимости - меры по защите прав нового наследника на получение причитающейся ему доли наследства. Ранее выданные свидетельства о праве на наследство признаются судом недействительными.
+[text-en]
+On the application filed late by a heir as concerning the term set for acceptance of an inheritance (Article 1072-2 of this Code) the court may reinstate the term and recognize the heir as having accepted the inheritance if the heir did not know and was not supposed to know of the opening of the inheritance or if the heir has missed the term due to other legitimate reasons and on the condition that the heir who missed the term set for acceptance of the inheritance has filed his (her) application with the court within six months after the time when the causes/reasons for the lateness ceased to exist.
+Having recognized an heir as having accepted an inheritance, the court shall determine the shares of all the heirs in the estate and if necessary shall designate measures for safeguarding the rights of the new heir to his (her) entitlement (paragraph 3 of the present Article). The certificates of a right of inheritance issued earlier shall be recognized by the court as void.
+[explanation-kk]
+6 айлық мерзімді дәлелді себеппен өткізіп алсаңыз, себеп жойылғаннан кейін 6 ай ішінде сотқа жүгінуге болады. Сот мерзімді қалпына келтіріп, барлық мұрагерлердің үлесін қайта бөледі.
+[explanation-ru]
+Если вы пропустили 6-месячный срок по уважительной причине, можно обратиться в суд в течение 6 месяцев после того, как причина отпала. Суд восстановит срок и заново распределит доли всех наследников.
+[explanation-en]
+If you missed the 6-month deadline for a good reason, you can apply to court within 6 months after the reason ended. The court can restore the deadline and redistribute all heirs’ shares.
+
+=== 1072-4 | 6 | 60
+[title-kk]
+Мұраны қабылдау құқығының ауысуы (мұрагерлік трансмиссия)
+[title-ru]
+Переход права на принятие наследства (наследственная трансмиссия)
+[title-en]
+The Transfer Of A Right To Accept An Inheritance (Hereditary Transaction)
+[text-kk]
+Егер заң бойынша немесе өсиет бойынша мұрагер мұраны осы Кодекстің 1072-2-бабында белгіленген мерзімде қабылдап үлгермей, мұра ашылғаннан кейін қайтыс болса, онда мұраның оған тиесілі үлесін қабылдау құқығы оның мұрагерлеріне ауысады.
+Қайтыс болған мұрагердің осы құқығын оның мұрагерлері мұраны қабылдауға арналған мерзімнің қалған бөлігі ішінде жалпы негіздерде жүзеге асыра алады.
+Егер мерзімнің қалған бөлігі үш айдан аз болса, ол үш айға дейін ұзартылады.
+Мұраны қабылдау үшін белгіленген мерзім аяқталғаннан кейін, егер сот қайтыс болған мұрагердің мұрагерлерінің осы мерзімді өткізіп алу себептерін дәлелді деп тапса, онда сот оларды осы Кодекстің 1072-3-бабына сәйкес мұраны қабылдады деп тануы мүмкін.
+Мұрагердің осы Кодекстің 1069-бабына сәйкес міндетті үлес ретінде мұраның бір бөлігін қабылдау құқығы оның мұрагерлеріне ауыспайды.
+[text-ru]
+Если наследник по закону или по завещанию умер после открытия наследства, не успев его принять в срок, установленный статьей 1072-2 настоящего Кодекса, право на принятие причитающейся ему доли наследства переходит к его наследникам.
+Это право умершего наследника может быть осуществлено его наследниками на общих основаниях в течение оставшейся части срока для принятия наследства.
+Если оставшаяся часть срока менее трех месяцев, он удлиняется до трех месяцев.
+По истечении срока, установленного для принятия наследства, наследники умершего наследника могут быть признаны судом принявшими наследство в соответствии со статьей 1072-3 настоящего Кодекса, если суд найдет уважительными причины пропуска ими этого срока.
+Право наследника принять часть наследства в качестве обязательной доли в соответствии со статьей 1069 настоящего Кодекса не переходит к его наследникам.
+[text-en]
+If an heir called upon to inherit by will or by operation of law dies after the opening of the inheritance without having accepted it within the term established by Article 1072-2 of this Code, the right of accepting his (her) entitlement shall pass to his (her) legal heirs.
+The right of accepting an inheritance that belonged to a deceased heir may be exercised by his (her) heirs on general terms.
+If the portion of the term set for the purposes of inheritance acceptance that remains after the death of an heir is less than three months, the term shall be extended to reach three months.
+Upon the expiry of the term set for inheritance acceptance purposes the heirs of a deceased heir may be recognized by the court as having accepted the inheritance under Article 1072-3 of this Code if the court is of the opinion that the reasons for the lateness are legitimate.
+The right of the successor to accept a part of the inheritance as an obligatory share according to article 1069 of this Code doesn't pass to its successors.
+[explanation-kk]
+Мұрагер мұраны қабылдап үлгермей қайтыс болса, оның үлесін қабылдау құқығы оның өз мұрагерлеріне өтеді. Оларға қалған мерзім беріледі, бірақ 3 айдан кем емес.
+[explanation-ru]
+Если наследник умер, не успев принять наследство, право принять его долю переходит к его собственным наследникам. Им даётся оставшийся срок, но не меньше 3 месяцев.
+[explanation-en]
+If an heir dies before accepting the inheritance, the right to accept their share passes to their own heirs. They get the rest of the deadline, but no less than 3 months.

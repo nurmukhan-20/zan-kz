@@ -1,4 +1,4 @@
-export const LAPTOP_IP = '10.255.136.130';
+export const LAPTOP_IP = '192.168.133.130';
 
 export const BASE_URL = `http://${LAPTOP_IP}:8080/api`;
 

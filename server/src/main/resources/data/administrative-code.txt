@@ -1,0 +1,894 @@
+# Кодекс Республики Казахстан об административных правонарушениях от 5 июля 2014 года № 235-V (выборочные статьи)
+# Источник: https://adilet.zan.kz/rus/docs/K1400000235
+# Тексты статей скопированы с официального сайта без изменений (сноски об изменениях убраны).
+# Исключённые статьи (73-1, 73-2) не включены. Статья 440-1 есть только в английском файле — не включена.
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Строка «=== статья | раздел | глава». Раздел 1 — Общие положения, 2 — Административное правонарушение и административная ответственность.
+# Глава 30 (ст. 592, 608): название по-русски официальное, по-казахски и по-английски — перевод.
+
+=== 1 | 1 | 1
+[title-kk]
+Қазақстан Республикасының әкімшілік құқық бұзушылық туралы заңнамасы
+[title-ru]
+Законодательство Республики Казахстан об административных правонарушениях
+[title-en]
+Legislation of the Republic of Kazakhstan on administrative infractions
+[text-kk]
+1. Қазақстан Республикасының әкімшілік құқық бұзушылық туралы заңнамасы осы Кодекстен тұрады.
+2. Осы Кодекс Қазақстан Республикасының Конституциясына, халықаралық құқықтың жалпы танылған қағидаттары мен нормаларына негізделеді.
+2-1. Осы Кодекске өзгерістер және (немесе) толықтырулар енгізу:
+1) әкімшілік жауаптылықты болғызбайтын;
+2) Қазақстан Республикасы Президентінің заң шығару бастамасы тәртібімен әзірленген;
+3) Қазақстан Республикасының Қылмыстық кодексіне, Қазақстан Республикасының Қылмыстық-процестік кодексіне және Қазақстан Республикасының Қылмыстық-атқару кодексіне өзгерістер және (немесе) толықтырулар енгізетін Қазақстан Республикасының заңдарын қоспағанда, Қазақстан Республикасының басқа да заңдарына өзгерістер және (немесе) толықтырулар енгізуді көздемейтін Қазақстан Республикасының заңымен жүзеге асырылады.
+3. Әкімшілік-деликтік құқықтық қатынастарды реттейтін Қазақстан Республикасының халықаралық шарттық және өзге де міндеттемелері, сондай-ақ Қазақстан Республикасы Конституциялық Сотының және Жоғарғы Сотының нормативтік қаулылары әкімшілік құқық бұзушылық туралы заңнаманың құрамдас бөлігі болып табылады.
+4. Қазақстан Республикасы ратификациялаған халықаралық шарттар осы Кодекс алдында басымдыққа ие болады және халықаралық шарттан оны қолдану үшін заң шығаруды талап ету туындайтын жағдайлардан басқа кезде, тікелей қолданылады. Егер Қазақстан Республикасы ратификациялаған халықаралық шартта Қазақстан Республикасының әкімшілік құқық бұзушылық туралы заңнамасында көзделгеннен өзгеше қағидалар белгіленсе, онда халықаралық шарттың қағидалары қолданылады.
+[text-ru]
+1. Законодательство Республики Казахстан об административных правонарушениях состоит из настоящего кодекса.
+2. Настоящий Кодекс основывается на Конституции Республики Казахстан, общепризнанных принципах и нормах международного права.
+2-1. Внесение изменений и (или) дополнений в настоящий Кодекс осуществляется законом, не предусматривающим внесение изменений и (или) дополнений в другие законы Республики Казахстан, за исключением законов:
+1) исключающих административную ответственность;
+2) разработанных в порядке законодательной инициативы Президента Республики Казахстан;
+3) вносящих изменения и (или) дополнения в Уголовный кодекс Республики Казахстан, Уголовно-процессуальный кодекс Республики Казахстан и Уголовно-исполнительный кодекс Республики Казахстан.
+3. Международные договорные и иные обязательства Республики Казахстан, а также нормативные постановления Конституционного Суда и Верховного Суда Республики Казахстан, регулирующие административно-деликтные правоотношения, являются составной частью законодательства об административных правонарушениях.
+4. Международные договоры, ратифицированные Республикой Казахстан, имеют приоритет перед настоящим Кодексом и применяются непосредственно, кроме случаев, когда из международного договора следует, что для его применения требуется издание закона. Если международным договором, ратифицированным Республикой Казахстан, установлены иные правила, чем те, которые предусмотрены законодательством Республики Казахстан об административных правонарушениях, то применяются правила международного договора.
+[text-en]
+1. Legislation of the Republic of Kazakhstan on administrative infractions consists of this Code.
+2. This Code is based on the Constitution of the Republic of Kazakhstan, generally accepted principles and rules of international law.
+2-1. Amendments and (or) additions to this Code shall be made by a law that does not provide for amendments and (or) additions to other laws of the Republic of Kazakhstan, except for laws:
+1) exclude administrative liability;
+2) enacted pursuant to a legislative initiative of the President of the Republic of Kazakhstan;
+3) amending and(or) supplementing the Penal Code of the Republic of Kazakhstan, the Code of Criminal Procedure of the Republic of Kazakhstan, and the Code of Criminal Execution of the Republic of Kazakhstan.
+3. International contractual and other obligations of the Republic of Kazakhstan, as well as regulatory decisions of the Constitutional Court and the Supreme Court of the Republic of Kazakhstan regulating administrative and tort legal relations, are an integral part of the legislation on administrative offenses.
+4. International treaties ratified by the Republic of Kazakhstan shall have a priority before this Code and shall be applied directly, except for the cases when it follows from the international treaty that for its application the issuance of the law is required. If international treaty ratified by the Republic of Kazakhstan establishes other rules than those provided by the legislation of the Republic of Kazakhstan on administrative infractions, the rules of the international treaty shall be applied.
+[explanation-kk]
+Әкімшілік құқық бұзушылықтар туралы барлық ереже осы бір Кодексте жиналған. Ол Конституцияға негізделеді, ал Қазақстан ратификациялаған халықаралық шарттардың күші Кодекстен жоғары.
+[explanation-ru]
+Все правила об административных правонарушениях собраны в одном этом Кодексе. Он основан на Конституции, а ратифицированные Казахстаном международные договоры имеют приоритет перед Кодексом.
+[explanation-en]
+All rules on administrative offences are collected in this single Code. It is based on the Constitution, and international treaties ratified by Kazakhstan take priority over the Code.
+
+=== 2 | 1 | 1
+[title-kk]
+Әкімшілік жауаптылықтың негізі
+[title-ru]
+Основание административной ответственности
+[title-en]
+Basis for administrative liability
+[text-kk]
+Осы Кодекстің Ерекше бөлігінде көзделген құқық бұзушылық құрамының барлық белгілері бар іс-әрекет жасау әкімшілік жауаптылықтың негізі болып табылады.
+[text-ru]
+Основанием административной ответственности является совершение деяния, содержащего все признаки состава правонарушения, предусмотренного в Особенной части настоящего Кодекса.
+[text-en]
+Basis for administrative liability is commission of the act containing all signs of component elements of the infraction provided in the Special part of this Code.
+[explanation-kk]
+Адамды әкімшілік жауапқа тарту үшін оның әрекеті Кодекстің Ерекше бөліміндегі нақты бір баптың барлық белгілеріне сай келуі керек. Кодексте жоқ әрекет үшін жазаламайды.
+[explanation-ru]
+Чтобы человека привлекли к административной ответственности, его поступок должен полностью подходить под конкретную статью Особенной части Кодекса. За то, чего нет в Кодексе, не наказывают.
+[explanation-en]
+A person can be held administratively liable only if the act fully matches a specific article of the Special Part of the Code. Nothing outside the Code is punishable.
+
+=== 3 | 1 | 1
+[title-kk]
+Қазақстан Республикасының әкімшілік құқық бұзушылық үшін жауаптылық туралы заңнамасының кеңістік тұрғысынан қолданылуы
+[title-ru]
+Действие законодательства Республики Казахстан об ответственности за административные правонарушения в пространстве
+[title-en]
+Force of the legislation of the Republic of Kazakhstan on liability for administrative infractions in space
+[text-kk]
+1. Қазақстан Республикасының аумағында әкімшілік құқық бұзушылық жасаған тұлға осы Кодекс бойынша жауаптылыққа жатады.
+2. Қазақстан Республикасының аумағында басталған немесе жалғасқан не аяқталған іс-әрекет Қазақстан Республикасының аумағында жасалған әкімшілік құқық бұзушылық деп танылады. Осы Кодекстің күші Қазақстан Республикасының континенттік қайраңында және айрықша экономикалық аймағында жасалған әкімшілік құқық бұзушылықтарға да қолданылады.
+3. Қазақстан Республикасының портына тіркелген және Қазақстан Республикасының шегінен тыс ашық судағы немесе әуе кеңістігіндегі кемеде әкімшілік құқық бұзушылық жасаған тұлға, егер Қазақстан Республикасының халықаралық шартында өзгеше көзделмесе, осы Кодекс бойынша әкімшілік жауаптылыққа жатады. Қазақстан Республикасының әскери кемесінде немесе әскери әуе кемесінде әкімшілік құқық бұзушылық жасаған тұлға да оның тұрған жеріне қарамастан, осы Кодекс бойынша әкімшілік жауаптылықта болады.
+4. Шет мемлекеттердің дипломатиялық өкілдері және иммунитетті пайдаланатын өзге де шетел азаматтары Қазақстан Республикасының аумағында құқық бұзушылық жасаған жағдайда осы адамдардың әкімшілік жауаптылығы туралы мәселе халықаралық құқық нормаларына сәйкес шешіледі.
+[text-ru]
+1. Лицо, совершившее административное правонарушение на территории Республики Казахстан, подлежит ответственности по настоящему Кодексу.
+2. Административным правонарушением, совершенным на территории Республики Казахстан, признается деяние, которое начато или продолжилось либо было окончено на территории Республики Казахстан. Действие настоящего Кодекса распространяется также на административные правонарушения, совершенные на континентальном шельфе и в исключительной экономической зоне Республики Казахстан.
+3. Лицо, совершившее административное правонарушение на судне, приписанном к порту Республики Казахстан и находящемся в открытом водном или воздушном пространстве вне пределов Республики Казахстан, подлежит административной ответственности по настоящему Кодексу, если иное не предусмотрено международным договором Республики Казахстан. По настоящему Кодексу административную ответственность несет также лицо, совершившее административное правонарушение на военном корабле или военном воздушном судне Республики Казахстан независимо от места его нахождения.
+4. Вопрос об административной ответственности дипломатических представителей иностранных государств и иных иностранных граждан, которые пользуются иммунитетом, в случае совершения этими лицами правонарушения на территории Республики Казахстан разрешается в соответствии с нормами международного права.
+[text-en]
+1. The person that committed administrative infraction in a territory of the Republic of Kazakhstan shall be subject to liability according to this Code.
+2. Administrative infraction committed in a territory of the Republic of Kazakhstan shall be recognized as the act that was commenced or continued or was completed in a territory of the Republic of Kazakhstan. Force of this Code shall also apply to administrative infractions committed in a continental shelve and in exclusive economic zone of the Republic of Kazakhstan.
+3. The person that committed administrative infraction on a ship registered at a port of the Republic of Kazakhstan and being in open water or air space outside the borders of the Republic of Kazakhstan shall be subject to administrative liability according to this Code, unless otherwise provided by the international treaty of the Republic of Kazakhstan. According to this Code, the person that committed administrative infraction on a warship or military aircraft of the Republic of Kazakhstan shall also bear administrative liability independently from its location.
+4. The question of administrative liability of diplomatic representatives of foreign states and other foreign citizens who enjoy immunity, in the event that such persons commit an offense on the territory of the Republic of Kazakhstan, shall be resolved in accordance with the norms of international law.
+[explanation-kk]
+Қазақстан аумағында құқық бұзған кез келген адам осы Кодекс бойынша жауап береді. Қазақстанның кемесінде немесе ұшағында, тіпті шетелде болса да, солай. Дипломаттар мәселесі халықаралық құқық бойынша шешіледі.
+[explanation-ru]
+Любой, кто нарушил закон на территории Казахстана, отвечает по этому Кодексу. То же относится к казахстанским судам и самолётам, даже за границей. Вопрос о дипломатах решается по международному праву.
+[explanation-en]
+Anyone who commits an offence in Kazakhstan is liable under this Code. The same applies on Kazakh ships and aircraft, even abroad. Diplomats are dealt with under international law.
+
+=== 4 | 1 | 1
+[title-kk]
+Қазақстан Республикасының әкімшілік құқық бұзушылық үшін жауаптылық туралы заңнамасының уақыт тұрғысынан қолданылуы
+[title-ru]
+Действие законодательства Республики Казахстан об ответственности за административные правонарушения во времени
+[title-en]
+Force of the legislation of the Republic of Kazakhstan on liability for administrative infractions in time
+[text-kk]
+1. Әкімшілік құқық бұзушылық жасаған тұлға осы құқық бұзушылық жасалған уақытта қолданылған заңнаманың негізінде жауаптылыққа жатады.
+2. Осы Кодекстің Ерекше бөлігінде көзделген іс-әрекеттің жүзеге асырылған уақыты, салдардың басталған уақытына қарамастан, әкімшілік құқық бұзушылық жасалған уақыт деп танылады.
+[text-ru]
+1. Лицо, совершившее административное правонарушение, подлежит ответственности на основании законодательства, действовавшего во время совершения этого правонарушения.
+2. Временем совершения административного правонарушения признается время осуществления деяния, предусмотренного Особенной частью настоящего Кодекса, независимо от времени наступления последствий.
+[text-en]
+1. The person that committed administrative infraction shall be subject to liability on the basis of the legislation being valid during commission of this infraction.
+2. Time of committing administrative infraction shall be recognized as the time of carrying out the act provided by the Special part of this Code, independently from time of ensuing of consequences.
+[explanation-kk]
+Адам құқық бұзған күні қолданыста болған заң бойынша жауап береді. Салдары кейін болса да, құқық бұзушылық жасалған уақыт — әрекет жасалған уақыт.
+[explanation-ru]
+Человек отвечает по закону, который действовал в день нарушения. Время нарушения — это момент самого поступка, даже если последствия наступили позже.
+[explanation-en]
+A person is liable under the law in force on the day of the offence. The time of the offence is the moment of the act itself, even if the consequences came later.
+
+=== 5 | 1 | 1
+[title-kk]
+Әкімшілік құқық бұзушылық туралы заңның кері күші
+[title-ru]
+Обратная сила закона об административных правонарушениях
+[title-en]
+Retroactive force of the Law on administrative infractions
+[text-kk]
+1. Әкімшілік құқық бұзушылық үшін әкімшілік жауаптылықты жеңілдететін немесе оның күшін жоятын не әкімшілік құқық бұзушылық жасаған тұлғаның жағдайын өзге түрде жақсартатын заңның кері күші болады, яғни осы заң қолданысқа енгізілгенге дейін жасалған және әкімшілік жаза қолдану туралы қаулы орындалмаған құқық бұзушылыққа қолданылады.
+2. Әкімшілік құқық бұзушылық үшін әкімшілік жауаптылықты белгілейтін немесе күшейтетін немесе тұлғаның жағдайын өзге түрде нашарлататын заңның кері күші болмайды.
+[text-ru]
+1. Закон, смягчающий или отменяющий административную ответственность за административное правонарушение либо иным образом улучшающий положение лица, совершившего административное правонарушение, имеет обратную силу, то есть распространяется на правонарушение, совершенное до введения этого закона в действие и в отношении которого постановление о наложении административного взыскания не исполнено.
+2. Закон, устанавливающий или усиливающий административную ответственность за административное правонарушение или иным образом ухудшающий положение лица, обратной силы не имеет.
+[text-en]
+1. The Law that mitigating or exempting administrative liability for administrative infraction or otherwise improving position of a person that committed administrative infraction shall have a retroactive force, in other words shall apply to the infraction committed before entering of this Law into force and in respect of which, the decree on imposition of administrative sanction is not performed.
+2. The Law establishing or strengthening administrative liability for administrative infraction or otherwise aggravating the position of a person shall not have a retroactive force.
+[explanation-kk]
+Жазаны жеңілдететін немесе алып тастайтын жаңа заң бұрын жасалған құқық бұзушылыққа да қолданылады (жаза әлі орындалмаса). Жазаны күшейтетін заң бұрынғы әрекеттерге қолданылмайды.
+[explanation-ru]
+Новый закон, который смягчает или отменяет наказание, применяется и к прошлым нарушениям (если взыскание ещё не исполнено). Закон, который ужесточает наказание, к прошлым поступкам не применяется.
+[explanation-en]
+A new law that softens or cancels a penalty also applies to past offences (if the penalty has not been carried out yet). A law that makes penalties harsher does not apply to past acts.
+
+=== 6 | 1 | 2
+[title-kk]
+Әкімшілік құқық бұзушылық туралы заңнаманың міндеттері
+[title-ru]
+Задачи законодательства об административных правонарушениях
+[title-en]
+Tasks of the legislation on administrative infractions
+[text-kk]
+1. Әкімшілік құқық бұзушылық туралы заңнаманың міндеттері – адамның және азаматтың құқықтарын, бостандықтары мен заңды мүдделерін, халықтың денсаулығын, санитариялық-эпидемиологиялық саламаттылығын, қоршаған ортаны, қоғамдық имандылықты, меншікті, қоғамдық тәртіпті және қауіпсіздікті, мемлекеттік билікті және мемлекеттік басқаруды жүзеге асырудың белгіленген тәртібін, ұйымдардың заңмен қорғалатын құқықтары мен мүдделерін әкімшілік құқық бұзушылықтардан қорғау, сондай-ақ олардың жасалуының алдын алу.
+2. Осы міндетті жүзеге асыру үшін әкімшілік құқық бұзушылық туралы заңнама әкімшілік жауаптылықтың негіздері мен қағидаттарын белгілейді, қандай іс-әрекеттердің әкімшілік құқық бұзушылықтар болып табылатынын және оларды жасағаны үшін қолданылатын жаза түрлерін, сондай-ақ әкімшілік құқық бұзушылық жасаған тұлғаға қандай әкімшілік жаза қолданылуы, қай мемлекеттік органның (лауазымды адамның) және қандай тәртіппен қолдануы мүмкін екенін айқындайды.
+[text-ru]
+1. Законодательство об административных правонарушениях имеет задачей охрану прав, свобод и законных интересов человека и гражданина, здоровья, санитарно-эпидемиологического благополучия населения, окружающей среды, общественной нравственности, собственности, общественного порядка и безопасности, установленного порядка осуществления государственной власти и государственного управления, охраняемых законом прав и интересов организаций от административных правонарушений, а также предупреждение их совершения.
+2. Для осуществления этой задачи законодательство об административных правонарушениях устанавливает основания и принципы административной ответственности, определяет, какие деяния являются административными правонарушениями и виды взысканий, налагаемых за их совершение, а также какое административное взыскание, каким государственным органом (должностным лицом) и в каком порядке может быть наложено на лицо, совершившее административное правонарушение.
+[text-en]
+1. Legislation on administrative infractions is tasked with protection of rights, freedoms and legal interests of a human and citizen, health, sanitary epidemiological welfare of population, environment, public morality, property, public order and safety, established order of carrying out the state power and state management, rights and interests of organizations protected by the law from administrative infractions, as well as prevention of their commission.
+2. For carrying out of this task, the legislation on administrative infractions shall establish the grounds and principles of administrative infraction, determines which acts are administrative infractions and types of sanctions imposed for their commission, as well as which administrative sanction, by which state body (civil servant) and in which manner may be imposed on a person that committed the administrative infraction.
+[explanation-kk]
+Кодекстің мақсаты — адамдардың құқықтарын, денсаулықты, табиғатты, меншікті және қоғамдық тәртіпті қорғау, сондай-ақ құқық бұзушылықтардың алдын алу. Ол не құқық бұзушылық екенін және қандай жаза берілетінін анықтайды.
+[explanation-ru]
+Цель Кодекса — защитить права людей, здоровье, природу, собственность и общественный порядок, а также предупреждать нарушения. Он определяет, что считается правонарушением и какое за него наказание.
+[explanation-en]
+The Code aims to protect people’s rights, health, nature, property and public order, and to prevent offences. It defines what an offence is and what penalty follows.
+
+=== 7 | 1 | 2
+[title-kk]
+Әкімшілік құқық бұзушылық туралы заңнама қағидаттарының маңызы
+[title-ru]
+Значение принципов законодательства об административных правонарушениях
+[title-en]
+Meaning of principles of the legislation on administrative infractions
+[text-kk]
+Әкімшілік құқық бұзушылық туралы заңнама қағидаттарының маңызы мынада: оларды бұзу, оның сипаты мен мәніне қарай, іс бойынша болған іс жүргізуді жарамсыз деп тануға, осындай іс жүргізудің барысында шығарылған шешімдердің күшін жоюға не осы тұрғыда жиналған материалдарды дәлелдеу күші жоқ деп тануға әкеп соғады.
+[text-ru]
+Значение принципов законодательства об административных правонарушениях состоит в том, что их нарушение в зависимости от его характера и существенности влечет признание состоявшегося производства по делу недействительным, отмену вынесенных в ходе такого производства решений либо признание собранных при этом материалов, не имеющих силы доказательств.
+[text-en]
+Meaning of principles of the legislation on administrative infractions is that their violation depending on its character and essentiality entail recognition of the accomplished proceeding on a case as invalid, revocation of decisions delivered in the course of such proceeding or recognition of materials that are not valid as evidences collected by this.
+[explanation-kk]
+Егер іс қаралғанда Кодекстің негізгі қағидаттары бұзылса, бүкіл іс жүргізу жарамсыз деп танылуы, шешімдердің күші жойылуы немесе дәлелдер жарамсыз болуы мүмкін.
+[explanation-ru]
+Если при рассмотрении дела нарушили основные принципы Кодекса, всё производство могут признать недействительным, отменить решения или признать доказательства недействительными.
+[explanation-en]
+If the Code’s core principles are broken while handling a case, the whole proceeding may be declared invalid, decisions cancelled or evidence thrown out.
+
+=== 8 | 1 | 2
+[title-kk]
+Заңдылық
+[title-ru]
+Законность
+[title-en]
+Legality
+[text-kk]
+1. Әкімшілік құқық бұзушылықтар, әкімшілік жаза шаралары, әкімшілік құқық бұзушылық туралы іс бойынша іс жүргізуді қамтамасыз ету шаралары және әкімшілік-құқықтық ықпал ету шаралары осы Кодекспен ғана айқындалады. Осы Кодексте белгіленген негіздер мен тәртіптен өзгеше ретте, ешкім де әкімшілік жазаға, әкімшілік-құқықтық ықпал ету шараларына немесе әкімшілік құқық бұзушылық туралы іс бойынша іс жүргізуді қамтамасыз ету шараларына тартыла алмайды.
+2. Әкімшілік құқық бұзушылық туралы істерді қарауға уәкілеттік берілген сот, органдар (лауазымды адамдар) әкімшілік құқық бұзушылық туралы істер бойынша іс жүргізу кезінде Қазақстан Республикасы Конституциясының, осы Кодекстің, осы Кодекстің 1-бабында көрсетілген өзге де нормативтік құқықтық актілердің талаптарын дәлме-дәл сақтауға міндетті. Қазақстан Республикасы Конституциясының жоғары заңды күші бар және Қазақстан Республикасының бүкіл аумағында ол тікелей қолданылады. Қазақстан Республикасының заңында және Конституциясында белгіленген қағидалар арасында қайшылықтар болған жағдайда Конституцияның ережелері қолданылады.
+3. Соттар адамның және азаматтың Қазақстан Республикасының Конституциясында бекітіп берілген құқықтары мен бостандықтарына қысым жасалатын заңдар мен өзге де нормативтік құқықтық актілерді, олардың жекелеген ережелерін қолдануға құқылы емес. Егер сот қолданылуға тиісті заң немесе өзге де нормативтік құқықтық акт, оның жекелеген ережелері адамның және азаматтың Конституцияда бекітіп берілген құқықтары мен бостандықтарына қысым жасайды деп тапса, ол іс бойынша іс жүргізуді тоқтата тұруға және осы актіні немесе оның жекелеген ережелерін конституциялық емес деп тану туралы ұсынумен Қазақстан Республикасының Конституциялық Сотына жүгінуге міндетті. Сот Конституциялық Соттың шешімін алғаннан кейін іс бойынша іс жүргізу қайта басталады.
+Әкімшілік құқық бұзушылық туралы істерді қарауға уәкілеттік берілген соттардың және органдардың (лауазымды адамдардың) Конституцияға сәйкес келмейді деп танылған заңға немесе өзге де нормативтік құқықтық актіге, оның жекелеген ережелеріне негізделген шешімдері орындалмауға тиіс.
+4. Әкімшілік құқық бұзушылық туралы істерді қарауға уәкілеттік берілген соттың, органдардың (лауазымды адамдардың) әкімшілік құқық бұзушылық туралы істер бойынша іс жүргізу кезінде заңды бұзуына жол берілмейді және заңда белгіленген жауаптылыққа, қабылданған актілердің жарамсыз деп танылуына және олардың күшінің жойылуына әкеп соғады.
+[text-ru]
+1. Административные правонарушения, меры административного взыскания, меры обеспечения производства по делу об административном правонарушении и меры административно-правового воздействия определяются только настоящим Кодексом. Никто не может быть подвергнут административному взысканию, мерам административно-правового воздействия или мерам обеспечения производства по делу об административном правонарушении иначе как на основаниях и в порядке, установленных настоящим Кодексом.
+2. Суд, органы (должностные лица), уполномоченные рассматривать дела об административных правонарушениях, при производстве по делам об административных правонарушениях обязаны точно соблюдать требования Конституции Республики Казахстан, настоящего Кодекса, иных нормативных правовых актов, указанных в статье 1 настоящего Кодекса. Конституция Республики Казахстан имеет высшую юридическую силу и прямое действие на всей территории Республики Казахстан. В случае противоречия между правилами, установленными законом и Конституцией Республики Казахстан, действуют положения Конституции.
+3. Суды не вправе применять законы и иные нормативные правовые акты, их отдельные положения, ущемляющие закрепленные Конституцией Республики Казахстан права и свободы человека и гражданина. Если суд усмотрит, что закон или иной нормативный правовой акт, его отдельные положения, подлежащие применению, ущемляют закрепленные Конституцией права и свободы человека и гражданина, он обязан приостановить производство по делу и обратиться в Конституционный Суд Республики Казахстан с представлением о признании этого акта или его отдельных положений неконституционными. По получении судом решения Конституционного Суда производство по делу возобновляется.
+Решения судов и органов (должностных лиц), уполномоченных рассматривать дела об административных правонарушениях, основанные на законе или ином нормативном правовом акте, его отдельных положениях, признанных не соответствующими Конституции, исполнению не подлежат.
+4. Нарушение закона судом, органами (должностными лицами), уполномоченными рассматривать дела об административных правонарушениях, при производстве по делам об административных правонарушениях недопустимо и влечет за собой установленную законом ответственность, признание недействительными принятых актов и их отмену.
+[text-en]
+1. Administrative infractions, measures of administrative sanction, measures of supporting the proceeding on the case on administrative infraction and measures of administrative legal effect shall be determined only by this Code. No one may be subjected to administrative infraction, measures of administrative legal effect or measures of supporting the proceeding on the case on administrative infraction otherwise as on the basis and in the manner established by this Code.
+2. Court, bodies (civil servants) being authorized to consider the cases on administrative infractions upon proceeding on the cases on administrative infractions shall be obliged to comply exactly the requirements of the Constitution of the Republic of Kazakhstan, this Code, other regulatory legal acts mentioned in Article 1 of this Code. The Constitution of the Republic of Kazakhstan shall have a supreme legal force and direct force in the whole territory of the Republic of Kazakhstan. In case of inconsistency between the rules established by the Law and the Constitution of the Republic of Kazakhstan, the provisions of the Constitution shall be applied.
+3. Courts shall not apply laws or other regulatory legal acts, or their separate provisions, that infringe the rights and freedoms of a person and citizen enshrined in the Constitution of the Republic of Kazakhstan. If a court finds that a law or other regulatory legal act, or its separate provisions, subject to application, infringe the rights and freedoms of a person and citizen enshrined in the Constitution, it shall suspend the proceedings in the case and apply to the Constitutional Court of the Republic of Kazakhstan with a submission seeking recognition of that act or its separate provisions as unconstitutional. Upon receipt by the court of the Constitutional Court’s decision, the proceedings in the case shall be resumed.
+Decisions of courts and bodies (officials) authorized to consider cases of administrative offenses, based on a law or other regulatory legal act, or its separate provisions, recognized as inconsistent with the Constitution, shall not be subject to enforcement.
+4. Breach of the Law by a court, bodies (civil servants) being authorized to consider the cases on administrative infractions upon proceeding on cases on administrative infractions shall be inadmissible and entail the liability established by the Law, recognition of adopted acts as invalid and their repeal.
+[explanation-kk]
+Қандай әрекет құқық бұзушылық екенін және қандай жаза берілетінін тек осы Кодекс анықтайды. Сот пен полиция Конституция мен Кодексті дәл сақтауға міндетті. Конституцияға қайшы заң қолданылмайды.
+[explanation-ru]
+Что является нарушением и какое за него наказание, определяет только этот Кодекс. Суд и полиция обязаны точно соблюдать Конституцию и Кодекс. Закон, противоречащий Конституции, не применяется.
+[explanation-en]
+Only this Code defines what an offence is and its penalty. Courts and police must strictly follow the Constitution and the Code. A law contradicting the Constitution is not applied.
+
+=== 9 | 1 | 2
+[title-kk]
+Заң мен сот алдындағы теңдік
+[title-ru]
+Равенство перед законом и судом
+[title-en]
+Equality before the Law and court
+[text-kk]
+Әкімшілік құқық бұзушылық туралы істер бойынша іс жүргізу барысында заң мен сот алдында бәрі тең. Тегіне, әлеуметтік, лауазымдық және мүліктік жағдайына, жынысына, нәсіліне, ұлтына, тіліне, дінге көзқарасына, нанымына, тұрғылықты жеріне байланысты немесе кез келген өзге де мән-жайлар бойынша ешкімді ешқандай кемсітуге болмайды.
+[text-ru]
+В ходе производства по делам об административных правонарушениях все равны перед законом и судом. Никто не может подвергаться какой-либо дискриминации по мотивам происхождения, социального, должностного и имущественного положения, пола, расы, национальности, языка, отношения к религии, убеждений, места жительства или по любым иным обстоятельствам.
+[text-en]
+In the course of proceeding on the cases on administrative infractions, all are equal before the Law and court. No one may be subjected to any discrimination based on origin, social, official and property status, gender, race, nationality, language, attitude to religion, convictions, residence places or by any other circumstances.
+[explanation-kk]
+Барлығы заң мен сот алдында тең. Тегіне, ұлтына, тіліне, дініне, жынысына, байлығына немесе лауазымына қарап ешкімді кемсітуге болмайды.
+[explanation-ru]
+Все равны перед законом и судом. Нельзя никого дискриминировать по происхождению, национальности, языку, религии, полу, богатству или должности.
+[explanation-en]
+Everyone is equal before the law and the court. No one may be discriminated against because of origin, ethnicity, language, religion, gender, wealth or position.
+
+=== 10 | 1 | 2
+[title-kk]
+Кінәсіздік презумпциясы
+[title-ru]
+Презумпция невиновности
+[title-en]
+Presumption of innocence
+[text-kk]
+1. Өзіне қатысты әкімшілік құқық бұзушылық туралы іс қозғалған адам кінәсі осы Кодексте көзделген тәртіппен дәлелденгенге және өз өкілеттіктері шегінде істі қараған судьяның, органның (лауазымды адамның) заңды күшіне енген қаулысымен белгіленгенге дейін кінәсіз деп есептеледі.
+Әкімшілік құқық бұзушылық туралы іс қысқартылған іс жүргізу тәртібімен қаралған жағдайда, сондай-ақ ескерту немесе айыппұл төлеу қажеттігі туралы нұсқама бойынша өзіне қатысты әкімшілік құқық бұзушылық туралы іс қозғалған адам тиісті шешім заңды күшіне енген кезге дейін кінәсіз деп есептеледі.
+2. Ешкім де өзінің кінәсіздігін дәлелдеуге міндетті емес.
+3. Кінәлілікке келтірілген кез келген күмәндар өзіне қатысты әкімшілік құқық бұзушылық туралы іс қозғалған тұлғаның пайдасына түсіндіріледі. Әкімшілік құқық бұзушылық туралы заңнаманы қолдану кезінде туындайтын күмәндар да оның пайдасына шешілуге тиіс.
+[text-ru]
+1. Лицо, в отношении которого возбуждено дело об административном правонарушении, считается невиновным, пока его виновность не будет доказана в предусмотренном настоящим Кодексом порядке и установлена вступившим в законную силу постановлением судьи, органа (должностного лица), рассмотревшего в пределах своих полномочий дело.
+В случае рассмотрения дела об административном правонарушении в порядке сокращенного производства, а также по предписанию о предупреждении или необходимости уплаты штрафа лицо, в отношении которого возбуждено дело об административном правонарушении, считается невиновным до момента вступления в законную силу соответствующего решения.
+2. Никто не обязан доказывать свою невиновность.
+3. Любые сомнения в виновности толкуются в пользу лица, в отношении которого возбуждено дело об административном правонарушении. В его же пользу должны разрешаться и сомнения, возникающие при применении законодательства об административных правонарушениях.
+[text-en]
+1. A person, against whom an administrative offense proceeding has been initiated, shall be presumed innocent until his guilt is proven in accordance with the procedure provided for in this Code and established by the final and binding decision of a judge or a body (official) that has examined the case within the scope of its authority.
+In event of consideration the case of an administrative offense in the procedure of reduced production, as well as on the order for the need to pay a fine, the person in respect of whom an administrative offense case has been initiated, shall be considered innocent until the relevant decision comes into force.
+2. No one is obliged to prove own guiltless.
+3. Any doubts in guilty shall be interpreted in favor of a person in respect of whom the case on administrative infraction is initiated. The doubts arising upon application of the legislation on administrative infractions shall be also resolved in his (her) favor.
+[explanation-kk]
+Кінәсі заңды күшіне енген шешіммен дәлелденгенше адам кінәсіз саналады. Ешкім өзінің кінәсіз екенін дәлелдеуге міндетті емес, ал кез келген күмән адамның пайдасына шешіледі.
+[explanation-ru]
+Человек считается невиновным, пока его вина не доказана решением, вступившим в силу. Никто не обязан доказывать свою невиновность, а любые сомнения толкуются в его пользу.
+[explanation-en]
+A person is presumed innocent until guilt is proven by a final decision. No one has to prove their innocence, and any doubt is resolved in their favour.
+
+=== 25 | 2 | 3
+[title-kk]
+Әкімшілік құқық бұзушылық
+[title-ru]
+Административное правонарушение
+[title-en]
+Administrative infraction
+[text-kk]
+1. Осы Кодексте сол үшін әкімшілік жауаптылық көзделген, жеке тұлғаның құқыққа қарсы, кінәлі (қасақана немесе абайсызда жасаған) әрекеті не әрекетсіздігі немесе заңды тұлғаның құқыққа қарсы әрекеті не әрекетсіздігі әкімшілік құқық бұзушылық деп танылады.
+2. Осы Кодекстің Ерекше бөлігінің баптарында көзделген құқық бұзушылықтар үшін, егер бұл құқық бұзушылықтар өзінің сипаты бойынша заңнамаға сәйкес қылмыстық жауаптылыққа әкеп соқпаса, әкімшілік жауаптылық туындайды.
+[text-ru]
+1. Административным правонарушением признается противоправное, виновное (умышленное или неосторожное) действие либо бездействие физического лица или противоправное действие либо бездействие юридического лица, за которое настоящим Кодексом предусмотрена административная ответственность.
+2. Административная ответственность за правонарушения, предусмотренные статьями Особенной части настоящего Кодекса, наступает, если эти правонарушения по своему характеру не влекут за собой в соответствии с законодательством уголовной ответственности.
+[text-en]
+1. Administrative infraction shall be recognized as an illegal, guilty (intentional or careless) action or omission of an individual or illegal action or omission of a legal entity for which this Code provides the administrative liability.
+2. Administrative liability for infractions provided by Articles of the Special part of this Code shall occur if these infractions upon own character do not entail criminal liability in accordance with the legislation.
+[explanation-kk]
+Әкімшілік құқық бұзушылық — бұл Кодексте жаза көзделген, заңға қайшы, кінәлі әрекет немесе әрекетсіздік. Егер әрекет қылмыс болса, онда әкімшілік емес, қылмыстық жауаптылық болады.
+[explanation-ru]
+Административное правонарушение — это противоправный виновный поступок или бездействие, за которое Кодекс предусматривает наказание. Если поступок является преступлением, наступает не административная, а уголовная ответственность.
+[explanation-en]
+An administrative offence is an unlawful, culpable act or omission punishable under this Code. If the act is a crime, criminal rather than administrative liability applies.
+
+=== 26 | 2 | 3
+[title-kk]
+Әкімшілік құқық бұзушылықты қасақана жасау
+[title-ru]
+Совершение административного правонарушения умышленно
+[title-en]
+Commission of administrative infraction intentionally
+[text-kk]
+Егер әкімшілік құқық бұзушылық жасаған жеке тұлға өзінің әрекетінің (әрекетсіздігінің) құқыққа қарсы сипатын сезінсе, оның зиянды салдарын алдын ала білсе және осы салдардың туындауын қаласа немесе оған саналы түрде жол берсе не оларға немқұрайлы қараса, әкімшілік құқық бұзушылық қасақана жасалды деп танылады.
+[text-ru]
+Административное правонарушение признается совершенным умышленно, если физическое лицо, его совершившее, сознавало противоправный характер своего действия (бездействия), предвидело его вредные последствия и желало или сознательно допускало наступление этих последствий либо относилось к ним безразлично.
+[text-en]
+Administrative infraction shall be recognized committed intentionally, if the individual that committed it realized illegal character of own action (omission), foresaw its harmful consequences and wished or admitted consciously occurrence of these circumstances or referred to them indifferently.
+[explanation-kk]
+Қасақана — адам заңды бұзып жатқанын түсінген, зиянды салдарын алдын ала білген және соны қалаған немесе оған мән бермеген жағдай.
+[explanation-ru]
+Умышленно — когда человек понимал, что нарушает закон, предвидел вредные последствия и хотел их или относился к ним безразлично.
+[explanation-en]
+Intentionally means the person knew they were breaking the law, foresaw the harm and wanted it or did not care.
+
+=== 27 | 2 | 3
+[title-kk]
+Әкімшілік құқық бұзушылықты абайсызда жасау
+[title-ru]
+Совершение административного правонарушения по неосторожности
+[title-en]
+Commission of administrative infraction carelessly
+[text-kk]
+Егер әкімшілік құқық бұзушылық жасаған жеке тұлға өз әрекетінің (әрекетсіздігінің) зиянды салдарының туындау мүмкіндігін алдын ала білсе, бірақ жеткілікті негізсіз олардың алдын алуға болады деп ұшқары ойласа не тиісті назар салған және көре білген жағдайда, олардың алдын алуға тиіс және солай ете алатын болса да осындай салдардың туындау мүмкіндігін алдын ала білмесе, әкімшілік құқық бұзушылық абайсызда жасалды деп танылады.
+[text-ru]
+Административное правонарушение признается совершенным по неосторожности, если физическое лицо, его совершившее, предвидело возможность наступления вредных последствий своего действия (бездействия), но без достаточных к тому оснований легкомысленно рассчитывало на их предотвращение либо не предвидело возможности наступления таких последствий, хотя при должной внимательности и предусмотрительности должно было и могло их предвидеть.
+[text-en]
+Administrative infraction shall be recognized committed carelessly, if the individual that committed it foresaw a possibility of occurrence of harmful consequences of own action (omission), but relied lightmindedly on their prevention without sufficient grounds or did not foresee the possibility of occurrence of such consequences, however upon proper attention and foresight should and could foresee them.
+[explanation-kk]
+Абайсызда — адам зиян болуы мүмкін екенін білді, бірақ оны болдырмаймын деп ұшқары ойлады, немесе мұқият болса алдын ала білуге тиіс еді, бірақ білмеді.
+[explanation-ru]
+По неосторожности — когда человек предвидел возможный вред, но легкомысленно надеялся его избежать, или не предвидел его, хотя при внимательности должен был и мог.
+[explanation-en]
+Carelessly means the person foresaw possible harm but lightly hoped to avoid it, or did not foresee it although with due care they should and could have.
+
+=== 28 | 2 | 4
+[title-kk]
+Әкімшілік жауаптылыққа жататын тұлғалар
+[title-ru]
+Лица, подлежащие административной ответственности
+[title-en]
+Persons subjected to administrative liability
+[text-kk]
+Әкімшілік жауаптылыққа:
+1) әкімшілік құқық бұзушылық аяқталған немесе оның жолын кескен кезде он алты жасқа толған, ақыл-есі дұрыс жеке тұлға;
+2) заңды тұлға жатады.
+[text-ru]
+Административной ответственности подлежат:
+1) физическое вменяемое лицо, достигшее к моменту окончания или пресечения административного правонарушения шестнадцатилетнего возраста;
+2) юридическое лицо.
+[text-en]
+They are shall be subject to administrative liability:
+1) mentally competent individual that up to the date of completion or suppression of an administrative infraction attained sixteen years;
+2) legal entity.
+[explanation-kk]
+Әкімшілік жауапқа 16 жасқа толған, ақыл-есі дұрыс адам, сондай-ақ ұйымдар (заңды тұлғалар) тартылады. 16 жасқа дейінгі балалар үшін кейде ата-анасы жауап береді.
+[explanation-ru]
+К административной ответственности привлекают вменяемых людей с 16 лет, а также организации (юридические лица). За детей до 16 лет в некоторых случаях отвечают родители.
+[explanation-en]
+Administrative liability applies to sane persons aged 16 and over, and to organisations (legal entities). Parents are liable for children under 16 in some cases.
+
+=== 29 | 2 | 4
+[title-kk]
+Ақыл-естің дұрыс еместігі
+[title-ru]
+Невменяемость
+[title-en]
+Legal insanity
+[text-kk]
+Осы Кодексте көзделген құқыққа қарсы іс-әрекет жасаған кезде ақыл-есі дұрыс емес жағдайда болған, яғни өз әрекеттерінің (әрекетсіздігінің) нақты сипаты мен қауіптілігін сезіне алмаған немесе оларды созылмалы психикалық ауруының, психикасының уақытша бұзылуының, ақыл-есі кемдігінің немесе психикасының өзге де сырқатты жай-күйінің салдарынан басқара алмаған жеке тұлға әкімшілік жауаптылыққа жатпайды.
+[text-ru]
+Не подлежит административной ответственности физическое лицо, которое во время совершения противоправного деяния, предусмотренного настоящим Кодексом, находилось в состоянии невменяемости, то есть не могло осознавать фактический характер и опасность своих действий (бездействия) или руководить ими вследствие хронического психического заболевания, временного психического расстройства, слабоумия или иного болезненного состояния психики.
+[text-en]
+Individual that during commission of illegal action provided by this Code was in a condition of insanity, in other words could not realize actual character and danger of own actions (omission) or manage by them due to chronicle mental disease, temporary mental disorder, feeblemindedness or other diseased mental state shall not be subject to administrative liability.
+[explanation-kk]
+Құқық бұзған сәтте психикалық ауруына байланысты не істеп жатқанын түсінбеген немесе өзін басқара алмаған адам әкімшілік жауапқа тартылмайды.
+[explanation-ru]
+Человек, который в момент нарушения из-за психического расстройства не понимал, что делает, или не мог собой управлять, к административной ответственности не привлекается.
+[explanation-en]
+A person who, because of a mental disorder, could not understand or control their actions at the time is not held administratively liable.
+
+=== 73 | 2 | 10
+[title-kk]
+Отбасы-тұрмыстық қатынастар аясындағы құқыққа қарсы әрекеттер
+[title-ru]
+Противоправные действия в сфере семейно-бытовых отношений
+[title-en]
+Illegal actions in the scope of family relations
+[text-kk]
+1. Құқық бұзушымен отбасы-тұрмыстық қатынастардағы адамдарға сыйламаушылық көрсетіліп, былапыт сөйлеу, қорлап тиісу, кемсіту, үй тұрмысындағы заттарды бүлдіру және олардың тыныштығын бұзатын, тұрғын үйде жасалған басқа да әрекеттер, егер бұл әрекеттерде қылмыстық жазаланатын іс-әрекет белгілері болмаса, –
+ескерту жасауға не жиырма сағат мерзімге қоғамдық жұмыстарға тартуға немесе бес тәулікке әкімшілік қамаққа алуға әкеп соғады.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+қырық сағат мерзімге қоғамдық жұмыстарға тартуға не он тәулікке әкімшілік қамаққа алуға әкеп соғады.
+3. Осы баптың екінші бөлігінде көзделген, осы Кодекстің 50-бабының екінші бөлігіне сәйкес әкімшілік қамаққа алу қолданылмайтын адамдар жасаған әрекеттер –
+бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+Ескертпе. Осы Кодекстің мақсаты үшін отбасы-тұрмыстық қатынастар деп ерлі-зайыптылар, бұрынғы ерлі-зайыптылар, бірге тұратын немесе бірге тұрған адамдар, жақын туыстар, ортақ баласы (балалары) бар адамдар арасындағы қатынастар түсініледі.
+[text-ru]
+1. Нецензурная брань, оскорбительное приставание, унижение, повреждение предметов домашнего обихода и другие действия, выражающие неуважение к лицам, состоящим с правонарушителем в семейно-бытовых отношениях, нарушающие их спокойствие, совершенные в жилище, если эти действия не содержат признаков уголовно наказуемого деяния, –
+влекут предупреждение либо привлечение к общественным работам на срок двадцать часов или административный арест на пять суток.
+2. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут привлечение к общественным работам на срок сорок часов либо административный арест на десять суток.
+3. Действия, предусмотренные частью второй настоящей статьи, совершенные лицами, к которым административный арест в соответствии с частью второй статьи 50 настоящего Кодекса не применяется, –
+влекут штраф в размере пяти месячных расчетных показателей.
+Примечание. Под семейно-бытовыми отношениями для целей настоящего Кодекса понимаются отношения между супругами, бывшими супругами, лицами, проживающими или проживавшими совместно, близкими родственниками, лицами, имеющими общего ребенка (детей).
+[text-en]
+1. Obscene language, offensive harassment, humiliation, damage to household items and other actions expressing disrespect for persons in family and household relationships with the offender, disturbing their peace, committed in the home, if these actions do not contain signs of a criminal offense, –
+shall entail a warning or community service for a period of twenty hours or administrative detention for five days.
+2. The actions provided by a part one of this Article, committed repeatedly second time second time within a year after imposition of administrative sanction, shall, –
+shall entail community service for a period of forty hours or administrative detention for ten days.
+3. The actions provided by a part two of this Article, committed by persons to whom the administrative arrest in accordance with a part two of Article 50 of this Code is not applied shall, –
+entail a fine in amount of five monthly calculation indices.
+Note. Family relations for the purposes of this Code shall be understood as relations between spouses, former spouses, persons residing or that resided jointly, close relatives, persons having common child (children).
+[explanation-kk]
+Үйде отбасы мүшелеріне, бұрынғы жұбайға немесе бірге тұратын адамға балағаттау, қорлау, кемсіту, үй заттарын сындыру — әкімшілік құқық бұзушылық. Жаза: ескерту, қоғамдық жұмыстар немесе 5 тәулікке қамау; қайталанса — қатаңырақ. Ауыр жағдайда (мысалы, денсаулыққа зиян) бұл енді қылмыс болады.
+[explanation-ru]
+Мат, оскорбления, унижение, порча вещей дома по отношению к членам семьи, бывшему супругу или тем, с кем живёте, — административное правонарушение. Наказание: предупреждение, общественные работы или арест на 5 суток; при повторе строже. Более тяжёлые действия (например, вред здоровью) уже считаются преступлением.
+[explanation-en]
+Swearing, insults, humiliation or breaking things at home towards family members, an ex-spouse or housemates is an administrative offence. Penalty: a warning, community service or 5 days’ arrest; harsher if repeated. More serious acts (such as harm to health) are crimes.
+
+=== 73-3 | 2 | 10
+[title-kk]
+Жала жабу
+[title-ru]
+Клевета
+[title-en]
+Libel
+[text-kk]
+1. Жала жабу, яғни басқа адамның абыройы мен қадір-қасиетіне нұқсан келтіретін немесе оның беделін түсіретін көрінеу жалған мәліметтер тарату –
+жеке тұлғаға бір жүз алпыс айлық есептік көрсеткіш мөлшерінде айыппұл салуға немесе он бес тәулік мерзімге әкімшілік қамаққа алуға, лауазымды адамға бес жүз елу айлық есептік көрсеткіш мөлшерінде айыппұл салуға не жиырма тәулік мерзімге әкімшілік қамаққа алуға алып келеді.
+2. Көпшілік алдында немесе масс-медианы немесе телекоммуникациялар желілерін пайдалана отырып жасалған дәл сол іс-әрекет –
+жеке тұлғаға бір жүз сексен айлық есептік көрсеткіш мөлшерінде айыппұл салуға немесе жиырма тәулік мерзімге әкімшілік қамаққа алуға, лауазымды адамға алты жүз елу айлық есептік көрсеткіш мөлшерінде айыппұл салуға не жиырма бес тәулік мерзімге әкімшілік қамаққа алуға алып келеді.
+3. Осы баптың бірінші немесе екінші бөліктерінде көзделген, адамды сыбайлас жемқорлық, ауыр немесе аса ауыр қылмыс жасады деп айыптаумен ұштасқан іс-әрекеттер –
+жеке тұлғаға екі жүз айлық есептік көрсеткіш мөлшерінде айыппұл салуға немесе жиырма бес тәулік мерзімге әкімшілік қамаққа алуға, лауазымды адамға жеті жүз елу айлық есептік көрсеткіш мөлшерінде айыппұл салуға не отыз тәулік мерзімге әкімшілік қамаққа алуға алып келеді.
+[text-ru]
+1. Клевета, то есть распространение заведомо ложных сведений, порочащих честь и достоинство другого лица или подрывающих его репутацию, –
+влечет штраф на физическое лицо в размере ста шестидесяти месячных расчетных показателей или административный арест на срок пятнадцать суток, на должностное лицо – штраф в размере пятисот пятидесяти месячных расчетных показателей либо административный арест на срок двадцать суток.
+2. То же деяние, совершенное публично или с использованием масс-медиа или сетей телекоммуникаций, –
+влечет штраф на физическое лицо в размере ста восьмидесяти месячных расчетных показателей или административный арест на срок двадцать суток, на должностное лицо – штраф в размере шестисот пятидесяти месячных расчетных показателей либо административный арест на срок двадцать пять суток.
+3. Деяния, предусмотренные частями первой или второй настоящей статьи, соединенные с обвинением лица в совершении коррупционного, тяжкого или особо тяжкого преступления, –
+влекут штраф на физическое лицо в размере двухсот месячных расчетных показателей или административный арест на срок двадцать пять суток, на должностное лицо – штраф в размере семисот пятидесяти месячных расчетных показателей либо административный арест на срок тридцать суток.
+[text-en]
+1. Libel, that is the dissemination of knowingly false information that discredits the honor and dignity of another person or undermines his reputation, shall –
+entail a fine on an individual in the amount of one hundred and sixty monthly calculation indices or administrative arrest for a period of fifteen days, on an official - a fine in the amount of five hundred and fifty monthly calculation indices or administrative arrest for a period of twenty days.
+2. The same act committed in public or with the use of mass media or telecommunication networks, -
+entail a fine on an individual in the amount of one hundred and eighty monthly calculation indices or administrative arrest for a period of twenty days, on an official - a fine in the amount of six hundred and fifty monthly calculation indices or administrative arrest for a period of twenty-five days.
+3. Acts provided for by parts 1 or 2 of this article, connected with the accusation of a person of committing a corruption, grave or especially grave crime, shall –
+entail a fine on an individual in the amount of two hundred monthly calculation indices or administrative arrest for a term of twenty-five days, on an official - a fine in the amount of seven hundred and fifty monthly calculation indices or administrative arrest for a term of thirty days.
+[explanation-kk]
+Жала жабу — біреудің абыройын түсіретін, әдейі жалған мәлімет тарату. Үлкен айыппұл немесе қамау қарастырылған; интернетте немесе БАҚ-та таратса, жаза ауырлайды.
+[explanation-ru]
+Клевета — распространение заведомо ложных сведений, которые порочат честь человека. Предусмотрены крупный штраф или арест; если это сделано в интернете или СМИ — наказание строже.
+[explanation-en]
+Libel is spreading knowingly false information that damages someone’s honour. It carries a large fine or arrest, and a harsher penalty if done online or in the media.
+
+=== 74 | 2 | 10
+[title-kk]
+Қазақстан Республикасының азаматтығын алуға кедергі келтіру
+[title-ru]
+Воспрепятствование получению гражданства Республики Казахстан
+[title-en]
+Impeding to obtainment of a citizenship of the Republic of Kazakhstan
+[text-kk]
+1. Лауазымды адамдардың Қазақстан Республикасының азаматтығын адамның алуына кедергі келтіретін заңсыз әрекеттері (әрекетсіздігі) –
+он бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+отыз айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+[text-ru]
+1. Незаконные действия (бездействие) должностных лиц, препятствующих получению лицом гражданства Республики Казахстан, –
+влекут штраф в размере пятнадцати месячных расчетных показателей.
+2. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере тридцати месячных расчетных показателей.
+[text-en]
+1. Illegal actions (omission) of civil servants impeding obtainment of a citizenship of the Republic of Kazakhstan by a person, shall, –
+entail a fine in amount of fifteen monthly calculation indices.
+2. The actions provided by a part one of this Article that committed repeatedly second time within a year after imposition of administrative sanction shall, –
+entail a fine in amount of thirty monthly calculation indices.
+[explanation-kk]
+Лауазымды адам Қазақстан азаматтығын алуға заңсыз кедергі келтірсе, оған айыппұл салынады.
+[explanation-ru]
+Если должностное лицо незаконно мешает человеку получить гражданство Казахстана, его штрафуют.
+[explanation-en]
+An official who unlawfully obstructs someone from obtaining Kazakh citizenship is fined.
+
+=== 75 | 2 | 10
+[title-kk]
+Қазақстан Республикасының тіл туралы заңнамасын бұзғаны үшін жауаптылық
+[title-ru]
+Ответственность за нарушение законодательства Республики Казахстан о языках
+[title-en]
+Liability for breach of the legislation of the Republic of Kazakhstan on languages
+[text-kk]
+1. Лауазымды адамның тіл білмеуін уәж етіп жеке және заңды тұлғалардың құжаттарын, өтініштерін қабылдаудан бас тартуы, сондай-ақ оларды мәні бойынша қарамауы –
+ескерту жасауға немесе он айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+3. Деректемелер мен көрнекі ақпаратты орналастыру жөніндегі талаптарды бұзу –
+ескерту жасауға әкеп соғады.
+4. Осы баптың үшінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+лауазымды адамдарға, шағын кәсіпкерлік субъектілеріне немесе коммерциялық емес ұйымдарға – бес, орта кәсіпкерлік субъектілеріне – он, ірі кәсіпкерлік субъектілеріне жиырма бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+5. Жеке тұлғалардың тіл таңдау құқықтарын шектеу, тілдік белгілері бойынша кемсіту –
+лауазымды адамдарға он айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+6. Осы баптың бесінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+[text-ru]
+1. Отказ должностного лица в принятии документов, обращений физических и юридических лиц, а также нерассмотрение их по существу, мотивированные незнанием языка, –
+влечет предупреждение или штраф в размере десяти месячных расчетных показателей.
+2. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере двадцати месячных расчетных показателей.
+3. Нарушение требований по размещению реквизитов и визуальной информации –
+влечет предупреждение.
+4. Действие, предусмотренное частью третьей настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, –
+влечет штраф на должностных лиц, субъектов малого предпринимательства или некоммерческие организации в размере пяти, на субъектов среднего предпринимательства – в размере десяти, на субъектов крупного предпринимательства – в размере двадцати пяти месячных расчетных показателей.
+5. Ограничение прав физических лиц в выборе языка, дискриминация по языковым признакам –
+влекут штраф на должностных лиц в размере десяти месячных расчетных показателей.
+6. Действия, предусмотренные частью пятой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере двадцати месячных расчетных показателей.
+[text-en]
+1. Refusal of a civil servant in acceptance of documents, references of individuals and legal entities, as well as their non-consideration in essence, reasoned by lack of knowledge of a language –
+entail a notification or a penalty in amount of ten monthly calculation indices.
+2. The actions provided by a part one of this Article committed repeatedly second time second time within a year after imposition of administrative sanction shall, –
+entail a fine in amount of twenty monthly calculation indices.
+3. Violation of requirements on placing requisites and visual information shall, –
+entail a notification.
+4. The action provided by a part three of this Article committed repeatedly second time second time within a year after imposition of administrative sanction shall, –
+entail a fine on officials, on subjects of small entrepreneurship or non-profit organizations in amount of five, on subjects of medium entrepreneurship – in amount of ten, on subjects of large entrepreneurship - in amount of twenty-five monthly calculation indices.
+5. Restriction of rights of individuals in a choice of a language, discrimination on language sings shall, –
+entail a fine on officials in amount of ten monthly calculation indices.
+6. The actions provided by a part five of this Article committed repeatedly second time second time within a year after imposition of administrative sanction shall, –
+entail a fine in amount of twenty monthly calculation indices.
+[explanation-kk]
+Мемлекеттік қызметші «тілді білмеймін» деп құжатыңызды қабылдамаса немесе қарамаса — бұл заң бұзушылық. Әркімнің тіл таңдауға құқығы бар, тіліне қарап кемсітуге болмайды.
+[explanation-ru]
+Если чиновник отказался принять или рассмотреть ваш документ, сославшись на незнание языка, — это нарушение. У каждого есть право выбрать язык, дискриминация по языку запрещена.
+[explanation-en]
+If an official refuses to accept or review your document by citing not knowing the language, that is an offence. Everyone may choose their language; language discrimination is banned.
+
+=== 434 | 2 | 25
+[title-kk]
+Ұсақ бұзақылық
+[title-ru]
+Мелкое хулиганство
+[title-en]
+Disorderly conduct
+[text-kk]
+1. Қоғамдық орындарда былапыт сөйлеу, жеке тұлғаларға зәбірлеп тиісу және айналасындағыларға құрметпен қарамауды білдіретін, қоғамдық тәртіп пен жеке тұлғалардың тыныштығын бұзатын басқа да осындай әрекеттер –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға немесе жиырма сағаттан алпыс сағатқа дейінгі мерзімге қоғамдық жұмыстарға тартуға не бестен он тәулікке дейінгі мерзімге әкімшілік қамаққа алуға алып келеді.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+алпыс сағаттан бір жүз сағатқа дейінгі мерзімге қоғамдық жұмыстарға тартуға не он бестен отыз тәулікке дейінгі мерзімге әкімшілік қамаққа алуға алып келеді.
+3. Осы баптың екінші бөлігінде көзделген, осы Кодекстің 50-бабының екінші бөлігіне сәйкес әкімшілік қамаққа алу қолданылмайтын адамдар жасаған әрекеттер –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+4. Ғимараттарды, өзге де құрылысжайларды, тұрғын үй-жайларды, ортақ пайдаланылатын орындарды, көліктегі және өзге де қоғамдық орындардағы мүлікті қорлау –
+елу айлық есептік көрсеткіш мөлшерінде айыппұл салуға не бестен жиырма тәулікке дейінгі мерзімге әкімшілік қамаққа алуға алып келеді.
+5. Осы баптың төртінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+жиырмадан отыз тәулікке дейінгі мерзімге әкімшілік қамаққа алуға алып келеді.
+6. Осы баптың бесінші бөлігінде көзделген, осы Кодекстің 50-бабының екінші бөлігіне сәйкес әкімшілік қамаққа алу қолданылмайтын адамдар жасаған әрекет –
+алпыс айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+[text-ru]
+1. Нецензурная брань в общественных местах, оскорбительное приставание к физическим лицам и другие подобные действия, выражающие неуважение к окружающим, нарушающие общественный порядок и спокойствие физических лиц, –
+влекут штраф в размере двадцати месячных расчетных показателей или привлечение к общественным работам на срок от двадцати до шестидесяти часов либо административный арест на срок от пяти до пятнадцати суток.
+2. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут привлечение к общественным работам на срок от шестидесяти до ста часов либо административный арест на срок от пятнадцати до тридцати суток.
+3. Действия, предусмотренные частью второй настоящей статьи, совершенные лицами, к которым административный арест в соответствии с частью второй статьи 50 настоящего Кодекса не применяется, –
+влекут штраф в размере двадцати месячных расчетных показателей.
+4. Осквернение зданий, иных сооружений, жилых помещений, мест общего пользования, имущества на транспорте и в иных общественных местах –
+влечет штраф в размере пятидесяти месячных расчетных показателей либо административный арест на срок от пяти до двадцати суток.
+5. Действие, предусмотренное частью четвертой настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, –
+влечет административный арест на срок от двадцати до тридцати суток.
+6. Действие, предусмотренное частью пятой настоящей статьи, совершенное лицами, к которым административный арест в соответствии с частью второй статьи 50 настоящего Кодекса не применяется, –
+влечет штраф в размере шестидесяти месячных расчетных показателей.
+[text-en]
+1. Obscene language in public places, offensive harassment of individuals and other similar actions expressing disrespect for others, violating public order and the peace of individuals -
+shall entail a fine in the amount of twenty monthly calculation indices or community service for a term of twenty to sixty hours or administrative detention for a term of five to fifteen days.
+2. Actions provided by a part one of this Article committed repeatedly second time within a year after imposition of administrative sanction, shall –
+shall entail community service for a period of sixty to one hundred hours or administrative detention for a period of fifteen to thirty days.
+3. Actions provided by a part two of this Article committed by persons in respect of whom the administrative arrest shall not be applied in accordance with a part two of Article 50 of this Code, shall –
+entail a fine in amount of twenty monthly calculation indices.
+4. Desecration of buildings, other structures, residential premises, common areas, property on transport and in other public places -
+shall entail a fine in the amount of fifty monthly calculation indices or administrative arrest for a period of five to twenty days.
+5. The action provided for in part four of this article, committed repeatedly within a year after the imposition of an administrative penalty -
+shall entail administrative arrest for a period of twenty to thirty days.
+6. The action provided for in part five of this article, committed by persons to whom administrative arrest in accordance with part two of article 50 of this Code is not applied, -
+entails a fine in the amount of sixty monthly calculation indices.
+[explanation-kk]
+Қоғамдық орында былапыт сөйлеу, адамдарға зәбірлеп тиісу, айналадағыларды құрметтемеу — ұсақ бұзақылық. Айыппұл, қоғамдық жұмыстар немесе әкімшілік қамау. Ғимараттарды, подъездерді, көліктегі мүлікті былғау (мысалы, жазу-сызу) үшін жаза ауырырақ.
+[explanation-ru]
+Мат в общественном месте, оскорбительное приставание к людям, неуважение к окружающим — мелкое хулиганство. Штраф, общественные работы или административный арест. За осквернение зданий, подъездов, имущества в транспорте (например, надписи) наказание строже.
+[explanation-en]
+Swearing in public, offensive harassment and disrespect towards others is petty hooliganism: a fine, community service or administrative arrest. Defacing buildings, entrances or property on transport (e.g. graffiti) is punished more severely.
+
+=== 434-1 | 2 | 25
+[title-kk]
+Жеке тұлғалардың спорттық және спорттық-бұқаралық, ойын-сауық мәдени-бұқаралық іс-шараларда жүріс-тұрыс қағидаларын бұзуы
+[title-ru]
+Нарушение правил поведения на спортивных и спортивно-массовых, зрелищных культурно-массовых мероприятиях физическими лицами
+[title-en]
+Violation of the rules of behavior on sports and sports-mass, entertainment cultural and mass events by individuals
+[text-kk]
+1. Жеке тұлғалардың спорттық және спорттық-бұқаралық, ойын-сауық мәдени-бұқаралық іс-шараларда жүріс-тұрыс қағидаларын:
+1) спорттық және спорттық-бұқаралық, ойын-сауық мәдени-бұқаралық іс-шаралар өткізілетін орындарға алкоголь өнімін, металл, шыны ыдыстағы өнімді, пиротехникалық бұйымдарды және пайдаланылуы адамдардың өмірі мен денсаулығына қатер төндіруі не жеке және заңды тұлғаларға материалдық нұқсан келтіруі мүмкін өзге де заттарды алып кіру;
+2) спорттық және спорттық-бұқаралық, ойын-сауық мәдени-бұқаралық іс-шаралар өткізілетін уақытта әлеуметтік, нәсілдік, ұлттық, діни және этностық алауыздықты қоздыруға бағытталған, сол сияқты жеке тұлғалардың құқықтарын кемсітетін плакаттарды, эмблемаларды, транспаранттарды және өзге де көрінетін заттарды пайдалану түрінде бұзуы, егер бұл әрекеттерде қылмыстық жазаланатын іс-әрекет белгілері болмаса, –
+жеке тұлғаларға жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+жеке тұлғаларға қырық айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+[text-ru]
+1. Нарушение правил поведения на спортивных и спортивно-массовых, зрелищных культурно-массовых мероприятиях физическими лицами в виде:
+1) проноса в места проведения спортивных и спортивно-массовых, зрелищных культурно-массовых мероприятий алкогольной продукции, продукции в металлической, стеклянной таре, пиротехнических изделий и иных предметов, использование которых может представлять угрозу жизни и здоровью людей либо причинить материальный ущерб физическим и юридическим лицам;
+2) использования плакатов, эмблем, транспарантов и иных визуальных предметов, направленных на разжигание социальной, расовой, национальной, религиозной и этнической розни, а равно ущемляющих права физических лиц во время проведения спортивных и спортивно-массовых, зрелищных культурно-массовых мероприятий, если эти действия не содержат признаков уголовно наказуемого деяния, –
+влечет штраф на физических лиц в размере двадцати месячных расчетных показателей.
+2. Действие, предусмотренное частью первой настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, –
+влечет штраф на физических лиц в размере сорока месячных расчетных показателей.
+[text-en]
+1. Violation of the rules of behavior on sports and sports-mass, entertainment cultural and mass events by individuals in the form of:
+1) carrying into the places of sports and sports-mass, entertainment cultural and mass events of alcoholic products, products in metal, glass containers, pyrotechnic products and other items, the use of which may pose a threat to life and health of people or cause material damage to individuals and legal entities;
+2) use of posters, emblems, banners, and other visual items aimed at inciting social, racial, national, religious, and ethnic discord, as well as at infringing the rights of individuals during sports and sports-mass, entertainment cultural-mass events, if these actions do not contain elements of a criminally punishable act,-
+entail a fine on individuals in amount of twenty monthly calculation indices.
+2. The action provided by part one this Article, committed repeatedly within a year after imposing an administrative penalty, shall –
+entail a fine on individuals in amount of forty monthly calculation indices.
+[explanation-kk]
+Спорт жарыстарына, концерттерге алкоголь, шыны ыдыс, пиротехника алып кіруге немесе алауыздық қоздыратын плакаттар ұстауға болмайды. Айыппұл салынады.
+[explanation-ru]
+На спортивные матчи и концерты нельзя проносить алкоголь, стеклянную тару, пиротехнику, а также плакаты, разжигающие рознь. За это штраф.
+[explanation-en]
+You may not bring alcohol, glass containers, fireworks or hate-inciting banners to sports or entertainment events. This is fined.
+
+=== 434-2 | 2 | 25
+[title-kk]
+Ортақ пайдаланылатын орындарды ластау
+[title-ru]
+Загрязнение мест общего пользования
+[title-en]
+Contamination of common areas
+[text-kk]
+1. Ортақ пайдаланылатын орындарды, саябақтарды, скверлерді ластау, оның ішінде белгіленбеген орындарға коммуналдық қалдықтарды тастау –
+он айлық есептік көрсеткіш мөлшерінде айыппұл салуға не қырық сағат мерзімге қоғамдық жұмыстарға тартуға алып келеді.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға не сексен сағат мерзімге қоғамдық жұмыстарға тартуға алып келеді.
+[text-ru]
+1. Загрязнение мест общего пользования, парков, скверов, в том числе выброс коммунальных отходов в неустановленных местах, –
+влечет штраф в размере десяти месячных расчетных показателей либо привлечение к общественным работам на срок сорок часов.
+2. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере двадцати месячных расчетных показателей либо привлечение к общественным работам на срок восемьдесят часов.
+[text-en]
+1. Contamination of common areas, parks, squares, including the release of municipal waste in unidentified places, shall -
+entail a fine of ten monthly calculation indices or community service for a period of forty hours.
+2. Actions provided by part one of this Article, committed repeatedly second time within a year after imposition of an administrative sanction, shall -
+shall entail a fine of twenty monthly calculation indices or community service for a period of eighty hours.
+[explanation-kk]
+Көшені, саябақты, скверді ластау, қоқысты белгіленбеген жерге тастау — айыппұл немесе қоғамдық жұмыстар.
+[explanation-ru]
+Мусорить на улице, в парке или сквере, выбрасывать отходы в неположенном месте — штраф или общественные работы.
+[explanation-en]
+Littering in streets, parks or squares, or dumping waste in the wrong place, means a fine or community service.
+
+=== 434-3 | 2 | 25
+[title-kk]
+Қазақстан Республикасының қоғамдық орындарда бет-әлпетті тануға кедергі келтіретін киім-кешекті киіп жүру туралы заңнамасының талаптарын бұзу
+[title-ru]
+Нарушение требований законодательства Республики Казахстан о ношении в общественных местах предметов одежды, препятствующих распознаванию лица
+[title-en]
+Breach of the requirements of the legislation of the Republic of Kazakhstan regarding the wearing in public places of items of clothing that prevent the identification of a person
+[text-kk]
+1. Қазақстан Республикасы заңдарының талаптарын, қызметтік (лауазымдық, еңбек) міндеттерін орындау үшін, медициналық мақсаттарда, азаматтық қорғау үшін, ауа райы жағдайларында, сондай-ақ спорттық, спорттық-бұқаралық және мәдени-бұқаралық іс-шараларға тікелей қатысатын адамдарға қажет болатын жағдайларды қоспағанда, Қазақстан Республикасының қоғамдық орындарда бет-әлпетті тануға кедергі келтіретін киім-кешекті киіп жүру туралы заңнамасының талаптарын бұзу –
+ескерту жасауға алып келеді.
+2. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+он айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+[text-ru]
+1. Нарушение требований законодательства Республики Казахстан о ношении в общественных местах предметов одежды, препятствующих распознаванию лица, за исключением случаев, когда это необходимо для исполнения требований законов Республики Казахстан, служебных (должностных, трудовых) обязанностей, в медицинских целях, гражданской защиты, при погодных условиях, а также для лиц, принимающих непосредственное участие в спортивных, спортивно-массовых и культурно-массовых мероприятиях, –
+влечет предупреждение.
+2. Действие, предусмотренное частью первой настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, –
+влечет штраф в размере десяти месячных расчетных показателей.
+[text-en]
+1. Breach of the requirements of the legislation of the Republic of Kazakhstan regarding the wearing in public places of items of clothing that prevent facial recognition, unless this is necessary to meet the requirements of the laws of the Republic of Kazakhstan, official (professional, employment) duties, for medical purposes, civil defence, due to weather conditions, as well as for persons directly participating in sporting, mass sporting and mass cultural events shall result in a warning.
+2. Any act described in part one of this article, committed again within one year of the imposition of an administrative penalty shall result in a fine of ten monthly calculation indices.
+[explanation-kk]
+Қоғамдық орындарда бетті тануға кедергі келтіретін киім киюге болмайды. Ерекшеліктер бар: жұмыс, медицина, ауа райы, спорт және мәдени іс-шаралар. Алдымен — ескерту, қайталанса — айыппұл.
+[explanation-ru]
+В общественных местах нельзя носить одежду, которая мешает распознать лицо. Есть исключения: работа, медицина, погода, спорт и культурные мероприятия. Сначала — предупреждение, при повторе — штраф.
+[explanation-en]
+Clothing that prevents face recognition is banned in public places, with exceptions for work, medicine, weather, sports and cultural events. First a warning, then a fine if repeated.
+
+=== 435 | 2 | 25
+[title-kk]
+Кәмелетке толмаған адам жасаған бұзақылық
+[title-ru]
+Хулиганство, совершенное несовершеннолетним
+[title-en]
+Hooliganism committed by a minor
+[text-kk]
+Қазақстан Республикасы Қылмыстық кодексінің 293-бабының бірінші бөлігінде көзделген, он төрттен он алты жасқа дейінгі кәмелетке толмаған адам жасаған ұсақ бұзақылық немесе бұзақылық –
+ата-анасына немесе оларды алмастыратын адамдарға жеті айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+[text-ru]
+Мелкое хулиганство или хулиганство, предусмотренное частью первой статьи 293 Уголовного кодекса Республики Казахстан, совершенное несовершеннолетним в возрасте от четырнадцати до шестнадцати лет, –
+влечет штраф на родителей или лиц, их заменяющих, в размере семи месячных расчетных показателей.
+[text-en]
+Disorderly conduct or hooliganism provided by a part one of Article 293 of the Criminal Code of the Republic of Kazakhstan committed by a minor at the age from fourteen to sixteen, shall –
+entail a fine on parents or the persons substituting them in amount of seven monthly calculation indices.
+[explanation-kk]
+14–16 жастағы жасөспірім бұзақылық жасаса, айыппұлды оның ата-анасы төлейді.
+[explanation-ru]
+Если хулиганит подросток 14–16 лет, штраф платят его родители.
+[explanation-en]
+If a teenager aged 14–16 commits hooliganism, the parents pay the fine.
+
+=== 436 | 2 | 25
+[title-kk]
+Пиротехникалық бұйымдарды елді мекендерде қолдану
+[title-ru]
+Применение пиротехнических изделий в населенных пунктах
+[title-en]
+The use of pyrotechnic products in settlements
+[text-kk]
+1. Алып тасталды – ҚР 11.07.2022 № 137-VII (алғашқы ресми жарияланған күнінен кейін күнтізбелік алпыс күн өткен соң қолданысқа енгізіледі) Заңымен.
+2. Жеке тұлғалардың тыныштығын, белгіленген тәртіпті бұзатын және ірі материалдық залал келтіруге әкеп соқпаған, елді мекендерде және бұл үшін бөлінбеген орындарда пиротехникалық бұйымдарды қолдану –
+пиротехникалық бұйымдар тәркіленіп, жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+3. Осы баптың екінші бөлігінде көзделген, он алты жасқа дейінгі кәмелетке толмаған адам жасаған әрекет –
+пиротехникалық бұйымдар тәркіленіп, ата-анасына немесе оларды алмастыратын адамдарға ескерту жасауға немесе жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+4. Осы баптың екінші бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған, сол сияқты осы Кодекстің 437-бабында көзделген құқық бұзушылық үшін бір жыл ішінде әкімшілік жауаптылыққа тартылған адам жасаған әрекет –
+пиротехникалық бұйымдар тәркіленіп, отыз айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+[text-ru]
+1. Исключена Законом РК от 11.07.2022 № 137-VII (вводится в действие по истечении шестидесяти календарных дней после дня его первого официального опубликования).
+2. Применение пиротехнических изделий в населенных пунктах и в не отведенных для этого местах, нарушающее покой физических лиц, установленный порядок и не повлекшее причинение крупного материального ущерба, –
+влечет штраф в размере двадцати месячных расчетных показателей с конфискацией пиротехнических изделий.
+3. Действие, предусмотренное частью второй настоящей статьи, совершенное несовершеннолетним в возрасте до шестнадцати лет, –
+влечет предупреждение или штраф на родителей или лиц, их заменяющих, в размере двадцати месячных расчетных показателей с конфискацией пиротехнических изделий.
+4. Действие, предусмотренное частью второй настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, а равно лицом, привлекавшимся в течение года к административной ответственности за правонарушение, предусмотренное статьей 437 настоящего Кодекса, –
+влечет штраф в размере тридцати месячных расчетных показателей с конфискацией пиротехнических изделий.
+[text-en]
+1. Excluded by the Law of the Republic of Kazakhstan dated 11.07.2022 № 137-VII (shall be enforced sixty calendar days after the date of its first official publication).
+2. Use of pyrotechnic products in inhabited localities and in places not designated for this purpose, violating the peace of individuals, the established order and not causing major material damage, shall –
+entail a fine in amount of twenty monthly calculation indices with confiscation of pyrotechnic products.
+3. An action provided for in part two of this Article committed by a minor under the age of sixteen, –
+entails a warning or a fine for parents or persons replacing them in the amount of twenty monthly calculation indices with confiscation of pyrotechnic products.
+4. The action provided for in part two of this Article, committed repeatedly within a year after the imposition of an administrative penalty, as well as by a person who was brought to administrative responsibility for an offense provided for in Article 437 of this Code during the year,
+entails a fine in the amount of thirty monthly calculation indices with confiscation of pyrotechnic products.
+[explanation-kk]
+Елді мекенде рұқсат етілмеген жерде пиротехника (салют, петарда) қолдану — айыппұл және пиротехниканы тәркілеу. Бала жасаса — ата-анасына ескерту немесе айыппұл.
+[explanation-ru]
+Запускать салют и петарды в населённом пункте в неположенном месте нельзя — штраф и конфискация пиротехники. Если это сделал ребёнок — предупреждение или штраф родителям.
+[explanation-en]
+Using fireworks or firecrackers in town outside designated places means a fine and confiscation. If a child does it, the parents get a warning or a fine.
+
+=== 440 | 2 | 25
+[title-kk]
+Алкогольдік ішімдіктерді ішу немесе қоғамдық орындарға масаң күйде келу
+[title-ru]
+Распитие алкогольных напитков или появление в общественных местах в состоянии опьянения
+[title-en]
+Drinking alcoholic beverages or appearance in public places in a state of intoxication
+[text-kk]
+1. Жергілікті атқарушы орган алкогольдік ішімдіктерді құйып сатуға рұқсат еткен сауда және қоғамдық тамақтандыру ұйымдарынан басқа, көшелерде және басқа да қоғамдық орындарда алкогольдік ішімдіктерді ішу немесе қоғамдық орындарға адамның қадір-қасиетін және қоғамдық имандылықты қорлайтын масаң күйде келу –
+бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+2. Он сегіз жасқа толмаған адамдардың қоғамдық орындарға масаң күйде келуі, сол сияқты олардың алкогольдік ішімдіктерді ішуі –
+ата-анасына немесе оларды алмастыратын адамдарға бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+3. Осы баптың бірінші және екінші бөліктерінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасаған әрекеттер –
+он айлық есептік көрсеткіш мөлшерінде айыппұл салуға немесе жиырма сағатқа дейінгі мерзімге қоғамдық жұмыстарға тартуға не бес тәулікке дейінгі мерзімге әкімшілік қамаққа алуға алып келеді.
+[text-ru]
+1. Распитие алкогольных напитков на улицах и в других общественных местах, кроме организаций торговли и общественного питания, в которых продажа алкогольных напитков на разлив разрешена местным исполнительным органом, или появление в общественных местах в состоянии опьянения, оскорбляющем человеческое достоинство и общественную нравственность, –
+влечет штраф в размере пяти месячных расчетных показателей.
+2. Появление в общественных местах в состоянии опьянения лиц, не достигших восемнадцати лет, а равно распитие ими алкогольных напитков –
+влекут штраф на родителей или лиц, их заменяющих, в размере пяти месячных расчетных показателей.
+3. Действия, предусмотренные частями первой и второй настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере десяти месячных расчетных показателей либо административный арест на срок до пяти суток или привлечение к общественным работам на срок до двадцати часов.
+[text-en]
+1. Drinking alcoholic beverages in the streets and in other public places, except for trade and public catering organizations, in which the sale of alcoholic beverages on tap shall be permitted by the local executive authority, or appearance in public places in a state of intoxication that offends human dignity and public morality, shall –
+entail a fine in the amount of five monthly calculation indices.
+2. Appearance in public places in a state of intoxication of persons under eighteen years of age, as well as their drinking of alcoholic beverages, shall –
+entail a fine for parents or persons replacing them, in amount of five monthly calculation indices.
+3. Actions provided by parts one and two of this Article, committed repeatedly second time within a year after imposition of an administrative sanction, shall -
+shall entail a fine in the amount of ten monthly calculation indices or administrative detention for up to five days or community service for up to twenty hours.
+[explanation-kk]
+Көшеде және басқа қоғамдық орындарда (рұқсаты бар кафе-барлардан басқа) ішімдік ішуге немесе масаң күйде жүруге болмайды — айыппұл. 18-ге толмағандар үшін айыппұлды ата-анасы төлейді. Қайталанса — айыппұл, қамау немесе қоғамдық жұмыстар.
+[explanation-ru]
+Пить алкоголь на улице и в других общественных местах (кроме кафе и баров с разрешением) или появляться там пьяным нельзя — штраф. За несовершеннолетних штраф платят родители. При повторе — штраф, арест или общественные работы.
+[explanation-en]
+Drinking alcohol in streets and other public places (except licensed cafés and bars) or appearing drunk there is fined. Parents pay for minors. Repeat offences mean a fine, arrest or community service.
+
+=== 592 | 2 | 30
+[title-kk]
+Белгіленген жүру жылдамдығын арттыру
+[title-ru]
+Превышение установленной скорости движения
+[title-en]
+Excess of the established speed of the movement
+[text-kk]
+1. Көлік құралының белгіленген жүру жылдамдығын сағатына оннан жиырма километрге дейінгі шамаға арттыру –
+бес айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+2. Көлік құралының белгіленген жүру жылдамдығын сағатына жиырмадан қырық километрге дейінгі шамаға арттыру –
+он айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+3. Көлік құралының белгіленген жүру жылдамдығын сағатына қырықтан алпыс километрге дейінгі шамаға арттыру –
+жиырма айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+3-1. Көлік құралының белгіленген жүру жылдамдығын сағатына алпыс және одан көп километрден астам шамаға арттыру –
+қырық айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+4. Осы баптың екінші және үшінші бөліктерінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекеттер –
+отыз айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады
+5. Осы баптың 3-1-бөлігінде көзделген, әкімшілік жаза қолданылғаннан кейін бір жыл ішінде қайталап жасалған әрекет –
+алпыс айлық есептік көрсеткіш мөлшерінде айыппұл салуға алып келеді.
+[text-ru]
+1. Превышение установленной скорости движения транспортного средства на величину от десяти до двадцати километров в час –
+влечет штраф в размере пяти месячных расчетных показателей.
+2. Превышение установленной скорости движения транспортного средства на величину от двадцати до сорока километров в час –
+влечет штраф в размере десяти месячных расчетных показателей.
+3. Превышение установленной скорости движения транспортного средства на величину от сорока до шестидесяти километров в час –
+влечет штраф в размере двадцати месячных расчетных показателей.
+3-1. Превышение установленной скорости движения транспортного средства на величину от шестидесяти и более километров в час –
+влечет штраф в размере сорока месячных расчетных показателей.
+4. Действия, предусмотренные частями второй и третьей настоящей статьи, совершенные повторно в течение года после наложения административного взыскания, –
+влекут штраф в размере тридцати месячных расчетных показателей.
+5. Действие, предусмотренное частью 3-1 настоящей статьи, совершенное повторно в течение года после наложения административного взыскания, –
+влечет штраф в размере шестидесяти месячных расчетных показателей.
+[text-en]
+1. Excess of the established speed of the movement of the vehicle at a size from ten to twenty kilometers per hour –
+subject to fine a rate of five monthly settlement indicators.
+2. Exceeding of established driving speed of the transport vehicle in a range from twenty to forty kilometres per hour, shall –
+subject to fine a rate of ten monthly settlement indicators.
+3. Exceeding the established speed limit of a vehicle by forty to sixty kilometers per hour —
+subject to fine a rate of twenty monthly settlement indicators.
+3-1. Exceeding the established speed limit of a vehicle by sixty or more kilometers per hour —
+shall entail a fine in the amount of forty monthly calculation indices.
+4. The actions provided by parts of the second and third present article perfect repeatedly within a year after imposing of an administrative penalty, –
+subject to fine a rate of thirty monthly settlement indicators.
+5. The action provided for in part 3-1 of this Article, committed repeatedly within a year after the imposition of an administrative penalty —
+shall entail a fine in the amount of sixty monthly calculation indices.
+[explanation-kk]
+Жылдамдықты асырғаны үшін айыппұл асырылған шамаға байланысты: 10–20 км/сағ — 5 АЕК, 20–40 — 10 АЕК, 40–60 — 20 АЕК, 60-тан жоғары — 40 АЕК. Бір жылда қайталанса — айыппұл көбейеді.
+[explanation-ru]
+Штраф за превышение скорости зависит от того, насколько превысили: на 10–20 км/ч — 5 МРП, на 20–40 — 10 МРП, на 40–60 — 20 МРП, на 60 и больше — 40 МРП. Если повторить в течение года — штраф больше.
+[explanation-en]
+The speeding fine depends on how far over the limit you were: 10–20 km/h — 5 MCI, 20–40 — 10 MCI, 40–60 — 20 MCI, 60+ — 40 MCI. Repeating it within a year means a bigger fine.
+
+=== 608 | 2 | 30
+[title-kk]
+Жүргізушінің көлік құралын алкогольдік, есірткілік және (немесе) уытқұмарлық масаң күйде басқаруы, сол сияқты көлік құралын алкогольдік, есірткілік және (немесе) уытқұмарлық масаң күйдегі адамның басқаруына беру
+[title-ru]
+Управление транспортным средством водителем, находящимся в состоянии алкогольного, наркотического и (или) токсикоманического опьянения, а равно передача управления транспортным средством лицу, находящемуся в состоянии алкогольного, наркотического и (или) токсикоманического опьянения
+[title-en]
+Operation of a transport vehicle by the driver being in a state of alcohol, narcotic and (or) substance abuse intoxication, and equally transfer of operation of the transport vehicle to the person being in a state of alcohol, narcotic and (or) substance abuse intoxication
+[text-kk]
+1. Жүргізушінің көлік құралын алкогольдік, есірткілік және (немесе) уытқұмарлық масаң күйде басқаруы, сол сияқты көлік құралын алкогольдік, есірткілік және (немесе) уытқұмарлық масаң күйдегі адамның басқаруына беру –
+он бес тәулікке әкімшілік қамаққа алуға және жеті жыл мерзімге көлік құралын басқару құқығынан айыруға алып келеді.
+ҚР Конституциялық Сотының 27.10.2023 № 34-НҚ нормативтік қаулысымен Қазақстан Республикасы Әкімшілік құқық бұзушылық туралы кодексінің 608-бабының бірінші бөлігі Қазақстан Республикасының Конституциясына сәйкес келеді деп танылсын..
+2. Алып тасталды - ҚР 27.12.2019 № 292-VI (қолданысқа енгізілу тәртібін 2-баптан қараңыз) Заңымен.
+3. Осы баптың бірінші бөлігінде көзделген, жәбірленушінің денсаулығына қылмыстық жазаланатын іс-әрекет белгілері жоқ зиян келтіруге немесе көлік құралдарын, жүктерді, жол құрылыстары мен өзге де құрылыстарды не өзге мүлікті бүлдіруге әкеп соққан әрекеттер –
+жиырма тәулікке әкімшілік қамаққа алуға және жеті жыл мерзімге көлік құралын басқару құқығынан айыруға алып келеді.
+3-1. Осы баптың бірінші бөлігінде көзделген, әкімшілік жаза мерзімі өткеннен кейін бір жыл ішінде қайталап жасалған әрекеттер –
+жиырма тәулікке әкімшілік қамаққа алуға және сегіз жыл мерзімге көлік құралын басқару құқығынан айыруға алып келеді.
+3-2. Осы баптың үшінші бөлігінде көзделген, әкімшілік жаза мерзімі өткеннен кейін бір жыл ішінде қайталап жасалған әрекеттер –
+жиырма бес тәулікке әкімшілік қамаққа алуға және тоғыз жыл мерзімге көлік құралын басқару құқығынан айыруға алып келеді.
+4. Алып тасталды - ҚР 27.12.2019 № 292-VI (қолданысқа енгізілу тәртібін 2-баптан қараңыз) Заңымен.
+5. Алып тасталды - ҚР 27.12.2019 № 292-VI (қолданысқа енгізілу тәртібін 2-баптан қараңыз) Заңымен.
+6. Осы баптың бірінші және үшінші бөліктерінде көзделген, көлік құралдарын басқару құқығы жоқ адамдар жасаған әрекеттер –
+жиырма тәулікке әкімшілік қамаққа алуға әкеп соғады.
+7. Осы баптың алтыншы бөлігінде көзделген әкімшілік жаза мерзімі өткеннен кейін бір жыл ішінде қайталап жасалған, осы баптың алтыншы бөлігінде көзделген әрекеттер –
+отыз тәулікке әкімшілік қамаққа алуға әкеп соғады.
+8. Осы баптың алтыншы және жетінші бөліктерінде көзделген, осы Кодекстің 50-бабының екінші бөлігіне сәйкес әкімшілік қамаққа алу қолданылмайтын адамдар жасаған әрекеттер –
+екі жүз айлық есептік көрсеткіш мөлшерінде айыппұл салуға әкеп соғады.
+[text-ru]
+1. Управление транспортным средством водителем, находящимся в состоянии алкогольного, наркотического и (или) токсикоманического опьянения, а равно передача управления транспортным средством лицу, находящемуся в состоянии алкогольного, наркотического и (или) токсикоманического опьянения, –
+влекут административный арест на пятнадцать суток и лишение права управления транспортным средством сроком на семь лет.
+Нормативным постановлением Конституционного Суда РК от 27.10.2023 № 34-НП часть первая статьи 608 настоящего Кодекса РК признана соответствующей Конституции Республики Казахстан.
+2. Исключен Законом РК от 27.12.2019 № 292-VІ (порядок введения в действие см. ст. 2).
+3. Действия, предусмотренные частью первой настоящей статьи, повлекшие причинение потерпевшему вреда здоровью, не имеющие признаков уголовно наказуемого деяния, или повреждение транспортных средств, грузов, дорожных и иных сооружений либо иного имущества, –
+влекут административный арест на двадцать суток и лишение права управления транспортным средством сроком на семь лет.
+3-1. Действия, предусмотренные частью первой настоящей статьи, совершенные повторно в течение года после истечения срока административного взыскания, –
+влекут административный арест на двадцать суток и лишение права управления транспортным средством сроком на восемь лет.
+3-2. Действия, предусмотренные частью третьей настоящей статьи, совершенные повторно в течение года после истечения срока административного взыскания, –
+влекут административный арест на двадцать пять суток и лишение права управления транспортным средством сроком на девять лет.
+4. Исключен Законом РК от 27.12.2019 № 292-VІ (порядок введения в действие см. ст. 2).
+5. Исключен Законом РК от 27.12.2019 № 292-VІ (порядок введения в действие см. ст. 2).
+6. Действия, предусмотренные частями первой и третьей настоящей статьи, совершенные лицами, не имеющими права управления транспортными средствами, –
+влекут административный арест на двадцать суток.
+7. Действия, предусмотренные частью шестой настоящей статьи, совершенные повторно в течение года после истечения срока административного взыскания, предусмотренного частью шестой настоящей статьи, –
+влекут административный арест на тридцать суток.
+8. Действия, предусмотренные частями шестой и седьмой настоящей статьи, совершенные лицами, к которым административный арест в соответствии с частью второй статьи 50 настоящего Кодекса не применяется, –
+влекут штраф в размере двухсот месячных расчетных показателей.
+[text-en]
+1. Operation of a transport vehicle by the driver being in a state of alcohol, narcotic and (or) substance abuse intoxication, and equally transfer of operation of the transport vehicle to the person being in a state of alcohol, narcotic and (or) substance abuse intoxication, shall –
+entail the administrative arrest for fifteen days and deprivation of the right of operation of vehicle for the term of seven years.
+2. Excluded by the Law of the Republic of Kazakhstan dated 27.12.2019 № 292-VІ (order of enforcement see Article 2).
+3. The actions provided by a part one of this Article that entailed infliction of harm to health to an injured party that do not have the signs of a criminally punishable act, or damage of the transport vehicles, cargo, road and other structures or another property, shall –
+entail the administrative arrest for a term of twenty days and deprivation of the right of operation of vehicles for the term up to seven years.
+3-1. Actions provided by part one of this Article committed repeatedly second time within a year after expiration of the term of the administrative sanction, shall –
+entail the administrative arrest for a term of twenty days and deprivation of the right of operation of vehicles for the term up to eight years.
+3-2. Actions provided by part three of this Article committed repeatedly second time within a year after expiration of the term of the administrative sanction, shall –
+entail the administrative arrest for a term of twenty days and deprivation of the right of operation of vehicles for the term up to nine years.
+4. Excluded by the Law of the Republic of Kazakhstan dated 27.12.2019 № 292-VІ (order of enforcement see Article 2).
+5. Excluded by the Law of the Republic of Kazakhstan dated 27.12.2019 № 292-VІ (order of enforcement see Article 2).
+6. Actions envisaged in parts one and three of this article, committed by persons who do not have the right to drive motor vehicles,
+shall entail administrative arrest for twenty days.
+7. The actions provided by a part six of this Article committed repeatedly second time within a year after expiration of the term of the administrative sanction provided by a part six of this Article, shall –
+entail the administrative arrest for the term up to thirty days.
+8. The actions provided by parts six and seven of this Article committed by the persons to which the administrative arrest in accordance with a part two of Article 50 of this Code is not applied, shall –
+entail a fine in amount of two hundred monthly calculation indices.
+[explanation-kk]
+Мас күйде көлік жүргізу немесе мас адамға рульді беру — 15 тәулік қамау және 7 жылға жүргізу куәлігінен айыру. Біреуге зиян келсе немесе қайталанса — жаза одан да ауыр (9 жылға дейін айыру). Куәлігі жоқ адамға — 20–30 тәулік қамау.
+[explanation-ru]
+Езда в нетрезвом виде или передача руля пьяному — арест на 15 суток и лишение прав на 7 лет. Если причинён вред или это повторилось — ещё строже (лишение до 9 лет). Если прав нет вовсе — арест на 20–30 суток.
+[explanation-en]
+Drunk driving or handing the wheel to a drunk person means 15 days’ arrest and losing your licence for 7 years. If someone is harmed or it is repeated, it is harsher (up to 9 years). Without a licence at all — 20 to 30 days’ arrest.

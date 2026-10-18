@@ -1,0 +1,308 @@
+# Гражданский кодекс Республики Казахстан (Общая часть) от 27 декабря 1994 года (выборочные статьи)
+# Источник: https://adilet.zan.kz/rus/docs/K940001000_
+# Тексты статей скопированы с официального сайта без изменений (сноски и пометки об изменениях убраны).
+# Объяснения (explanation) — простые пояснения, не официальная юридическая консультация.
+# Строка «=== статья | раздел[:подраздел] | глава | параграф».
+
+=== 9 | 1 | 1
+[title-kk]
+Азаматтық құқықтарды қорғау
+[title-ru]
+Защита гражданских прав
+[title-en]
+Protection of Civil Rights
+[text-kk]
+1. Азаматтық құқықтарды қорғауды сот, төрелік: құқықтарды тану; құқық бұзылғанға дейін болған жағдайды қалпына келтіру; құқықты бұзатын немесе оның бұзылу қаупін туғызатын әрекеттердің жолын кесу; міндетті заттай орындатуға ұйғарым шығару; залалдарды, тұрақсыздық айыбын өндіріп алу; дау айтылатын мәмілені жарамсыз деп тану және оның жарамсыздығы салдарын қолдану, маңызсыз мәміленің жарамсыздығы салдарын қолдану; моральдық зиянның өтемін төлету; құқықтық қатынастарды тоқтату немесе өзгерту; мемлекеттік басқару органының немесе жергілікті өкілді не атқарушы органның Қазақстан Республикасының заңнамасына сәйкес келмейтін актісін жарамсыз немесе қолдануға жатпайды деп тану; азаматқа немесе заңды тұлғаға құқықты иеленуіне немесе жүзеге асыруына кедергі келтіргені үшін мемлекеттік басқару органынан немесе лауазымды адамнан айыппұл өндіріп алу арқылы, сондай-ақ Қазақстан Республикасының заңдарында көзделген өзге де тәсілдермен жүзеге асырады.
+Заңды тұлғалардың моральдық зиянды өтетуге құқығы жоқ.
+Қазақстан Республикасының тұтынушылардың құқықтарын қорғау туралы заңнамасында көзделген тұтынушының құқықтары мен заңды мүдделерінің бұзылуы салдарынан оған келтірілген моральдық зиянды өтеу арқылы азаматтық құқықтарды қорғауды тұтынушылық дауларды сотқа дейінгі реттеу субъектілері жүзеге асыра алады.
+2. Бұзылған құқықты қорғау үшін өкімет билігі немесе басқару органына өтініш жасау, егер заңдарда өзгеше көзделмесе, құқық қорғау туралы талап қойып сотқа жолдануға кедергі жасамайды.
+3. Заңдарда арнайы көзделген реттерде азаматтық құқықтарды қорғау құқығы бұзылған адамның тікелей іс жүзіндегі немесе заңдық әрекеттерімен жүзеге асырылуы мүмкін (өзін-өзі қорғау).
+4. Құқығы бұзылған адам, егер заңдарда немесе шартта өзгеше көзделмесе, өзіне келтірілген залалдың толық өтелуін талап ете алады.
+Құқығы бұзылған адам жасаған немесе жасауға тиісті шығыстар, оның мүлкінің жоғалуы немесе зақымдануы (нақты нұқсан), сондай-ақ сол адамның құқығы бұзылмаған болса, дағдылы айналым жағдайында оның алуына болатын, бірақ алынбай қалған табыстары (айрылып қалған пайда) залалдар деп түсініледі.
+5. Мемлекеттік өкімет билігі органының, өзге де мемлекеттік органның заңдарға сай келмейтін құжат шығаруы, сондай-ақ осы органдардың лауазымды адамдарының әрекеті (әрекетсіздігі) салдарынан азаматқа немесе заңды тұлғаға келтірілген залалды Қазақстан Республикасы немесе тиісінше әкімшілік-аумақтық бөлініс өтеуге тиіс.
+6. Егер тәртіп бұзудың құқықтық салдарының пайда болуы тәртіп бұзушының кінәсіне байланысты болса, заңдарда өзгеше көзделгеннен басқа жағдайларда, ол кінәлі деп ұйғарылады.
+[text-ru]
+1. Защита гражданских прав осуществляется судом, арбитражем путем: признания прав; восстановления положения, существовавшего до нарушения права; пресечения действий, нарушающих право или создающих угрозу его нарушения; присуждения к исполнению обязанности в натуре; взыскания убытков, неустойки; признания оспоримой сделки недействительной и применения последствий ее недействительности, применения последствий недействительности ничтожной сделки; компенсации морального вреда; прекращения или изменения правоотношений; признания недействительным или не подлежащим применению не соответствующего законодательству Республики Казахстан акта органа государственного управления или местного представительного либо исполнительного органа; взыскания штрафа с государственного органа или должностного лица за воспрепятствование гражданину или юридическому лицу в приобретении или осуществлении права, а также иными способами, предусмотренными законами Республики Казахстан.
+Юридические лица правом на возмещение морального вреда не обладают.
+Защита гражданских прав путем компенсации морального вреда, причиненного потребителю вследствие нарушения его прав и законных интересов, предусмотренных законодательством Республики Казахстан о защите прав потребителей, может осуществляться субъектами досудебного урегулирования потребительских споров.
+2. Обращение за защитой нарушенного права к органу власти или управления не препятствует обращению в суд с иском о защите права, если законами не предусмотрено иное.
+3. В случаях, специально предусмотренных законами, защита гражданских прав может осуществляться непосредственными фактическими или юридическими действиями лица, право которого нарушено (самозащита).
+4. Лицо, право которого нарушено, может требовать полного возмещения причиненных ему убытков, если законами или договором не предусмотрено иное.
+Под убытками подразумеваются расходы, которые произведены или должны быть произведены лицом, право которого нарушено, утрата или повреждение его имущества (реальный ущерб), а также неполученные доходы, которые это лицо получило бы при обычных условиях оборота, если бы его право не было нарушено (упущенная выгода).
+5. Убытки, причиненные гражданину или юридическому лицу в результате издания не соответствующего законодательству акта органа государственной власти, иного государственного органа, а также действиями (бездействием) должностных лиц этих органов, подлежат возмещению Республикой Казахстан или соответственно административно-территориальной единицей.
+6. Если наступление правовых последствий нарушения зависит от виновности нарушителя, предполагается его виновность кроме случаев, когда законами предусмотрено иное.
+[text-en]
+1. Protection of civil rights shall be carried out by a court or arbitration by: recognition of rights; restoration of the situation existing before the violation of the right; suppression of actions violating the right or creating a threat of its violation; awarding performance of an obligation in kind; recovery of damages or penalty; recognition of a contestable transaction as invalid and application of the consequences of its invalidity; application of the consequences of invalidity of a void transaction; compensation for moral harm; termination or modification of legal relations; recognition of an act of a public administration body or a local representative or executive body that does not comply with the legislation of the Republic of Kazakhstan as invalid or not subject to application; recovery of a fine from a state body or official for obstructing a citizen or legal entity in acquiring or exercising a right, as well as by other methods provided for by the laws of the Republic of Kazakhstan.
+Legal entities do not possess the right to compensation for moral harm.
+Protection of civil rights by way of compensation for moral harm caused to a consumer as a result of violation of his/her rights and legitimate interests provided for by the legislation of the Republic of Kazakhstan on protection of consumer rights may be carried out by subjects of pre-trial settlement of consumer disputes.
+2. Application for protection of a violated right to an authority or administration body shall not prevent application to a court with a claim for protection of the right, unless otherwise provided by laws.
+3. In cases specially provided for by laws, protection of civil rights may be carried out by direct factual or legal actions of the person whose right has been violated (self-defense).
+4. A person whose right has been violated may demand full compensation for damages caused to him/her, unless otherwise provided by laws or a contract.
+Damages mean expenses that have been incurred or must be incurred by the person whose right has been violated, loss or damage to his/her property (actual damage), as well as lost income that this person would have received under ordinary conditions of turnover if his/her right had not been violated (lost profit).
+5. Damages caused to a citizen or legal entity as a result of the issuance of an act of a state authority or other state body that does not comply with legislation, as well as by actions (inaction) of officials of these bodies, shall be subject to compensation by the Republic of Kazakhstan or, respectively, by an administrative-territorial unit.
+6. If the occurrence of legal consequences of a violation depends on the guilt of the violator, his/her guilt shall be presumed unless otherwise provided by laws.
+[explanation-kk]
+Құқығыңыз бұзылса, сотқа жүгіне аласыз. Сот құқығыңызды тани алады, бұрынғы жағдайды қалпына келтіре алады, залалды (нақты шығын және алынбай қалған пайда), тұрақсыздық айыбын және моральдық зиянды өндіре алады. Мемлекеттік органның заңсыз әрекетінен келген залалды мемлекет өтейді.
+[explanation-ru]
+Если ваше право нарушено, можно обратиться в суд. Суд может признать право, восстановить прежнее положение, взыскать убытки (реальный ущерб и упущенную выгоду), неустойку и моральный вред. Убытки от незаконных действий госорганов возмещает государство.
+[explanation-en]
+If your right is violated, you can go to court. The court can recognise the right, restore the previous situation, and award damages (actual loss and lost profit), a penalty and moral harm. Losses caused by unlawful acts of state bodies are compensated by the state.
+
+=== 17 | 1 | 2 | 1
+[title-kk]
+Азаматтардың әрекет қабілеттілігі
+[title-ru]
+Дееспособность граждан
+[title-en]
+Capacity of Citizens
+[text-kk]
+1. Азаматтың өз әрекеттерімен азаматтық құқықтарға ие болуға және оны жүзеге асыруға, өзі үшін азаматтық міндеттер жасап, оларды орындауға қабілеттілігі (азаматтық әрекет қабілеттілігі) кәмелетке толғанда, яғни он сегіз жасқа толғаннан кейін толық көлемінде пайда болады.
+2. Заңдарда он сегіз жасқа жеткенге дейін некелесуге рұқсат етілетін жағдайда, он сегіз жасқа толмаған азамат некеге тұрған кезден бастап толық көлемінде әрекет қабілеттілігіне ие болады.
+3. Егер заңдарда өзгеше белгіленбесе, барлық азаматтардың әрекет қабілеттілігі тең болады.
+[text-ru]
+1. Способность гражданина своими действиями приобретать и осуществлять гражданские права, создавать для себя гражданские обязанности и исполнять их (гражданская дееспособность) возникает в полном объеме с наступлением совершеннолетия, то есть по достижении восемнадцатилетнего возраста.
+2. В случае, когда законами допускается вступление в брак до достижения восемнадцати лет, гражданин, не достигший восемнадцатилетнего возраста, приобретает дееспособность в полном объеме со времени вступления в брак.
+3. Все граждане имеют равную дееспособность, если иное не установлено законами.
+[text-en]
+1. The ability of a citizen by his/her actions to acquire and exercise civil rights, create civil obligations for himself/herself and perform them (civil capacity) arises in full upon attainment of majority, that is, upon attainment of eighteen years of age.
+2. In cases where laws permit marriage before attainment of eighteen years of age, a citizen who has not attained eighteen years of age acquires full capacity from the time of marriage.
+3. All citizens have equal capacity unless otherwise established by laws.
+[explanation-kk]
+Толық әрекет қабілеттілігі — өз әрекетіңмен құқық алу және міндет атқару қабілеті — 18 жастан басталады. 18-ге толмай некеге тұрса, неке қиылған сәттен бастап толық әрекетке қабілетті болады.
+[explanation-ru]
+Полная дееспособность — способность своими действиями приобретать права и нести обязанности — наступает с 18 лет. Если человек вступил в брак до 18 лет, он становится полностью дееспособным с момента брака.
+[explanation-en]
+Full legal capacity — the ability to acquire rights and take on obligations by your own actions — starts at 18. Someone who marries before 18 becomes fully capable from the moment of marriage.
+
+=== 22 | 1 | 2 | 1
+[title-kk]
+Он төрт жастан он сегіз жасқа дейінгі кәмелетке толмағандардың әрекет қабілеттілігі
+[title-ru]
+Дееспособность несовершеннолетних в возрасте от четырнадцати до восемнадцати лет
+[title-en]
+Capacity of Minors Aged Fourteen to Eighteen
+[text-kk]
+1. Он төрт жастан он сегіз жасқа дейінгі кәмелетке толмағандар мәмілелерді олардың заңды өкілдерінің келісімімен жасайды. Мұндай келісімнің нысаны заңдарда кәмелетке толмағандар жасайтын мәміле үшін белгіленген нысанға сай келуге тиіс.
+2. Он төрт жастан он сегіз жасқа дейінгі кәмелетке толмағандар өздерінің табысына, стипендиясына, өзге де кірістеріне және өздері жасаған интеллектуалдық меншік құқығы объектілеріне өз бетінше билік етуге, сондай-ақ тұрмыстық ұсақ мәмілелер жасасуға құқылы.
+3. Жеткілікті негіздер болған жағдайда сот кәмелетке толмаған адамның өз табысына, стипендиясына, өзге де кірістеріне және өзі жасаған интеллектуалдық меншік құқығы объектілеріне өз бетінше билік ету құқығын шектеуі немесе ол құқықтан айыруы мүмкін.
+4. Он төрт жастан он сегіз жасқа дейінгі кәмелетке толмағандар осы баптың ережелеріне сәйкес өздері жасаған мәмілелер бойынша дербес жауапты болады және өздерінің әрекеттерінен келтірілген зиян үшін осы Кодекстің ережелері бойынша жауап береді.
+[text-ru]
+1. Несовершеннолетние в возрасте от четырнадцати до восемнадцати лет совершают сделки с согласия их законных представителей. Форма такого согласия должна соответствовать форме, которая установлена законодательством для сделки, совершаемой несовершеннолетним.
+2. Несовершеннолетние в возрасте от четырнадцати до восемнадцати лет вправе самостоятельно распоряжаться своим заработком, стипендией, иными доходами и созданными ими объектами права интеллектуальной собственности, а также совершать мелкие бытовые сделки.
+3. При наличии достаточных оснований суд может ограничить или лишить несовершеннолетнего права самостоятельного распоряжения своим заработком, стипендией, иными доходами и созданными им объектами права интеллектуальной собственности.
+4. Несовершеннолетние в возрасте от четырнадцати до восемнадцати лет самостоятельно несут ответственность по сделкам, совершенным ими в соответствии с правилами настоящей статьи, и несут ответственность за вред, причиненный их действиями, по правилам настоящего Кодекса.
+[text-en]
+1. Minors aged fourteen to eighteen shall conclude transactions with the consent of their legal representatives. The form of such consent must correspond to the form established by legislation for the transaction concluded by the minor.
+2. Minors aged fourteen to eighteen have the right to independently dispose of their earnings, scholarship, other income and objects of intellectual property rights created by them, as well as to conclude small household transactions.
+3. If there are sufficient grounds, a court may restrict or deprive a minor of the right to independently dispose of his/her earnings, scholarship, other income and objects of intellectual property rights created by him/her.
+4. Minors aged fourteen to eighteen shall independently bear liability for transactions concluded by them in accordance with the rules of this Article and shall bear liability for harm caused by their actions according to the rules of this Code.
+[explanation-kk]
+14–18 жастағы жасөспірім мәмілелерді ата-анасының (заңды өкілінің) келісімімен жасайды. Бірақ өз жалақысын, стипендиясын және басқа табысын өзі жұмсай алады және ұсақ тұрмыстық сатып алулар жасай алады. Өзі келтірген зиян үшін өзі жауап береді.
+[explanation-ru]
+Подростки 14–18 лет совершают сделки с согласия родителей (законных представителей). Но своей зарплатой, стипендией и другими доходами распоряжаются сами и могут совершать мелкие бытовые покупки. За причинённый вред отвечают сами.
+[explanation-en]
+Teenagers aged 14–18 make transactions with their parents’ (legal representatives’) consent. But they may spend their own wages, scholarship and other income themselves and make small everyday purchases. They are liable for harm they cause.
+
+=== 22-1 | 1 | 2 | 1
+[title-kk]
+Кәмелетке толмаған адамды толығымен әрекетке қабілетті деп жариялау (эмансипация)
+[title-ru]
+Объявление несовершеннолетнего полностью дееспособным (эмансипация)
+[title-en]
+Declaration of a Minor as Fully Capable (Emancipation)
+[text-kk]
+1. Жасы он алтыға жеткен кәмелетке толмаған адам, егер ол еңбек шарты бойынша жұмыс істейтін болса немесе оның заңды өкілдерінің келісімімен кәсіпкерлік қызметпен айналысатын болса, толығымен әрекетке қабілетті деп жариялануы мүмкін.
+2. Кәмелетке толмаған адамды толығымен әрекетке қабілетті деп жариялау (эмансипация) оның заңды өкілдерінің келісімімен қорғаншы және қамқоршы органның шешімі бойынша не ондай келісім болмаған жағдайда соттың шешімі бойынша жүргізіледі.
+3. Эмансипацияланған кәмелетке толмаған адам, Қазақстан Республикасының заңдарына сәйкес ие болу үшін жас шектеуі белгіленген құқықтар мен міндеттерді қоспағанда, азаматтық құқықтарға ие болады және міндеттерді (оның ішінде өзінің зиян келтіруі салдарынан туындаған міндеттемелер бойынша) мойнына алады.
+Заңды өкілдер эмансипацияланған кәмелетке толмаған адамның міндеттемелері бойынша жауапты болмайды.
+[text-ru]
+1. Несовершеннолетний, достигший шестнадцати лет, может быть объявлен полностью дееспособным, если он работает по трудовому договору или с согласия его законных представителей занимается предпринимательской деятельностью.
+2. Объявление несовершеннолетнего полностью дееспособным (эмансипация) производится по решению органа опеки и попечительства с согласия его законных представителей либо при отсутствии такого согласия по решению суда.
+3. Эмансипированный несовершеннолетний обладает гражданскими правами и несет обязанности (в том числе по обязательствам, возникшим вследствие причинения им вреда), за исключением тех прав и обязанностей, для приобретения которых законами Республики Казахстан установлен возрастной ценз.
+Законные представители не несут ответственности по обязательствам эмансипированного несовершеннолетнего.
+[text-en]
+1. A minor who has attained sixteen years of age may be declared fully capable if he/she works under an employment contract or, with the consent of his/her legal representatives, engages in entrepreneurial activity.
+2. Declaration of a minor as fully capable (emancipation) shall be made by decision of the guardianship and custodianship authority with the consent of his/her legal representatives or, in the absence of such consent, by decision of a court.
+3. An emancipated minor possesses civil rights and bears obligations (including obligations arising as a result of harm caused by him/her), except for those rights and obligations for the acquisition of which an age limit is established by the laws of the Republic of Kazakhstan.
+Legal representatives shall not bear liability for the obligations of an emancipated minor.
+[explanation-kk]
+16 жасқа толған жасөспірім еңбек шартымен жұмыс істесе немесе ата-анасының келісімімен кәсіпкерлікпен айналысса, оны толық әрекетке қабілетті деп жариялауға болады (эмансипация). Мұны қорғаншылық органы немесе сот шешеді. Осыдан кейін ата-анасы оның қарыздары үшін жауап бермейді.
+[explanation-ru]
+Подростка с 16 лет, который работает по трудовому договору или с согласия родителей занимается бизнесом, можно объявить полностью дееспособным (эмансипация). Решает орган опеки или суд. После этого родители не отвечают по его долгам.
+[explanation-en]
+A teenager aged 16 or older who works under an employment contract or runs a business with parental consent can be declared fully capable (emancipation). The guardianship authority or a court decides. After that, parents are not liable for their debts.
+
+=== 143 | 1 | 3 | 3
+[title-kk]
+Ар-намысты, қадір-қасиетті және іскерлік беделді қорғау
+[title-ru]
+Защита чести, достоинства и деловой репутации
+[title-en]
+Protection of Honor, Dignity and Business Reputation
+[text-kk]
+1. Азамат өзінің ар-намысына, қадір-қасиетіне немесе іскерлік беделіне нұқсан келтіретін мәліметтерді сот тәртібімен теріске шығаруды талап етуге құқылы.
+2. Егер азаматтың немесе заңды тұлғаның ар-намысына, қадір-қасиетіне немесе іскерлік беделіне кір келтіретін мағлұматтар бұқаралық ақпарат құралдары арқылы таратылған болса, олар сол бұқаралық ақпарат құралдарында тегін теріске шығарылуға тиіс.
+Егер аталған мағлұматтар ұйымнан шыққан құжатта болса, бұл құжаттағы мағлұматтардың шындыққа сай келмейтіндігі туралы тиісті адамға міндетті түрде хабарлана отырып, мұндай құжат алмастырылуға немесе кері сұратып алынуға тиіс.
+Өзге реттерде теріске шығару тәртібін сот белгілейді.
+3. Бұқаралық ақпарат құралдары азаматқа немесе заңды тұлғаға қатысты олардың құқықтарына немесе заңды мүдделеріне нұқсан келтіретін мағлұматтар жарияласа, олар сол бұқаралық ақпарат құралдарында өз жауаптарын тегін жариялауға құқылы.
+4. Бұқаралық ақпарат құралдарында теріске шығаруды не жауапты жариялау туралы азаматтың немесе заңды тұлғаның талабы, егер бұқаралық ақпарат органы мұндай жарияланымнан бас тартса не бір айдың ішінде жарияланым жасамаса, сондай-ақ ол таратылған ретте, сотта қаралады.
+5. Егер соттың шешімі орындалмаса, сот тәртіп бұзушыға бюджеттің кірісіне өндіріліп алынатын айыппұл салуға құқылы. Айыппұл азаматтық іс жүргізу заңдарында белгіленген тәртіп пен мөлшерде салынады. Айыппұл төлеу тәртіп бұзушыны сот шешімінде көзделген әрекетті орындау міндетінен босатпайды.
+6. Азаматқа қатысты оның ар-намысына, қадір-қасиетіне немесе іскерлік беделіне кір келтіретін мағлұматтар таратылған болса, ол мұндай мағлұматтарды теріске шығарумен бірге олардың таратылуынан өзіне келтірілген залалдың және моральдық зиянның орнын толтыруды талап етуге құқылы.
+Моральдық зиянды өтеу туралы талапты қоспағанда, осы баптың азаматтың іскерлік беделін қорғау туралы қағидалары тиісінше заңды тұлғаның іскерлік беделін қорғауға да қолданылады. Заңды тұлғаның іскерлік беделін қорғауға осы Кодексте белгіленген тәртіппен залалдың орнын толтыру туралы қағидалар қолданылады.
+7. Егер азаматтың немесе заңды тұлғаның ар-намысына, қадір-қасиетіне және іскерлік беделіне кір келтіретін мағлұматтарды таратушыны анықтау мүмкін болмаса, өзі жөнінде осындай мағлұматтар тараған адам таратылған мағлұматтарды шындыққа сай келмейді деп тану туралы сотқа жолдануға құқылы.
+[text-ru]
+1. Гражданин вправе требовать в судебном порядке опровержения сведений, порочащих его честь, достоинство или деловую репутацию.
+2. Если сведения, порочащие честь, достоинство или деловую репутацию гражданина или юридического лица, распространены в средствах массовой информации, они должны быть бесплатно опровергнуты в тех же средствах массовой информации.
+В случае, если указанные сведения содержатся в документе, исходящем от организации, такой документ подлежит замене или отзыву с обязательным сообщением адресатам о несоответствии действительности содержащихся в этом документе сведений.
+Порядок опровержения в иных случаях устанавливается судом.
+3. Гражданин или юридическое лицо, в отношении которого средствами массовой информации опубликованы сведения, ущемляющие его права или законные интересы, имеет право на бесплатную публикацию своего ответа в тех же средствах массовой информации.
+4. Требование гражданина или юридического лица о публикации опровержения либо ответа в средстве массовой информации рассматривается судом в случае, если орган массовой информации отказал в такой публикации либо в течение месяца не произвел публикацию, а также в случае его ликвидации.
+5. Если решение суда не выполнено, суд вправе наложить на нарушителя штраф, взыскиваемый в доход бюджета. Штраф налагается в порядке и размерах, установленных гражданским процессуальным законодательством. Уплата штрафа не освобождает нарушителя от обязанности выполнить предусмотренное решением суда действие.
+6. Гражданин, в отношении которого распространены сведения, порочащие его честь, достоинство или деловую репутацию, вправе наряду с опровержением таких сведений требовать возмещения убытков и морального вреда, причиненных их распространением.
+Правила настоящей статьи о защите деловой репутации гражданина соответственно применяются к защите деловой репутации юридического лица, за исключением требования о возмещении морального вреда. К защите деловой репутации юридического лица применяются правила о возмещении убытков в порядке, установленном настоящим Кодексом.
+7. Если установить лицо, распространившее сведения, порочащие честь, достоинство или деловую репутацию гражданина или юридического лица, невозможно, лицо, в отношении которого такие сведения распространены, вправе обратиться в суд с заявлением о признании распространенных сведений не соответствующими действительности.
+[text-en]
+1. A citizen has the right to demand in judicial procedure refutation of information defaming his/her honor, dignity or business reputation.
+2. If information defaming the honor, dignity or business reputation of a citizen or legal entity has been disseminated in mass media, it must be refuted free of charge in the same mass media.
+If the specified information is contained in a document originating from an organization, such document shall be subject to replacement or withdrawal with mandatory notification of the addressees of the non-correspondence to reality of the information contained in this document.
+The procedure for refutation in other cases shall be established by a court.
+3. A citizen or legal entity in respect of whom mass media have published information infringing his/her rights or legitimate interests has the right to free publication of his/her response in the same mass media.
+4. A demand of a citizen or legal entity for publication of a refutation or response in a mass media shall be considered by a court if the mass media body refused such publication or did not publish it within one month, as well as in the case of its liquidation.
+5. If a court decision is not executed, the court has the right to impose on the violator a fine collected to budget revenue. The fine shall be imposed in the procedure and amounts established by civil procedural legislation. Payment of the fine does not release the violator from the obligation to perform the action provided for by the court decision.
+6. A citizen in respect of whom information defaming his/her honor, dignity or business reputation has been disseminated has the right, along with refutation of such information, to demand compensation for damages and moral harm caused by their dissemination.
+The rules of this Article on protection of business reputation of a citizen shall apply respectively to protection of business reputation of a legal entity, except for the demand for compensation for moral harm. The rules on compensation for damages in the procedure established by this Code shall apply to protection of business reputation of a legal entity.
+7. If it is impossible to establish the person who disseminated information defaming the honor, dignity or business reputation of a citizen or legal entity, the person in respect of whom such information has been disseminated has the right to apply to a court with an application for recognition of the disseminated information as not corresponding to reality.
+[explanation-kk]
+Сіз туралы ар-намысыңызға нұқсан келтіретін жалған мәлімет таратылса, оны сот арқылы теріске шығартуға болады. БАҚ-та жарияланса — сол БАҚ тегін теріске шығаруы тиіс. Сонымен қатар залал мен моральдық зиянды өтеуді талап етуге болады.
+[explanation-ru]
+Если о вас распространили ложные сведения, порочащие честь и достоинство, можно через суд потребовать опровержения. Если это было в СМИ — то же СМИ обязано бесплатно опровергнуть. Также можно потребовать возмещения убытков и морального вреда.
+[explanation-en]
+If false information damaging your honour and dignity is spread about you, you can demand a refutation through the court. If it appeared in the media, the same outlet must publish a free refutation. You can also claim damages and moral harm.
+
+=== 178 | 1 | 7
+[title-kk]
+Талап қою мерзімдері
+[title-ru]
+Сроки исковой давности
+[title-en]
+Limitation Periods
+[text-kk]
+1. Талап қоюдың жалпы мерзімі үш жыл болып белгіленеді.
+2. Талаптардың жекелеген түрлері үшін заңдарда талап қоюдың жалпы мерзіммен салыстырғанда қысқартылған немесе неғұрлым ұзақ арнаулы мерзімдері белгіленуі мүмкін.
+3. Осы Кодекстің 177, 179-186-баптарының ережелері, егер заңдарда өзгеше көзделмесе, талап қоюдың арнаулы мерзімдеріне де қолданылады.
+[text-ru]
+1. Общий срок исковой давности устанавливается в три года.
+2. Для отдельных видов требований законами могут устанавливаться специальные сроки исковой давности, сокращенные или более длительные по сравнению с общим сроком.
+3. Правила статей 177, 179-186 настоящего Кодекса распространяются также на специальные сроки исковой давности, если законами не установлено иное.
+[text-en]
+1. The general limitation period is established at three years.
+2. For certain types of claims, special limitation periods may be established by laws, shortened or longer compared to the general period.
+3. The rules of Articles 177, 179-186 of this Code shall also apply to special limitation periods, unless otherwise established by laws.
+[explanation-kk]
+Талап қою мерзімі — құқығыңызды сот арқылы қорғауға болатын уақыт. Жалпы мерзім — 3 жыл. Кейбір істер үшін заң қысқа немесе ұзақ мерзім белгілеуі мүмкін.
+[explanation-ru]
+Исковая давность — срок, в течение которого можно защитить своё право через суд. Общий срок — 3 года. Для некоторых споров закон устанавливает более короткие или длинные сроки.
+[explanation-en]
+The limitation period is the time within which you can protect your right in court. The general period is 3 years. The law may set shorter or longer periods for some claims.
+
+=== 188 | 2 | 8
+[title-kk]
+Меншік құқығы ұғымы және оның мазмұны
+[title-ru]
+Понятие и содержание права собственности
+[title-en]
+Concept and Content of the Right of Ownership
+[text-kk]
+1. Меншік құқығы дегеніміз субъектінің заңдар арқылы танылатын және қорғалатын өзіне тиесілі мүлікті өз қалауынша иелену, пайдалану және оған билік ету құқығы.
+Меншік құқығы мәміле жасалған кезде болған барлық жүктемелерімен басқа адамға беріледі.
+2. Меншік иесінің өз мүлкін иелену, пайдалану және оған билік ету құқығы болады.
+Иелену құқығы дегеніміз мүлікті іс жүзінде иеленуді жүзеге асыруды заң жүзінде қамтамасыз ету.
+Пайдалану құқығы дегеніміз мүліктен оның пайдалы табиғи қасиеттерін алудың, сондай-ақ одан пайда табудың заң жүзінде қамтамасыз етілуі. Пайда кіріс, өсім, жеміс, төл алу және өзге нысандарында болуы мүмкін.
+Билік ету құқығы дегеніміз мүліктің заң жүзіндегі тағдырын белгілеудің заңмен қамтамасыз етілуі.
+3. Меншік иесі өзіне тиесілі мүлікке қатысты өз қалауы бойынша кез келген әрекеттер жасауға, соның ішінде бұл мүлікті басқа адамдардың меншігіне беріп, иелігінен шығаруға, өзі меншік иесі болып қала отырып, оларға мүлікті иелену, пайдалану және оған билік ету жөніндегі өз өкілеттігін тапсыруға, мүлікті кепілге беруге және оған басқа да әдістермен ауыртпалық түсіруге, оларға өзгеше түрде билік етуге құқылы.
+4. Меншік иесінің өз өкілеттігін жүзеге асыруы басқа тұлғалар мен мемлекеттің құқықтарын және заңмен қорғалатын мүдделерін бұзбауға тиіс. Құқықтар мен заңды мүдделерді бұзушылық басқа нысандарымен қатар, меншік иесінің өзінің монополиялық және өзге де басымдық жағдайын пайдаланып қиянат жасауынан көрінуі мүмкін.
+Меншік иесі өз құқықтарын жүзеге асырған кезде азаматтардың денсаулығы мен айналадағы ортаға келтірілуі мүмкін зардаптарға жол бермеу шараларын қолдануға міндетті.
+5. Меншік құқығының мерзімі шексіз. Мүлікке меншік құқығы осы Кодексте көзделген негіздер бойынша ғана ықтиярсыз тоқтатылуы мүмкін.
+6. заңдарда көзделген реттерде, жағдайлар мен шектерде меншік иесі өз мүлкін басқа адамдардың шектеулі түрде пайдалануына жол беруге міндетті.
+[text-ru]
+1. Право собственности есть признаваемое и охраняемое законами право субъекта по своему усмотрению владеть, пользоваться и распоряжаться принадлежащим ему имуществом.
+Право собственности передается другому лицу со всеми обременениями, имевшимися на момент совершения сделки.
+2. Собственнику принадлежат права владения, пользования и распоряжения своим имуществом.
+Право владения представляет собой юридически обеспеченную возможность осуществлять фактическое обладание имуществом.
+Право пользования представляет собой юридически обеспеченную возможность извлекать из имущества его полезные естественные свойства, а также получать от него выгоду. Выгода может выступать в виде дохода, приращения, плодов, приплода и в иных формах.
+Право распоряжения представляет собой юридически обеспеченную возможность определять юридическую судьбу имущества.
+3. Собственник вправе по своему усмотрению совершать в отношении принадлежащего ему имущества любые действия, в том числе отчуждать это имущество в собственность другим лицам, передавать им, оставаясь собственником, свои правомочия по владению, пользованию и распоряжению имуществом, отдавать имущество в залог и обременять его другими способами, распоряжаться им иным образом.
+4. Осуществление собственником своих правомочий не должно нарушать прав и охраняемых законом интересов других лиц и государства. Нарушение прав и законных интересов может найти выражение, наряду с иными формами, в злоупотреблении собственником своим монопольным или иным доминирующим положением.
+Собственник обязан принимать меры, предотвращающие ущерб здоровью граждан и окружающей среде, который может быть нанесен при осуществлении его прав.
+5. Право собственности бессрочно. Право собственности на имущество может быть принудительно прекращено только по основаниям, предусмотренным настоящим Кодексом.
+6. В случаях, на условиях и в пределах, предусмотренных законами, собственник обязан допустить ограниченное пользование его имуществом другими лицами.
+[text-en]
+1. The right of ownership is a right of a subject recognized and protected by laws, at his/her discretion, to possess, use and dispose of property belonging to him/her.
+The right of ownership is transferred to another person with all encumbrances existing at the time of the transaction.
+2. The owner has the rights of possession, use and disposal of his/her property.
+The right of possession is a legally secured possibility to exercise actual possession of property.
+The right of use is a legally secured possibility to extract from property its useful natural properties, as well as to derive benefit from it. Benefit may take the form of income, increment, fruits, offspring and in other forms.
+The right of disposal is a legally secured possibility to determine the legal fate of property.
+3. The owner has the right, at his/her discretion, to perform in respect of property belonging to him/her any actions, including alienating this property into the ownership of other persons, transferring to them, while remaining the owner, his/her powers of possession, use and disposal of property, pledging property and encumbering it in other ways, disposing of it in another manner.
+4. Exercise by the owner of his/her powers must not violate the rights and legally protected interests of other persons and the state. Violation of rights and legitimate interests may be expressed, along with other forms, in abuse by the owner of his/her monopoly or other dominant position.
+The owner is obliged to take measures preventing damage to the health of citizens and the environment that may be caused in the exercise of his/her rights.
+5. The right of ownership is indefinite. The right of ownership to property may be forcibly terminated only on the grounds provided for by this Code.
+6. In cases, on conditions and within limits provided for by laws, the owner is obliged to allow limited use of his/her property by other persons.
+[explanation-kk]
+Меншік иесі өз мүлкін иелене, пайдалана және оған билік ете алады (сату, сыйлау, жалға беру, кепілге қою). Меншік құқығы мерзімсіз және оны тек заңда көрсетілген негіздер бойынша ғана мәжбүрлеп алуға болады. Бірақ меншік иесі басқалардың құқығын бұзбауы тиіс.
+[explanation-ru]
+Собственник может владеть, пользоваться и распоряжаться своим имуществом (продать, подарить, сдать в аренду, заложить). Право собственности бессрочно, и отнять его принудительно можно только по основаниям из Кодекса. Но собственник не должен нарушать права других.
+[explanation-en]
+An owner may possess, use and dispose of their property (sell, give away, rent out, pledge). Ownership has no time limit and can be taken away by force only on grounds in the Code. But the owner must not violate the rights of others.
+
+=== 378 | 3:2 | 22
+[title-kk]
+Шарт ұғымы
+[title-ru]
+Понятие договора
+[title-en]
+Concept of Contract
+[text-kk]
+1. Екі немесе одан көп адамның азаматтық құқықтар мен міндеттерді белгілеу, өзгерту немесе тоқтату туралы келісімі шарт деп танылады.
+2. Шартқа осы Кодекстің 4-тарауында көзделген екіжақты және көпжақты мәмілелер туралы ережелер қолданылады.
+3. Екіден көп тараптармен жасалатын шарттарға (көпжақты шарттар), егер бұл осындай шарттардың көпжақтылық сипатына қайшы келмесе, шарт туралы жалпы ережелер қолданылады.
+[text-ru]
+1. Договором признается соглашение двух или нескольких лиц об установлении, изменении или прекращении гражданских прав и обязанностей.
+2. К договору применяются правила о двух- и многосторонних сделках, предусмотренные главой 4 настоящего Кодекса.
+3. К договорам, заключенным более чем двумя сторонами (многосторонние договоры), общие положения о договоре применяются, если это не противоречит многостороннему характеру таких договоров.
+[text-en]
+1. A contract is recognized as an agreement of two or several persons on the establishment, modification or termination of civil rights and obligations.
+2. The rules on two- and multilateral transactions provided for by Chapter 4 of this Code shall apply to a contract.
+3. The general provisions on contract shall apply to contracts concluded by more than two parties (multilateral contracts), unless this contradicts the multilateral nature of such contracts.
+[explanation-kk]
+Шарт — екі немесе одан көп адамның құқықтар мен міндеттерді белгілеу, өзгерту немесе тоқтату туралы келісімі. Мысалы: сатып алу, жалға алу, қарыз беру.
+[explanation-ru]
+Договор — это соглашение двух или более лиц об установлении, изменении или прекращении прав и обязанностей. Например: купля-продажа, аренда, заём.
+[explanation-en]
+A contract is an agreement between two or more persons to create, change or end rights and obligations. For example: a sale, a lease, a loan.
+
+=== 380 | 3:2 | 22
+[title-kk]
+Шарт еркіндігі
+[title-ru]
+Свобода договора
+[title-en]
+Freedom of Contract
+[text-kk]
+1. Азаматтар және заңды тұлғалар шарт жасасуға ерікті. Осы Кодексте, заңдарда немесе өз еркімен қабылдаған міндеттемеде шарт жасасу міндеті көзделген жағдайларды қоспағанда, шарт жасасуға мәжбүр етуге жол берілмейді.
+1-1. Жеке, заңды тұлғаның және (немесе) қызметін бірлескен қызмет туралы шартқа сәйкес жүзеге асыратын тұлғаның (жай серіктестік, консорциум) салынып жатқан көппәтерлі тұрғын үйдегі немесе жеке тұрғын үйлер кешеніндегі пәтерге және (немесе) тұрғын емес үй-жайға немесе жеке тұрғын үйге, немесе тұрғын үй құрылысына үлестік қатысу саласындағы олардың үлесіне меншік құқығын немесе өзге де заттай құқықтарын иемденуге байланысты кез келген шарттарды "Тұрғын үй құрылысына үлестік қатысу туралы" Қазақстан Республикасы Заңының талаптарын сақтамай жасасуға тыйым салынады.
+2. Тараптар заңдарда көзделген шартты да, көзделмеген шартты да жасаса алады.
+[text-ru]
+1. Граждане и юридические лица свободны в заключении договора. Понуждение к заключению договора не допускается, за исключением случаев, когда обязанность заключать договор предусмотрена настоящим Кодексом, законами или добровольно принятым обязательством.
+1-1. Запрещается заключение любых договоров, связанных с приобретением права собственности или иных вещных прав физического, юридического лица и (или) лица, осуществляющего деятельность в соответствии с договором о совместной деятельности (простое товарищество, консорциум), на квартиру и (или) нежилое помещение или индивидуальный жилой дом, или их долю в сфере долевого участия в жилищном строительстве в строящемся многоквартирном жилом доме или комплексе индивидуальных жилых домов, без соблюдения требований Закона Республики Казахстан "О долевом участии в жилищном строительстве".
+2. Стороны могут заключить договор, как предусмотренный, так и не предусмотренный законодательством.
+[text-en]
+1. Citizens and legal entities are free to conclude a contract. Compulsion to conclude a contract is not permitted, except for cases where the obligation to conclude a contract is provided for by this Code, laws or a voluntarily assumed obligation.
+1-1. It is prohibited to conclude any contracts related to the acquisition of the right of ownership or other real rights of an individual, legal entity and (or) a person carrying out activity in accordance with a contract on joint activity (simple partnership, consortium) to an apartment and (or) non-residential premises or an individual residential house, or their share in the sphere of shared participation in housing construction in a multi-apartment residential building or complex of individual residential houses under construction, without compliance with the requirements of the Law of the Republic of Kazakhstan "On Shared Participation in Housing Construction".
+2. The parties may conclude a contract both provided for and not provided for by legislation.
+[explanation-kk]
+Шарт жасасу — ерікті іс. Ешкім сізді шарт жасасуға мәжбүрлей алмайды (заңда тікелей көрсетілген жағдайлардан басқа). Заңда жоқ шарт түрін де жасасуға болады. Салынып жатқан үйдегі пәтерге үлестік қатысу шарттары тек арнайы заң талаптары бойынша жасалады.
+[explanation-ru]
+Заключать договор — дело добровольное. Никто не может заставить вас подписать договор (кроме случаев, прямо указанных в законе). Можно заключить и договор, которого нет в законе. Договоры о квартирах в строящихся домах (долевое участие) — только по требованиям специального закона.
+[explanation-en]
+Signing a contract is voluntary. No one can force you to sign one (except where the law directly says so). You may also sign a type of contract not listed in the law. Contracts for flats in buildings under construction (shared participation) must follow a special law.

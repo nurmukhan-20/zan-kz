@@ -5,6 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { api } from '../api';
 import { useT, useTheme, useTr } from '../store';
 
+// Главный экран: поиск, «Мои права», категории
 export default function HomeScreen({ navigation }) {
   const c = useTheme();
   const s = makeStyles(c);
@@ -13,7 +14,7 @@ export default function HomeScreen({ navigation }) {
   const insets = useSafeAreaInsets();
 
   const [categories, setCategories] = useState([]);
-  const [status, setStatus] = useState('loading');
+  const [status, setStatus] = useState('loading'); // loading | ok | error
 
   const load = useCallback(async () => {
     setStatus('loading');
@@ -89,14 +90,26 @@ export default function HomeScreen({ navigation }) {
 
       {status === 'ok' ? (
         <View style={s.grid}>
-          {categories.map((category) => (
-            <Pressable key={category.id} style={s.category} onPress={() => navigation.navigate('Category', { category })}>
-              <View style={s.categoryIcon}>
-                <Ionicons name={category.icon || 'book-outline'} size={22} color={c.primary} />
-              </View>
-              <Text style={s.categoryName} numberOfLines={2}>{tr(category, 'name')}</Text>
-            </Pressable>
-          ))}
+          {categories.map((category) => {
+            // Конституция — главный закон, поэтому её карточка на всю ширину (как две клетки)
+            const wide = category.nameRu === 'Конституция';
+            return (
+              <Pressable
+                key={category.id}
+                style={[s.category, wide && s.categoryWide]}
+                onPress={() => navigation.navigate('Category', { category })}
+              >
+                <View style={[s.categoryIcon, wide && s.categoryIconWide]}>
+                  <Ionicons name={category.icon || 'book-outline'} size={wide ? 28 : 22} color={c.primary} />
+                </View>
+                <View style={wide ? { flex: 1 } : null}>
+                  <Text style={[s.categoryName, wide && s.categoryNameWide]} numberOfLines={2}>{tr(category, 'name')}</Text>
+                  {wide ? <Text style={s.categoryHint}>{t('constitutionHint')}</Text> : null}
+                </View>
+                {wide ? <Ionicons name="chevron-forward" size={22} color={c.sub} /> : null}
+              </Pressable>
+            );
+          })}
         </View>
       ) : null}
 
@@ -160,6 +173,12 @@ const makeStyles = (c) =>
       alignItems: 'center', justifyContent: 'center', marginBottom: 10,
     },
     categoryName: { fontSize: 14, fontWeight: '700', color: c.text },
+    categoryWide: {
+      width: '100%', minHeight: 88, flexDirection: 'row', alignItems: 'center', gap: 14,
+    },
+    categoryIconWide: { width: 52, height: 52, borderRadius: 16, marginBottom: 0 },
+    categoryNameWide: { fontSize: 18, fontWeight: '800' },
+    categoryHint: { fontSize: 13, color: c.sub, marginTop: 3 },
     disclaimer: { flexDirection: 'row', gap: 8, marginTop: 12, paddingHorizontal: 2 },
     disclaimerText: { flex: 1, fontSize: 12, color: c.sub, lineHeight: 17 },
   });
