@@ -5,6 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { api } from '../api';
 import { useApp, useTheme, useTr } from '../store';
 import StatusView from '../components/StatusView';
+import { FadeIn } from '../components/Motion';
 
 const TEXT = {
   kk: { title: 'Сөздік', hint: 'Терминді іздеу', empty: 'Термин табылмады', intro: 'Заң терминдері қарапайым тілмен. Түсіндірмені ашу үшін терминді басыңыз.' },
@@ -90,9 +91,10 @@ export default function GlossaryScreen() {
           keyboardShouldPersistTaps="handled"
           ListHeaderComponent={query ? null : <Text style={s.intro}>{L.intro}</Text>}
           ListEmptyComponent={<StatusView status="empty" emptyText={L.empty} emptyIcon="reader-outline" />}
-          renderItem={({ item }) => {
+          renderItem={({ item, index }) => {
             const open = openId === item.id;
             return (
+              <FadeIn index={index}>
               <Pressable style={[s.card, open && s.cardOpen]} onPress={() => setOpenId(open ? null : item.id)}>
                 <View style={s.cardHead}>
                   <Text style={s.cardTitle}>{item.name}</Text>
@@ -100,6 +102,7 @@ export default function GlossaryScreen() {
                 </View>
                 <Text style={s.cardText} numberOfLines={open ? undefined : 2}>{item.text}</Text>
               </Pressable>
+              </FadeIn>
             );
           }}
         />

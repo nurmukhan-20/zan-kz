@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { api } from '../api';
 import { useApp, useTheme, useTr } from '../store';
 import StatusView from '../components/StatusView';
+import { FadeIn, PressScale } from '../components/Motion';
 
 const TEXT = {
   kk: {
@@ -85,8 +86,9 @@ export default function FavoritesScreen({ navigation }) {
               data={articles}
               keyExtractor={(item) => String(item.id)}
               contentContainerStyle={{ padding: 16, paddingTop: 4, paddingBottom: 32 }}
-              renderItem={({ item }) => (
-                <Pressable style={s.card} onPress={() => navigation.navigate('Article', { id: item.id })}>
+              renderItem={({ item, index }) => (
+                <FadeIn index={index}>
+                <PressScale style={s.card} onPress={() => navigation.navigate('Article', { id: item.id })}>
                   <View style={s.badge}>
                     <Text style={s.badgeText}>{item.articleNumber}</Text>
                   </View>
@@ -97,7 +99,8 @@ export default function FavoritesScreen({ navigation }) {
                   <Pressable onPress={() => remove(item.id)} hitSlop={10}>
                     <Ionicons name="star" size={24} color={c.primary} />
                   </Pressable>
-                </Pressable>
+                </PressScale>
+                </FadeIn>
               )}
             />
           ) : null}

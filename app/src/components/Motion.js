@@ -1,14 +1,34 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useContext, useEffect, useRef, useState } from 'react';
 import { Animated, Easing, Pressable, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import { NavigationContext } from '@react-navigation/native';
 
 // Анимации приложения. Только встроенный Animated из React Native — ничего устанавливать не нужно.
+
+// Номер «захода» на экран: растёт каждый раз, когда экран снова открывают (вкладка внизу, кнопка «назад»).
+// Вкладки не закрываются при переключении, поэтому без этого анимация была бы только в первый раз.
+// Вне навигации (экран входа) просто 0.
+function useFocusCount() {
+  const navigation = useContext(NavigationContext);
+  const [count, setCount] = useState(0);
+  useEffect(() => {
+    if (!navigation) return undefined;
+    let first = true;
+    return navigation.addListener('focus', () => {
+      if (first) { first = false; return; } // первое открытие и так анимируется
+      setCount((n) => n + 1);
+    });
+  }, [navigation]);
+  return count;
+}
 
 // Плавное появление снизу. index — номер карточки в списке: первые 10 появляются по очереди,
 // остальные (при прокрутке длинного списка) — сразу, без задержки.
 export function FadeIn({ index = 0, delay = 0, children, style }) {
   const progress = useRef(new Animated.Value(0)).current;
+  const focusCount = useFocusCount();
   useEffect(() => {
+    progress.setValue(0);
     Animated.timing(progress, {
       toValue: 1,
       duration: 380,
@@ -16,7 +36,7 @@ export function FadeIn({ index = 0, delay = 0, children, style }) {
       easing: Easing.out(Easing.cubic),
       useNativeDriver: true,
     }).start();
-  }, [progress, index, delay]);
+  }, [progress, index, delay, focusCount]);
   const translateY = progress.interpolate({ inputRange: [0, 1], outputRange: [18, 0] });
   return <Animated.View style={[style, { opacity: progress, transform: [{ translateY }] }]}>{children}</Animated.View>;
 }
@@ -75,12 +95,15 @@ export function SlideTabs({ items, value, onChange, c, style }) {
 export function PopIn({ children, style, delay = 0 }) {
   const scale = useRef(new Animated.Value(0.6)).current;
   const opacity = useRef(new Animated.Value(0)).current;
+  const focusCount = useFocusCount();
   useEffect(() => {
+    scale.setValue(0.6);
+    opacity.setValue(0);
     Animated.parallel([
       Animated.spring(scale, { toValue: 1, delay, useNativeDriver: true, speed: 10, bounciness: 12 }),
       Animated.timing(opacity, { toValue: 1, delay, duration: 300, useNativeDriver: true }),
     ]).start();
-  }, [scale, opacity, delay]);
+  }, [scale, opacity, delay, focusCount]);
   return <Animated.View style={[style, { opacity, transform: [{ scale }] }]}>{children}</Animated.View>;
 }
 

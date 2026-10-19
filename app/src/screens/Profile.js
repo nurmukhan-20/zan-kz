@@ -4,6 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LANGUAGES } from '../i18n';
 import { useApp, useT, useTheme } from '../store';
+import { FadeIn } from '../components/Motion';
 
 const ACCOUNT = {
   kk: { title: 'Аккаунт', guest: 'Таңдаулылар мен тарихты сақтау үшін кіріңіз', login: 'Кіру / Тіркелу', history: 'Қаралған баптар', logout: 'Шығу', admin: 'Әкімші' },
@@ -27,6 +28,7 @@ export default function ProfileScreen({ navigation }) {
       <Text style={s.title}>{t('tabProfile')}</Text>
 
       {/* аккаунт */}
+      <FadeIn index={0}>
       <Text style={s.section}>{A.title}</Text>
       {user ? (
         <View style={s.card}>
@@ -60,7 +62,10 @@ export default function ProfileScreen({ navigation }) {
         </View>
       )}
 
+      </FadeIn>
+
       {/* язык */}
+      <FadeIn index={1}>
       <Text style={s.section}>{t('language')}</Text>
       <View style={s.row}>
         {LANGUAGES.map((item) => {
@@ -77,7 +82,10 @@ export default function ProfileScreen({ navigation }) {
         })}
       </View>
 
+      </FadeIn>
+
       {/* тема */}
+      <FadeIn index={2}>
       <Text style={s.section}>{t('theme')}</Text>
       <View style={s.row}>
         {[
@@ -98,7 +106,10 @@ export default function ProfileScreen({ navigation }) {
         })}
       </View>
 
+      </FadeIn>
+
       {/* о приложении */}
+      <FadeIn index={3}>
       <Text style={s.section}>{t('about')}</Text>
       <View style={s.card}>
         <Text style={s.cardTitle}>{t('appName')}</Text>
@@ -110,6 +121,7 @@ export default function ProfileScreen({ navigation }) {
         </Pressable>
         <Text style={[s.cardText, { marginTop: 10 }]}>{t('version')} 1.0.0</Text>
       </View>
+      </FadeIn>
     </ScrollView>
   );
 }
