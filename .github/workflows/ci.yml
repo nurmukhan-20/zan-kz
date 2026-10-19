@@ -1,0 +1,52 @@
+# Автоматическая проверка после каждого git push:
+# 1) сервер собирается и тесты проходят, 2) приложение собирается, 3) Docker-образ собирается
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  server:
+    name: Сервер (Java 21, тесты)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: server
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+      - name: Сборка и тесты
+        run: mvn -B verify
+
+  app:
+    name: Приложение (Expo)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - name: Установка пакетов
+        run: npm ci
+      - name: Сборка JS-бандла для Android
+        run: npx expo export --platform android --output-dir dist
+
+  docker:
+    name: Docker-образ сервера
+    runs-on: ubuntu-latest
+    needs: server
+    steps:
+      - uses: actions/checkout@v4
+      - name: Сборка образа
+        run: docker build -t zankz-server ./server

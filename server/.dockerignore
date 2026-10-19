@@ -1,0 +1,5 @@
+target/
+local.properties
+.mvn/wrapper/maven-wrapper.jar
+.idea/
+.vscode/
