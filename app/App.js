@@ -25,6 +25,7 @@ import HistoryScreen from './src/screens/History';
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
 
+// Значки нижнего меню: [выбранный, обычный]
 const TAB_ICONS = {
   Home: ['home', 'home-outline'],
   Favorites: ['star', 'star-outline'],
@@ -32,6 +33,7 @@ const TAB_ICONS = {
   Profile: ['person-circle', 'person-circle-outline'],
 };
 
+// Нижнее меню с четырьмя вкладками
 function Tabs() {
   const c = useTheme();
   const t = useT();
@@ -57,9 +59,10 @@ function Tabs() {
 }
 
 function Root() {
-  const { ready, themeMode } = useApp();
+  const { ready, themeMode, user } = useApp();
   const c = useTheme();
 
+  // пока настройки читаются из памяти — пустой экран нужного цвета
   if (!ready) {
     return <View style={{ flex: 1, backgroundColor: c.bg }} />;
   }
@@ -77,6 +80,17 @@ function Root() {
     },
   };
 
+  // пока пользователь не вошёл — только экран входа/регистрации (как в SaparGo).
+  // Вошёл или зарегистрировался — открываются законы. «Выйти» в профиле снова показывает этот экран.
+  if (!user) {
+    return (
+      <>
+        <StatusBar style={themeMode === 'dark' ? 'light' : 'dark'} />
+        <LoginScreen />
+      </>
+    );
+  }
+
   return (
     <NavigationContainer theme={navTheme}>
       <StatusBar style={themeMode === 'dark' ? 'light' : 'dark'} />
@@ -89,7 +103,6 @@ function Root() {
         <Stack.Screen name="Article" component={ArticleScreen} />
         <Stack.Screen name="Rights" component={RightsScreen} />
         <Stack.Screen name="Notifications" component={NotificationsScreen} />
-        <Stack.Screen name="Login" component={LoginScreen} />
         <Stack.Screen name="History" component={HistoryScreen} />
       </Stack.Navigator>
     </NavigationContainer>

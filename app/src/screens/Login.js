@@ -4,30 +4,33 @@ import {
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { api } from '../api';
-import { useApp, useTheme } from '../store';
-import Header from '../components/Header';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { LANGUAGES } from '../i18n';
+import { useApp, useT, useTheme } from '../store';
 
+// Надписи этого экрана на трёх языках
 const TEXT = {
   kk: {
     login: 'Кіру', register: 'Тіркелу', name: 'Атыңыз', email: 'Электрондық пошта', password: 'Құпиясөз',
-    hint: 'Таңдаулылар мен тарих сақталуы үшін аккаунтқа кіріңіз.',
+    hint: 'Жалғастыру үшін кіріңіз немесе тіркеліңіз.',
     noAccount: 'Аккаунт жоқ па? Тіркелу', haveAccount: 'Аккаунт бар ма? Кіру',
     fill: 'Барлық өрісті толтырыңыз', short: 'Құпиясөз кемінде 6 таңба болуы керек',
   },
   ru: {
     login: 'Войти', register: 'Регистрация', name: 'Ваше имя', email: 'Электронная почта', password: 'Пароль',
-    hint: 'Войдите, чтобы сохранять избранное и историю просмотров.',
+    hint: 'Войдите или зарегистрируйтесь, чтобы продолжить.',
     noAccount: 'Нет аккаунта? Зарегистрироваться', haveAccount: 'Уже есть аккаунт? Войти',
     fill: 'Заполните все поля', short: 'Пароль должен быть не короче 6 символов',
   },
   en: {
     login: 'Sign in', register: 'Sign up', name: 'Your name', email: 'Email', password: 'Password',
-    hint: 'Sign in to save favorites and your viewing history.',
+    hint: 'Sign in or create an account to continue.',
     noAccount: 'No account? Sign up', haveAccount: 'Already have an account? Sign in',
     fill: 'Please fill in all fields', short: 'Password must be at least 6 characters',
   },
 };
 
+// Сервер может вернуть данные пользователя прямо в ответе или внутри поля user
 function toUser(data, fallback) {
   const info = (data && data.user) || data || {};
   return {
@@ -38,13 +41,17 @@ function toUser(data, fallback) {
   };
 }
 
-export default function LoginScreen({ navigation }) {
+// Первый экран приложения: вход или регистрация + выбор языка.
+// Пока пользователь не вошёл, остальные экраны не показываются (см. App.js).
+export default function LoginScreen() {
   const c = useTheme();
   const s = makeStyles(c);
-  const { lang, setUser } = useApp();
+  const t = useT();
+  const insets = useSafeAreaInsets();
+  const { lang, setLang, setUser } = useApp();
   const L = TEXT[lang] || TEXT.ru;
 
-  const [mode, setMode] = useState('login');
+  const [mode, setMode] = useState('login'); // login | register
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -69,12 +76,13 @@ export default function LoginScreen({ navigation }) {
       let data;
       if (isRegister) {
         data = await api.register(name.trim(), mail, password);
+        // если сервер после регистрации не дал ключ — сразу входим
         if (!data || !(data.token || data.accessToken)) data = await api.login(mail, password);
       } else {
         data = await api.login(mail, password);
       }
+      // после этого App.js сам покажет главный экран
       setUser(toUser(data, { name: name.trim(), email: mail }));
-      navigation.goBack();
     } catch (e) {
       setError(e.message);
     } finally {
@@ -82,17 +90,51 @@ export default function LoginScreen({ navigation }) {
     }
   };
 
+  const switchMode = (next) => {
+    setMode(next);
+    setError('');
+  };
+
   return (
     <KeyboardAvoidingView style={{ flex: 1, backgroundColor: c.bg }} behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
-      <Header title={isRegister ? L.register : L.login} onBack={() => navigation.goBack()} />
+      <ScrollView
+        contentContainerStyle={{ flexGrow: 1, padding: 20, paddingTop: insets.top + 16, paddingBottom: insets.bottom + 24 }}
+        keyboardShouldPersistTaps="handled"
+      >
+        {/* выбор языка — сразу на первом экране */}
+        <View style={s.langRow}>
+          {LANGUAGES.map((item) => {
+            const active = lang === item.id;
+            return (
+              <Pressable key={item.id} onPress={() => setLang(item.id)} style={[s.lang, active && s.langActive]}>
+                <Text style={[s.langText, active && s.langTextActive]}>{item.title}</Text>
+              </Pressable>
+            );
+          })}
+        </View>
 
-      <ScrollView contentContainerStyle={{ padding: 16 }} keyboardShouldPersistTaps="handled">
+        {/* логотип и название */}
         <View style={s.logoBox}>
           <View style={s.logo}>
-            <Ionicons name="person-outline" size={34} color={c.onPrimary} />
+            <Ionicons name="library-outline" size={38} color={c.onPrimary} />
           </View>
-          <Text style={s.hint}>{L.hint}</Text>
+          <Text style={s.appName}>{t('appName')}</Text>
+          <Text style={s.subtitle}>{t('appSubtitle')}</Text>
         </View>
+
+        {/* два варианта: Вход | Регистрация */}
+        <View style={s.tabs}>
+          {['login', 'register'].map((item) => {
+            const active = mode === item;
+            return (
+              <Pressable key={item} onPress={() => switchMode(item)} style={[s.tab, active && s.tabActive]}>
+                <Text style={[s.tabText, active && s.tabTextActive]}>{item === 'login' ? L.login : L.register}</Text>
+              </Pressable>
+            );
+          })}
+        </View>
+
+        <Text style={s.hint}>{L.hint}</Text>
 
         {isRegister ? (
           <Field c={c} s={s} icon="person-outline" value={name} onChangeText={setName} placeholder={L.name} />
@@ -117,13 +159,7 @@ export default function LoginScreen({ navigation }) {
           {busy ? <ActivityIndicator color={c.onPrimary} /> : <Text style={s.buttonText}>{isRegister ? L.register : L.login}</Text>}
         </Pressable>
 
-        <Pressable
-          style={s.switch}
-          onPress={() => {
-            setMode(isRegister ? 'login' : 'register');
-            setError('');
-          }}
-        >
+        <Pressable style={s.switch} onPress={() => switchMode(isRegister ? 'login' : 'register')}>
           <Text style={s.switchText}>{isRegister ? L.haveAccount : L.noAccount}</Text>
         </Pressable>
       </ScrollView>
@@ -131,6 +167,7 @@ export default function LoginScreen({ navigation }) {
   );
 }
 
+// Одно поле ввода со значком
 function Field({ c, s, icon, ...props }) {
   return (
     <View style={s.field}>
@@ -142,12 +179,30 @@ function Field({ c, s, icon, ...props }) {
 
 const makeStyles = (c) =>
   StyleSheet.create({
-    logoBox: { alignItems: 'center', marginTop: 8, marginBottom: 22 },
-    logo: {
-      width: 72, height: 72, borderRadius: 24, backgroundColor: c.primary,
-      alignItems: 'center', justifyContent: 'center', marginBottom: 12,
+    langRow: { flexDirection: 'row', justifyContent: 'center', gap: 8 },
+    lang: {
+      paddingHorizontal: 14, height: 38, borderRadius: 19, justifyContent: 'center',
+      backgroundColor: c.surface, borderWidth: 1, borderColor: c.border,
     },
-    hint: { color: c.sub, textAlign: 'center', lineHeight: 20, paddingHorizontal: 20 },
+    langActive: { backgroundColor: c.primary, borderColor: c.primary },
+    langText: { color: c.text, fontWeight: '700' },
+    langTextActive: { color: c.onPrimary },
+    logoBox: { alignItems: 'center', marginTop: 36, marginBottom: 28 },
+    logo: {
+      width: 84, height: 84, borderRadius: 26, backgroundColor: c.primary,
+      alignItems: 'center', justifyContent: 'center', marginBottom: 14,
+    },
+    appName: { fontSize: 28, fontWeight: '800', color: c.text },
+    subtitle: { fontSize: 14, color: c.sub, marginTop: 4, textAlign: 'center' },
+    tabs: {
+      flexDirection: 'row', padding: 4, borderRadius: 16, backgroundColor: c.surface,
+      borderWidth: 1, borderColor: c.border, marginBottom: 14,
+    },
+    tab: { flex: 1, height: 44, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
+    tabActive: { backgroundColor: c.primary },
+    tabText: { color: c.sub, fontWeight: '800', fontSize: 15 },
+    tabTextActive: { color: c.onPrimary },
+    hint: { color: c.sub, textAlign: 'center', lineHeight: 20, marginBottom: 16 },
     field: {
       flexDirection: 'row', alignItems: 'center', gap: 10, height: 54, borderRadius: 16, marginBottom: 12,
       paddingHorizontal: 14, backgroundColor: c.surface, borderWidth: 1, borderColor: c.border,
