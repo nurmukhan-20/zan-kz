@@ -1,6 +1,11 @@
 export const LAPTOP_IP = '192.168.133.130';
 
-export const BASE_URL = `http://${LAPTOP_IP}:8080/api`;
+export const SERVER_URL = `http://${LAPTOP_IP}:8080`;
+export const BASE_URL = `${SERVER_URL}/api`;
+
+// фото и видео новостей: «/news/n3-1.jpg» -> полный адрес на сервере
+export const mediaUrl = (path) => (!path ? '' : /^https?:\/\//.test(path) ? path : SERVER_URL + path);
+export const mediaList = (value) => String(value || '').split(',').map((x) => x.trim()).filter(Boolean).map(mediaUrl);
 
 async function request(path, { method = 'GET', body, token } = {}) {
   const controller = new AbortController();
@@ -38,6 +43,9 @@ export const api = {
   search: (text) => request(`/articles/search?q=${q(text)}`),
   terms: (text) => request(text ? `/terms?q=${q(text)}` : '/terms'),
   notifications: () => request('/notifications'),
+  news: (sort = 'latest') => request(`/news?sort=${q(sort)}`),
+  newsItem: (id) => request(`/news/${id}`),
+  popularArticles: (limit = 10) => request(`/articles/popular?limit=${limit}`),
 
   login: (email, password) => request('/auth/login', { method: 'POST', body: { email, password } }),
   register: (name, email, password) =>

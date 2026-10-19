@@ -21,6 +21,8 @@ import NotificationsScreen from './src/screens/Notifications';
 import LoginScreen from './src/screens/Login';
 import FavoritesScreen from './src/screens/Favorites';
 import HistoryScreen from './src/screens/History';
+import NewsScreen from './src/screens/News';
+import NewsDetailScreen from './src/screens/NewsDetail';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -28,12 +30,13 @@ const Tab = createBottomTabNavigator();
 // Значки нижнего меню: [выбранный, обычный]
 const TAB_ICONS = {
   Home: ['home', 'home-outline'],
+  News: ['newspaper', 'newspaper-outline'],
   Favorites: ['star', 'star-outline'],
   Glossary: ['reader', 'reader-outline'],
   Profile: ['person-circle', 'person-circle-outline'],
 };
 
-// Нижнее меню с четырьмя вкладками
+// Нижнее меню с пятью вкладками
 function Tabs() {
   const c = useTheme();
   const t = useT();
@@ -45,12 +48,15 @@ function Tabs() {
         tabBarInactiveTintColor: c.sub,
         tabBarStyle: { backgroundColor: c.card, borderTopColor: c.border },
         tabBarLabelStyle: { fontWeight: '600' },
+        // плавный переход между вкладками нижнего меню
+        animation: 'shift',
         tabBarIcon: ({ focused, color, size }) => (
           <Ionicons name={TAB_ICONS[route.name][focused ? 0 : 1]} size={size} color={color} />
         ),
       })}
     >
       <Tab.Screen name="Home" component={HomeScreen} options={{ title: t('tabHome') }} />
+      <Tab.Screen name="News" component={NewsScreen} options={{ title: t('tabNews') }} />
       <Tab.Screen name="Favorites" component={FavoritesScreen} options={{ title: t('tabFavorites') }} />
       <Tab.Screen name="Glossary" component={GlossaryScreen} options={{ title: t('tabGlossary') }} />
       <Tab.Screen name="Profile" component={ProfileScreen} options={{ title: t('tabProfile') }} />
@@ -94,7 +100,8 @@ function Root() {
   return (
     <NavigationContainer theme={navTheme}>
       <StatusBar style={themeMode === 'dark' ? 'light' : 'dark'} />
-      <Stack.Navigator screenOptions={{ headerShown: false }}>
+      {/* новые экраны выезжают справа */}
+      <Stack.Navigator screenOptions={{ headerShown: false, animation: 'slide_from_right' }}>
         <Stack.Screen name="Tabs" component={Tabs} />
         <Stack.Screen name="Placeholder" component={PlaceholderScreen} />
         <Stack.Screen name="Search" component={SearchScreen} />
@@ -104,6 +111,7 @@ function Root() {
         <Stack.Screen name="Rights" component={RightsScreen} />
         <Stack.Screen name="Notifications" component={NotificationsScreen} />
         <Stack.Screen name="History" component={HistoryScreen} />
+        <Stack.Screen name="NewsDetail" component={NewsDetailScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

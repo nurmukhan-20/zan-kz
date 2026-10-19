@@ -7,6 +7,7 @@ import { api } from '../api';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { LANGUAGES } from '../i18n';
 import { useApp, useT, useTheme } from '../store';
+import { FadeIn, PopIn, PressScale, SlideTabs } from '../components/Motion';
 
 // Надписи этого экрана на трёх языках
 const TEXT = {
@@ -115,29 +116,37 @@ export default function LoginScreen() {
 
         {/* логотип и название */}
         <View style={s.logoBox}>
-          <View style={s.logo}>
+          <PopIn style={s.logo}>
             <Ionicons name="library-outline" size={38} color={c.onPrimary} />
-          </View>
-          <Text style={s.appName}>{t('appName')}</Text>
-          <Text style={s.subtitle}>{t('appSubtitle')}</Text>
+          </PopIn>
+          <FadeIn delay={150}>
+            <Text style={s.appName}>{t('appName')}</Text>
+          </FadeIn>
+          <FadeIn delay={250}>
+            <Text style={s.subtitle}>{t('appSubtitle')}</Text>
+          </FadeIn>
         </View>
 
         {/* два варианта: Вход | Регистрация */}
-        <View style={s.tabs}>
-          {['login', 'register'].map((item) => {
-            const active = mode === item;
-            return (
-              <Pressable key={item} onPress={() => switchMode(item)} style={[s.tab, active && s.tabActive]}>
-                <Text style={[s.tabText, active && s.tabTextActive]}>{item === 'login' ? L.login : L.register}</Text>
-              </Pressable>
-            );
-          })}
-        </View>
+        <FadeIn delay={300}>
+          <SlideTabs
+            c={c}
+            style={{ marginBottom: 14 }}
+            value={mode}
+            onChange={switchMode}
+            items={[
+              { id: 'login', title: L.login },
+              { id: 'register', title: L.register },
+            ]}
+          />
+        </FadeIn>
 
         <Text style={s.hint}>{L.hint}</Text>
 
         {isRegister ? (
-          <Field c={c} s={s} icon="person-outline" value={name} onChangeText={setName} placeholder={L.name} />
+          <FadeIn>
+            <Field c={c} s={s} icon="person-outline" value={name} onChangeText={setName} placeholder={L.name} />
+          </FadeIn>
         ) : null}
         <Field
           c={c} s={s} icon="mail-outline" value={email} onChangeText={setEmail} placeholder={L.email}
@@ -155,9 +164,9 @@ export default function LoginScreen() {
           </View>
         ) : null}
 
-        <Pressable style={[s.button, busy && { opacity: 0.7 }]} onPress={submit} disabled={busy}>
+        <PressScale style={[s.button, busy && { opacity: 0.7 }]} onPress={submit} disabled={busy}>
           {busy ? <ActivityIndicator color={c.onPrimary} /> : <Text style={s.buttonText}>{isRegister ? L.register : L.login}</Text>}
-        </Pressable>
+        </PressScale>
 
         <Pressable style={s.switch} onPress={() => switchMode(isRegister ? 'login' : 'register')}>
           <Text style={s.switchText}>{isRegister ? L.haveAccount : L.noAccount}</Text>

@@ -1,6 +1,11 @@
 package kz.zankz.server.service;
 
 import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
+import org.springframework.data.domain.PageRequest;
 
 import org.springframework.stereotype.Service;
 
@@ -8,16 +13,29 @@ import kz.zankz.server.exception.ResourceNotFoundException;
 import kz.zankz.server.model.Article;
 import kz.zankz.server.model.Law;
 import kz.zankz.server.repository.ArticleRepository;
+import kz.zankz.server.repository.HistoryRepository;
 
 @Service
 public class ArticleService {
 
     private final ArticleRepository articleRepository;
     private final LawService lawService;
+    private final HistoryRepository historyRepository;
 
-    public ArticleService(ArticleRepository articleRepository, LawService lawService) {
+    public ArticleService(ArticleRepository articleRepository, LawService lawService,
+            HistoryRepository historyRepository) {
         this.articleRepository = articleRepository;
         this.lawService = lawService;
+        this.historyRepository = historyRepository;
+    }
+
+    // самые читаемые статьи — по истории просмотров всех пользователей
+    public List<Article> popular(int limit) {
+        List<Object[]> rows = historyRepository.countViewsByArticle(PageRequest.of(0, Math.max(1, Math.min(limit, 50))));
+        List<Long> ids = rows.stream().map(row -> (Long) row[0]).toList();
+        Map<Long, Article> byId = articleRepository.findAllById(ids).stream()
+                .collect(Collectors.toMap(Article::getId, Function.identity()));
+        return ids.stream().map(byId::get).filter(a -> a != null).toList();
     }
 
     public List<Article> getAll(Long lawId, String section) {

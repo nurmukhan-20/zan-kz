@@ -6,6 +6,7 @@ import { formatDate } from '../i18n';
 import { useT, useTheme, useTr } from '../store';
 import Header from '../components/Header';
 import StatusView from '../components/StatusView';
+import { FadeIn, PressScale } from '../components/Motion';
 
 export default function CategoryScreen({ navigation, route }) {
   const c = useTheme();
@@ -43,8 +44,9 @@ export default function CategoryScreen({ navigation, route }) {
           data={laws}
           keyExtractor={(item) => String(item.id)}
           contentContainerStyle={{ padding: 16, paddingTop: 4 }}
-          renderItem={({ item }) => (
-            <Pressable style={s.card} onPress={() => navigation.navigate('Law', { lawId: item.id })}>
+          renderItem={({ item, index }) => (
+            <FadeIn index={index}>
+            <PressScale style={s.card} onPress={() => navigation.navigate('Law', { lawId: item.id })}>
               <View style={s.icon}>
                 <Ionicons name={category.icon || 'book-outline'} size={24} color={c.primary} />
               </View>
@@ -53,7 +55,8 @@ export default function CategoryScreen({ navigation, route }) {
                 <Text style={s.meta}>{t('lastUpdated')}: {formatDate(item.lastUpdated)}</Text>
               </View>
               <Ionicons name="chevron-forward" size={20} color={c.sub} />
-            </Pressable>
+            </PressScale>
+            </FadeIn>
           )}
         />
       ) : null}

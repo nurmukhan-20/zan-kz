@@ -9,6 +9,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 import kz.zankz.server.config.LawFileParser.Entry;
@@ -19,7 +20,9 @@ import kz.zankz.server.repository.ArticleRepository;
 import kz.zankz.server.repository.CategoryRepository;
 import kz.zankz.server.repository.LawRepository;
 
+// @Order(10): законы загружаются раньше новостей (NewsLoader)
 @Component
+@Order(10)
 public class DataLoader implements CommandLineRunner {
 
     record LawSource(String file, String categoryRu, String titleKk, String titleRu, String titleEn,

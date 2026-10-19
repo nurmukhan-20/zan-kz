@@ -6,6 +6,7 @@ import { formatDate } from '../i18n';
 import { useT, useTheme, useTr } from '../store';
 import Header from '../components/Header';
 import StatusView from '../components/StatusView';
+import { FadeIn, PressScale } from '../components/Motion';
 
 // 1 -> I, 2 -> II, 4 -> IV: разделы всех законов показываем римскими цифрами
 function toRoman(n) {
@@ -155,8 +156,9 @@ export default function LawScreen({ navigation, route }) {
             </View>
           }
           renderSectionHeader={({ section }) => renderHeader(section)}
-          renderItem={({ item }) => (
-            <Pressable style={s.card} onPress={() => navigation.navigate('Article', { id: item.id })}>
+          renderItem={({ item, index }) => (
+            <FadeIn index={index}>
+            <PressScale style={s.card} scaleTo={0.97} onPress={() => navigation.navigate('Article', { id: item.id })}>
               <View style={s.badge}>
                 <Text style={s.badgeText} numberOfLines={1} adjustsFontSizeToFit>{item.articleNumber}</Text>
               </View>
@@ -165,7 +167,8 @@ export default function LawScreen({ navigation, route }) {
                 <Text style={s.cardText} numberOfLines={2}>{tr(item, 'text')}</Text>
               </View>
               <Ionicons name="chevron-forward" size={20} color={c.sub} />
-            </Pressable>
+            </PressScale>
+            </FadeIn>
           )}
         />
       ) : null}

@@ -4,6 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { api } from '../api';
 import { useT, useTheme, useTr } from '../store';
+import { FadeIn, PressScale } from '../components/Motion';
 
 // Главный экран: поиск, «Мои права», категории
 export default function HomeScreen({ navigation }) {
@@ -50,13 +51,14 @@ export default function HomeScreen({ navigation }) {
       </View>
 
       {/* большая строка поиска */}
-      <Pressable style={s.search} onPress={() => navigation.navigate('Search')}>
+      <PressScale scaleTo={0.98} style={s.search} onPress={() => navigation.navigate('Search')}>
         <Ionicons name="search" size={22} color={c.sub} />
         <Text style={s.searchText}>{t('searchPlaceholder')}</Text>
-      </Pressable>
+      </PressScale>
 
       {/* «Мои права» */}
-      <Pressable style={s.rights} onPress={() => navigation.navigate('Rights')}>
+      <FadeIn>
+      <PressScale style={s.rights} onPress={() => navigation.navigate('Rights')}>
         <View style={s.rightsIcon}>
           <Ionicons name="shield-checkmark-outline" size={26} color={c.primary} />
         </View>
@@ -65,7 +67,8 @@ export default function HomeScreen({ navigation }) {
           <Text style={s.rightsHint}>{t('myRightsHint')}</Text>
         </View>
         <Ionicons name="chevron-forward" size={22} color={c.onPrimary} />
-      </Pressable>
+      </PressScale>
+      </FadeIn>
 
       {/* категории */}
       <Text style={s.section}>{t('categories')}</Text>
@@ -90,12 +93,12 @@ export default function HomeScreen({ navigation }) {
 
       {status === 'ok' ? (
         <View style={s.grid}>
-          {categories.map((category) => {
+          {categories.map((category, index) => {
             // Конституция — главный закон, поэтому её карточка на всю ширину (как две клетки)
             const wide = category.nameRu === 'Конституция';
             return (
-              <Pressable
-                key={category.id}
+              <FadeIn key={category.id} index={index + 1} style={{ width: wide ? '100%' : '48%', marginBottom: 12 }}>
+              <PressScale
                 style={[s.category, wide && s.categoryWide]}
                 onPress={() => navigation.navigate('Category', { category })}
               >
@@ -107,7 +110,8 @@ export default function HomeScreen({ navigation }) {
                   {wide ? <Text style={s.categoryHint}>{t('constitutionHint')}</Text> : null}
                 </View>
                 {wide ? <Ionicons name="chevron-forward" size={22} color={c.sub} /> : null}
-              </Pressable>
+              </PressScale>
+              </FadeIn>
             );
           })}
         </View>
@@ -165,7 +169,7 @@ const makeStyles = (c) =>
     retryText: { color: c.onPrimary, fontWeight: '700' },
     grid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
     category: {
-      width: '48%', minHeight: 104, padding: 14, borderRadius: 18, marginBottom: 12,
+      width: '100%', minHeight: 104, padding: 14, borderRadius: 18,
       backgroundColor: c.card, borderWidth: 1, borderColor: c.border,
     },
     categoryIcon: {

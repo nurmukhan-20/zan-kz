@@ -39,6 +39,12 @@ public class ArticleController {
         return articleService.search(q);
     }
 
+    // GET /api/articles/popular — самые читаемые статьи (для вкладки «Популярные»)
+    @GetMapping("/popular")
+    public List<Article> popular(@RequestParam(defaultValue = "10") int limit) {
+        return articleService.popular(limit);
+    }
+
     @GetMapping("/{id}")
     public Article getById(@PathVariable Long id) {
         return articleService.getById(id);

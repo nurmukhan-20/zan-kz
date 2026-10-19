@@ -21,7 +21,7 @@ import kz.zankz.server.security.TokenFilter;
 public class SecurityConfig {
 
     private static final String[] PUBLIC_DATA = {
-            "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**", "/api/notifications/**"
+            "/api/categories/**", "/api/laws/**", "/api/articles/**", "/api/terms/**", "/api/notifications/**", "/api/news/**"
     };
 
     private static final String[] SWAGGER = {
@@ -41,6 +41,8 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/api/auth/register", "/api/auth/login", "/error").permitAll()
                         .requestMatchers(SWAGGER).permitAll()
+                        // фото и видео новостей (папка resources/static/news)
+                        .requestMatchers(HttpMethod.GET, "/news/**").permitAll()
                         .requestMatchers(HttpMethod.GET, PUBLIC_DATA).permitAll()
                         .requestMatchers(PUBLIC_DATA).hasRole("ADMIN")
                         .anyRequest().authenticated())
