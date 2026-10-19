@@ -24,15 +24,15 @@ class ConstitutionParserTest {
     }
 
     @Test
-    @DisplayName("В файле 41 статья: 11 в разделе I и 30 в разделе II")
+    @DisplayName("В файле все 96 статей Конституции 2026 года: 11 в разделе I, 30 в разделе II")
     void fileHasAllArticles() throws Exception {
         List<ArticleData> articles = load();
 
-        assertThat(articles).hasSize(41);
+        assertThat(articles).hasSize(96);
         assertThat(articles).filteredOn(a -> "I".equals(a.section())).hasSize(11);
         assertThat(articles).filteredOn(a -> "II".equals(a.section())).hasSize(30);
         assertThat(articles.get(0).number()).isEqualTo("1");
-        assertThat(articles.get(40).number()).isEqualTo("41");
+        assertThat(articles.get(95).number()).isEqualTo("96");
     }
 
     @Test
