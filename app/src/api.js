@@ -1,4 +1,4 @@
-export const LAPTOP_IP = '192.168.133.130';
+export const LAPTOP_IP = '10.250.82.130'; // ← IP вашего ноутбука (ipconfig → IPv4)
 
 export const SERVER_URL = `http://${LAPTOP_IP}:8080`;
 export const BASE_URL = `${SERVER_URL}/api`;
@@ -7,9 +7,9 @@ export const BASE_URL = `${SERVER_URL}/api`;
 export const mediaUrl = (path) => (!path ? '' : /^https?:\/\//.test(path) ? path : SERVER_URL + path);
 export const mediaList = (value) => String(value || '').split(',').map((x) => x.trim()).filter(Boolean).map(mediaUrl);
 
-async function request(path, { method = 'GET', body, token } = {}) {
+async function request(path, { method = 'GET', body, token, timeout = 10000 } = {}) {
   const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 10000);
+  const timer = setTimeout(() => controller.abort(), timeout);
   try {
     const response = await fetch(BASE_URL + path, {
       method,
@@ -57,4 +57,8 @@ export const api = {
   history: (token) => request('/history', { token }),
   addHistory: (token, articleId) => request(`/history/${articleId}`, { method: 'POST', token }),
   clearHistory: (token) => request('/history', { method: 'DELETE', token }),
+
+  // ИИ-помощник: ждём до 45 секунд, ИИ думает дольше обычного запроса
+  ask: (token, question, lang) =>
+    request('/assistant/ask', { method: 'POST', token, body: { question, lang }, timeout: 45000 }),
 };

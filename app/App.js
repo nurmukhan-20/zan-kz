@@ -23,6 +23,7 @@ import FavoritesScreen from './src/screens/Favorites';
 import HistoryScreen from './src/screens/History';
 import NewsScreen from './src/screens/News';
 import NewsDetailScreen from './src/screens/NewsDetail';
+import AssistantScreen from './src/screens/Assistant';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -112,6 +113,7 @@ function Root() {
         <Stack.Screen name="Notifications" component={NotificationsScreen} />
         <Stack.Screen name="History" component={HistoryScreen} />
         <Stack.Screen name="NewsDetail" component={NewsDetailScreen} />
+        <Stack.Screen name="Assistant" component={AssistantScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

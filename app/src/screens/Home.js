@@ -70,6 +70,20 @@ export default function HomeScreen({ navigation }) {
       </PressScale>
       </FadeIn>
 
+      {/* ИИ-помощник */}
+      <FadeIn index={1}>
+      <PressScale style={s.ai} onPress={() => navigation.navigate('Assistant')}>
+        <View style={s.aiIcon}>
+          <Ionicons name="sparkles" size={24} color={c.primary} />
+        </View>
+        <View style={{ flex: 1, marginHorizontal: 12 }}>
+          <Text style={s.aiTitle}>{t('aiTitle')}</Text>
+          <Text style={s.aiHint}>{t('aiHint')}</Text>
+        </View>
+        <Ionicons name="chevron-forward" size={22} color={c.sub} />
+      </PressScale>
+      </FadeIn>
+
       {/* категории */}
       <Text style={s.section}>{t('categories')}</Text>
 
@@ -155,6 +169,16 @@ const makeStyles = (c) =>
     },
     rightsTitle: { fontSize: 17, fontWeight: '800', color: c.onPrimary },
     rightsHint: { fontSize: 13, color: c.onPrimary, opacity: 0.85, marginTop: 3 },
+    ai: {
+      flexDirection: 'row', alignItems: 'center', padding: 16, borderRadius: 20,
+      backgroundColor: c.card, borderWidth: 1, borderColor: c.border, marginTop: -10, marginBottom: 22,
+    },
+    aiIcon: {
+      width: 48, height: 48, borderRadius: 14, backgroundColor: c.primarySoft,
+      alignItems: 'center', justifyContent: 'center',
+    },
+    aiTitle: { fontSize: 17, fontWeight: '800', color: c.text },
+    aiHint: { fontSize: 13, color: c.sub, marginTop: 3 },
     section: { fontSize: 19, fontWeight: '800', color: c.text, marginBottom: 12 },
     center: { alignItems: 'center', paddingVertical: 24 },
     errorBox: {
