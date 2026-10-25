@@ -21,7 +21,9 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-video"
+      "expo-video",
+      "expo-status-bar",
+      "expo-font"
     ]
   }
 }
