@@ -24,6 +24,11 @@ import HistoryScreen from './src/screens/History';
 import NewsScreen from './src/screens/News';
 import NewsDetailScreen from './src/screens/NewsDetail';
 import AssistantScreen from './src/screens/Assistant';
+import AiHubScreen from './src/screens/AiHub';
+import AiDocumentScreen from './src/screens/AiDocument';
+import AiQuizScreen from './src/screens/AiQuiz';
+import AiCompareScreen from './src/screens/AiCompare';
+import AiSituationScreen from './src/screens/AiSituation';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -114,6 +119,11 @@ function Root() {
         <Stack.Screen name="History" component={HistoryScreen} />
         <Stack.Screen name="NewsDetail" component={NewsDetailScreen} />
         <Stack.Screen name="Assistant" component={AssistantScreen} />
+        <Stack.Screen name="AiHub" component={AiHubScreen} />
+        <Stack.Screen name="AiDocument" component={AiDocumentScreen} />
+        <Stack.Screen name="AiQuiz" component={AiQuizScreen} />
+        <Stack.Screen name="AiCompare" component={AiCompareScreen} />
+        <Stack.Screen name="AiSituation" component={AiSituationScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

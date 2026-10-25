@@ -61,4 +61,15 @@ export const api = {
   // ИИ-помощник: ждём до 45 секунд, ИИ думает дольше обычного запроса
   ask: (token, question, lang) =>
     request('/assistant/ask', { method: 'POST', token, body: { question, lang }, timeout: 45000 }),
+  // документ: { type, to, from, details, lang }
+  aiDocument: (token, body) => request('/assistant/document', { method: 'POST', token, body, timeout: 60000 }),
+  // тест: categoryId = null — все темы
+  aiQuiz: (token, categoryId, lang) =>
+    request('/assistant/quiz', { method: 'POST', token, body: { categoryId, lang }, timeout: 60000 }),
+  // сравнение двух статей: articleIds = [id1, id2]
+  aiCompare: (token, articleIds, lang) =>
+    request('/assistant/compare', { method: 'POST', token, body: { articleIds, lang }, timeout: 60000 }),
+  // разбор жизненной ситуации
+  aiSituation: (token, situation, lang) =>
+    request('/assistant/situation', { method: 'POST', token, body: { situation, lang }, timeout: 60000 }),
 };

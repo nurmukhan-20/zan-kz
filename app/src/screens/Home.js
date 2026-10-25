@@ -72,13 +72,13 @@ export default function HomeScreen({ navigation }) {
 
       {/* ИИ-помощник */}
       <FadeIn index={1}>
-      <PressScale style={s.ai} onPress={() => navigation.navigate('Assistant')}>
+      <PressScale style={s.ai} onPress={() => navigation.navigate('AiHub')}>
         <View style={s.aiIcon}>
           <Ionicons name="sparkles" size={24} color={c.primary} />
         </View>
         <View style={{ flex: 1, marginHorizontal: 12 }}>
-          <Text style={s.aiTitle}>{t('aiTitle')}</Text>
-          <Text style={s.aiHint}>{t('aiHint')}</Text>
+          <Text style={s.aiTitle}>{t('aiToolsTitle')}</Text>
+          <Text style={s.aiHint}>{t('aiToolsHint')}</Text>
         </View>
         <Ionicons name="chevron-forward" size={22} color={c.sub} />
       </PressScale>
