@@ -27,6 +27,8 @@ services:
       SPRING_DATASOURCE_PASSWORD: ${DB_PASSWORD}
       APP_ADMIN_EMAIL: ${ADMIN_EMAIL:-}
       APP_ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      APP_GEMINI_KEY: ${GEMINI_KEY:-}             # ключ Gemini для ИИ-инструментов
+      APP_GEMINI_MODEL: ${GEMINI_MODEL:-gemini-3.6-flash}
     ports:
       - "8080:8080"
 
