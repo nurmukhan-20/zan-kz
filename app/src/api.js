@@ -69,6 +69,10 @@ export const api = {
   // сравнение двух статей: articleIds = [id1, id2]
   aiCompare: (token, articleIds, lang) =>
     request('/assistant/compare', { method: 'POST', token, body: { articleIds, lang }, timeout: 60000 }),
+  // голосование
+  polls: (token) => request('/polls', { token }),
+  vote: (token, pollId, optionId) => request(`/polls/${pollId}/vote`, { method: 'POST', token, body: { optionId } }),
+
   // разбор жизненной ситуации
   aiSituation: (token, situation, lang) =>
     request('/assistant/situation', { method: 'POST', token, body: { situation, lang }, timeout: 60000 }),

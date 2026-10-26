@@ -84,6 +84,20 @@ export default function HomeScreen({ navigation }) {
       </PressScale>
       </FadeIn>
 
+      {/* Голосование */}
+      <FadeIn index={2}>
+      <PressScale style={s.ai} onPress={() => navigation.navigate('Polls')}>
+        <View style={s.aiIcon}>
+          <Ionicons name="checkbox-outline" size={24} color={c.primary} />
+        </View>
+        <View style={{ flex: 1, marginHorizontal: 12 }}>
+          <Text style={s.aiTitle}>{t('pollsTitle')}</Text>
+          <Text style={s.aiHint}>{t('pollsHint')}</Text>
+        </View>
+        <Ionicons name="chevron-forward" size={22} color={c.sub} />
+      </PressScale>
+      </FadeIn>
+
       {/* категории */}
       <Text style={s.section}>{t('categories')}</Text>
 

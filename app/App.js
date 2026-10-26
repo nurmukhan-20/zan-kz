@@ -29,6 +29,7 @@ import AiDocumentScreen from './src/screens/AiDocument';
 import AiQuizScreen from './src/screens/AiQuiz';
 import AiCompareScreen from './src/screens/AiCompare';
 import AiSituationScreen from './src/screens/AiSituation';
+import PollsScreen from './src/screens/Polls';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -124,6 +125,7 @@ function Root() {
         <Stack.Screen name="AiQuiz" component={AiQuizScreen} />
         <Stack.Screen name="AiCompare" component={AiCompareScreen} />
         <Stack.Screen name="AiSituation" component={AiSituationScreen} />
+        <Stack.Screen name="Polls" component={PollsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

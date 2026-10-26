@@ -45,6 +45,10 @@ public class SecurityConfig {
                         .requestMatchers(HttpMethod.GET, "/news/**").permitAll()
                         .requestMatchers(HttpMethod.GET, PUBLIC_DATA).permitAll()
                         .requestMatchers(PUBLIC_DATA).hasRole("ADMIN")
+                        // голосование: голосовать может любой вошедший, создавать/закрывать/удалять — только ADMIN
+                        .requestMatchers(HttpMethod.POST, "/api/polls/*/vote").authenticated()
+                        .requestMatchers(HttpMethod.POST, "/api/polls", "/api/polls/*/close").hasRole("ADMIN")
+                        .requestMatchers(HttpMethod.DELETE, "/api/polls/**").hasRole("ADMIN")
                         .anyRequest().authenticated())
                 .exceptionHandling(errors -> errors
                         .authenticationEntryPoint((request, response, ex) -> write(response, 401, "Сначала войдите в аккаунт"))
